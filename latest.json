@@ -1,13 +1,13 @@
 {
-  "version": "0.4.0",
-  "file": "releases/pls-0.4.0.zip",
-  "sha256": "627a7ce27dfa03303b1bce78c7ba5558075b114738c4abc53faf4bcc5a92d0e0",
-  "signature": "BneziRaytduBlkCwinrIbb+iQlYPxdAkxUDzrQorPmgVkz2CjcnFPhT2U8wl8tks7HcIzG76EGXLyfTp1wSPEWX6Xi5UZn9t/K+EqWeKqVM0JTWjz1qLsFhbnsTUBdIOQkPI9yTXHkcoIOEo0GpnL2pNOITbI8GrckRjjp6N2fMWdgu5rXHUpiw4C68WckzniaFl760PEa+8hm2ofcSNt98EPcbhQqjU83VnJOuVb3x/fc4U/09k39PahXk7Rhq5r28MaaVWFVtApRk3P1lwOi+4M9AnerOhrQyb1uDL6+S7gtNMhcYZL7rryvnKLAtquA5eOPK4WY6dRQWJrVdNYqFh/j6PnUsPlgGCZLIsMv99dGiHVpwQJLw5S8V17ztYmOTXvue4RL2hxw+BdDFRbxwvfoLrI5Au69S0ACcfU5dqO8Zpcm1j1qWT+jybVGLOqftU/rM/eoTMbvVUoMY5g7AMXHz/41gWp26uJOYFPYCczEhrm27D78NzziVJY0bb",
-  "size": 547116,
-  "released": "2026-09-24T08:14:51Z",
+  "version": "0.5.0",
+  "file": "releases/pls-0.5.0.zip",
+  "sha256": "0749931b60d4aa0e051b854f4fd228677bb0a9149a9db63869f2ab50df3cf342",
+  "signature": "Vc7/2sa2+zNldZrY5te0cNXhIKgTXSDkP9WHxa97yjcGLKf7ZegTwj4mimOVD76tEtMxNaxcmxEhfopIo+reEMOO24TA1vYFcDYQxHsuWmYMqw3n9zEUilkB9IxPoyCrmSvO7NiNJmtNrPl5f86AOw/H84pNFlg5rChJB084ZgP55edf9+27LYTG5XZbztMU/VBL35G/ANFElWzATAwVC/si2xm1uoB15gwGnlLWhyuPuT+tA6F316jDvzE4ZnHXjtRd3n4FYy3NthtOMTpdJp0ihL07bKM0qwn/TPX3x0hCgWX2VXbGw2FNXdPOG7ghNmy1jdAAr/vwjvmVkw8WhAXD2VlbuqJb5H50aAm7Ry8X3dN2j251yOU04EzxcKbLKP0RgFCpvygIyibGqhcRfk7cSO8xF2eoZ/0y3D5oQnBLqJtB3Ruk8OnJIOg74OCOTjPWHXrpfMOcCT6/SlDmH4Cnc7LiaCAFNqHrp5l4sr6ByEMDHZ3YJfLcCQPt1WSm",
+  "size": 886599,
+  "released": "2026-09-24T09:19:00Z",
   "notes": [
-    "PLS hesabı ilə giriş (e-poçt və şifrə)",
-    "Hesab yalnız bir kompüterdə işləyir",
-    "İş masası: İstifadəçilər və şifrə dəyişmə"
+    "Administrator bölməsi: istifadəçilər, modullara icazə, elan, sessiyalar",
+    "Yeni İş masası: sol menyu, alt bölmələr, çıxış təsdiqi",
+    "Vergi: aktlar, bəyannamələr, ƏDV uyğunlaşdırması, HF/TTA/RP, depozit köçürmələri, toplu qaimə, qaytarma"
   ]
 }
