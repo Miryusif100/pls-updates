@@ -1,14 +1,14 @@
 {
-  "version": "0.5.3",
-  "file": "releases/pls-0.5.3.zip",
-  "sha256": "05a47f00a683bee04cb82c5fa21fe2bb6278f37c42739e79ba102f08a34cdf12",
-  "signature": "gPEoLbwpTZDKYI1vX7R8aHTWDNrTFgL+Xk3YhH1eMtzgb2l53jofAUmvz4z5Aod0bCVMYy3XfH3inXDVpkNV70sZj3HIFkrq2UBTLJJwb74Hm+3lYAD/+bLmzBDbe103Ocq237lO/rJBhVNrFLT5z2ksvBS79Sk+v+T0ptRemj9t1Nc9HhlR/PZ3Hc3LSQG0cFzlpj6CgJBUe+Qxmpef1OPpfJNiXdIua5GKFWLmGxKRfVPSFI+i5VJzInPa7kool/NYOmpKQgCHDsjAbqNLLAGieOE77mexulnGH0UcQ7coscp57SckQLGdkF60sGZ1Ot10qdqSRaN7CtuHHcO7kvASv9mPo+CjpKjbo7MDFNBlJmhTzpAPg4ggdreCfMVRxnxsa8p7SJwn7BPE4DL8u3aY3I2o53SgMeCdmqFNF8Cro4gLuNVv4XNi+bkqwOXkFTDEAY/oHLMNysErMLxWxZ6lEp4kkwXf2PZSsBWscUKRk1aAHZM1nZF5h5Qg2/aP",
-  "size": 890228,
-  "released": "2026-09-24T12:09:54Z",
+  "version": "0.5.4",
+  "file": "releases/pls-0.5.4.zip",
+  "sha256": "df5653910a37de9536596fad3321f3fecaa91e1a281a40c741a14e9d174c9213",
+  "signature": "e60m9j0+kb/QwxRnQfgFQxipLcbo1c+H+5W1vSuz1ItvyoJZhpQZITdIGd9KFDK0DTl2WtqI9OaLIyV+X2QU3pKrAMdrYH2VeOAsCZazgMNGPZDqjX2mOLNpmckI7TLi/VBzhvrDTTgY8VxnZ3TbW5tyCnXrl76mhzzTbd+rBTGbvWcePNwzB50j3O8pDQbJEcc4KmsLgVSvJEU1kt6sU7bhUGcw9+btrZQR78VCxvq54mhid3JCaU1m+8lLbJHARysOivnZXU7y+Pa9UKOQikIilOE6t7xnSCoTu3rMCuykmVRy4gPfoBK0tH29EkEn88A/if5iXnjDPsT4IHzwEI/M0gsV35vCgPyQDYplPryjnRIROQJOvuYT4rl7AFp11caEf8/FmExBLopRP8bK9/+BmQIDbpZHU4gyFjaWwGQAbyJduDrzKCOdVMi8QaTFQDJPGCeUhPgylrMZXwy9NU4gl/SyxLnhcvQTZcLOdne3PSCdEvhuuzX7JIFmhE7+",
+  "size": 890318,
+  "released": "2026-09-24T12:19:21Z",
   "notes": [
+    "Avtomatik yeniləmə düzəldildi: yeni versiya 15 dəqiqə ərzində özü quraşdırılır",
     "Panel: elan, yeniləmə və portal bildirişləri modulların üstündə ayrıca sahədə",
-    "Portal bağlantısının yoxlanması 10 saniyədən çox çəkmir, uğurda artıq yazı çıxmır",
-    "Paneldə yeni giriş səhifəsi və əlaqə nömrəsi",
-    "Şüar yeni şriftlə"
+    "Portal bağlantısının yoxlanması 10 saniyədən çox çəkmir",
+    "Paneldə yeni giriş səhifəsi və əlaqə nömrəsi, şüar yeni şriftlə"
   ]
 }
