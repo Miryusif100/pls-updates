@@ -1,13 +1,14 @@
 {
-  "version": "0.5.7",
-  "file": "releases/pls-0.5.7.zip",
-  "sha256": "8102f22621cde539f281207dbf8549dc3e40511d274b2c74e7881031bcfc3d7a",
-  "signature": "FjIxY8TuUu0r3Ma4PQmsBVwMMatqL/b8O1qTTmBlQ1lG49YIVpH6QsNfvEEhC163D5piYewNaf8PnIdquW+3LWFkkcWOXCZzd/eVwsQTG5C8Fv08C7jh63e6StCV3ab/fy1Q2P9HK/inDMLysugAJgdVBFsQtHdwmNS5U3H2vmMNIQTsaPVYt2Ii8hGaQTIoqBhAUdZ1rmH2ZTVWopwBHMZSI2XJ0Gru8WOfbgYcTJgMfc9YcOwDSg/SeumpdBs7yp4J2gqV52laogqpT91hlUom0E3tASPTrCoxhS69Y2jhKrhWm7aD/00y+bAqTcDOOR51GaSEdHYwHVA7Wp/JBOnfOmixK98UpqHuL5ibks19N6MpL95nqI5FvYlPw3IYqP7Ykjzy5gFXe28xP1NAsmvZBA0YXoMHEd5ofwPnKY5qoxxG78DMelCqTegf8gZo/MYFn/b2esdkk/IMlkDZnliwQ7Uh3GBo6cBaLTiiJJ4TzhTSvLWiQK3ZHxtlAXA1",
-  "size": 952335,
-  "released": "2026-09-24T13:09:16Z",
+  "version": "0.5.8",
+  "file": "releases/pls-0.5.8.zip",
+  "sha256": "f3211c7eb216841db134348701a052696c4b9191ab8f24e64a390e822ae756ed",
+  "signature": "x5ZgfGrvcGDkNB+wesmVKHafWhJlwbkfCPwBfZWWJqPpbYIooNcU78q3rXdXJHNQSFzcvqRpVtji7ZiJTAesCVX/XP8Z9uCxn+Msyes39Hcem44gy8MK/eFoAydPkjJrC3B4nUCsv3gOd83yB6rMhmOGYMvMQkTGyVZMp5euvs8tR96+GA6t2SdNNM81C8ubfsix5k+OjFYQ7txYXrmxibd5tpeLH4Vo+ZE0nwQt6DeI4r2M0kH7/4V4ocZ55JI8BX3v4TLag3XhOXKkAqTZordFwDsMEfQqmmK4STsmC7V0NVaO4uSGCv6JGGfA+BWpIYDNoTiu+3tgVV+vVDiUDvVfe3zt0t0AwpAkUXeg/jrwvmJjbsmDXy2Z8x6vgZWqOWF66UmDzrE/EmjB5vkkuWUebFwBkfRzV1HSIa7AFqMG7OMW/bvlhj9BDYZtspvLRvMm83P7YZh0IiEBdDpzxxISfHqRp6fk0obJuQgteDNXLEYx9+BLpWM70L/ImRrg",
+  "size": 952511,
+  "released": "2026-09-24T13:18:58Z",
   "notes": [
-    "Yeniləmə demək olar dərhal gəlir: proqram yeni versiyanı hər dəqiqə yoxlayır",
-    "İdarə panelinin yeni giriş səhifəsi",
-    "Təqdimat bütün modullar üzrə: Vergi, Kadrlar, Gömrük, Bank, ASAN İmza"
+    "Portal bağlantısı yoxlananda düymədə ✓ Uğurlu və ya ✗ Uğursuz",
+    "Sağ panel oval künclü, ekranın kənarından aralı",
+    "Qruplarda \"alt bölmə\" sayı",
+    "Yeniləmə demək olar dərhal gəlir"
   ]
 }
