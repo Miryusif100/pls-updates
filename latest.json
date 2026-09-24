@@ -1,14 +1,14 @@
 {
-  "version": "0.5.8",
-  "file": "releases/pls-0.5.8.zip",
-  "sha256": "f3211c7eb216841db134348701a052696c4b9191ab8f24e64a390e822ae756ed",
-  "signature": "x5ZgfGrvcGDkNB+wesmVKHafWhJlwbkfCPwBfZWWJqPpbYIooNcU78q3rXdXJHNQSFzcvqRpVtji7ZiJTAesCVX/XP8Z9uCxn+Msyes39Hcem44gy8MK/eFoAydPkjJrC3B4nUCsv3gOd83yB6rMhmOGYMvMQkTGyVZMp5euvs8tR96+GA6t2SdNNM81C8ubfsix5k+OjFYQ7txYXrmxibd5tpeLH4Vo+ZE0nwQt6DeI4r2M0kH7/4V4ocZ55JI8BX3v4TLag3XhOXKkAqTZordFwDsMEfQqmmK4STsmC7V0NVaO4uSGCv6JGGfA+BWpIYDNoTiu+3tgVV+vVDiUDvVfe3zt0t0AwpAkUXeg/jrwvmJjbsmDXy2Z8x6vgZWqOWF66UmDzrE/EmjB5vkkuWUebFwBkfRzV1HSIa7AFqMG7OMW/bvlhj9BDYZtspvLRvMm83P7YZh0IiEBdDpzxxISfHqRp6fk0obJuQgteDNXLEYx9+BLpWM70L/ImRrg",
-  "size": 952511,
-  "released": "2026-09-24T13:18:58Z",
+  "version": "0.6.0",
+  "file": "releases/pls-0.6.0.zip",
+  "sha256": "63d4290d1c08f8e99ed889ee449cc93cba30ae691008ed613b13587c9383054b",
+  "signature": "NkgarHObJdxaOM2SCv5IE0b7tZr6shyudspaEI0reVfgHXy545XrIFU+pcbWVDpinHvvOZg+Ed3xkvDjAcV8/f1u6aJnH4DNKz5yDkmST9h9AXvDlH4/kDFeYpWUdJyZq1M7CNDyRm49oOle/WBrwQUhXQmXxNOvd0jiXI3yYREiQ1RkAYeHjmPR4nFvJbzTosy43JcyzV6pMu8peD/gdpODAQ/F/v56S9pMWRRUv0c4+aIBJm+taUH9aGEIVSJxpulRJvkdyvLqNy+k7oquT/xmUE3x3cJ0Y44KwA1fkspSIzs0EK/NcoTsXCdxIdkSyRn0LuhqgWjzeECcQRDeR+fRyhqIfUuMXDLvh2jIqIHZCOyhGKq1KNidvmTZqYRdolAndTfC42hsarYFfYJJFBEl/YauLhKJapV4fsQJP3TyMWWKlr/MSlr7aapJScVLl26VtZV/2ZAZeEKvbNiTlLEFYHSA9ncLw40tDzA4Y+1H3M+j4NL1P3oPZJ74XLvP",
+  "size": 957608,
+  "released": "2026-09-24T13:48:46Z",
   "notes": [
-    "Portal bağlantısı yoxlananda düymədə ✓ Uğurlu və ya ✗ Uğursuz",
-    "Sağ panel oval künclü, ekranın kənarından aralı",
-    "Qruplarda \"alt bölmə\" sayı",
-    "Yeniləmə demək olar dərhal gəlir"
+    "İdarə paneli tamamilə yeni dizaynda",
+    "Yeni ana səhifə — İcmal: müştəri, modullar, elan və proqram bir baxışda",
+    "Üst zolaqda portal statusu və bildirişlər (zəng)",
+    "Sol menyu: rəngli qruplar, müştəri kartı, şüar"
   ]
 }
