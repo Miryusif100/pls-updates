@@ -1,13 +1,13 @@
 {
-  "version": "0.5.1",
-  "file": "releases/pls-0.5.1.zip",
-  "sha256": "1c374ea79585d702e02aff281b9c20251929bd094ff3141bb3199e1520290d7f",
-  "signature": "DX3svxxbO1+jRheDqFZrNrGb8MxdA//0UwP8WVtJ2tN6FP9GCgb12P1wtk3agvB34O548znfZ5a/ns0nO1jEjxXQ59zQAW5dVh6xO+M9AW/MgKqgTMsIoqy/x0cN/gYIImCpoxLCKU1Dl+azl/EdnmHpUqgwTGn0PeR4hsXJwUUa4zd33fvIG/blvoo+ORyIFHQRLPmlVlxOP3ScZ0aznmbrVUUrq1zLLuM4Ku+U+W7aXsPyMDgPllCpaKzhZe7bT5xbD9qZbnjt0pmLXvb3PMimmedu3PqoI/vFlB6giE3SVrb1ksYEdtlCQL+l98Dd5yLjrqszSrDDXriu36nbSTPl7w1eqjQb4l9iQmYRjLxZTY6ZXgdvyPti0joXbHWfelnaNYn1ZSvWhRgr32RHlDCxzc05fvH8fCZKbgvj9lgEVY5n5/ycrvqbvw8pLXcCWfz0+zxvd7vCnTODhxU+8of3TVwZ2NAAMa2RKNdA/v9pzOx+vZaveEPLiSYWRo2B",
-  "size": 887318,
-  "released": "2026-09-24T10:41:14Z",
+  "version": "0.5.2",
+  "file": "releases/pls-0.5.2.zip",
+  "sha256": "a1decabf02e366088132de8710eeb16db563c73373b2ec8f9c6eecd683a5e210",
+  "signature": "aoNECFQOMLk18HyBfo3tv7G2EEtuyElZmdG1FoNDDkNAcjFK9s5B0KYNIzqlGsHgpyIVT/Zk7dF+2R2H/5XpZNPpvggUvMQUkEZ0PEMtcshqmVxVDA36Bp35biKOtYZbsNYf6fSbtmM4vvZgnp5MvfsxM7F26XuQxE1JHOeR+v++DRXaxvlAJV+e3CTZ2s0bR5X1kQBkn8uwDDEFzQG5XEUMY2wu5NfN5Y89ZgO+85CmuZUurQDsfhOIRThaNegQ4uZk1g0XJzrQfm1hf9qJx5sXG9O8e2R80fhtTczhLHGXBQgtdNrZyxOVNrug3aSAcMjyUnoPN2ALCIGXt0MMnpLwroFNEcDZM68OztoGCxs1pijyYrjETyr4bW/gZzYaniNGT7vRMd3gAEp352wohKgpdCHVO5cC2HPW0cAW1ePMh4l7CbrFKyUNvU+hW1AEanAiN8PooB+Ds8T6RvMskQ9bh5yPLjAo/09e39TYyNQzUC4keEkJdefseNZyg4Mr",
+  "size": 888342,
+  "released": "2026-09-24T11:51:11Z",
   "notes": [
-    "Yeniləmə tam avtomatikdir — düymə basmaq lazım deyil",
-    "Administrator bölməsi: istifadəçilər, modullara icazə, elan, sessiyalar",
-    "Vergi: aktlar, bəyannamələr, ƏDV uyğunlaşdırması, HF/TTA/RP, depozit köçürmələri, toplu qaimə, qaytarma"
+    "Panelin yeni dizaynı: şüar, ayrıca müştəri kartı, rəngli modul qrupları",
+    "\"İş masası\" artıq \"İdarə paneli\" adlanır",
+    "Çıxış düyməsi ikon şəklində, təsdiqlə"
   ]
 }
