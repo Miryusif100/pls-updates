@@ -1,14 +1,14 @@
 {
-  "version": "0.5.4",
-  "file": "releases/pls-0.5.4.zip",
-  "sha256": "df5653910a37de9536596fad3321f3fecaa91e1a281a40c741a14e9d174c9213",
-  "signature": "e60m9j0+kb/QwxRnQfgFQxipLcbo1c+H+5W1vSuz1ItvyoJZhpQZITdIGd9KFDK0DTl2WtqI9OaLIyV+X2QU3pKrAMdrYH2VeOAsCZazgMNGPZDqjX2mOLNpmckI7TLi/VBzhvrDTTgY8VxnZ3TbW5tyCnXrl76mhzzTbd+rBTGbvWcePNwzB50j3O8pDQbJEcc4KmsLgVSvJEU1kt6sU7bhUGcw9+btrZQR78VCxvq54mhid3JCaU1m+8lLbJHARysOivnZXU7y+Pa9UKOQikIilOE6t7xnSCoTu3rMCuykmVRy4gPfoBK0tH29EkEn88A/if5iXnjDPsT4IHzwEI/M0gsV35vCgPyQDYplPryjnRIROQJOvuYT4rl7AFp11caEf8/FmExBLopRP8bK9/+BmQIDbpZHU4gyFjaWwGQAbyJduDrzKCOdVMi8QaTFQDJPGCeUhPgylrMZXwy9NU4gl/SyxLnhcvQTZcLOdne3PSCdEvhuuzX7JIFmhE7+",
-  "size": 890318,
-  "released": "2026-09-24T12:19:21Z",
+  "version": "0.5.5",
+  "file": "releases/pls-0.5.5.zip",
+  "sha256": "1e93627b9b355e9eb139361b325625233ef39d90964b0f4013c3ea103f4777ba",
+  "signature": "Amp+4LrtMx8fqwJnDhHBVM7qQn9L+Pc4x79Ie+M7yI34Gcyea2/7svRfXKT0iLK1ztp+tZQhqw65Ht7p8CKa4wHr1E+Wd//iAf7A26lqrimVisPb1AouSw8nzOog51Z6FhnC9ZVNu83fMN9T8xVL3vfnr5krBnMidATFU8lU6tqvR60O/RXp0EALsHfFNJi5gBGztFhmS8A7ap1WnBKBaZL2oaF5VLoSm5k/8HUSds4gY8cQP4quDcN9XTCPHKqh+1gmqLKrdIOsMlJMaC97frIFykavqc1q48KlOeFpCc6iOnpD7viAvZl2YvNOHf+rkPp6+rgrJYWFdU1gBpD7AM1/zijq61TdtxIM59Z3jh1jN+cP9uoinJJ8fYFsw0/ajnZtSXzNQwDOvTcT0jR0SV8x25KPtp3L2Gtf49npMYuMvKv4lf8iACMRuZixGOE3zh4sKEWTp3hLxq5Uz2r6TYOsnNTgzABRgLmkvwd/3T6UxKssQyNQYtY7nHDr3z/1",
+  "size": 946351,
+  "released": "2026-09-24T12:32:11Z",
   "notes": [
-    "Avtomatik yeniləmə düzəldildi: yeni versiya 15 dəqiqə ərzində özü quraşdırılır",
-    "Panel: elan, yeniləmə və portal bildirişləri modulların üstündə ayrıca sahədə",
-    "Portal bağlantısının yoxlanması 10 saniyədən çox çəkmir",
-    "Paneldə yeni giriş səhifəsi və əlaqə nömrəsi, şüar yeni şriftlə"
+    "Paneldə yeni rəngli giriş səhifəsi",
+    "\"Məni xatırla\": e-poçt yadda qalır, sessiya 30 gün",
+    "Aşağıda böyük, canlı təqdimat — proqramın imkanları",
+    "Şüar yeni şrift və rənglərlə"
   ]
 }
