@@ -1,14 +1,14 @@
 {
-  "version": "0.5.5",
-  "file": "releases/pls-0.5.5.zip",
-  "sha256": "1e93627b9b355e9eb139361b325625233ef39d90964b0f4013c3ea103f4777ba",
-  "signature": "Amp+4LrtMx8fqwJnDhHBVM7qQn9L+Pc4x79Ie+M7yI34Gcyea2/7svRfXKT0iLK1ztp+tZQhqw65Ht7p8CKa4wHr1E+Wd//iAf7A26lqrimVisPb1AouSw8nzOog51Z6FhnC9ZVNu83fMN9T8xVL3vfnr5krBnMidATFU8lU6tqvR60O/RXp0EALsHfFNJi5gBGztFhmS8A7ap1WnBKBaZL2oaF5VLoSm5k/8HUSds4gY8cQP4quDcN9XTCPHKqh+1gmqLKrdIOsMlJMaC97frIFykavqc1q48KlOeFpCc6iOnpD7viAvZl2YvNOHf+rkPp6+rgrJYWFdU1gBpD7AM1/zijq61TdtxIM59Z3jh1jN+cP9uoinJJ8fYFsw0/ajnZtSXzNQwDOvTcT0jR0SV8x25KPtp3L2Gtf49npMYuMvKv4lf8iACMRuZixGOE3zh4sKEWTp3hLxq5Uz2r6TYOsnNTgzABRgLmkvwd/3T6UxKssQyNQYtY7nHDr3z/1",
-  "size": 946351,
-  "released": "2026-09-24T12:32:11Z",
+  "version": "0.5.6",
+  "file": "releases/pls-0.5.6.zip",
+  "sha256": "a683c124e6cf36f734fb3493ee53363f7131fdc5d82af72897a1c5b09ab9601a",
+  "signature": "G88YMzWejapmjlvrBtG6szcGK86HIeHA3HG2VB0BZT4Mngt/+vOcgF1b2A/G2cdHLAsCPP+HojFHATZSqQhH+jQXWZkP17+fy3GgJjd7unLjKS/BLUqKfxS7rt7XFviBX3KmuWLM75YHgDfORUfBfCevhOngrxUDpE5WtS6uKDhIxWRJHh/E+xHeiIKxhc6tVU5MMpQVWuMC8DXhhzS+QrLMs+mtPsOa/cZ9mWNyXs5MUu04xITescRT20/c6XuP2YG4d2Owe0+bXaK/otkJ1yAuUrQKoeJubRyeOvqeZtyHFdCzVlbqwXKyoFvEM5hE3803DTX4ZJCYCBAw8RTTjVpH/UUuAzQyTPlqhTA5b5UeuxNRSQNB0sqM0iDy1zFrCoGGTg9dcsA+rLr7xGFhPvssxMHr++Ua+uniTuOt/9GUghC8hgcZSVIqhwGEnU1xqL7HdSoR8K9LqliL+7DVBZKVSbXZTnFxTjHlFzgtGtsyGqq7DHyUVeP/MjQMb7Vb",
+  "size": 952340,
+  "released": "2026-09-24T12:56:45Z",
   "notes": [
-    "Paneldə yeni rəngli giriş səhifəsi",
-    "\"Məni xatırla\": e-poçt yadda qalır, sessiya 30 gün",
-    "Aşağıda böyük, canlı təqdimat — proqramın imkanları",
-    "Şüar yeni şrift və rənglərlə"
+    "İdarə panelinin giriş səhifəsi tamamilə yeni",
+    "Paneldə giriş bölməsi açıq rənglərdə",
+    "Təqdimat bütün modullar üzrə: Vergi, Kadrlar, Gömrük, Bank, ASAN İmza",
+    "\"Məni xatırla\" İdarə panelində də"
   ]
 }
