@@ -1,13 +1,13 @@
 {
-  "version": "0.3.0",
-  "file": "releases/pls-0.3.0.zip",
-  "sha256": "83767d895b16ad7e43b9e36a51f9ca01d1dfb36bc13cfb6f8ee92ffcf5bc2bf7",
-  "signature": "rZHrwW0r3nxuo8USCWy1P7DgOF9ofj3Z4ZkNdo/c53pnLEH/BJfHTP9B3+feG8lsnWFLloRR54pAaxTDCSDk5LWKAEcStfhJrz8VfroSplNAyL7qx6pXnVqKEll0Uju3K8ephGy7ZGlW+aTrz3b5vKWhMngVMSXJnOYDt0QOuK0SNuP4nlN1qhjHEUcm9eT9DSZadUvsf7djVQz/Fu/OiFMkakiRfiLb9L7vuTfysMENV0fuunnmLbwZCXHdykkw41B8tWf46VtVOUoNPpqEGxg/gezGjuJqcumwsu0ZKgJxUeIUD2qdtIMdFXxu2K2J+R2YdQScrn29zNZ4nNcXInAyzWO8y3/LI6Ou1HKYvyC5K4lQRRxxuz7m19cxnd3coIZ60audTMVJYBoNInHY4OPxdSLTSWeaBmoCo51W57B60RMvWWJE90G8zXbMXSaguu1KUEjW8uqMHjKtBziE6BdB8az2ldjL/3q/m0ioxPUUK/fKuR0f2ohz3YSWtp+O",
-  "size": 1207952,
-  "released": "2026-09-24T07:30:42Z",
+  "version": "0.4.0",
+  "file": "releases/pls-0.4.0.zip",
+  "sha256": "627a7ce27dfa03303b1bce78c7ba5558075b114738c4abc53faf4bcc5a92d0e0",
+  "signature": "BneziRaytduBlkCwinrIbb+iQlYPxdAkxUDzrQorPmgVkz2CjcnFPhT2U8wl8tks7HcIzG76EGXLyfTp1wSPEWX6Xi5UZn9t/K+EqWeKqVM0JTWjz1qLsFhbnsTUBdIOQkPI9yTXHkcoIOEo0GpnL2pNOITbI8GrckRjjp6N2fMWdgu5rXHUpiw4C68WckzniaFl760PEa+8hm2ofcSNt98EPcbhQqjU83VnJOuVb3x/fc4U/09k39PahXk7Rhq5r28MaaVWFVtApRk3P1lwOi+4M9AnerOhrQyb1uDL6+S7gtNMhcYZL7rryvnKLAtquA5eOPK4WY6dRQWJrVdNYqFh/j6PnUsPlgGCZLIsMv99dGiHVpwQJLw5S8V17ztYmOTXvue4RL2hxw+BdDFRbxwvfoLrI5Au69S0ACcfU5dqO8Zpcm1j1qWT+jybVGLOqftU/rM/eoTMbvVUoMY5g7AMXHz/41gWp26uJOYFPYCczEhrm27D78NzziVJY0bb",
+  "size": 547116,
+  "released": "2026-09-24T08:14:51Z",
   "notes": [
-    "Portalda PLS paneli: müəssisə məlumatları, modullar",
-    "İş masası: Elektron qaimələr, Müəssisə, Ayarlar",
-    "Avtomatik yeniləmə (imzalı) və İndi yenilə düyməsi"
+    "PLS hesabı ilə giriş (e-poçt və şifrə)",
+    "Hesab yalnız bir kompüterdə işləyir",
+    "İş masası: İstifadəçilər və şifrə dəyişmə"
   ]
 }
