@@ -1,13 +1,14 @@
 {
-  "version": "0.5.2",
-  "file": "releases/pls-0.5.2.zip",
-  "sha256": "a1decabf02e366088132de8710eeb16db563c73373b2ec8f9c6eecd683a5e210",
-  "signature": "aoNECFQOMLk18HyBfo3tv7G2EEtuyElZmdG1FoNDDkNAcjFK9s5B0KYNIzqlGsHgpyIVT/Zk7dF+2R2H/5XpZNPpvggUvMQUkEZ0PEMtcshqmVxVDA36Bp35biKOtYZbsNYf6fSbtmM4vvZgnp5MvfsxM7F26XuQxE1JHOeR+v++DRXaxvlAJV+e3CTZ2s0bR5X1kQBkn8uwDDEFzQG5XEUMY2wu5NfN5Y89ZgO+85CmuZUurQDsfhOIRThaNegQ4uZk1g0XJzrQfm1hf9qJx5sXG9O8e2R80fhtTczhLHGXBQgtdNrZyxOVNrug3aSAcMjyUnoPN2ALCIGXt0MMnpLwroFNEcDZM68OztoGCxs1pijyYrjETyr4bW/gZzYaniNGT7vRMd3gAEp352wohKgpdCHVO5cC2HPW0cAW1ePMh4l7CbrFKyUNvU+hW1AEanAiN8PooB+Ds8T6RvMskQ9bh5yPLjAo/09e39TYyNQzUC4keEkJdefseNZyg4Mr",
-  "size": 888342,
-  "released": "2026-09-24T11:51:11Z",
+  "version": "0.5.3",
+  "file": "releases/pls-0.5.3.zip",
+  "sha256": "05a47f00a683bee04cb82c5fa21fe2bb6278f37c42739e79ba102f08a34cdf12",
+  "signature": "gPEoLbwpTZDKYI1vX7R8aHTWDNrTFgL+Xk3YhH1eMtzgb2l53jofAUmvz4z5Aod0bCVMYy3XfH3inXDVpkNV70sZj3HIFkrq2UBTLJJwb74Hm+3lYAD/+bLmzBDbe103Ocq237lO/rJBhVNrFLT5z2ksvBS79Sk+v+T0ptRemj9t1Nc9HhlR/PZ3Hc3LSQG0cFzlpj6CgJBUe+Qxmpef1OPpfJNiXdIua5GKFWLmGxKRfVPSFI+i5VJzInPa7kool/NYOmpKQgCHDsjAbqNLLAGieOE77mexulnGH0UcQ7coscp57SckQLGdkF60sGZ1Ot10qdqSRaN7CtuHHcO7kvASv9mPo+CjpKjbo7MDFNBlJmhTzpAPg4ggdreCfMVRxnxsa8p7SJwn7BPE4DL8u3aY3I2o53SgMeCdmqFNF8Cro4gLuNVv4XNi+bkqwOXkFTDEAY/oHLMNysErMLxWxZ6lEp4kkwXf2PZSsBWscUKRk1aAHZM1nZF5h5Qg2/aP",
+  "size": 890228,
+  "released": "2026-09-24T12:09:54Z",
   "notes": [
-    "Panelin yeni dizaynı: şüar, ayrıca müştəri kartı, rəngli modul qrupları",
-    "\"İş masası\" artıq \"İdarə paneli\" adlanır",
-    "Çıxış düyməsi ikon şəklində, təsdiqlə"
+    "Panel: elan, yeniləmə və portal bildirişləri modulların üstündə ayrıca sahədə",
+    "Portal bağlantısının yoxlanması 10 saniyədən çox çəkmir, uğurda artıq yazı çıxmır",
+    "Paneldə yeni giriş səhifəsi və əlaqə nömrəsi",
+    "Şüar yeni şriftlə"
   ]
 }
