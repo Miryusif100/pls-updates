@@ -1,23 +1,26 @@
 {
-  "version": "0.8.0",
-  "file": "releases/pls-0.8.0.zip",
-  "sha256": "2235e3ed66d92c4a00e811db20b122c7a2d60b709cdbb98c67eca091f445cf02",
-  "signature": "veyGBGZfL7aFRdHCbMpNpR0+dP5RcmLrxMWy56xQ2EzfP+OvMbZ+ay5lj4cKhf8q81BSnJ5874OINmcz0+RiKMcwsYsikhqAC3OFrbjyfWsFyyfN12RnVRFXPc/a7VCNy4F+jUM8v75JX1GGlRoz4z6gPIQQSxrtyaEX/6GQxsl9p46PocxjIqIVYGtPvV10lHTKD5nba4ge2AUz4VDAnbJSlrB6kKEJWcO1WgG7kYLCThScM79yDclsusXNa1BlftBMau0R/aqPVoznDjz1uUV550AeoXFXGoVSbE8wDQoMwTVk+/CLaoS9aUHNQfXshIWT7lJoDNkZlpuGXKefJLbIbun6EmDiA+ZuHKEGEYSRv+40SiEnFBW9SRTlqI0XncOW7LOdya0ljw2rvmLwfWAlZ0jcwXMjontqVseXVlx0ARRHkCSpLgP4gAKwHkj+Ys7n2yJreeKNX80h2EaztAu5RqKAbqPQlbsdjXf4XD0D5aP9qZSKMYzM/f+1/riI",
-  "size": 1021566,
-  "released": "2026-09-25T06:08:18Z",
+  "version": "0.9.0",
+  "file": "releases/pls-0.9.0.zip",
+  "sha256": "69df71da8ecbe63aaeef06aa2626584e84c060a8041017f60ee4b15ea415fcbc",
+  "signature": "rcQgE2OqzcrO7T6FQyt51V68QDQdAqkzkBfYz6bIj1e7lwLcuQfhHbszH4FHcZ9kk2hiSNJ2KZuUXNLf+yv9kp5K+YBlI05QAFoixs1h57T2YLE/LMme1cADRuQtNskaFousfq542W7uNK56S2cgt+JON4gDn0zQjntDv12QwN+KhTB5Z7+w29lfo+LxoOk4TADGMKf/n6hjsbQOYyOxasSXnLz6sIRba/adlRsfwlVRM2KCI35hQG7+VdLIcGisMc8hp4rtr5/Jmq7naUtv5KqW5WzSeU85zejbZADiuA7LVRUu+NfAfuKCWCDf4YJDR6reNvKZK/oIZHQh6zoPZ7/rqGRWcW+zrQwQ3l7mfpRpI2cQPa+gC59RyMbKrKg+d3W/18Lq+G8Ls1a7/PddVarJe1pGpTVXBLgTrGdxjJ12cYNjLgU5Yk0fw36L55hFRgayhqsV/wOzLhsthzOohGi+HRPlGd3Ib4GiKkcfof290MH/eM/aoBYgMwcBMCTn",
+  "size": 1035904,
+  "released": "2026-09-25T10:57:03Z",
   "notes": [
-    "Yeni modul: ASAN İmza — müştəri profilləri, giriş səhifələrində avtomatik doldurma, sertifikat müddəti bildirişləri",
-    "PIN, PUK və statistika parolları yalnız şifrəli seyfdə saxlanılır",
-    "Yeniləmələr demək olar ki, dərhal gəlir; \"İndi yenilə\" düyməsi paneldə, bildirişdə, Ayarlarda və PLS ikonunun menyusunda",
-    "Qaimələr xeyli sürətli yüklənir, məlumat yalnız sessiya müddətində saxlanılır",
-    "Yükləmə gedərkən keçid və ya başqa əməliyyat əvvəlcə təsdiq istəyir; bölmələr arasında nəticə itmir",
-    "Elan və portal bildirişləri ekranın sağında, X ilə bağlanır",
-    "PLS-ə giriş İdarə panelində aparılır (portal panelindəki \"Daxil ol\" onu açır)",
-    "Təhlükəsizlik və sabitlik düzəlişləri"
+    "Müəssisələr: hər istifadəçi bir müəssisəyə aiddir; baş administrator müəssisələri yaradır, dəyişir, deaktiv edir",
+    "Administrator rolu: müəssisənin administratoru yalnız öz müəssisəsinin istifadəçilərini və giriş jurnalını idarə edir",
+    "Deaktiv edilmiş müəssisənin istifadəçiləri proqrama daxil ola bilmir",
+    "ASAN İmza: digər müəssisələrin profilləri əvvəlki kimi yalnız öz kompüterlərində saxlanılır, PLS serverinə göndərilmir",
+    "ASAN İmza: PLS Consulting üçün ortaq müəssisə seyfi — profillər bütün əməkdaşlarda eynidir, serverdə yalnız şifrəli saxlanılır",
+    "ASAN İmza: bu kompüterdəki profilləri bir düymə ilə müəssisə seyfinə köçürmək olur",
+    "Qaimələr: satıcı və alıcı ayrıca sütunlarda, sıra nömrəsi və Excel-də yeni sütunlar (aksiz, qeydlər, mənbə qaimə, emal dəyəri)",
+    "Qaimələr: ətraflı filtr (seriya, kontragent, məhsul, məbləğ aralığı), yüklənməyənləri yenidən yükləmə düyməsi",
+    "Bəyannamələr: hər dövr üçün son təsdiqlənmiş versiya, Son + əvvəlki rejimi, Cəmi sütunu, ƏDV siyahısında 326 və 327",
+    "ƏDV uyğunlaşdırması: Əvəzləşənlər tabı, detal paneli, tarix filtri və 12 aylıq müddət riski",
+    "ASAN İmza: giriş səhifəsində profil siyahısı sahənin yanında açılır"
   ],
   "installer": {
     "file": "installer/PLS.zip",
-    "sha256": "bb1d411a905ef1824c4a00877090cce89b137e40837414ddd0e7f1c98406efd0",
-    "size": 1040537
+    "sha256": "bfe1fb108ae09098bc950adef92dbdb6714f261b5fdc8efb682b9295ccbc09f6",
+    "size": 1055217
   }
 }
