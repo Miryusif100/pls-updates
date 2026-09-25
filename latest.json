@@ -1,14 +1,23 @@
 {
-  "version": "0.6.0",
-  "file": "releases/pls-0.6.0.zip",
-  "sha256": "63d4290d1c08f8e99ed889ee449cc93cba30ae691008ed613b13587c9383054b",
-  "signature": "NkgarHObJdxaOM2SCv5IE0b7tZr6shyudspaEI0reVfgHXy545XrIFU+pcbWVDpinHvvOZg+Ed3xkvDjAcV8/f1u6aJnH4DNKz5yDkmST9h9AXvDlH4/kDFeYpWUdJyZq1M7CNDyRm49oOle/WBrwQUhXQmXxNOvd0jiXI3yYREiQ1RkAYeHjmPR4nFvJbzTosy43JcyzV6pMu8peD/gdpODAQ/F/v56S9pMWRRUv0c4+aIBJm+taUH9aGEIVSJxpulRJvkdyvLqNy+k7oquT/xmUE3x3cJ0Y44KwA1fkspSIzs0EK/NcoTsXCdxIdkSyRn0LuhqgWjzeECcQRDeR+fRyhqIfUuMXDLvh2jIqIHZCOyhGKq1KNidvmTZqYRdolAndTfC42hsarYFfYJJFBEl/YauLhKJapV4fsQJP3TyMWWKlr/MSlr7aapJScVLl26VtZV/2ZAZeEKvbNiTlLEFYHSA9ncLw40tDzA4Y+1H3M+j4NL1P3oPZJ74XLvP",
-  "size": 957608,
-  "released": "2026-09-24T13:48:46Z",
+  "version": "0.8.0",
+  "file": "releases/pls-0.8.0.zip",
+  "sha256": "2235e3ed66d92c4a00e811db20b122c7a2d60b709cdbb98c67eca091f445cf02",
+  "signature": "veyGBGZfL7aFRdHCbMpNpR0+dP5RcmLrxMWy56xQ2EzfP+OvMbZ+ay5lj4cKhf8q81BSnJ5874OINmcz0+RiKMcwsYsikhqAC3OFrbjyfWsFyyfN12RnVRFXPc/a7VCNy4F+jUM8v75JX1GGlRoz4z6gPIQQSxrtyaEX/6GQxsl9p46PocxjIqIVYGtPvV10lHTKD5nba4ge2AUz4VDAnbJSlrB6kKEJWcO1WgG7kYLCThScM79yDclsusXNa1BlftBMau0R/aqPVoznDjz1uUV550AeoXFXGoVSbE8wDQoMwTVk+/CLaoS9aUHNQfXshIWT7lJoDNkZlpuGXKefJLbIbun6EmDiA+ZuHKEGEYSRv+40SiEnFBW9SRTlqI0XncOW7LOdya0ljw2rvmLwfWAlZ0jcwXMjontqVseXVlx0ARRHkCSpLgP4gAKwHkj+Ys7n2yJreeKNX80h2EaztAu5RqKAbqPQlbsdjXf4XD0D5aP9qZSKMYzM/f+1/riI",
+  "size": 1021566,
+  "released": "2026-09-25T06:08:18Z",
   "notes": [
-    "İdarə paneli tamamilə yeni dizaynda",
-    "Yeni ana səhifə — İcmal: müştəri, modullar, elan və proqram bir baxışda",
-    "Üst zolaqda portal statusu və bildirişlər (zəng)",
-    "Sol menyu: rəngli qruplar, müştəri kartı, şüar"
-  ]
+    "Yeni modul: ASAN İmza — müştəri profilləri, giriş səhifələrində avtomatik doldurma, sertifikat müddəti bildirişləri",
+    "PIN, PUK və statistika parolları yalnız şifrəli seyfdə saxlanılır",
+    "Yeniləmələr demək olar ki, dərhal gəlir; \"İndi yenilə\" düyməsi paneldə, bildirişdə, Ayarlarda və PLS ikonunun menyusunda",
+    "Qaimələr xeyli sürətli yüklənir, məlumat yalnız sessiya müddətində saxlanılır",
+    "Yükləmə gedərkən keçid və ya başqa əməliyyat əvvəlcə təsdiq istəyir; bölmələr arasında nəticə itmir",
+    "Elan və portal bildirişləri ekranın sağında, X ilə bağlanır",
+    "PLS-ə giriş İdarə panelində aparılır (portal panelindəki \"Daxil ol\" onu açır)",
+    "Təhlükəsizlik və sabitlik düzəlişləri"
+  ],
+  "installer": {
+    "file": "installer/PLS.zip",
+    "sha256": "bb1d411a905ef1824c4a00877090cce89b137e40837414ddd0e7f1c98406efd0",
+    "size": 1040537
+  }
 }
