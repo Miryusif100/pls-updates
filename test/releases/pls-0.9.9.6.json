@@ -1,10 +1,10 @@
 {
-  "version": "0.9.9.1",
-  "file": "test/releases/pls-0.9.9.1.zip",
-  "sha256": "cf40d7d12d7d43981f4519458bdfc00743f4c0bf76a613b1b432da243397cd64",
-  "signature": "rbmXhUnszY1Xz/OS8Cy3IOB2i3gnXJ0PSRCMyS4oZ5tvkqOR6njdzQYRrzosBS19DCF3mAu3SNsbokZPKkEX88G3+fbcGjX+XApOrIOiq9FqS9Er4u6oejrMVdsa0oEQB1Dxptpyjb709PshJOgct1aP32RyVFf28N0OaFoaNsOK85OUHVIw4+61ofFoK3wIS1kjrZUcJmW9M4d4CdPMkNcoLa3JAPDik2WuCbN7ZVKx//K4LqaZv3NpqZu7Pj2aB/LYiCqAPQ/ObGtbeaNiKpNYGt3Q8z74Fid0XxtlkaL1f53p0l9AvcY2tnG1KeE4fHvXiePaXyzS800tvi9fiys6Yx1e4Ai2Cd8Ig1pp3M8LMXp6OUeaTzJNAOjKGVdCgvjCMM/eKbhryEYpa29eES9OttzoFI0ua+IQHcrqOFncMQYo5e0vl0HUSGfpVInTCgNIFmFzEs8/uQ+QevuYKpqpU+pbJTxGp7p3Nu54x4zhAzcXRpQ1NJLUUf3sy4oY",
-  "size": 1304186,
-  "released": "2026-09-29T08:10:56Z",
+  "version": "0.9.9.6",
+  "file": "test/releases/pls-0.9.9.6.zip",
+  "sha256": "a1db063d3424b699c8bcd13f619fb5325b71e7a0d3b188e9af2f74e2ff370441",
+  "signature": "oGvkqhZh79pOFniLMD44EmjUO2q/HXBuElk1O5sY7WbmLiZ+NizC1rTtDvE/ZTovACn81fuUBDIp/wMcmIn3aK3UiYUn3vQZuMO36/DSjsJSa5e6MtBK/pQQv0WNF+smM7tPcvvqSGDmUIldyU0+GcXNLJlXqr3sEssKub+VTUU31F41oU/UNNPaJ1H3KtBVXOr78fTyJCswdzu4/0DnWH6PHfUET6G6V7sF4caeJmmkI8+vqjRrTTPCeKAXDRlXvpyZkCkMZ5BItOLKzDVagoQ/OfVNrORp+cvEjIHdsBEdE6TcaLf8ERpAa0Dqz8LioEB9pLqpZ/v77lt+Prj7IZNA1Ikd3tA5WaeQtD7wfFXItlyq5sFz34JPXhc+MpgQiTXr/ySxD3GzuWwntOkzrivf7rU0vlweFLzQcn3uvI7/2roriDd7otrsxk3PPxm7XRv3aoaZiNQtPBndCdD9eGXFBVxlMPI40YS+rszVbo1LKrwfEX0NXXuk5EXAHb+r",
+  "size": 1307477,
+  "released": "2026-09-29T19:11:45Z",
   "notes": [
     "İcmal: səhifə yenidən quruldu — salamlama və aktiv müştəri, rəngli göstəricilər, portallar, ASAN İmza sertifikatları, son bildirişlər və modullar",
     "Portallar: üç bölmə — Banklar, Dövlət qurumları, Statistika; Azərbaycan banklarının və dövlət portallarının siyahısı genişləndirildi",
@@ -81,6 +81,15 @@
     "ƏDV depozit köçürmələri: yeni Hesabın hərəkəti tabı — mədaxil və məxaric əməliyyatları, hər əməliyyatın qaimələri, Excel",
     "Elektron qaimələr və ƏDV uyğunlaşdırması: riskli kontragentlər nişanla göstərilir, Yalnız riskli filtri; Müştəri panelində VÖEN-in riskliliyinin yoxlanması",
     "Elektron qaimələr: Mənbə seçimi — 2020-ci ilədək qaimələr və ƏDV qaytarmaq üçün qaimələr (MTK)",
-    "Bəyannamələr: Əmlak vergisi bəyannamələri; rüblük bəyannamələrin dövrü və MİOM ↔ ÖMV, ƏDV ↔ qaimələr müqayisəsi portalın real məlumatına uyğunlaşdırıldı"
+    "Bəyannamələr: Əmlak vergisi bəyannamələri; rüblük bəyannamələrin dövrü və MİOM ↔ ÖMV, ƏDV ↔ qaimələr müqayisəsi portalın real məlumatına uyğunlaşdırıldı",
+    "İdarə paneli: sol paneldə bir anda bir qrup açıq olur — qrupa basanda açılır, yenidən basanda bağlanır, başqa qrup açılanda əvvəlki bağlanır",
+    "ASAN İmza: PIN1 və PIN2 məcburi deyil — hesab yalnız nömrə və ASAN ID ilə saxlanıla bilər",
+    "ASAN İmza: Excel idxalında sətirlər Yeni, Mövcud və Xətalı tablarına ayrılır; hər tab öz düyməsi və təsdiq pəncərəsi ilə saxlanılır, sonda yekun göstərilir",
+    "ASAN İmza: yarımçıq idxal başqa bölməyə keçəndə və səhifə yenilənəndə itmir",
+    "ASAN İmza: Daxil et menyusundan ASAN İmza ilə giriş mümkün olmayan saytlar (VTB, e-gov.az) çıxarıldı; e-Satınalma üçün PLS myGov ID səhifəsini özü açıb ASAN İmza bölməsini seçir və doldurur",
+    "ASAN İmza: myGov ID-nin QR kod səhifəsində Digər üsullar özü açılır və Asan İmza sahələri dolur",
+    "ASAN İmza: Avtomatik uyğunlaşdır bütün sütunları mütənasib genişləndirir və ya sıxır",
+    "ASAN İmza: göstəricilərdə Favorilər kartı; Sütunlar düyməsi ilə siyahıda hansı sütunların görünəcəyi seçilir (statistika kodu və parolu, qeyd daxil)",
+    "ASAN İmza: Sıranı dəyiş yenidən quruldu — ayrıca pəncərədə sürüşdürmə, yuxarı və aşağı, ən yuxarı və ən aşağı düymələri; favorilər öz blokunda"
   ]
 }
