@@ -1,10 +1,10 @@
 {
-  "version": "0.9.10.2",
-  "file": "test/releases/pls-0.9.10.2.zip",
-  "sha256": "767e1d135cfd2506d868265bf8fdc87e2512713030f89a28e2d2663c7d8934d8",
-  "signature": "0VAAY7tnHD7GAVfIPoqJoHFoszVRVkRJiKAd0m7gwwEDvQo8P44atWECgCI9+H8tTfc9fdqGCVcaFbuCcwVb2e5FVYSEB5r7nAvcl+Yi0Vl4ny9V0vs6m9idLXP9J5cQNX78/Q3Y57pQKun/E93ztMjhWDBGvJgbnTAeO9mWbOvHW2SvEFVjXtQTE2/f5Dk7cq0d6mB8jBZ4IqiD8QapCsJG58Yk43Xz6wwL3E0JScefXGmjxcRWfNPiDXcbFrfW4RRlUFtwc4zJCOFm44V+Ys1rdMN6EKT7frbBO+qGJz2skQAn82JYB+DgP3GW+gbrn+PBAnFR8IBDCOLyydXASvKe+sJH/z9K+N5baqK/P/7IxWAg58aUzWRrVaNBtNiz27hmVFhjL15iGbg9r9ZoISvSeO0jbKiFiiS6Jq/9L2jmcUcImU1LHxGzW/4ev9sprqDaBdRIIpfWtpjcJb2Yqtfa8gDjAo0n5sts145Lp3m3ZVR906PiJBgZqhwG3RFW",
-  "size": 1352399,
-  "released": "2026-09-29T20:26:41Z",
+  "version": "0.9.10.3",
+  "file": "test/releases/pls-0.9.10.3.zip",
+  "sha256": "bc7bea9bbfee9fb02b4a38fa229c8d0e3417d490347643dc4daca1487fa3abe6",
+  "signature": "QwD92Gj+fRiAuXzakgLU4sv+wtMWuI/7CTOqrsGUgvNu18/sDnONj4R/lG0ihF8/q1hlcsr1X/iIf7KCZbrgUivA98G06XMNTtMkNbHRkWYEJI9fgGHbsik2GPCzXFGgl135zf0ugoR7bPSdG7NHsV3aIZLq4M7nsx+S3+KxqYv0cR3MFYW5K7xFvfNqiokTpHXwhzjo2auUMffhfpBVC0RX2/duzzGTxktwvHV7rDiHMHNcZHS8x9HybtDJPzBaAKwxjBE+r7QYXtWcU88HSWulvWaIleWaukiKDcSiZYOt0c2Fyh3gw2Vk25Lm+ZQs+H1q1x4Vs3et1e9cidiDmxcqX0M3inmMvGsMtn7CVZc25Tt1Bxh2FEOFf8P2E74VcVu0L1Ux8ggCJXStyGVi1y+HKPYVBQeR+sovTiKp0Mqhlm9/UHO6ie9eKzEI4sNtpjJnWoN/EnD9rZ6kdF+vyGrbPXwb2ZTdkKLfbvwQ/TvN2xGI3GdOkUImW4pqKdK7",
+  "size": 1375039,
+  "released": "2026-09-29T20:41:28Z",
   "notes": [
     "Dizayn: yan panel yaşıl rəngdədir; «Aktiv seanslar» — açıq portallar müştəri üzrə kartlarda, portal nişanları modul rəngində",
     "Dizayn: səhifə başlığının ortasında cari modulun müştərisi (ad və VÖEN), alt bölmələr başlığın altında ayrıca zolaqda",
@@ -102,6 +102,11 @@
     "AYNA: firmanı dəyiş — PLS xidmətlərdən çıxır, yenidən daxil olur və müəssisəni VÖEN ilə seçir; telefonda təsdiqi istifadəçi edir",
     "ASAN İmza: hesaba E-ƏNQ API tokeni sahəsi əlavə olundu (istəyə görə)",
     "Bank çıxarışları: internet-bankdan yükləmə PAŞA Bank, Bank Respublika, Rabitəbank və ABB üçün də işləyir — bankı seçin, bankın saytı başqa tabda açıq və daxil olunmuş olsun",
-    "Bank çıxarışları: hər əməliyyatın kateqoriyası (bank xidmət haqları, əmək haqqı, vergi və büdcə, hesablar arası və s.), Kateqoriyalar görünüşü və Excel-də ayrıca vərəq"
+    "Bank çıxarışları: hər əməliyyatın kateqoriyası (bank xidmət haqları, əmək haqqı, vergi və büdcə, hesablar arası və s.), Kateqoriyalar görünüşü və Excel-də ayrıca vərəq",
+    "Bank çıxarışları: fayldan PAŞA Bank, MT940 (istənilən bank) və digər bankların Excel faylları; PAŞA-da VÖEN və qalıqla tam çıxarış (SMS kodu ilə)",
+    "Bank çıxarışları: Hesabatlar — daxilolmalar, ödənişlər, bank haqları, vergi və büdcə, əmək haqqı, POS, nağd, kredit, pul vəsaitlərinin hərəkəti, analitika və anomaliyalar; MT940 ixracı",
+    "Bank çıxarışları: kateqoriyanı əl ilə dəyişmək — həmin kontragentin bütün əməliyyatlarına tətbiq olunur",
+    "Bank: yeni bölmə Qaimələr ↔ bank — hansı qaimə ödənilib, qismən və ya ödənilməyib, debitor və kreditor borcları yaş qrupları ilə",
+    "Bank: yeni bölmə Toplu ödənişlər — qaimələrdən, əvvəlki rekvizitlərdən, vergi və əmək haqqı ödənişlərindən ödəniş paketi, yoxlamalar; ödənişləri bankda istifadəçi imzalayır"
   ]
 }
