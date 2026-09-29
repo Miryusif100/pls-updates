@@ -1,10 +1,10 @@
 {
-  "version": "0.9.9.2",
-  "file": "test/releases/pls-0.9.9.2.zip",
-  "sha256": "c811bb84265ad959d2142b0af30828aa4d5861e0ffae852358bcb3cc4961baf3",
-  "signature": "f97xfa5V/RU+fuJ6DQjUojt5vf5WSPe67s+kXnYqCepQgTCQcB6jwfQr5E1yJQlBwMVnC3Y2uzd+5w97sEckfh6oOcF18P3sqETwrO3iZYlV12hHvUDsFo96XhhNUUv7eeRV29MxdvCq2vsKfVZOS3BJOmpHXWlVWP2Tj2YRFzIw6gj948r1bWLCeOIZxrzPJ5w/RBFXc5BSSmIUSgaSZwmeghQrmteHzExMw2MAEkjhGQ7JJ7OT/x3Zi7JRyxKlP6pmEw+TFV6QwAzCVMtImdQmz9TGuFGDQbsdJCJC7a8cDtGcD/NFeXBPliFFlJGR3YiS8EWVScFO9fYYwppDAcvj8D6n14WxieCdpR5uilEeXQKZGGaBrPbY1Rtc2nEDX5iRWHqNr2zKBprkmUiQiDDTjMjZS/AZc5pWeQV8ZBLjblkxvB6j5g5c38+2iRHawA5xkSobYRsw7uAkg1dnmyHSf0DZWb1B4tqKtn+rQ/bzGSMbjZnmz7zlUpr5lDJR",
-  "size": 1307477,
-  "released": "2026-09-29T11:32:54Z",
+  "version": "0.9.10.1",
+  "file": "test/releases/pls-0.9.10.1.zip",
+  "sha256": "b5f34a7869553227034686fbe765b3b1fd31a6b720b0de68f7c39d8b1a5635e0",
+  "signature": "x9JfnyluMjz6mPoXdjMywVnfOlBlW2Ove4pK0K6zJ7TsDKqOeR0RTsE7fhDMna5DJqKAwYmsD1OnfkTMMyfchGiB0aJ2x7+RexkKj/qvXIdKiH+zVnL3bGb0Br0G4ZaSBVDgbC8hdsE8PchyM5WAEFhfmv1jcWQM2hpcuE9Ejy9QtLkhm1GJeO5hpmuTMnlrxVyVKqW8KuTKBmptm3h9m3oNFAMWiURW9NKvjc31+R9fTRcoW/CND6rtgiJ8kpfFEZYx0dWKS9IZaDfkZ9PJIl3kx3p2lFPY1cwZRoLVvsOcxNFZVPYQXw+o2lT5EvjRn8q/3e6m1miEnwYM7PTTLQcyauoIe0hLqcw9IpEEzZyoTQ0jT3vxxv0WhSD3uDWU8JYpVmGo1IB55ZvsbpHmwy0wduH9XGvqZ4+JAJ7hav4Z9cSUYQEupX2F6WgMNFpijnLkZJvWrckoZ0w4DUqNJ8elPbQ3DL7xF0NkCyltrX7XlnNIHzLYntxptZi/fH9z",
+  "size": 1348112,
+  "released": "2026-09-29T19:48:40Z",
   "notes": [
     "İcmal: səhifə yenidən quruldu — salamlama və aktiv müştəri, rəngli göstəricilər, portallar, ASAN İmza sertifikatları, son bildirişlər və modullar",
     "Portallar: üç bölmə — Banklar, Dövlət qurumları, Statistika; Azərbaycan banklarının və dövlət portallarının siyahısı genişləndirildi",
@@ -90,6 +90,15 @@
     "ASAN İmza: myGov ID-nin QR kod səhifəsində Digər üsullar özü açılır və Asan İmza sahələri dolur",
     "ASAN İmza: Avtomatik uyğunlaşdır bütün sütunları mütənasib genişləndirir və ya sıxır",
     "ASAN İmza: göstəricilərdə Favorilər kartı; Sütunlar düyməsi ilə siyahıda hansı sütunların görünəcəyi seçilir (statistika kodu və parolu, qeyd daxil)",
-    "ASAN İmza: Sıranı dəyiş yenidən quruldu — ayrıca pəncərədə sürüşdürmə, yuxarı və aşağı, ən yuxarı və ən aşağı düymələri; favorilər öz blokunda"
+    "ASAN İmza: Sıranı dəyiş yenidən quruldu — ayrıca pəncərədə sürüşdürmə, yuxarı və aşağı, ən yuxarı və ən aşağı düymələri; favorilər öz blokunda",
+    "AYNA: yeni modul — E-Daşıyıcılar, Rəqəmsal taxoqraf, İcazə blankları və E-ƏNQ bir yerdə, hər bölmənin öz icazəsi ilə",
+    "AYNA: AYNA icmalı — xidmətlərin vəziyyəti, bütün bölmələrin göstəriciləri və vərəq-vərəq Excel",
+    "AYNA: Sürücülər, Nəqliyyat vasitələri, Müraciətlər və ödənişlər, Buraxılış kartları, Buraxılış vəsiqələri — portaldakı bütün sahələr üzrə filtr və Excel",
+    "AYNA: Rəqəmsal taxoqraf — müraciətlər (statuslar, ödəniş kodları) və kartlar; İcazə blankları — qalıq (ölkə, növ, il, defisitlik üzrə), sifarişlər, verilmələr, qaytarılanlar",
+    "AYNA: E-ƏNQ qaimələri — siyahı, qaimənin kartı və malları, Excel (mallar sətir-sətir), imzaya göndərmə, ləğv, qaralamanın silinməsi — hər biri yoxlama və təsdiqlə",
+    "AYNA: firmanı dəyiş — PLS xidmətlərdən çıxır, yenidən daxil olur və müəssisəni VÖEN ilə seçir; telefonda təsdiqi istifadəçi edir",
+    "ASAN İmza: hesaba E-ƏNQ API tokeni sahəsi əlavə olundu (istəyə görə)",
+    "Bank çıxarışları: internet-bankdan yükləmə PAŞA Bank, Bank Respublika, Rabitəbank və ABB üçün də işləyir — bankı seçin, bankın saytı başqa tabda açıq və daxil olunmuş olsun",
+    "Bank çıxarışları: hər əməliyyatın kateqoriyası (bank xidmət haqları, əmək haqqı, vergi və büdcə, hesablar arası və s.), Kateqoriyalar görünüşü və Excel-də ayrıca vərəq"
   ]
 }
