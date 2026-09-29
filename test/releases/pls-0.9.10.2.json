@@ -1,11 +1,14 @@
 {
-  "version": "0.9.9.3",
-  "file": "test/releases/pls-0.9.9.3.zip",
-  "sha256": "5b00642b47abdc20f3d4fc7886172cfd9151e5b29ca0f2dee1fa8aec62d9e8a6",
-  "signature": "AORY5NVAvBbwMqX/3gx5WKKZdxT+x1sK3/X7U/Pinq9HA960KpEKHg3uOZpt/wBdCI1i3WooGPAdfIzwf/p0kK2/KkNobj6Djb5d3AbNtAew0ptXwm8cKkGLnWQCnMlmxBFZUHKrDzkdYISGa6GJh51uVcxf3gzMWxUpaiSYtDLHcNElaCpx9EeZJ/mTlQhyM2Q8nx3TRkJ/w/U4/sR6q84HOy8uN9RjS65MsFuEzy6TulceBTrPoL1y6zTXpzOSu0VqXMk0fDiLMV7EH9JYH64Krbxk2mIB38hVxio8BNMi4hCVn8ea8bxcX1T/1vcBHtX4P8pLgEDqrItL1VrRWM5N2hmICAR0C7/bUkQQfhMSBYmP04BnnDaLXPkNK+SXwzU4ELu3OD5ezlKuKs20GPbaupBH/GO/yHUUCEEr4QlKV9fPlDu/tSkNgJYBDiiybxJITeGuOQtjB54Dnq/q8JoAp5fmPjQ6fKC9ny6qIlbxYyZU9jYynyGIGPCZN7RC",
-  "size": 1307477,
-  "released": "2026-09-29T17:16:03Z",
+  "version": "0.9.10.2",
+  "file": "test/releases/pls-0.9.10.2.zip",
+  "sha256": "767e1d135cfd2506d868265bf8fdc87e2512713030f89a28e2d2663c7d8934d8",
+  "signature": "0VAAY7tnHD7GAVfIPoqJoHFoszVRVkRJiKAd0m7gwwEDvQo8P44atWECgCI9+H8tTfc9fdqGCVcaFbuCcwVb2e5FVYSEB5r7nAvcl+Yi0Vl4ny9V0vs6m9idLXP9J5cQNX78/Q3Y57pQKun/E93ztMjhWDBGvJgbnTAeO9mWbOvHW2SvEFVjXtQTE2/f5Dk7cq0d6mB8jBZ4IqiD8QapCsJG58Yk43Xz6wwL3E0JScefXGmjxcRWfNPiDXcbFrfW4RRlUFtwc4zJCOFm44V+Ys1rdMN6EKT7frbBO+qGJz2skQAn82JYB+DgP3GW+gbrn+PBAnFR8IBDCOLyydXASvKe+sJH/z9K+N5baqK/P/7IxWAg58aUzWRrVaNBtNiz27hmVFhjL15iGbg9r9ZoISvSeO0jbKiFiiS6Jq/9L2jmcUcImU1LHxGzW/4ev9sprqDaBdRIIpfWtpjcJb2Yqtfa8gDjAo0n5sts145Lp3m3ZVR906PiJBgZqhwG3RFW",
+  "size": 1352399,
+  "released": "2026-09-29T20:26:41Z",
   "notes": [
+    "Dizayn: yan panel yaşıl rəngdədir; «Aktiv seanslar» — açıq portallar müştəri üzrə kartlarda, portal nişanları modul rəngində",
+    "Dizayn: səhifə başlığının ortasında cari modulun müştərisi (ad və VÖEN), alt bölmələr başlığın altında ayrıca zolaqda",
+    "İcmal: yalnız portalı açıq olan modulların göstəriciləri görünür (Vergi, Kadrlar, Gömrük, Bank, ASAN İmza); qoşulmayanlar ayrıca sətirdə, «Diqqət tələb edir» siyahısı",
     "İcmal: səhifə yenidən quruldu — salamlama və aktiv müştəri, rəngli göstəricilər, portallar, ASAN İmza sertifikatları, son bildirişlər və modullar",
     "Portallar: üç bölmə — Banklar, Dövlət qurumları, Statistika; Azərbaycan banklarının və dövlət portallarının siyahısı genişləndirildi",
     "Bildirişlər: zəngdə Hamısı və Oxunmamış filtrləri, bildirişə basanda ətraflı məlumat açılır və oxunmuş sayılır, Hamısını oxunmuş et düyməsi",
@@ -90,6 +93,15 @@
     "ASAN İmza: myGov ID-nin QR kod səhifəsində Digər üsullar özü açılır və Asan İmza sahələri dolur",
     "ASAN İmza: Avtomatik uyğunlaşdır bütün sütunları mütənasib genişləndirir və ya sıxır",
     "ASAN İmza: göstəricilərdə Favorilər kartı; Sütunlar düyməsi ilə siyahıda hansı sütunların görünəcəyi seçilir (statistika kodu və parolu, qeyd daxil)",
-    "ASAN İmza: Sıranı dəyiş yenidən quruldu — ayrıca pəncərədə sürüşdürmə, yuxarı və aşağı, ən yuxarı və ən aşağı düymələri; favorilər öz blokunda"
+    "ASAN İmza: Sıranı dəyiş yenidən quruldu — ayrıca pəncərədə sürüşdürmə, yuxarı və aşağı, ən yuxarı və ən aşağı düymələri; favorilər öz blokunda",
+    "AYNA: yeni modul — E-Daşıyıcılar, Rəqəmsal taxoqraf, İcazə blankları və E-ƏNQ bir yerdə, hər bölmənin öz icazəsi ilə",
+    "AYNA: AYNA icmalı — xidmətlərin vəziyyəti, bütün bölmələrin göstəriciləri və vərəq-vərəq Excel",
+    "AYNA: Sürücülər, Nəqliyyat vasitələri, Müraciətlər və ödənişlər, Buraxılış kartları, Buraxılış vəsiqələri — portaldakı bütün sahələr üzrə filtr və Excel",
+    "AYNA: Rəqəmsal taxoqraf — müraciətlər (statuslar, ödəniş kodları) və kartlar; İcazə blankları — qalıq (ölkə, növ, il, defisitlik üzrə), sifarişlər, verilmələr, qaytarılanlar",
+    "AYNA: E-ƏNQ qaimələri — siyahı, qaimənin kartı və malları, Excel (mallar sətir-sətir), imzaya göndərmə, ləğv, qaralamanın silinməsi — hər biri yoxlama və təsdiqlə",
+    "AYNA: firmanı dəyiş — PLS xidmətlərdən çıxır, yenidən daxil olur və müəssisəni VÖEN ilə seçir; telefonda təsdiqi istifadəçi edir",
+    "ASAN İmza: hesaba E-ƏNQ API tokeni sahəsi əlavə olundu (istəyə görə)",
+    "Bank çıxarışları: internet-bankdan yükləmə PAŞA Bank, Bank Respublika, Rabitəbank və ABB üçün də işləyir — bankı seçin, bankın saytı başqa tabda açıq və daxil olunmuş olsun",
+    "Bank çıxarışları: hər əməliyyatın kateqoriyası (bank xidmət haqları, əmək haqqı, vergi və büdcə, hesablar arası və s.), Kateqoriyalar görünüşü və Excel-də ayrıca vərəq"
   ]
 }
