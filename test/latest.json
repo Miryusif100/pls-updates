@@ -1,10 +1,10 @@
 {
-  "version": "0.9.9.4",
-  "file": "test/releases/pls-0.9.9.4.zip",
-  "sha256": "c11210c8d49d2e5e3225e4a4c8a83449639b28615fe9dd1c265736c28a2f1dc1",
-  "signature": "1IqRtC7gq3PrLumA/yNsZQHR67O5yM6nFkv6VpJPAAq9iq43KmYhZt6AuXmCEgUlvZDuzGMSe37dTtLxcYtqpbYW/djvoZNqwMqyTud3NNhog04lpU3qGNpxj25Rk+xgze4TNFyl8M1ZgmI2elcmPyuHpsIkGKxYDzhqewHHlkC4KpEjJxx744o3L6C+QwYEJSDTt+7bP433YBGOYvN71plUOzrYWT1o1AsuTJee5124oGeFUlFOgb1hyE2BccPkKy8ScJBzKeBBc/UddGcKwREEBdhp8H5a+4j+qj+nYudwzM9Wd5WKi2F3AwPu8vN06JjCL6USrez6Sakyncx1cRHAyOXJVQxEa+FQH2VAo19Xav5XyEn3H/ThZONsj/7jGxf16mBds6ppCWY2NE/cQaWkQsrLDdLLM7Mm/4SrcDhblOdq2FKCpEGoSfOCSRmLuuTHrL+0FwgEeoRZncg2n5nvciPR42k97F5vVy0/71xCPqINb2nL8ThM5xdF6Hwm",
+  "version": "0.9.9.5",
+  "file": "test/releases/pls-0.9.9.5.zip",
+  "sha256": "00a187d97e936e5c864c328a92d2e48f4c361b3f5c82b6e1a9b1366063968090",
+  "signature": "CmwkAomzI0k8fH0Aq4D0Fi/EZRFOP+OLSyDFs1naNRCGfQdinTi5xgv7RWUpmCe5tbebYZmiu2W9Jnb2vhOUIm2Ls1Y0byZw+LmvSJEDAPOye5Yg0aQl1KNnHu4FT5mNK18kAsAf/rJIBXAAeTTYJehOAd0egWQQlZ7pXzkM9r9A6sWmcVnD73fahWWlzb3Vrw93CjaorwyiKLNZmVtlJYBbOoRdxR5ZiXCSGpUvE7nJ20keaz8zP59GOmNKkhhZf+ApYGTDLO5PCctN7uCYMvBNRPZSHAK+8uS2wBnII8/iw3RX4AnfOo4mcRNDdQbojd6uUAdBln2jQ0widOiUwm2d+tlEsxZABNtKRKx1o41o9sQLDqcHusMGsYgFFJpphhcjDfB6VKnnD/2HtpLC/7d7ARIEK4aNtbAiwruFxU7A9Khrh2nJXzEaxRjH4P8kMjFdzuDfUXB6QTtNsOUhad/III6QiX706sHMQB7l0TYshcA6JjV8wNWCT7Yp3TIA",
   "size": 1307477,
-  "released": "2026-09-29T18:58:00Z",
+  "released": "2026-09-29T19:02:06Z",
   "notes": [
     "İcmal: səhifə yenidən quruldu — salamlama və aktiv müştəri, rəngli göstəricilər, portallar, ASAN İmza sertifikatları, son bildirişlər və modullar",
     "Portallar: üç bölmə — Banklar, Dövlət qurumları, Statistika; Azərbaycan banklarının və dövlət portallarının siyahısı genişləndirildi",
