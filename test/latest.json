@@ -1,10 +1,10 @@
 {
-  "version": "0.9.10.6",
-  "file": "test/releases/pls-0.9.10.6.zip",
-  "sha256": "30727352288d07ba841e0712ba8093482f1c632d8711ae370bded50dce80edea",
-  "signature": "Xy2YsrLy5w5sj7DsrPwfRS2qkanAAlEWbfYl1bIXIdOMo5kZdUPhKxiMWMoyhl5iBS4G6Js9RFpZj1JEIcpwrJNxIDvd4maClT9RJeipO0t7+psQONvsZadD9fzc8Oqhfrpjc1Swil6fTL7eVTorNFJwcgHIL3hDlG54b/YKZDHbOeROoBD2PYMOOF14qTNHrhbOOQxem2/qcoKGEqMHgie6zCz5cPUTCsJ/IZKzWWArCndC2g7EOZVlSsGFC3ekp7aleyYywrASBEJqLEYG+bl4uZaDWNj5YWLL+WECWI7TveQ4lxaUJJyZLOuCb/BhxcOydaj7ogc4vmSvfNTrCp4Ncat1UoEGZj1hA4Udx6OoL1+YeeMiW11cy0+d/WXVx2XCp7ZANlOpydbvfQBGVY4AVW2aMlajNbKIDqiQdiDyYEZILzutR4pKPLMSQKkjAb8e1m4HZhk7LPoHHP7Y65cA8ODhh9wswKQ7Xg+DKYcWD/+YLwMun0C8kLZ88v1p",
-  "size": 1424326,
-  "released": "2026-09-30T09:43:04Z",
+  "version": "0.9.10.7",
+  "file": "test/releases/pls-0.9.10.7.zip",
+  "sha256": "e9aede57e2091dfd2af4be3bb23da2ffa4634a08b13f030157f0a173e03db3dd",
+  "signature": "SvBczGNaUlsp8GmCG7kBrk9RFaKE8VxhcpTBKUS9LDL/kmvSrT8ogjNf3T//JycN/WH4mv4uY7iXGgawKpk3uhuv9Lzmbi9gZfrgVigvPtgXOqn1oF2wGxXAdx+Zuu2cEx7+1zyKx69UC+b9n7NU2Cq85mGELs0VZtcrjQ5DeNDpFIiqYsP+ceXe3r4Iz+punap3A+t1TOR7KQsv+BJiMwRnelVh1bkZzjeuQK0QLxlvAyQeWtNTH/CM/J7L7EdHlWCwN+QvZ6hOaXsPYyEuNwCRIgJElnPiXg1DXtikawNE6eRiglY3o8VdS0D9Bb82oOran5ctbAGhkzwE9EBTcNRJa3II+3+K8bzBSJjmF/mfOlVNm7tHT1DzOqzcg9fYhJjpz0xVw0SM07o5/i2f1Mtmhp3aPTauKtMPji9QqgRZaWGe9l9V+i9sTkMbsLqmvM4N0dhzviMdToNXrcpro6x0UtKibEoxQaFMpOHECWF6LxrDBJWOyMHG4bschQCI",
+  "size": 1660454,
+  "released": "2026-09-30T13:10:11Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -128,6 +128,14 @@
     "Bank çıxarışları: Hesabatlar — daxilolmalar, ödənişlər, bank haqları, vergi və büdcə, əmək haqqı, POS, nağd, kredit, pul vəsaitlərinin hərəkəti, analitika və anomaliyalar; MT940 ixracı",
     "Bank çıxarışları: kateqoriyanı əl ilə dəyişmək — həmin kontragentin bütün əməliyyatlarına tətbiq olunur",
     "Bank: yeni bölmə Qaimələr ↔ bank — hansı qaimə ödənilib, qismən və ya ödənilməyib, debitor və kreditor borcları yaş qrupları ilə",
-    "Bank: yeni bölmə Toplu ödənişlər — qaimələrdən, əvvəlki rekvizitlərdən, vergi və əmək haqqı ödənişlərindən ödəniş paketi, yoxlamalar; ödənişləri bankda istifadəçi imzalayır"
+    "Bank: yeni bölmə Toplu ödənişlər — qaimələrdən, əvvəlki rekvizitlərdən, vergi və əmək haqqı ödənişlərindən ödəniş paketi, yoxlamalar; ödənişləri bankda istifadəçi imzalayır",
+    "Portallar: vəziyyət yalnız «Daxil olunub» və ya «Daxil olunmayıb»; «Portalda aç» portalın açıq tabında açılır (ağ səhifə olmur)",
+    "Vergi icmalı: yeni görünüş — yuxarıda bütün bölmələr, yığcam vəziyyət kartları, müqayisə tarixləri ilə, yeni ətraflı filtr, Excel bir vərəqdə və PDF",
+    "Vergi → Məlumat: obyektlərin vəziyyəti (aktiv / ləğv edilib), Excel və PDF",
+    "ASAN İmza: ətraflı filtr açılan pəncərədə, ən çox istifadə olunan hesablar, rəngli göstəricilər",
+    "Bildirişlər və elanlar: yeni dizayn, bildirişi gizlətmək mümkündür",
+    "Əsas icmal: portallar səhifənin tam enində və yığcam, «Yenilə» nəticəni göstərir",
+    "Administrator: uzun siyahılar səhifələrlə, modulların istifadəsi yeni görünüşdə",
+    "Portal səhifəsində PLS düyməsi dairəvidir, bildirişlər göstərilmir"
   ]
 }
