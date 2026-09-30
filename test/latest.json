@@ -1,10 +1,10 @@
 {
-  "version": "0.9.10.9",
-  "file": "test/releases/pls-0.9.10.9.zip",
-  "sha256": "8cdb15f96d7d2e6a8f110af0bcd013458f3c8d51221ce9b162f4414fe05df563",
-  "signature": "IkSQGFr8d8ObodWGXykXPi/rNGO9U7wOoe9aMPeVR30/IOErqtibtwselxi50ryezhiAmjYk89Jur0OXMKpc1JMPwcdKNqlU4rxACIwP8IsbHIqu5BU6god9XSb39wC04h218pjn6JUg2PayG7P6NMDef72ntuQ0xQ21gZp56i4AbWMZEXTYF261n73E6ajz0w1sJ/yGIGTW+1VkreGnFh22mdta/Zhn28+vkdTNhyVbVGAmKl5M4tACGaSjecOOPaGggj+XjKJA+w4/SPez3slePpZOJjdiIlcGBRXdzvd43tH0XxM5M8gx0TmmQMEPLB//mTlYZvNksJjzVNGRycN2uL9Gm1vaV8ysVZBAJ3baWi16H9khgFsbWXZ69h2Rm7ym8PwVManIB/a1NSt3J/t8F7CmhneClMuvESJePBp8w9BVkyIyFgUd/VCyfc9Di+cxEbq+Pj4hqvIsde5aqROn4bzdOJV1DAmWoWaiifmX3w6tRbhHfc+oiOEvgYlk",
-  "size": 1665855,
-  "released": "2026-09-30T17:17:50Z",
+  "version": "0.9.10.10",
+  "file": "test/releases/pls-0.9.10.10.zip",
+  "sha256": "5903d9ff048b64edd020f78667692698db20454ef4d0f6af33552afdf502e1f2",
+  "signature": "SKl1OCEuWQwMHq1oLGue65iyFk6pANMyod0rkno8QW6GPYo81XTSA/1xLK+pMH8+wmsetdZHQmfdqR2+HYsxqpRLWXJ79T2LnRjXaMpQk5JuxDPnR+7gxvHhvOohiFoY5lVJBvTnpKm24VjO7x4iiif+RFnMwAeS4wpg7qy0eaV/LfUS2LX5sWEfsDN13B1hCULsKOteFTGpH91C9Kz+7sxC0g1uIZTe/NljyHbFd9mzaasFJM3jWaSq9EqBqt7WejlfV0RGmlx6auItw2cWTvEwpegwEb2xzl1lpJFjtrLybGXNDsAR1D+P/bxYPtS/Fhcr1ndZ3Ay4dtDU8FudXLx6hGf0Lgt80LScwaNz23jtW2xDw62uEyJaDxSKwUABRKsMSsWxyKxXE3YZWYQN+fxa0pbdsKgJ2ZB2yA+xbwAKWMXdHVYCw11zyKGL4ucV07SPhi0UJ2XYV3V+vcZ1yFQRHytHsXpVB+v2Ji+EvEsmaI/L4N10RL4JcUmsaist",
+  "size": 1657111,
+  "released": "2026-09-30T19:23:41Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -141,6 +141,8 @@
     "Vergi modulu: bütün bölmələr yeni görünüşdə — yuxarıda bölmələr zolağı, rəngli düymələr, PDF, açılan süzgəclər",
     "Vergi icmalı: eyni ölçülü kartlar, müqayisə və qaimə statusu açılan siyahıda, daha yığcam bölmələr",
     "Vergi → Məlumat: kassa aparatları, bank hesabları və POS terminallar tələb olunan sütunlarla; PDF düzəldildi",
-    "Müştərinin yanındakı «Dəyiş» düyməsi çıxarıldı; rəngli düymələr üzərinə gələndə ağarmır"
+    "Müştərinin yanındakı «Dəyiş» düyməsi çıxarıldı; rəngli düymələr üzərinə gələndə ağarmır",
+    "PLS ikonu yeniləndi — tünd fonda yaşıl işarə, ağ və tünd brauzer panelində, həmçinin genişlənmələr səhifəsində aydın görünür",
+    "Avtomatik daxiletmə: ASB Bank (Azərbaycan Sənaye Bankı) saytlar siyahısına əlavə edildi"
   ]
 }
