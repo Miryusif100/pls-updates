@@ -1,10 +1,10 @@
 {
-  "version": "0.9.10.7",
-  "file": "test/releases/pls-0.9.10.7.zip",
-  "sha256": "e9aede57e2091dfd2af4be3bb23da2ffa4634a08b13f030157f0a173e03db3dd",
-  "signature": "SvBczGNaUlsp8GmCG7kBrk9RFaKE8VxhcpTBKUS9LDL/kmvSrT8ogjNf3T//JycN/WH4mv4uY7iXGgawKpk3uhuv9Lzmbi9gZfrgVigvPtgXOqn1oF2wGxXAdx+Zuu2cEx7+1zyKx69UC+b9n7NU2Cq85mGELs0VZtcrjQ5DeNDpFIiqYsP+ceXe3r4Iz+punap3A+t1TOR7KQsv+BJiMwRnelVh1bkZzjeuQK0QLxlvAyQeWtNTH/CM/J7L7EdHlWCwN+QvZ6hOaXsPYyEuNwCRIgJElnPiXg1DXtikawNE6eRiglY3o8VdS0D9Bb82oOran5ctbAGhkzwE9EBTcNRJa3II+3+K8bzBSJjmF/mfOlVNm7tHT1DzOqzcg9fYhJjpz0xVw0SM07o5/i2f1Mtmhp3aPTauKtMPji9QqgRZaWGe9l9V+i9sTkMbsLqmvM4N0dhzviMdToNXrcpro6x0UtKibEoxQaFMpOHECWF6LxrDBJWOyMHG4bschQCI",
-  "size": 1660454,
-  "released": "2026-09-30T13:10:11Z",
+  "version": "0.9.10.8",
+  "file": "test/releases/pls-0.9.10.8.zip",
+  "sha256": "65facb20ce234a424fdbe7cd2a2b7a226dde1d548ee59bd3702e2c3d380b729f",
+  "signature": "IyDzAOs47dg8rn+sQ+7Y8j1BvCJDAuuall4Drz7D0AfmeffjdCB8L+pUPwcqMq3136eh5vVVmLhW4MWpo3jgnC7T2TiyJmAC0TKrmTQTHL7a5w37rSLGx2eQpFJtucU0ddFrltkduqz/ZeJNqdAgYRZm9ePooJ69czKcRpTwoeObP5RQS1hB0TAZDUAbMGdDiW5SLkd9XmeA0YBQuSk9nCXuAVMNODuevgXLLqndD4PeVCdTqgEIwcKI6LE587ktHTYrflBjrHF+h4kRkWZM5qh1+OoTyXzxlJGCTMMbNcLlh4IMYBy6GurOeW/d3j5d2Ws0TUdXPMkkGDy64DpYG/DQEgBglUxROkGv9IgTS/4zSe5SnrDL+cypBs23W2bR8KlhSM+ZfKruOhGI3CuT578ITcJfKk+aPkxQPmfAVpbLmLebiuphBT9imXBLGaxFnNAMqibWiUF2DWJGtx5qxudPPxLth+dlefx5I76hfX0Gx4D+6+y6qRdcyzq47e0G",
+  "size": 1665855,
+  "released": "2026-09-30T17:15:23Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -136,6 +136,11 @@
     "Bildirişlər və elanlar: yeni dizayn, bildirişi gizlətmək mümkündür",
     "Əsas icmal: portallar səhifənin tam enində və yığcam, «Yenilə» nəticəni göstərir",
     "Administrator: uzun siyahılar səhifələrlə, modulların istifadəsi yeni görünüşdə",
-    "Portal səhifəsində PLS düyməsi dairəvidir, bildirişlər göstərilmir"
+    "Portal səhifəsində PLS düyməsi dairəvidir, bildirişlər göstərilmir",
+    "Portala ASAN İmza ilə daxil olan an ekranda «Daxil olundunuz» bildirişi görünür",
+    "Vergi modulu: bütün bölmələr yeni görünüşdə — yuxarıda bölmələr zolağı, rəngli düymələr, PDF, açılan süzgəclər",
+    "Vergi icmalı: eyni ölçülü kartlar, müqayisə və qaimə statusu açılan siyahıda, daha yığcam bölmələr",
+    "Vergi → Məlumat: kassa aparatları, bank hesabları və POS terminallar tələb olunan sütunlarla; PDF düzəldildi",
+    "Müştərinin yanındakı «Dəyiş» düyməsi çıxarıldı; rəngli düymələr üzərinə gələndə ağarmır"
   ]
 }
