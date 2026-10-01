@@ -1,10 +1,10 @@
 {
-  "version": "0.9.10.16",
-  "file": "test/releases/pls-0.9.10.16.zip",
-  "sha256": "98c626ee3d3f686309e0e0cffec5f31e17a5b093ecbbaeeaac70a689e0edfcc6",
-  "signature": "b8D7EnLUwczexVohG6PpG1HhvUrT5T0R2zYmqhF97mkvNgqFGFNvrk26zIKUtO0fp6RE7B2BdwFbNGygLEWdam57G4Vh8VM5m8mu8MmgmH0fBSNXN8umu9cC1xNfrnmVYuLiDJlkasR72ypM7cewkMmWbz+bzJrVOksSxnr+DY3V+0Xm0hdkd3X+WtQGhm74s/1rIELJRaDC4Q78TfO0wIImE35OHIKQ0EwiD1Gk0TPx2WFhrspXVBH9hY1DkOYXg/tNoIpk+PO5qxsyQcX3wTbRhKa3+09a7iqMygWR62zUHcVbrkd8meE+l+kVhP3WqKIz6TWCb9ORMKIi514NJ8y7Q6oQKMb0bz4rCwKxWK3AJGFvr+iJyCV5NJY3WM0qLXL42z61QQ9L3PjkkxMdUFA2FgFo9CSEFyZm7A+uRahdRcPE+kBifyqms/WmaCGYJbxPFDW12Ljb3yPx9lbnPHpQGic2MM9EaNETm6IqM+N7fCdU92vjooAesgDkzwrg",
-  "size": 1803676,
-  "released": "2026-10-01T10:47:09Z",
+  "version": "0.9.11.1",
+  "file": "test/releases/pls-0.9.11.1.zip",
+  "sha256": "98c533708f0bce3c902df828929c7bd3036150e31668a8b1787e53898f6a98a1",
+  "signature": "OFOlIln5EZdJm/55uYVIjFahWXzIP5n/ua4VCqZFvms+sqvL98Injg4u2PlNfTWaRiRefMzluAPkj0nCvExAr4ijht7uNez6bIY/yPxft64E1XzLenL7fpv3WNoH4adnHW/MlWo7Duhlva5RkA1V9PNDnvUGqqlmrDEFrmwDotgP4+Lkg/CjscNaGUod6jjM/kxQDSHToijbxfE+SvU6BUogmLn2WLKBQx885bbpo/ENZ/amQnhdT5fpdgqsrLDDNzATnTREHxKWPFz++DMMaBr1cY+LoBifg6eSOpUQIPkvPqiHNQUEraKtelNqL+/gpIRHn6ILF7effek9R3js6h3Bxq7ySM5wP3ECx/zXQjK95enV8alIuYqI1CmMHPV8eZJqUuRRaQnZjeE5+OEjb3V7ryfBMJYr24Qe23tMLF0oTv+PKA/w13a2dHffwqKkHV7LvH4s+vik/Z2jx8y7c3SH9N2EKgJJU+nQDlW7s7Oh3Jld7KqczubO/OvSdbY4",
+  "size": 1811041,
+  "released": "2026-10-01T12:17:52Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -100,6 +100,16 @@
     "Kadrlar: xitamda istifadə olunmamış məzuniyyətə görə kompensasiyanın ilkin hesabı; Reyestrlər bölməsində statistika qrafikləri",
     "Kadrlar → Əməliyyatlar: e-Sosial portalında toplu sənəd yaradılması — məzuniyyət, ezamiyyə və digər əmrlər, müqavilə və dəyişiklik, xitam, tabel, ləğv, işçiyə sənəd, icazə bildirişləri, ştat cədvəli (PLS yalnız yaradır, imza portalda)",
     "Kadrlar → Əməliyyatlar: Excel şablonu, quru yoxlama (nömrə sərf olunmur), təsdiq pəncərəsi, jurnal — yarımçıq qalsa eyni nömrə ilə davam",
-    "Aktiv sessiyalar: eyni müəssisənin e-Vergi, e-Sosial və bank sessiyaları bir kartda; ad və VÖEN portalın səhifəsindən də oxunur"
+    "Aktiv sessiyalar: eyni müəssisənin e-Vergi, e-Sosial və bank sessiyaları bir kartda; ad və VÖEN portalın səhifəsindən də oxunur",
+    "e-taxes: portalın tabını bağlasanız da PLS işləməyə davam edir; portaldan çıxanda və ya sessiya bitəndə PLS də dərhal çıxır və «e-taxes sessiyası bitib» yazısı göstərilir",
+    "Kadrlar modulu «İnsan resursları» adlandı (menyu, səhifələr, Ayarlar, icazələr)",
+    "Əsas icmal yenidən: solda müəssisələr (hər müəssisə öz rəngində), sağda «Yaxın 14 gün» (vergi müddətləri, kadr tarixləri, ASAN sertifikatları), son bildirişlər, elanlar və ASAN İmza",
+    "Əsas icmal → e-Vergi: müştərinin öhdəlikləri üzrə yaxın müddətlər, təqdim edilməmiş bəyannamələr, oxunmamış məktublar, aktiv sərəncamlar, ƏDV depoziti və sürətli keçidlər («Təsdiq gözləyir» və satış/alış qrafiki çıxarıldı)",
+    "Əsas icmal → İnsan resursları: işçi sayı (12 ay), aylıq fond, hazırda yoxdur, bitən müqavilələr, diqqət tələb edənlər (müqavilə, vəsiqə, minimum əməkhaqqı, tabel) və keçidlər",
+    "Sol panel: sistemə girişdə bütün qruplar bağlı açılır",
+    "Başlıq → Portallar: daxil olunmuş portallar müəssisələr üzrə — şirkət adı və VÖEN, hər müəssisə öz rəngində",
+    "Bildirişlər: yığcam yeni dizayn, zəng ikonu qırmızı; ekrandakı bildirişlər 5 saniyədən sonra özü bağlanır (taymer zolağı)",
+    "Portallar → Statistika: stat.gov.az e-hesabatları — 11 sahə üzrə 17 keçid (əhali, əmək, sosial, kənd təsərrüfatı, qiymət, milli hesablar, sənaye və tikinti, xidmət, energetika, ticarət, həyat keyfiyyəti)",
+    "ASAN İmza → Daxil et: sayt dəstəklənməyən ünvana keçəndə bildirişdə həmin ünvan göstərilir (ASB və digər banklar üçün)"
   ]
 }
