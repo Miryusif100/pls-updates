@@ -1,10 +1,10 @@
 {
-  "version": "0.9.12.1",
-  "file": "test/releases/pls-0.9.12.1.zip",
-  "sha256": "4bc9066e30a158f981445bf56ece13d8309d2ed137a0a4bdd727d63116d48f73",
-  "signature": "rP1RNvQ8zvgw91CvOYuya3c7HwQuPhj2vgFCaZaowDouLo0fiZkurG/soz3PkudqhKjWbeWMAjibtgYwAudo0BdjS64G9t+K7A3++84UYRjVzW7/PZXeVoO7J8qe8In6PQPZH7wEtIsw3AWbuLbGC8/r7k1R7C1rae1JW0C+uV+GVgfO0wFfdZv/tf4e1QnLoNHKWr4XbqwjD9efhtMKzX1fqdIcVUaIK2iUMUjdUc/8+KJRZSKMqJ2BfGS/Yhf/DnsVpZlkqXp6/tgHA5ywwOTnbldeI2F75PTEVk0bj45C/cied7RQWFJEMa4Zhzn6dUO6JfMiWchS+JaSmECkR7VycHycm4Pe7cif7/hhzZsP9XjzcG5/N+0kD/5menizBYPnQPkNWSBdv28Tcq6yh1l3QvbNhWicHCwI6+LKDtQm13p7ubA/w9yA9aAc7O6xf4zGiHupfpD+3TMHraZmoRn2r/9bf3eWPwbtATfD1xM4UeTGcJOj51k0VNCVjKmx",
-  "size": 1825371,
-  "released": "2026-10-01T13:36:38Z",
+  "version": "0.9.13.1",
+  "file": "test/releases/pls-0.9.13.1.zip",
+  "sha256": "e75a0a211cb34662dc59f6b463ba5a0730c3bc2ba05c908fe8686eeca6891711",
+  "signature": "N2Q5XT5krE/JPMTwj8ivv6lg1qXCglblA7KMlRAsDuVa2pTol6Q4hI3p3iQYjqerJzv6gU4JP7rL0gxpmG548eddtHtB77AcNbGTJmmA3sq6VNK/8TIF+C42B7ytqzEaYkS/mewDBD7/PfXsmfHL3k73Gz2JvZj8ZeGJNIqtesZacpNRHyh/P4sJaZCZcnK+Y1O9VVlD9uvkKvklaSdJzh+7859g+iVmq2FXT4lzOErvnM3a4pCLmtPS+54if4O+KJ7icspC4XztOgxIqIGcI11IFixAG6JGH5DrdW6NjlCF4roPkEeDBzVrTu385DA/S+hB9MM89u733cR7ByucIm6S8hVHG9ww5+ndTCEl54m7kPOISHQgw1iIub4gBIfmTkKnSmbaSajcUETyNj3sYIuKDjfeG/SHh23/CsIzHhh6ngi0fhtbfG0/y6X1yW86+osqzxM5Rz9vYe7iC744EDNHOmkRsJ1gHh9zLr/K3iGgwFryXsxdv9RAScWa8MnI",
+  "size": 1842858,
+  "released": "2026-10-01T14:47:29Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -111,11 +111,16 @@
     "Bildirişlər: yığcam yeni dizayn, zəng ikonu qırmızı; ekrandakı bildirişlər 5 saniyədən sonra özü bağlanır (taymer zolağı)",
     "Portallar → Statistika: stat.gov.az e-hesabatları — 11 sahə üzrə 17 keçid (əhali, əmək, sosial, kənd təsərrüfatı, qiymət, milli hesablar, sənaye və tikinti, xidmət, energetika, ticarət, həyat keyfiyyəti)",
     "ASAN İmza → Daxil et: sayt dəstəklənməyən ünvana keçəndə bildirişdə həmin ünvan göstərilir (ASB və digər banklar üçün)",
-    "Gömrük, e-Sosial və banklar: portalın və ya bankın tabını bağlasanız da PLS işləməyə davam edir; sessiya bitəndə PLS də dərhal çıxır və xəbər verir",
+    "Gömrük, e-Sosial, banklar və AYNA (E-Daşıyıcılar, E-ƏNQ, taxoqraf): portalın və ya bankın tabını bağlasanız da PLS işləməyə davam edir; sessiya bitəndə PLS də dərhal çıxır və xəbər verir",
     "Toplu qaimə: yeni Excel şablonu — «Vergi növü» açılan siyahıdır, ƏDV bazaları formulla hesablanır, VÖEN, kod, miqdar, qiymət və ölçü vahidi yoxlanılır, «Təlimat» vərəqi",
     "Toplu qaimə: boş sətirlər tamamilə nəzərə alınmır (1000 sətirlik şablonda yalnız doldurulanlar)",
     "Toplu qaimə: «Portaldakı paketlər» — yüklədiyiniz paketin statusu (emal olunur, uğurlu, qismən, xəta) 20 saniyədən bir yenilənir; uğurlu paketdə qaralamaların seriyası və «Portalda aç»",
     "Toplu qaimə: eyni paketi təkrar hazırlayanda və ya portalda bu gün eyni alıcı və cəmlə sənəd olanda xəbərdarlıq — paketi portalda bir dəfə yükləyin",
-    "Toplu qaimə: obyekt adı və kodu sütunları, böyük siyahı bir neçə paketə bölünür (Ayarlar → Vergi), alıcının adı portaldakından fərqlidirsə xəbərdarlıq, nəticə Excel-i"
+    "Toplu qaimə: obyekt adı və kodu sütunları, böyük siyahı bir neçə paketə bölünür (Ayarlar → Vergi), alıcının adı portaldakından fərqlidirsə xəbərdarlıq, nəticə Excel-i",
+    "Toplu qaimə: «Portala yüklə» — hazır paketi PLS özü portala yükləyir və emala göndərir (təsdiqlə, hər paket bir dəfə); imzalamaq portalda qalır",
+    "Toplu qaimə: portalın paketi rədd etməsinin səbəbləri düzəldildi — boş barkod 0 kimi yazılır, «Qeyd» məcburidir, sətir cəmləri portalın tələb etdiyi bərabərliklə",
+    "Toplu qaimə: Ayarlar → Vergi → «Standart qeyd» — qeydi boş qaimələrə yazılır",
+    "Toplu qaimə: alıcıların VÖEN-i portalda yoxlanmadan paket hazırlanmır; nümunə VÖEN-li sətirlər paketə düşmür",
+    "Toplu qaimə: «Portaldakı paketlər»də hər qaimə üzrə portalın cavabı və yaradılan qaralamanın «Portalda aç» keçidi"
   ]
 }
