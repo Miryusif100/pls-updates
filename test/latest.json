@@ -1,10 +1,10 @@
 {
-  "version": "0.9.11.1",
-  "file": "test/releases/pls-0.9.11.1.zip",
-  "sha256": "98c533708f0bce3c902df828929c7bd3036150e31668a8b1787e53898f6a98a1",
-  "signature": "OFOlIln5EZdJm/55uYVIjFahWXzIP5n/ua4VCqZFvms+sqvL98Injg4u2PlNfTWaRiRefMzluAPkj0nCvExAr4ijht7uNez6bIY/yPxft64E1XzLenL7fpv3WNoH4adnHW/MlWo7Duhlva5RkA1V9PNDnvUGqqlmrDEFrmwDotgP4+Lkg/CjscNaGUod6jjM/kxQDSHToijbxfE+SvU6BUogmLn2WLKBQx885bbpo/ENZ/amQnhdT5fpdgqsrLDDNzATnTREHxKWPFz++DMMaBr1cY+LoBifg6eSOpUQIPkvPqiHNQUEraKtelNqL+/gpIRHn6ILF7effek9R3js6h3Bxq7ySM5wP3ECx/zXQjK95enV8alIuYqI1CmMHPV8eZJqUuRRaQnZjeE5+OEjb3V7ryfBMJYr24Qe23tMLF0oTv+PKA/w13a2dHffwqKkHV7LvH4s+vik/Z2jx8y7c3SH9N2EKgJJU+nQDlW7s7Oh3Jld7KqczubO/OvSdbY4",
-  "size": 1811041,
-  "released": "2026-10-01T12:17:52Z",
+  "version": "0.9.12.1",
+  "file": "test/releases/pls-0.9.12.1.zip",
+  "sha256": "4bc9066e30a158f981445bf56ece13d8309d2ed137a0a4bdd727d63116d48f73",
+  "signature": "rP1RNvQ8zvgw91CvOYuya3c7HwQuPhj2vgFCaZaowDouLo0fiZkurG/soz3PkudqhKjWbeWMAjibtgYwAudo0BdjS64G9t+K7A3++84UYRjVzW7/PZXeVoO7J8qe8In6PQPZH7wEtIsw3AWbuLbGC8/r7k1R7C1rae1JW0C+uV+GVgfO0wFfdZv/tf4e1QnLoNHKWr4XbqwjD9efhtMKzX1fqdIcVUaIK2iUMUjdUc/8+KJRZSKMqJ2BfGS/Yhf/DnsVpZlkqXp6/tgHA5ywwOTnbldeI2F75PTEVk0bj45C/cied7RQWFJEMa4Zhzn6dUO6JfMiWchS+JaSmECkR7VycHycm4Pe7cif7/hhzZsP9XjzcG5/N+0kD/5menizBYPnQPkNWSBdv28Tcq6yh1l3QvbNhWicHCwI6+LKDtQm13p7ubA/w9yA9aAc7O6xf4zGiHupfpD+3TMHraZmoRn2r/9bf3eWPwbtATfD1xM4UeTGcJOj51k0VNCVjKmx",
+  "size": 1825371,
+  "released": "2026-10-01T13:36:38Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -110,6 +110,12 @@
     "Başlıq → Portallar: daxil olunmuş portallar müəssisələr üzrə — şirkət adı və VÖEN, hər müəssisə öz rəngində",
     "Bildirişlər: yığcam yeni dizayn, zəng ikonu qırmızı; ekrandakı bildirişlər 5 saniyədən sonra özü bağlanır (taymer zolağı)",
     "Portallar → Statistika: stat.gov.az e-hesabatları — 11 sahə üzrə 17 keçid (əhali, əmək, sosial, kənd təsərrüfatı, qiymət, milli hesablar, sənaye və tikinti, xidmət, energetika, ticarət, həyat keyfiyyəti)",
-    "ASAN İmza → Daxil et: sayt dəstəklənməyən ünvana keçəndə bildirişdə həmin ünvan göstərilir (ASB və digər banklar üçün)"
+    "ASAN İmza → Daxil et: sayt dəstəklənməyən ünvana keçəndə bildirişdə həmin ünvan göstərilir (ASB və digər banklar üçün)",
+    "Gömrük, e-Sosial və banklar: portalın və ya bankın tabını bağlasanız da PLS işləməyə davam edir; sessiya bitəndə PLS də dərhal çıxır və xəbər verir",
+    "Toplu qaimə: yeni Excel şablonu — «Vergi növü» açılan siyahıdır, ƏDV bazaları formulla hesablanır, VÖEN, kod, miqdar, qiymət və ölçü vahidi yoxlanılır, «Təlimat» vərəqi",
+    "Toplu qaimə: boş sətirlər tamamilə nəzərə alınmır (1000 sətirlik şablonda yalnız doldurulanlar)",
+    "Toplu qaimə: «Portaldakı paketlər» — yüklədiyiniz paketin statusu (emal olunur, uğurlu, qismən, xəta) 20 saniyədən bir yenilənir; uğurlu paketdə qaralamaların seriyası və «Portalda aç»",
+    "Toplu qaimə: eyni paketi təkrar hazırlayanda və ya portalda bu gün eyni alıcı və cəmlə sənəd olanda xəbərdarlıq — paketi portalda bir dəfə yükləyin",
+    "Toplu qaimə: obyekt adı və kodu sütunları, böyük siyahı bir neçə paketə bölünür (Ayarlar → Vergi), alıcının adı portaldakından fərqlidirsə xəbərdarlıq, nəticə Excel-i"
   ]
 }
