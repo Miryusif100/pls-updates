@@ -1,10 +1,10 @@
 {
-  "version": "0.9.13.1",
-  "file": "test/releases/pls-0.9.13.1.zip",
-  "sha256": "e75a0a211cb34662dc59f6b463ba5a0730c3bc2ba05c908fe8686eeca6891711",
-  "signature": "N2Q5XT5krE/JPMTwj8ivv6lg1qXCglblA7KMlRAsDuVa2pTol6Q4hI3p3iQYjqerJzv6gU4JP7rL0gxpmG548eddtHtB77AcNbGTJmmA3sq6VNK/8TIF+C42B7ytqzEaYkS/mewDBD7/PfXsmfHL3k73Gz2JvZj8ZeGJNIqtesZacpNRHyh/P4sJaZCZcnK+Y1O9VVlD9uvkKvklaSdJzh+7859g+iVmq2FXT4lzOErvnM3a4pCLmtPS+54if4O+KJ7icspC4XztOgxIqIGcI11IFixAG6JGH5DrdW6NjlCF4roPkEeDBzVrTu385DA/S+hB9MM89u733cR7ByucIm6S8hVHG9ww5+ndTCEl54m7kPOISHQgw1iIub4gBIfmTkKnSmbaSajcUETyNj3sYIuKDjfeG/SHh23/CsIzHhh6ngi0fhtbfG0/y6X1yW86+osqzxM5Rz9vYe7iC744EDNHOmkRsJ1gHh9zLr/K3iGgwFryXsxdv9RAScWa8MnI",
-  "size": 1842858,
-  "released": "2026-10-01T14:47:29Z",
+  "version": "0.9.13.2",
+  "file": "test/releases/pls-0.9.13.2.zip",
+  "sha256": "2e9c467e2f96791dfc855ecb7ca9dcf454a23c15f9b2b44bacd876a789d38eb9",
+  "signature": "AV9SnX8qitiNwOmdDDtUuLSM2N0CLlI8mp0Yj9lOebzzBu5gjvkkOzoGGQj4vp638yoQ8x27qg0wfRuXsgtHTQiJKoHJOez+G10HgUNxEx3fbeQ+vUBKnl4gTgLFGzlnDiqxUudpwOnOBVBKRCkMnxioiWrNwd260msBRG1fxNlCQwe2/+sSOKd0l6KmdiqkwhXtCz44rwv9BOR+T+9LHHXpRD/YAgT30+7Qit41FnOT+Q4N2d6ygxbXGgoG7oI/KQeUqEXPy4luEd+AKMfYgCnw+Lu4eI5soz6UctmwXRQI9s17ikky7X53famPNmRm1UzwxftV/BINXgTfQVMBP4c/Q2IlZibC7kvNLTvdAxmZUUxhdcdSO/3PYYWQ4BL5Tu1lVfimg3o46jitIEh3ygOgixXRxahr23HtIZbbBXewmw/VovSP2NZ7v5de0PLuUhK7Fs8Cp119UI8h7vr7ZuNsZv7DH/3Cz9HDgV5eEEAajqMigoW8jFKlIAPyTYjP",
+  "size": 1845722,
+  "released": "2026-10-01T17:02:08Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -121,6 +121,11 @@
     "Toplu qaimə: portalın paketi rədd etməsinin səbəbləri düzəldildi — boş barkod 0 kimi yazılır, «Qeyd» məcburidir, sətir cəmləri portalın tələb etdiyi bərabərliklə",
     "Toplu qaimə: Ayarlar → Vergi → «Standart qeyd» — qeydi boş qaimələrə yazılır",
     "Toplu qaimə: alıcıların VÖEN-i portalda yoxlanmadan paket hazırlanmır; nümunə VÖEN-li sətirlər paketə düşmür",
-    "Toplu qaimə: «Portaldakı paketlər»də hər qaimə üzrə portalın cavabı və yaradılan qaralamanın «Portalda aç» keçidi"
+    "Toplu qaimə: «Portaldakı paketlər»də hər qaimə üzrə portalın cavabı və yaradılan qaralamanın «Portalda aç» keçidi",
+    "Toplu qaimə: eyni məzmunlu paket ikinci dəfə hazırlansa da portala yalnız bir dəfə yüklənir",
+    "Əsas icmal: hər açıq portal üçün sabit ölçülü kart (müəssisənin adı, VÖEN-i və rəngi ilə) — göstəricilər, «Diqqət tələb edir» və keçidlər; portal açıq olmayanda başlanğıc kartı",
+    "Əsas icmal → Vergi → Nəzarət: təqdim edilməmiş bəyannamə, oxunmamış məktub, aktiv sərəncam, ƏDV depoziti, vaxtı keçmiş borc, artıq ödəmə — rəqəmlər İcmal açılanda yüklənir",
+    "Əsas icmal → İnsan resursları → İşçi heyəti: işçi sayı, aylıq əməkhaqqı fondu, məzuniyyətdə, xəstəlikdə, ezamiyyətdə, müddətli müqavilə, bu ay qəbul və xitam",
+    "Əsas icmal: salamlamada «Daxil ol» düyməsi (Portallara); Portallar bölməsində sütunlar eyni hündürlükdə"
   ]
 }
