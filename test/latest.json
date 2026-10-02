@@ -1,10 +1,10 @@
 {
-  "version": "0.9.15.2",
-  "file": "test/releases/pls-0.9.15.2.zip",
-  "sha256": "0e991a19f632845ea3afe20cd94a22718b49945babf1472c3479d708f3d33cf1",
-  "signature": "G0Yf3aVSOCj/KENIN0isFWmb5RS6tqj/sXqxI+VpnIVuXPYHhCWY6J0ookwOCz3I4nZXFdeTRZvLf3DB4PkvfE80Nat+q4MEoioERm8r3P9tQDDYNOO/QylxxUcYMoiEhD8Dcz6hrL9G00joXUHgANytynUk+ogZxQeb7/r4nIUG14NtUwGZfU3FGt63X+T/3TYkFSkpvUxzSJGp+zsbSgzv33eik2zFai3B94jaE+L+TbRQ+HQZEv6MXz2PJN//hvqGOjLm8NxeG2ebMrKY7Sc2h+3uou0LKeDjbY/x5HLyxX1QEjMQLZn49ODu9MAK1FpDMdT7LEMAa7nELZdomi4di3th5pS0g5BfdqPcwtKrcnKY0FRr6FHMm14GnLxJRAQQ8nzdB4myebE3Y+lONEienyIKbzLZE4wGb0spiHS786X3nyqJduF0WD1d+rNuardE3XsfW67DRrollcvqqzwI36+O+yJjwAga7vx+6e2jgW8rE2n4gDRIxBj1VRJo",
-  "size": 2263402,
-  "released": "2026-10-02T08:39:55Z",
+  "version": "0.9.15.3",
+  "file": "test/releases/pls-0.9.15.3.zip",
+  "sha256": "7169455ce80e952ee985d812eed4531aa8574d376d941bac4602bbca36374e9a",
+  "signature": "BtnrtoQkcJ/zaiKbaWKHxc0av0+T9lPsy0ILKb4FlMbOxh1gmyYCqMOjd9szL9Am5gIk2eTzlLYTCY+YOWloEROMXqr5M3ILeRwXEUv5pcqJzY9B56lrzvwFc+jfTEt5PGW3VVx8MzT+hcv1Pn59gNpFy7mq/PEtyBupQfWbWpPQVp7SnQIm9tM8mqOWRxDo2m7CAtHGYXKeICo6lUplKbwwiXcpZbKXUISu/bLsrhrg+CDyKJMJfw9M+ki+swr6msaUjin4J6bxLZHWukiDCutlma8GF+q6UutvC0K+Kv7mhZpF8BKxnTs/vRW4yo2j2P2axu2vIQqPG9HJVIQZRkyo4GwH9ocDRj2sy+iWYr/MGz4P/N72A34tgLIDWAslRz156XeE9a6eEWk0OMpW86kpoPe+wfo9NCyCt5QiBzuaA0t4rg9Uesyygc0WsDo7yy7u5FIpjoYxtEHIE0h/j82/SAhCeoR6n1XbbpGvyTpWFfhFOqvzYU+/0UbRHi6o",
+  "size": 2262624,
+  "released": "2026-10-02T11:15:34Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -154,6 +154,12 @@
     "Əməliyyatlar: avansa bağlı MT, avans qaiməsi (AA) və qaytarma (MQ) üç üsulla — portaldan yüklənmiş qaimələrdən seçim, əl ilə və Excel ilə (şablon və toplu qaralama)",
     "Əməliyyatlar: yeni dizayn — kartlar hizalı, heç nə kənara çıxmır; «Portalda qaralamalara keç» birbaşa «Qaralamalar» tabını açır",
     "Məktublar: məktubu açanda «Məktubun nömrəsi düzgün deyil» xətası düzəldi; qoşmalar və məktubun PDF-i endirilir",
-    "Sol menyu: yığılmış menyu üzərinə gələndə rahat açılır, bölmə seçiləndə özü yığılır; yuxarıda yaşıl-ağ PLS işarəsi"
+    "Sol menyu: yığılmış menyu üzərinə gələndə rahat açılır, bölmə seçiləndə özü yığılır; yuxarıda yaşıl-ağ PLS işarəsi",
+    "Yan menyu: bütün modulların bölmələri qruplara bölündü (Vergi, Bank, İnsan resursları, Gömrük, AYNA); İcmal, Tənzimləmələr və Administrator rəngli ikonla",
+    "«Ayarlar» bölməsinin adı «Tənzimləmələr» oldu; brauzer tabında açıq bölmənin adı görünür",
+    "PLS ikonu yeniləndi — portal düyməsi kimi dairəvi; aktiv sessiya kartı menyunun rəngində",
+    "Bildirişlər: rəngli panel, yığcam sətirlər — basanda açılır",
+    "Vergi → Məlumat: obyektlər, kassa aparatları (rejim, NMQ-nin zavod nömrəsi), POS terminallar və bank hesabları portaldakı kimi",
+    "Məktublar: vergi orqanı və digər vergi ödəyicisi ayrıca, gələn/göndərilən/qaralama rəngli; göndərilənlərin növü düzəldi; «Cavabla» portalın cavab pəncərəsini açır"
   ]
 }
