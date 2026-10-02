@@ -1,10 +1,10 @@
 {
-  "version": "0.9.14.3",
-  "file": "test/releases/pls-0.9.14.3.zip",
-  "sha256": "c33ce3ddd3acf6f1143b7c7825c0e3c7341b3ce314b7d1f3896189f82261e16a",
-  "signature": "Y0weIh1g8+bcru0RARZXgyHlzZ+TxhDuPOwyTGipqrJj6ebjC1fcfzZ7q9mXbUUa977cqWoCJ6to6bCo0qI7cnakSEqWO72x2bfucc91m/tE2FyB2YZZK7E2hUOUOaIkOwBm6Y4Mp+kc5IV9yHkp5FG0USwLIXescnS4YNfPB94OSaKZ2CUN58zAN5A9NQSA2r/PdeWze12twaOa+0+BuXwZbzy/6KIJGfOf2/HuTpNrBRew/xiJ6Jo4GpwO1rhbb5H6fBlr9g0N4oBluieMfHDxLegomX3tnD5al/7DQucSpsjpRp+h3ysOYN2+f24uPk3uO3I9KYF806Ruv/SjETpgIiC6Oxhz5yMsEq9R8bIhtyKqAF8XwgsLE7aNymB4q5tFFZtR0T+PnRpAmBZ1f/64oc+PJlng9D3AAyHCU3DgIxxSWjUriwbva6t2hVvFmMtE9t7NmuToRfMIEEeAa/G2/HNo3PM4e8y7ORbQKaKlSLbqQZbsRtXzFB8GcRKI",
-  "size": 2233295,
-  "released": "2026-10-02T06:41:58Z",
+  "version": "0.9.15.1",
+  "file": "test/releases/pls-0.9.15.1.zip",
+  "sha256": "1d9bbea85e5ec9e84fb46b56d3013e185325342539ac64ed8d3b9611cea364d1",
+  "signature": "NDRYiICb3xfQ4XXchQDvJmr2MSrVgML9ZgocljhmSE+Z2+g8xZpnJc501cHULc79N32ZnhHJ55EUNncKpX3lEzDDL98ZKcgSt3b+FUZ1Rhv2rk9WvdZmFmCYk1noT/OLcV8ArsIggyVR3B6sjfto0w5cOTh7HBnf5nA353/DDiaJyKbuMLhTepHH2MNI9uQW48QPbBQSZyUx3Hbhe0I9As9lfRQjc2hz3Cl8KyJhlmVF85l/ruJyrM4N7X2890ecEjKte/cVDZakPvuUbZshAu7gahUdQFlCV72vfuNHuLoA2BrgdHtQWsNc+NVr2WRyqT9mQBVvFV7GqZy/tsVZidkTf7TINl9YVdioQqgh/KjEAP9MySfISx8t/PEDltG06olkHfpaZHZoEFSF96Sd6tulqpal7EkpAywaKLdBpemMUx/vDXda8HhLSUJDrJhCHgfMFOv+Y/ndQdRz1AIjI4WSh/Sz+Q8Cg+99Ppm9HmfPitZ3YCnLv1Ssc8wRC0op",
+  "size": 2263530,
+  "released": "2026-10-02T07:26:40Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -133,7 +133,7 @@
     "Vergi icmalı: satış və alış qaimə növlərinə görə — qaytarma (MQ) azaldır, avans (AA) və ST daxil deyil; qrafikdə seçimlər; «Qaimə növləri» kartı; «Büdcəyə ödənişlər» çıxarıldı",
     "Qrafiklər: «Cədvəl» görünüşü və «⋯ Excel» çıxarıldı (səhifənin Excel/PDF düymələri qalır)",
     "Portal düyməsi: siçanla sürükləyib istənilən yerə aparmaq olar; Ayarlar → Fərdi ayarlar → «Portal düyməsi»: düyməni və salamı açıb-bağlamaq, standart yerə qaytarmaq",
-    "Portal düyməsi: ətrafında yaşıl işıq dövr edir; salam «köməkçi yazır…» kimi gəlir, mesajları administrator yazır (Administrator → Köməkçi)",
+    "Portal düyməsi: ətrafında yaşıl işıq dövr edir; salam düymədən çıxan qabarcıqlarla, iki rəngli başlıqlı balonda gəlir, mesajları administrator yazır (Administrator → Köməkçi)",
     "Portal düyməsi: üzərinə gələndə bölmələrə sürətli keçidlər; buraxılanda kənara yapışır; Alt+Shift+P ilə panel; sessiya bitəndə qırmızı nöqtə və xəbərdarlıq; ölçüsü Ayarlarda",
     "Portal düyməsi: ətrafında həmişə sakit, yavaş dolanan parıltılı halqa (açılışda ilk 5 saniyə daha sürətli)",
     "Vergi → Əməliyyatlar: yeni qaimə (MT), avansa bağlı MT, avans qaiməsi (AA) və qaytarma (MQ) — avanslar və mənbə qaimələr portaldan seçilir, PLS yalnız qaralama yaradır, imzalama portalda",
@@ -147,6 +147,12 @@
     "Vergi → Məlumat: bölmələr rəngli, obyekt, kassa aparatı (NKA) və POS statusları portaldakı kimi, izahlar «i» düyməsində",
     "Vergi təqvimi: yeni kartlar (təqdim edilməyib, 10 gün ərzində, ən yaxın son tarix), sürətli süzgəclər, aylar üzrə siyahı, məktubların cavab müddətləri",
     "Məktublar: gələnlər, göndərilənlər və qaralamalar; vergi orqanı və digər vergi ödəyiciləri ilə yazışma; məktubun məzmunu, faylları və tarixçəsi PLS-də",
-    "Məktublar: yeni məktub bildirişi, cavab müddəti xəbərdarlığı, cavab gözləyən göndərilənlər, məktublar jurnalı (Excel), qoşmaların toplu endirilməsi"
+    "Məktublar: yeni məktub bildirişi, cavab müddəti xəbərdarlığı, cavab gözləyən göndərilənlər, məktublar jurnalı (Excel), qoşmaların toplu endirilməsi",
+    "Vergi: yeni «E-qaimə fakturalar» bölməsi — Əməliyyatlar, Elektron qaimələr, Alış aktları, EQF alt sənədlər (Vergi təqvimindən yuxarıda)",
+    "Əməliyyatlar: «Toplu qaimə (Excel)» indi Əməliyyatların daxilindədir; ayrıca «Yeni qaimə (MT)» forması çıxarıldı",
+    "Əməliyyatlar: avansa bağlı MT, avans qaiməsi (AA) və qaytarma (MQ) üç üsulla — portaldan yüklənmiş qaimələrdən seçim, əl ilə və Excel ilə (şablon və toplu qaralama)",
+    "Əməliyyatlar: yeni dizayn — kartlar hizalı, heç nə kənara çıxmır; «Portalda qaralamalara keç» birbaşa «Qaralamalar» tabını açır",
+    "Məktublar: məktubu açanda «Məktubun nömrəsi düzgün deyil» xətası düzəldi; qoşmalar və məktubun PDF-i endirilir",
+    "Sol menyu: yığılmış menyu üzərinə gələndə rahat açılır, bölmə seçiləndə özü yığılır; yuxarıda yaşıl-ağ PLS işarəsi"
   ]
 }
