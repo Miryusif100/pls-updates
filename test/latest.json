@@ -1,10 +1,10 @@
 {
-  "version": "0.9.15.5",
-  "file": "test/releases/pls-0.9.15.5.zip",
-  "sha256": "7172956c0be68286f8ba71d67f09cb62038d2cecd48dcdf086cac0c93ee3bc74",
-  "signature": "i3KAqP050nl8K1mRc7dNYeJumeSqHlN+88xHmpkTkck4h89SH5n9az0ixzFKN+zjAQUEQNZkKvXhNKCjnf79yzMcbMVTQw1kL26XxXXefZsicA62bD3gDPmZeb1vCi1Yoj24fiKU2vAqHPsSrc7X33y9snsm5v74JlltmmienTNasjPg9lVX0alT/jJPbywr8JY0pZfmsL/1GSfFzOk1spmpg0cOCSLmGuqsx9rIgbHUylpc3EaZP41ze3LFJoKUTaltPHM59na26rt7FS+3usvPAeB/BFoh9G2Woj+KRQ4R1bixHiEcZb6ugs1XnKPFbMzmoMyC7BLAbYsjLTswqU1AzxLifh6D4R1cy+zzZlxWY6r+9uo587F7gz9w0uYkETZ/3ZuV3s624PZ2lDVBDzvzlT4fiHBL60ptGcGkRjufsXmfiulrN4DNXBDxBPicmw1MPqLRnhcH2a/jqAY33PBPvoSGNiHTGuLlOxjxT9URs0hngwTIw5wEX6RPq5Cm",
-  "size": 2266088,
-  "released": "2026-10-02T16:43:07Z",
+  "version": "0.9.15.6",
+  "file": "test/releases/pls-0.9.15.6.zip",
+  "sha256": "2a94321b33d760d2fa9298424e667d17fb208767513110df4bca91a35e7f1163",
+  "signature": "dE+InQfebHTDgurWRlS2RtsK98u4KO5Sa9LhBceOiK3cRiU7b7GtHzWQXM4jdiPvaZN63qMzI69fL6GHPH5ygoIgcZ4TqjNcUC4MkiBMRA1ePMM92cZ+BWBKtDet12/SYcB/v8IhOMXgLSJ6xu7NNfpimw13FyNdvBLIBE2KPKvUK9JINOgHvQ7ADF8maPFfEQNs3XP0dyMwP3p/YJhesIqRca6G4BBdMNTZ7yhG82n/nwJZC0QqvM8whx28cyg9YU/WIz69MYb1BR4gpJ5A9vsoJYJOhnjHtBf56rmcM6E/eeldVsQ0sbzpo2OT6O8L+KW/RoYK8DNTDIFJAFji0aR5uvhMhVS+LakbA53pPo4ia0MP1SX1qvyo29fx1a56lP7XFTxY920wfAntTZ9I7N9Q8s4fYBBggF91RQlxk2L1fVsX+wccqxFd9o0mw4k7iViiAHkcxilBb7zNgW2DXkSklVtKzZsp+3LOmZGYskhvnflQZ4AyeRYx+l2kdZyW",
+  "size": 2285625,
+  "released": "2026-10-02T17:19:03Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -162,6 +162,12 @@
     "Vergi → Məlumat: obyektlər, kassa aparatları (rejim, NMQ-nin zavod nömrəsi), POS terminallar və bank hesabları portaldakı kimi",
     "Məktublar: vergi orqanı və digər vergi ödəyicisi ayrıca, gələn/göndərilən/qaralama rəngli; göndərilənlərin növü düzəldi; «Cavabla» portalın cavab pəncərəsini açır",
     "Portal düyməsi: «İdarə paneli» İcmalı açır; üzərinə gələndə seçilən düymə önə çıxır; «Bağlantını yoxla» qısa nəticə verir — hansı portallar aktivdir",
-    "Sol menyu: bölmə axtarışı — yazın («edv», «məktub»), Enter ilə açılır; Ctrl+K ilə istənilən yerdən"
+    "Sol menyu: bölmə axtarışı — yazın («edv», «məktub»), Enter ilə açılır; Ctrl+K ilə istənilən yerdən",
+    "Menyu: hər bölmənin ikonu, adlar tam görünür; kəsilmiş mətnin tamı üzərinə gələndə görünür",
+    "Vergi icmalı: açıq rəngli kartlar, rahat filtr zolağı, «Sıfırla» düyməsi",
+    "Bildirişlər artıq ekranda ilişib qalmır — özü bağlanır",
+    "Toplu qaimə: xətalar yuxarıda siyahı ilə; portalda silinmiş paketi yenidən göndərmək olur; təsdiqlər və rəngli addımlar",
+    "Avansa bağlı MT: aktiv və passiv avanslar, «Tarixçə», avansın malları bir kliklə; AA sıfırdan; MQ bir neçə qaimə üzrə ayrıca",
+    "Yeni: «Mallarım (şablonlar)» — portalın mal şablonlarını toplu yaratmaq və qaimədə istifadə etmək"
   ]
 }
