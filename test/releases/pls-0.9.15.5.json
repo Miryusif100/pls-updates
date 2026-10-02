@@ -1,10 +1,10 @@
 {
-  "version": "0.9.14.3",
-  "file": "test/releases/pls-0.9.14.3.zip",
-  "sha256": "c33ce3ddd3acf6f1143b7c7825c0e3c7341b3ce314b7d1f3896189f82261e16a",
-  "signature": "Y0weIh1g8+bcru0RARZXgyHlzZ+TxhDuPOwyTGipqrJj6ebjC1fcfzZ7q9mXbUUa977cqWoCJ6to6bCo0qI7cnakSEqWO72x2bfucc91m/tE2FyB2YZZK7E2hUOUOaIkOwBm6Y4Mp+kc5IV9yHkp5FG0USwLIXescnS4YNfPB94OSaKZ2CUN58zAN5A9NQSA2r/PdeWze12twaOa+0+BuXwZbzy/6KIJGfOf2/HuTpNrBRew/xiJ6Jo4GpwO1rhbb5H6fBlr9g0N4oBluieMfHDxLegomX3tnD5al/7DQucSpsjpRp+h3ysOYN2+f24uPk3uO3I9KYF806Ruv/SjETpgIiC6Oxhz5yMsEq9R8bIhtyKqAF8XwgsLE7aNymB4q5tFFZtR0T+PnRpAmBZ1f/64oc+PJlng9D3AAyHCU3DgIxxSWjUriwbva6t2hVvFmMtE9t7NmuToRfMIEEeAa/G2/HNo3PM4e8y7ORbQKaKlSLbqQZbsRtXzFB8GcRKI",
-  "size": 2233295,
-  "released": "2026-10-02T06:41:58Z",
+  "version": "0.9.15.5",
+  "file": "test/releases/pls-0.9.15.5.zip",
+  "sha256": "7172956c0be68286f8ba71d67f09cb62038d2cecd48dcdf086cac0c93ee3bc74",
+  "signature": "i3KAqP050nl8K1mRc7dNYeJumeSqHlN+88xHmpkTkck4h89SH5n9az0ixzFKN+zjAQUEQNZkKvXhNKCjnf79yzMcbMVTQw1kL26XxXXefZsicA62bD3gDPmZeb1vCi1Yoj24fiKU2vAqHPsSrc7X33y9snsm5v74JlltmmienTNasjPg9lVX0alT/jJPbywr8JY0pZfmsL/1GSfFzOk1spmpg0cOCSLmGuqsx9rIgbHUylpc3EaZP41ze3LFJoKUTaltPHM59na26rt7FS+3usvPAeB/BFoh9G2Woj+KRQ4R1bixHiEcZb6ugs1XnKPFbMzmoMyC7BLAbYsjLTswqU1AzxLifh6D4R1cy+zzZlxWY6r+9uo587F7gz9w0uYkETZ/3ZuV3s624PZ2lDVBDzvzlT4fiHBL60ptGcGkRjufsXmfiulrN4DNXBDxBPicmw1MPqLRnhcH2a/jqAY33PBPvoSGNiHTGuLlOxjxT9URs0hngwTIw5wEX6RPq5Cm",
+  "size": 2266088,
+  "released": "2026-10-02T16:43:07Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -133,7 +133,7 @@
     "Vergi icmalı: satış və alış qaimə növlərinə görə — qaytarma (MQ) azaldır, avans (AA) və ST daxil deyil; qrafikdə seçimlər; «Qaimə növləri» kartı; «Büdcəyə ödənişlər» çıxarıldı",
     "Qrafiklər: «Cədvəl» görünüşü və «⋯ Excel» çıxarıldı (səhifənin Excel/PDF düymələri qalır)",
     "Portal düyməsi: siçanla sürükləyib istənilən yerə aparmaq olar; Ayarlar → Fərdi ayarlar → «Portal düyməsi»: düyməni və salamı açıb-bağlamaq, standart yerə qaytarmaq",
-    "Portal düyməsi: ətrafında yaşıl işıq dövr edir; salam «köməkçi yazır…» kimi gəlir, mesajları administrator yazır (Administrator → Köməkçi)",
+    "Portal düyməsi: ətrafında yaşıl işıq dövr edir; salam düymədən çıxan qabarcıqlarla, iki rəngli başlıqlı balonda gəlir, mesajları administrator yazır (Administrator → Köməkçi)",
     "Portal düyməsi: üzərinə gələndə bölmələrə sürətli keçidlər; buraxılanda kənara yapışır; Alt+Shift+P ilə panel; sessiya bitəndə qırmızı nöqtə və xəbərdarlıq; ölçüsü Ayarlarda",
     "Portal düyməsi: ətrafında həmişə sakit, yavaş dolanan parıltılı halqa (açılışda ilk 5 saniyə daha sürətli)",
     "Vergi → Əməliyyatlar: yeni qaimə (MT), avansa bağlı MT, avans qaiməsi (AA) və qaytarma (MQ) — avanslar və mənbə qaimələr portaldan seçilir, PLS yalnız qaralama yaradır, imzalama portalda",
@@ -147,6 +147,21 @@
     "Vergi → Məlumat: bölmələr rəngli, obyekt, kassa aparatı (NKA) və POS statusları portaldakı kimi, izahlar «i» düyməsində",
     "Vergi təqvimi: yeni kartlar (təqdim edilməyib, 10 gün ərzində, ən yaxın son tarix), sürətli süzgəclər, aylar üzrə siyahı, məktubların cavab müddətləri",
     "Məktublar: gələnlər, göndərilənlər və qaralamalar; vergi orqanı və digər vergi ödəyiciləri ilə yazışma; məktubun məzmunu, faylları və tarixçəsi PLS-də",
-    "Məktublar: yeni məktub bildirişi, cavab müddəti xəbərdarlığı, cavab gözləyən göndərilənlər, məktublar jurnalı (Excel), qoşmaların toplu endirilməsi"
+    "Məktublar: yeni məktub bildirişi, cavab müddəti xəbərdarlığı, cavab gözləyən göndərilənlər, məktublar jurnalı (Excel), qoşmaların toplu endirilməsi",
+    "Portal düyməsi: üzərinə gələndə İdarə paneli, ASAN İmza hesabları, Tənzimləmələr və Bağlantını yoxla; düymələr öz səhifəsini açır, adı düymənin yanında görünür",
+    "Vergi: yeni «E-qaimə fakturalar» bölməsi — Əməliyyatlar, Elektron qaimələr, Alış aktları, EQF alt sənədlər (Vergi təqvimindən yuxarıda)",
+    "Əməliyyatlar: «Toplu qaimə (Excel)» indi Əməliyyatların daxilindədir; ayrıca «Yeni qaimə (MT)» forması çıxarıldı",
+    "Əməliyyatlar: avansa bağlı MT, avans qaiməsi (AA) və qaytarma (MQ) üç üsulla — portaldan yüklənmiş qaimələrdən seçim, əl ilə və Excel ilə (şablon və toplu qaralama)",
+    "Əməliyyatlar: yeni dizayn — kartlar hizalı, heç nə kənara çıxmır; «Portalda qaralamalara keç» birbaşa «Qaralamalar» tabını açır",
+    "Məktublar: məktubu açanda «Məktubun nömrəsi düzgün deyil» xətası düzəldi; qoşmalar və məktubun PDF-i endirilir",
+    "Sol menyu: yığılmış menyu üzərinə gələndə rahat açılır, bölmə seçiləndə özü yığılır; yuxarıda yaşıl-ağ PLS işarəsi",
+    "Yan menyu: bütün modulların bölmələri qruplara bölündü (Vergi, Bank, İnsan resursları, Gömrük, AYNA); İcmal, Tənzimləmələr və Administrator rəngli ikonla",
+    "«Ayarlar» bölməsinin adı «Tənzimləmələr» oldu; brauzer tabında açıq bölmənin adı görünür",
+    "PLS ikonu yeniləndi — portal düyməsi kimi dairəvi; aktiv sessiya kartı menyunun rəngində",
+    "Bildirişlər: rəngli panel, yığcam sətirlər — basanda açılır",
+    "Vergi → Məlumat: obyektlər, kassa aparatları (rejim, NMQ-nin zavod nömrəsi), POS terminallar və bank hesabları portaldakı kimi",
+    "Məktublar: vergi orqanı və digər vergi ödəyicisi ayrıca, gələn/göndərilən/qaralama rəngli; göndərilənlərin növü düzəldi; «Cavabla» portalın cavab pəncərəsini açır",
+    "Portal düyməsi: «İdarə paneli» İcmalı açır; üzərinə gələndə seçilən düymə önə çıxır; «Bağlantını yoxla» qısa nəticə verir — hansı portallar aktivdir",
+    "Sol menyu: bölmə axtarışı — yazın («edv», «məktub»), Enter ilə açılır; Ctrl+K ilə istənilən yerdən"
   ]
 }
