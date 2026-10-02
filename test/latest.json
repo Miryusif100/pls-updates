@@ -1,10 +1,10 @@
 {
-  "version": "0.9.15.3",
-  "file": "test/releases/pls-0.9.15.3.zip",
-  "sha256": "7169455ce80e952ee985d812eed4531aa8574d376d941bac4602bbca36374e9a",
-  "signature": "BtnrtoQkcJ/zaiKbaWKHxc0av0+T9lPsy0ILKb4FlMbOxh1gmyYCqMOjd9szL9Am5gIk2eTzlLYTCY+YOWloEROMXqr5M3ILeRwXEUv5pcqJzY9B56lrzvwFc+jfTEt5PGW3VVx8MzT+hcv1Pn59gNpFy7mq/PEtyBupQfWbWpPQVp7SnQIm9tM8mqOWRxDo2m7CAtHGYXKeICo6lUplKbwwiXcpZbKXUISu/bLsrhrg+CDyKJMJfw9M+ki+swr6msaUjin4J6bxLZHWukiDCutlma8GF+q6UutvC0K+Kv7mhZpF8BKxnTs/vRW4yo2j2P2axu2vIQqPG9HJVIQZRkyo4GwH9ocDRj2sy+iWYr/MGz4P/N72A34tgLIDWAslRz156XeE9a6eEWk0OMpW86kpoPe+wfo9NCyCt5QiBzuaA0t4rg9Uesyygc0WsDo7yy7u5FIpjoYxtEHIE0h/j82/SAhCeoR6n1XbbpGvyTpWFfhFOqvzYU+/0UbRHi6o",
-  "size": 2262624,
-  "released": "2026-10-02T11:15:34Z",
+  "version": "0.9.15.4",
+  "file": "test/releases/pls-0.9.15.4.zip",
+  "sha256": "f238df6f131fd9456fdd6cca911a4d51f1c7d254b4782be1d4a1f351c20c46fd",
+  "signature": "HM/673vldGdoR+xLYfVl+gn0bYw9GKdqGo9NflspHJLigbb+DRGwoNhNc7Y9wDN2/M0jc810TM8sMcWZvwPUs6d3cQwz1wwOgUlWI220d1ORP8tyt3E4y8H2TBJyp+W376Q7zM31eu+1f6L5mEm5yhp01CRdb9qlg124L1V9Wv4s79HRy6A+cywhXgw74QO9S6rQa9oiC+efD4wHCCYyTNSmfumlS9djOZ7l6/J8ZPsgDF+VfFNLM4X4U8PhXdOTYq15jit7jVRdw2Dh7XCy6Z3oPuim9GsY3yVYSNcjdNukZG5GKMV0YTRfMHl2Vs/ityUJmJTeF5XWhnFuXSv2UMPKjCKgDcG66YhLlsTnlPWqZKB+60WEoinX8llEn+IeYzxboW8uke6As6+dicfe/Xx++xDzgZ/SztayMieZvT7L9TaW5h7EHpsrvo3vwEM9HlCls7n8nFCx9l26pamtSecItgwbx7LY2MxCg1hbiDPMgTta2q4/PFwQfWzh05Eu",
+  "size": 2264302,
+  "released": "2026-10-02T12:36:33Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -160,6 +160,7 @@
     "PLS ikonu yeniləndi — portal düyməsi kimi dairəvi; aktiv sessiya kartı menyunun rəngində",
     "Bildirişlər: rəngli panel, yığcam sətirlər — basanda açılır",
     "Vergi → Məlumat: obyektlər, kassa aparatları (rejim, NMQ-nin zavod nömrəsi), POS terminallar və bank hesabları portaldakı kimi",
-    "Məktublar: vergi orqanı və digər vergi ödəyicisi ayrıca, gələn/göndərilən/qaralama rəngli; göndərilənlərin növü düzəldi; «Cavabla» portalın cavab pəncərəsini açır"
+    "Məktublar: vergi orqanı və digər vergi ödəyicisi ayrıca, gələn/göndərilən/qaralama rəngli; göndərilənlərin növü düzəldi; «Cavabla» portalın cavab pəncərəsini açır",
+    "Portal düyməsi: «İdarə paneli» İcmalı açır; üzərinə gələndə seçilən düymə önə çıxır; «Bağlantını yoxla» qısa nəticə verir — hansı portallar aktivdir"
   ]
 }
