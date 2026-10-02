@@ -1,10 +1,10 @@
 {
-  "version": "0.9.15.6",
-  "file": "test/releases/pls-0.9.15.6.zip",
-  "sha256": "2a94321b33d760d2fa9298424e667d17fb208767513110df4bca91a35e7f1163",
-  "signature": "dE+InQfebHTDgurWRlS2RtsK98u4KO5Sa9LhBceOiK3cRiU7b7GtHzWQXM4jdiPvaZN63qMzI69fL6GHPH5ygoIgcZ4TqjNcUC4MkiBMRA1ePMM92cZ+BWBKtDet12/SYcB/v8IhOMXgLSJ6xu7NNfpimw13FyNdvBLIBE2KPKvUK9JINOgHvQ7ADF8maPFfEQNs3XP0dyMwP3p/YJhesIqRca6G4BBdMNTZ7yhG82n/nwJZC0QqvM8whx28cyg9YU/WIz69MYb1BR4gpJ5A9vsoJYJOhnjHtBf56rmcM6E/eeldVsQ0sbzpo2OT6O8L+KW/RoYK8DNTDIFJAFji0aR5uvhMhVS+LakbA53pPo4ia0MP1SX1qvyo29fx1a56lP7XFTxY920wfAntTZ9I7N9Q8s4fYBBggF91RQlxk2L1fVsX+wccqxFd9o0mw4k7iViiAHkcxilBb7zNgW2DXkSklVtKzZsp+3LOmZGYskhvnflQZ4AyeRYx+l2kdZyW",
-  "size": 2285625,
-  "released": "2026-10-02T17:19:03Z",
+  "version": "0.9.16.1",
+  "file": "test/releases/pls-0.9.16.1.zip",
+  "sha256": "e5245ed8bee549602f51578a36a5bdecc7c533cdc0400ea3cc8330790599d328",
+  "signature": "tKhA2NhK5MYtcI3GC7apXSOO+9MjBx72y1D52hj1dptzlbqjmxap4pi4FbVMpSgiX6F8bM4FpifsF6dRNqNErjGecr2+rs3qwUs9AKzy+Mjsnm344B7UtGg/38asSE3NaKHI78ExUnCQbhotRg3OsRpE9VQrD2mtiDcIFEml4XfJoHQfe9DoRm+u+4VupExR/18UF9tc/Sz5K4L5uCGqpCGg354+5DCnvokDUpmAz7mO183l7N8+pA2r8tvdAxRj1nfSPD5khEwmN2TVWrlr4rxk/ZzuJ37sGaY8prrV7OVHYJqD3BbzN1dGB6SIegsIMhK7xqDbZ9Ft7pckgVHT5czENTd/bVsEtaf4/BIHGXdTYkeNm7rzrjppdcQHzEjcXQ5ITi0wv3+NFg6bWEnGr2vEldFl/J1SCRV2lDADIF7eswRm+mWmQ0euUI4xLI77nVFabMEeMk6Apt9LL+Q2AJTcyIULF77C6ocBZ6LnK0NFltq8Oh1646vgGqx6kEMr",
+  "size": 2330214,
+  "released": "2026-10-02T19:14:02Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -116,8 +116,8 @@
     "Toplu qaimə: boş sətirlər tamamilə nəzərə alınmır (1000 sətirlik şablonda yalnız doldurulanlar)",
     "Toplu qaimə: «Portaldakı paketlər» — yüklədiyiniz paketin statusu (emal olunur, uğurlu, qismən, xəta) 20 saniyədən bir yenilənir; uğurlu paketdə qaralamaların seriyası və «Portalda aç»",
     "Toplu qaimə: eyni paketi təkrar hazırlayanda və ya portalda bu gün eyni alıcı və cəmlə sənəd olanda xəbərdarlıq — paketi portalda bir dəfə yükləyin",
-    "Toplu qaimə: obyekt adı və kodu sütunları, böyük siyahı bir neçə paketə bölünür (Ayarlar → Vergi), alıcının adı portaldakından fərqlidirsə xəbərdarlıq, nəticə Excel-i",
-    "Toplu qaimə: «Portala yüklə» — hazır paketi PLS özü portala yükləyir və emala göndərir (təsdiqlə, hər paket bir dəfə); imzalamaq portalda qalır",
+    "Toplu qaimə: obyekt adı və kodu sütunları, böyük siyahı bir neçə paketə bölünür (Ayarlar → Vergi), alıcının adı portaldakı rəsmi adla avtomatik əvəz olunur",
+    "Toplu qaimə: «Portala yüklə» — hazır paketi PLS özü portala yükləyir (təsdiqlə, hər paket bir dəfə), portal onu özü emal edir; imzalamaq portalda qalır",
     "Toplu qaimə: portalın paketi rədd etməsinin səbəbləri düzəldildi — boş barkod 0 kimi yazılır, «Qeyd» məcburidir, sətir cəmləri portalın tələb etdiyi bərabərliklə",
     "Toplu qaimə: Ayarlar → Vergi → «Standart qeyd» — qeydi boş qaimələrə yazılır",
     "Toplu qaimə: alıcıların VÖEN-i portalda yoxlanmadan paket hazırlanmır; nümunə VÖEN-li sətirlər paketə düşmür",
@@ -136,7 +136,7 @@
     "Portal düyməsi: ətrafında yaşıl işıq dövr edir; salam düymədən çıxan qabarcıqlarla, iki rəngli başlıqlı balonda gəlir, mesajları administrator yazır (Administrator → Köməkçi)",
     "Portal düyməsi: üzərinə gələndə bölmələrə sürətli keçidlər; buraxılanda kənara yapışır; Alt+Shift+P ilə panel; sessiya bitəndə qırmızı nöqtə və xəbərdarlıq; ölçüsü Ayarlarda",
     "Portal düyməsi: ətrafında həmişə sakit, yavaş dolanan parıltılı halqa (açılışda ilk 5 saniyə daha sürətli)",
-    "Vergi → Əməliyyatlar: yeni qaimə (MT), avansa bağlı MT, avans qaiməsi (AA) və qaytarma (MQ) — avanslar və mənbə qaimələr portaldan seçilir, PLS yalnız qaralama yaradır, imzalama portalda",
+    "Vergi → Əməliyyatlar: toplu qaimə (Excel), avansa bağlı MT, avans qaiməsi (AA) və qaytarma (MQ) — avanslar və mənbə qaimələr portaldan seçilir, PLS yalnız qaralama yaradır, imzalama portalda",
     "Elektron qaimələr → Avanslar: göndərilən və gələn avanslar, bağlanan məbləğ və qalıq, bağlı qaimələr, Excel, «Bu avansa MT yaz»",
     "Elektron qaimələr: bütün statuslar rəngli nişanlarla və hazır dəstlərlə; satış və alışa yalnız Ayarlar → Vergi-də seçilmiş statuslar düşür («Təsdiq gözləyir» standart olaraq düşmür)",
     "Elektron qaimələr: «Səbəb / son hadisə» sütunu, qaimənin tarixçəsi və versiyaları, portalın rəsmi PDF-i (tək və toplu)",
@@ -168,6 +168,13 @@
     "Bildirişlər artıq ekranda ilişib qalmır — özü bağlanır",
     "Toplu qaimə: xətalar yuxarıda siyahı ilə; portalda silinmiş paketi yenidən göndərmək olur; təsdiqlər və rəngli addımlar",
     "Avansa bağlı MT: aktiv və passiv avanslar, «Tarixçə», avansın malları bir kliklə; AA sıfırdan; MQ bir neçə qaimə üzrə ayrıca",
-    "Yeni: «Mallarım (şablonlar)» — portalın mal şablonlarını toplu yaratmaq və qaimədə istifadə etmək"
+    "Yeni: «Mallarım (şablonlar)» — portalın mal şablonlarını toplu yaratmaq və qaimədə istifadə etmək",
+    "Toplu qaimə: portalın paket siyahısı alınmasa paket göndərilmir (təkrar yükləmə qorunur); «Portalda nəticə» addımı son paketin vəziyyətini göstərir; «Təmizlə» paketlərin izini də silir",
+    "Əməliyyatlar: qaytarma (MQ) bir neçə mənbə MT üçün — portal cavab verməsə «Nəticə məlum deyil», sorğu təkrarlanmır və forma kilidlənir; satıcının ƏDV statusu yoxlanılır",
+    "Elektron qaimələr yenidən: istiqamət tabları (Qaralamalar daxil), növ tabları, 7 kart bir sırada, bir sətirlik süzgəc (status yadda qalır, «Sıfırla»), yüklənmiş məlumat üzrə ətraflı süzgəc və çiplər",
+    "Elektron qaimələr: kontragent riski və qaimə əlaqələri avtomatik yoxlanılır; sütunların sırası, eni və görünməsi yadda qalır; sağda sabit yan panel (↑/↓, Esc, «Portalda aç»)",
+    "Elektron qaimələr: «Məhsul üzrə» yüklənməyən qaimələr portalın səbəbi ilə göstərilir; «Aylar üzrə» görünüşü; Ana səhifədə «Qaimələr — diqqət tələb edənlər»",
+    "Məktublar: cavab verilmiş məktublar hər yerdə eyni qayda ilə sayılır; məktubdakı qaimə Elektron qaimələrdə yan paneldə açılır; «Faylları paket kimi endir»",
+    "Bütün siyahılarda vahid səhifələmə, statuslar rəngli nişanlarla, izahlar «i» düyməsində; gedən əməliyyat zamanı bölmə dəyişəndə Qal/Çıx soruşulur"
   ]
 }
