@@ -1,10 +1,10 @@
 {
-  "version": "0.9.17.2",
-  "file": "test/releases/pls-0.9.17.2.zip",
-  "sha256": "88c9494b1f6bd230b6da46982dd6893463e59bff87564ea98ca7ae5e5930f5da",
-  "signature": "BlxQ1CsYH1loiofdYEvsY0i7pKzz2mJLKhY3A4Yh+ERu2KaGAZe/JiyLsY84GGU5juPb3o2txO4BUBq52Cugopl02yvfN9+VIFCWCOWBaqWuwtT8e12JotE/xsdHcgqvGZkwnufssrR+PMgVlOcu+nLNzF2Jk3R4no70tawuBN5GrhIt4wxK2bV+6fWg1Fd16N3U9cavbkGcIbf7P7yLcPp6//gNJ2YWkcSdgaXE238PP/3dtL0uRHpcyTEsfgtooEYaxFI3jCQ5udyPifaOBC6hLxBCVTbOoesTqsGLd63IZxdf/KePv5Kp1mCBrJk40Cgs73BYD+oFpJOYybanG01F0sdXx9REjmBB5Xxb1pvkFNHS/x/qeztzYIoVot3h74ON7vltQPA39zmArNu+iqZIJO4jbvpEGzeTtUAxwT6WDkQ7Ul9wg1Bs0UhkvKii+FVjevwYK1/ARy9AFQeOG150YfIgLDceznfYl8hRJj2K4wk6hwLTsambaLRzTazA",
-  "size": 2367806,
-  "released": "2026-10-03T08:36:43Z",
+  "version": "0.9.17.3",
+  "file": "test/releases/pls-0.9.17.3.zip",
+  "sha256": "224cb1cbb2d5e4087964348623c38e6032a8a60f03e057cbee490a68b84b0362",
+  "signature": "0ecn9FZclwXMrtDRantf6+y11LiHfI+Md9WdeClc9DIgsPcW90ZcDsaOPbANhiWnyE5+5rytfMsRTnXkDb31mD3TYcvagBvi6hRRxJhrmbjHGcTmvSq53J/h8S+C8j3K+DJRKTS7oSaTgXTWR9QlypDl7w5eQQLyTyl9mDQEDppQ9/IkcLYTXS2a11YCMWKiL6benAxmwLJhR/VBS0jNi/LqacTmCiPnTmDqqVPznvpSwE4bB4KaG8U1B0I7p853QrBh7YYsEqtizbIUhJs/tiCu7LR1z9Rbf/ygqyvPiBiOw3khb30ULV4q5FcuprpiGYeHiJ2wzNJB9FhLQQPsXgmduqqFG5SbFbf2EAak85HglGApRj+DC2Kz6WlxDuS65l3JtkORwl323GQrjLMnBb27WT0MDddFpwdmaXzdzqVWvTrLsEZtOxop7k8go9cbRPfzyy/Gi1TU4lYgVIQHYuyQXDgnpC2sGxxE8j0R2B0Yh63y9hoNjqYxnpB9wYvp",
+  "size": 2371743,
+  "released": "2026-10-03T09:02:58Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -188,6 +188,8 @@
     "Təhlükəsizlik: administrator «minimum versiya» təyin edə bilər — ondan köhnə PLS ilə girişdə «yenilə» xəbərdarlığı",
     "Toplu qaimə: «NÜMUNƏ» adlı alıcı xətası düzəldi (yalnız şərti VÖEN-lərdə); özünüzə qaimə yazmaq olmaz — xəta",
     "Sessiya bitəndə məlumat dərhal itmir — 30 dəqiqə saxlanılır (Tənzimləmələrdə dəyişmək olar); başqa müəssisəyə keçəndə köhnə məlumat dərhal silinir",
-    "«i» izahları düymənin yanında açılır; uzun xəta siyahıları sürüşür"
+    "«i» izahları düymənin yanında açılır; uzun xəta siyahıları sürüşür",
+    "Təhlükəsizlik: PLS girişi, ASAN hesabları, əməkhaqqı şablonları və rekvizitlər artıq saytların görə bilmədiyi qorunan yaddaşda saxlanılır (avtomatik köçürülür, heç nə itmir)",
+    "Təhlükəsizlik: iki mərhələli təsdiq — Tənzimləmələr → Təhlükəsizlik → «İki mərhələli təsdiq»: telefon tətbiqinin kodu ilə giriş, 10 ehtiyat kod"
   ]
 }
