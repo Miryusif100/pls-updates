@@ -1,10 +1,10 @@
 {
-  "version": "0.9.19.2",
-  "file": "test/releases/pls-0.9.19.2.zip",
-  "sha256": "55cb4f27aad048ed3f6712af25e01adeafbe2a747813917b60cac3aa74d6e982",
-  "signature": "fgNg58F3FoRM7RqSoV22FhiuDnTWqRJqp0nFhNbPJNqVWWtvehKR2xx/c6bflRObGfNvUH5teesJDMihv3K/r03CGmpqMGDPkhRWU2ZX8l0XN90Kx7p/NEW6lI5N7qW8NyU3BiCm93cJZ+3iyjdoQPY0wG0FyjR0KoY00Y7W6ux4fJ8jnL5U8eFKkOPcOmzuREDKx9U6HJwGsPNCGrf2UfBZzrNMQ3LrVW6uakRNkuA3NW3vzROqH7XdGahuATuv2VFlPZY4dcbWdUMofj7kd3ON/RwRVQHlLJ8yck6b0J9B92rTZqnSr4oxlqg6WDZgYwW2Hz0civhx1XoYacHnsQJGBHZqptO1Ib0I3egVGPyld7RNs1CksqAA3uyn+KctI4jkl2LNTtjqS9RMBV410kZJASNZTR8WZyJYjynxE/m4iTJlPEGP7WXUP0YCmCa0iu1JBaUxQbNHmdADXn40Xm4sVvi5A+0ILh+pw88pus4Uh8K5B/v3KLWX6EXXf9f0",
-  "size": 2416300,
-  "released": "2026-10-05T12:23:48Z",
+  "version": "0.9.19.3",
+  "file": "test/releases/pls-0.9.19.3.zip",
+  "sha256": "0c288d71594431e7405d190668111dc47b79e9d60ff7778e161cf0abf4cb010e",
+  "signature": "NVs73dRq3fq2BeCexuELdSlcGo1suXJDZLYkcoeC3g8QkcNtB2d1vIWQYNtcLjIU7qAX+1GMmY0puxGbYtOEVaeMMYrrsvwsai1GDHtXyPrFmLAG4Lz3HYHr0TSzCgv6ntooQd2eaNvazIGTfzXxx+DgbYdswonOSwNkitkntdM+56hOBCmdboTfoftRuFrjC5mexDRNa4uv1poTmCBH4Com7Y5l/uvWmyOwvY/a4zkCZ06BQj/smsnkxBbOpPoOhj4LHxIWrEuC37wq3yM4mNQt35n+hUqFqaZaCIFOV8i7+90oH1BWW3y70cKbPH8MuCX7kgVbS5+X0t2AjTHb2XV8eYAWopYuWMQJ5mHiqfhcV5h7oOtf9jLUVD5jOcHsYivz0MVhLDC5Fgy3jKM+FnINc4w8xmj8sxw/OAX5a/D4dwLzsoq2WrI07nBSg+NRiHtBerBtNOMMhyBkC5eg1D+lqZgTs0qvoW5gvCxPdvQRH+VBffZXbR1r2Nl2PiOs",
+  "size": 2417811,
+  "released": "2026-10-05T14:34:09Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -213,6 +213,8 @@
     "Əməliyyatlar → «Alış aktı»: Excel-dən toplu akt qaralaması — yoxlamadan və təsdiqdən sonra portalda qaralama yaradılır, imzalama portalda",
     "Elektron qaimələr: «Qaimə üzrə» ↔ «Məhsul üzrə» keçəndə yüklənmiş məlumat itmir; «Məhsul üzrə» yüklənibsə «Qaimə üzrə» dərhal görünür, əksinə yalnız mal sətirləri yüklənir",
     "Tab, görünüş və tərəf dəyişəndə məlumat itmir: Məktublar, Büdcə (ŞHV daxil), Bəyannamə əməliyyatları, Kadr reyestrləri, statistika və əməliyyatları, Gömrük hesabatları",
-    "Avans qaiməsi: portal xəta verəndə sahib və administrator «Sorğunun quruluşunu göstər» ilə göndərilən sahələrin quruluşunu görə və kopyalaya bilər (dəyərlər gizli)"
+    "Avans qaiməsi: portal xəta verəndə sahib və administrator «Sorğunun quruluşunu göstər» ilə göndərilən sahələrin quruluşunu görə və kopyalaya bilər (dəyərlər gizli)",
+    "Sərəncamlar: bir qərar bütün bank hesablarına ayrıca göndərilsə də bir dəfə sayılır — «Qərarlar üzrə» və «Hesablar üzrə» görünüş, hesab nömrələri, Excel iki vərəqdə",
+    "Büdcə: «Cəmi ödənilməli borc» portalın ana səhifəsindəki kimi; İcmalda «N aktiv sərəncam (M bank hesabı) — ödənilməli borc X ₼»"
   ]
 }
