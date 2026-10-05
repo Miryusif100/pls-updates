@@ -1,10 +1,10 @@
 {
-  "version": "0.9.18.2",
-  "file": "test/releases/pls-0.9.18.2.zip",
-  "sha256": "75ce7d810b6112d7e5550a2de9fa9ca868985ecf88a93fe2377b1656e5a6f2ba",
-  "signature": "aw4uONDY8pYDvZiDCW/JvsscWeSv/FGEzikOIdLpgNV3/o+3Vvhq+yFIjit9pEKdF0htO4/W4GC3EwUUqYmbT299U5hBkbVXaQ5YpHXtyAmdFO8CXaeT+iMYCz/zNafgWKlho2FjOobMyJdBqxYhp/0WqLW0RWQF30+qq1DFaDaigYpgcTX4fxqADF2koU8wCdl/5GuypDB897vAHsNRGYSvEDO4OC0LZnIsi64pRzsQNQQm46MlbMF+vJbS+X2LF2kKgPn/HwzJfT+Ck+vh3XTf1JOMpHtDPGz5B8nSahZJ3mMzymI3s6H66FwPNFpOrZZQQ+RJX6JwzhPFLJXlzv8+0gqgj/Uwfz+QRY4OtTSUuiCRwd+LfaZZJh06zq/9Td/fuLJdHOhhcYLcoVv9/K84wDQ8rAWZN74i4GuRvJupar9ruPiC1wUT6+N8MvuyhhiC44xnmJ9C+LyPkC2mh2+dduiUx4+cYtYhoDER1w8lENaUzB8JTmMXsdtc2Jvp",
-  "size": 2413849,
-  "released": "2026-10-05T11:15:46Z",
+  "version": "0.9.19.1",
+  "file": "test/releases/pls-0.9.19.1.zip",
+  "sha256": "fdc7e9e03f97a92ca21f3b90780f690a56e3e3ae7108ad7e5c8ac813a1621f07",
+  "signature": "ZUYBrNUFR/Q2cCYM8lq6C1Gw7ml4wSJKVxP4GvcjCxlTwhyGSyTVNWwLmtkgq5sGwwKE2TxGKMzXK5SE7aoSLeRodWx9wZ4j+8p/GfPPpY3tW7Ucep5TdDSAS9hXfsHABPoWlhAF34tdvps2OiFjC3XvsFTAwg8iXrLpI2CEg6MBauXARfq1iclvGyMeJN97vrvuo9l7/Yx6gkI4/spIUKnU8CiqdtUKPKH5LEOmrKAau2GVvhxVBW0Zac0jmiRKmeGTnIKXgnjGPGlczdC7d8ig3V3PI/9Kb/PXBvOdd37jagjpJhtQ1wi/2ChVnFV3QU7luCRVVB+aeeNqOU/P27eKDRh3NYI2Y5vMF8251V0QinNCf1ShPN6U/JnC5NSHxcDq6OpODivLEu0Ij6RQnSe796i8UrsMSsKRf4FF1PfXHa4A9870oXriYa5JrmGff1FT70SAJemyuijEEKObzqKtx0UKpjro9FtbXqvWgzOvnoc9zhZTmEEX8ka2FGn+",
+  "size": 2416301,
+  "released": "2026-10-05T12:12:41Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -210,6 +210,9 @@
     "Avansa bağlı MT: «Excel-ə köçür» — seçilən avanslar şablona yazılır (alıcı, avans, tam qalıq), malları doldurub faylı geri yükləyin",
     "Alış aktları: qaralamalar, satıcının təsdiqini gözləyən aktlar (5 günlük müddət — Ana səhifədə və təqvimdə xəbərdarlıq), dövr üzrə çıxarış (PDF və Excel)",
     "Alış aktları: yoxlamalar — 5% vergi, aksizli malda GTIN, ümumiləşdirilmiş adlar, təkrar aktlar, satıcının FİN üzrə limiti; detalda rəsmi PDF, imzalı fayl, tarixçə və versiyalar",
-    "Əməliyyatlar → «Alış aktı»: Excel-dən toplu akt qaralaması — yoxlamadan və təsdiqdən sonra portalda qaralama yaradılır, imzalama portalda"
+    "Əməliyyatlar → «Alış aktı»: Excel-dən toplu akt qaralaması — yoxlamadan və təsdiqdən sonra portalda qaralama yaradılır, imzalama portalda",
+    "Elektron qaimələr: «Qaimə üzrə» ↔ «Məhsul üzrə» keçəndə yüklənmiş məlumat itmir; «Məhsul üzrə» yüklənibsə «Qaimə üzrə» dərhal görünür, əksinə yalnız mal sətirləri yüklənir",
+    "Tab, görünüş və tərəf dəyişəndə məlumat itmir: Məktublar, Büdcə (ŞHV daxil), Bəyannamə əməliyyatları, Kadr reyestrləri, statistika və əməliyyatları, Gömrük hesabatları",
+    "Avans qaiməsi: portal xəta verəndə sahib və administrator «Sorğunun quruluşunu göstər» ilə göndərilən sahələrin quruluşunu görə və kopyalaya bilər (dəyərlər gizli)"
   ]
 }
