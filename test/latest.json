@@ -1,10 +1,10 @@
 {
-  "version": "0.9.20.2",
-  "file": "test/releases/pls-0.9.20.2.zip",
-  "sha256": "ea98ce11001169804415b0d9a8804a92a5f29e8751bd2fb3b93d9fdbd8a6c375",
-  "signature": "eDLqybLRrYTj5TMxxSZjTQq8Zp8q5Ib1Ifp/rhfsujnqDKLlzO7j4uGylfjnQ7M5EjPP/IgjNveE5iifogiRzbPuQYsv9F8/pSNPvH29mdGv5NvVUIhWAQvhlDE89+VGIfBWT3cEHkkpPGcPInjcE1aEpMAUmVjPOMIOAFo7wR4WT4LmHkcKc4JwNxara0tf2g9AOcRdfS1OVUAf8mFX1JAHzfF9cgUiU/trHBfML+A7X1wfGCUg2A7KmK01lq/wxrhVtkJWxCm8HtaD1fL8x1WMhfE0qV6r4eVqWg6aW3IfXojn+mFSHha3UYPR/Srb/h3YYm68OajxMv1W/dKktKHlcKFjD6+je1hvxEwp5LmFAbrDHe/RmyMFQypAM5rGNqo+qW1m7tUQ1puMSYasPT7u+mS2LI5UMJTHV5Ixcf87xTdb9/ke6LfpOc2iKuH9os5re3ah/ymNrN0Bv0U96G6SPza52LuGS0xmiKlgVtAXVav5pBuZ7q/jfqWyMU8G",
-  "size": 2455011,
-  "released": "2026-10-05T16:51:32Z",
+  "version": "0.9.21.1",
+  "file": "test/releases/pls-0.9.21.1.zip",
+  "sha256": "2a0fbaeee4917c4ca548753f67b8d7004ad43e71ac021b78a7f3379751ef5746",
+  "signature": "ZDRCVItye9UxaI9XSvu9LFbrhqYysrULRPFWj5Pv4miQQtZriW9KWPmaf7LPHWRBWFzVAT7Hd5MlxwdlJeKLxhNwzb6WwfG4JVm3vsxAgKcfBuZbPtznBd2Mr+/sHkbJt7vsv5HyGZ6+GG0TAszwXlJnhhTXEik6vNplPLvH405PSOzqzYXESb1sNKGMsx5Br3V410cWOjs7Qxjqij31+PEsUPGl6z1rnP4dS5fijA0ueeHz9YfNGGshQiUShbH9uOlJ3gc40mC3HeUxM9bz31zSBf72coXo4xJ/RLbLN+ABNn+Yj7WBxazIZBpnQucGekcmtgMU29d2ciI1jHjE+Qt7fa9TY1QeoK5s7l4JmeGd/nsg5mHhgSODVDsBoor/LQjsiZM+Yc+NbWfVN9kv0Nxbj5NwRVBnpy0xpsPh61nMGkzPYeJ7x0tIlbyC3vW6eZbvJfrNsXIk5sdkbHvtNpqvI8R69HweAs1krU70iGhniaa61j65Z6PW8TyLuC+Z",
+  "size": 2556911,
+  "released": "2026-10-05T18:30:57Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -224,6 +224,14 @@
     "Vahid bəyannamə: bütün 15 cədvəl hissəsi oxunur; kağız/digər formada təqdim edilmiş bəyannamə ayrıca qeyd olunur, yükləməni dayandırmır; alınmayan hissənin adı və kodu «i»-də",
     "Bəyannamələr → Əməliyyatlar: hər bəyannamə portaldakı bölmələrlə — Əsas hissə (real sətir nömrə və adları), Əlavələr (portalın Excel şablonundakı sütunlar), Hesablaşma, İcmal",
     "Bəyannamələr → Əməliyyatlar: əvvəlki dövrdən köçür, PLS məlumatından doldur (qaimələr, alış aktları, işçilər), Excel və əl ilə; yoxlamalar, portalla tutuşdurma, Excel portalın formatında",
-    "Bəyannamələr → Müqayisə: yeni dizayn — rejimlər bir sətirdə, son dövrlərin hazır kartları, ən böyük dəyişikliklər, bölmələr açılıb-bağlanır, yeni «Trend» rejimi, qaimələrlə yoxlama şəbəkə kimi"
+    "Bəyannamələr → Müqayisə: yeni dizayn — rejimlər bir sətirdə, son dövrlərin hazır kartları, ən böyük dəyişikliklər, bölmələr açılıb-bağlanır, yeni «Trend» rejimi, qaimələrlə yoxlama şəbəkə kimi",
+    "Əsas icmal yeniləndi: səhifə daxil olduğunuz portalların sayına görə qurulur; bağlı portalın kartında «Daxil ol», bu sessiyada oxunmuş solğun rəqəmlər («son: SS:dd») və ya «yoxlanılır» halı",
+    "Əsas icmal: «Diqqət» bloku bütün portalların xəbərdarlıqlarını və yaxın müddətləri bir yerdə göstərir; hər açıq portalın öz qrafikləri, «Ümumi» bölmə, rəngli Portallar və ulduzla favorit",
+    "Tənzimləmələr yeni görünüşdə; yeni «Görünüş» bölməsi: rejim, vurğu rəngi, sıxlıq, şrift ölçüsü, rəqəm formatı və zolaqlı cədvəl bütün İdarə panelində dərhal işləyir",
+    "Tənzimləmələr: yeni «Şifrəni dəyiş», kompüterlər siyahısı, qısayolları dəyişmək, saxlanmamış dəyişikliklər zolağı; Yeniləmədə kanal yalnız göstərilir",
+    "Administrator yeniləndi: yeni menyu, İcazə şablonları, Mesajlar, Göndəriş jurnalı, Sistem vəziyyəti; hər istifadəçiyə kompüter limiti (standart 1) və kompüteri ayırmaq",
+    "Administratorun mesajları bildirişlərdə görünür, «Oxudum» ilə cavab; audit jurnalında şübhəli hərəkətlər işarələnir, saxlanma müddəti seçilir",
+    "Portal düyməsinin köməkçisi: dalğalı kartlar, günün vaxtına görə salam, doğum günü və bayram təbrikləri, qaranlıq portalda qaranlıq görünüş, klaviatura ilə idarə",
+    "Giriş və ilk girişdə yeni şifrə səhifələri yeni dizaynda; kilid zamanı geri sayım, «Şifrəmi unutdum» hazırlanır"
   ]
 }
