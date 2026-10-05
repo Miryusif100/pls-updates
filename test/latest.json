@@ -1,10 +1,10 @@
 {
-  "version": "0.9.20.1",
-  "file": "test/releases/pls-0.9.20.1.zip",
-  "sha256": "26b7958483c3c8bf3ff098998e024eb0a16ebb07437489048b67216078257f2e",
-  "signature": "oazDilBBLH+lqBH3XQDC5YV7iboAAX/LdGP/0Ekh5PfEkN2IE8X5uEaJ9R82m/hxDEiFhW0B+R2f/i2oLqCnGMLyHYK3NN8IXOIOgRLavTChIGP4K2sfyfFwr+G1zxckBngP+ja7MjEglA2mGWvobb98+ij606a48MVoOcrwfd3x/MKWk6yfRoucGFEOTb49gv/pk/LxxiS3UFaQ+h2rpAwysB3upoBBq6tfRFxJt3Xs/PFXenaNRL4S+uYPhaaokpc0R/sda0XmwdlJljlPxaZ61ucsmj0iUOUQHpT7jg3Jgj4ueSvt1OEne3oSacySMqFHN5cvgXRCSQjYKpIaqKLnsFUtvUzde984rauD81UjETuS5QK0UiRTldKcJUlcyx9a4PZ4HqxRH7L+8vwDi2vrtiJ3Qyetx6ttHmcg1XG1LZpzRUzuOMPUQrDrt2lLj78JjpZOfYCyZlMQjjOoC3keJSDYtwdXp3xo049Hn3IfUDGIHF2DpFEgWFnlfT1P",
-  "size": 2429825,
-  "released": "2026-10-05T14:46:20Z",
+  "version": "0.9.20.2",
+  "file": "test/releases/pls-0.9.20.2.zip",
+  "sha256": "ea98ce11001169804415b0d9a8804a92a5f29e8751bd2fb3b93d9fdbd8a6c375",
+  "signature": "eDLqybLRrYTj5TMxxSZjTQq8Zp8q5Ib1Ifp/rhfsujnqDKLlzO7j4uGylfjnQ7M5EjPP/IgjNveE5iifogiRzbPuQYsv9F8/pSNPvH29mdGv5NvVUIhWAQvhlDE89+VGIfBWT3cEHkkpPGcPInjcE1aEpMAUmVjPOMIOAFo7wR4WT4LmHkcKc4JwNxara0tf2g9AOcRdfS1OVUAf8mFX1JAHzfF9cgUiU/trHBfML+A7X1wfGCUg2A7KmK01lq/wxrhVtkJWxCm8HtaD1fL8x1WMhfE0qV6r4eVqWg6aW3IfXojn+mFSHha3UYPR/Srb/h3YYm68OajxMv1W/dKktKHlcKFjD6+je1hvxEwp5LmFAbrDHe/RmyMFQypAM5rGNqo+qW1m7tUQ1puMSYasPT7u+mS2LI5UMJTHV5Ixcf87xTdb9/ke6LfpOc2iKuH9os5re3ah/ymNrN0Bv0U96G6SPza52LuGS0xmiKlgVtAXVav5pBuZ7q/jfqWyMU8G",
+  "size": 2455011,
+  "released": "2026-10-05T16:51:32Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -218,6 +218,12 @@
     "Büdcə: «Cəmi ödənilməli borc» portalın ana səhifəsindəki kimi; İcmalda «N aktiv sərəncam (M bank hesabı) — ödənilməli borc X ₼»",
     "Görünüş: qaranlıq rejim — başlıqdakı düymə ilə İşıqlı və Qaranlıq arasında keçid; seçim bu kompüterdə yadda qalır",
     "Yan panel və başlıq yeni dizaynda: müəssisə seçimi başlıqda (cari müəssisə, digər müəssisələr, axtarış, ulduzla favorit, VÖEN-i kopyala); yol zolağı və «Geri» düyməsi",
-    "Giriş: sessiya yoxlanarkən yüklənmə ekranı, daxil olandan sonra qısa salamlama"
+    "Giriş: sessiya yoxlanarkən yüklənmə ekranı, daxil olandan sonra qısa salamlama",
+    "Bəyannamələr: sətir adları portalın fayllarından birbaşa və dərhal gəlir (portal tabından asılı deyil); alınmasa səbəb və «Yenidən cəhd et»",
+    "Bəyannamələr: yükləmə gedərkən «Çıx» dərhal keçir — portal sorğuları dayanır; portala yazan əməliyyatda «Dayandırılır…» gözlənilir",
+    "Vahid bəyannamə: bütün 15 cədvəl hissəsi oxunur; kağız/digər formada təqdim edilmiş bəyannamə ayrıca qeyd olunur, yükləməni dayandırmır; alınmayan hissənin adı və kodu «i»-də",
+    "Bəyannamələr → Əməliyyatlar: hər bəyannamə portaldakı bölmələrlə — Əsas hissə (real sətir nömrə və adları), Əlavələr (portalın Excel şablonundakı sütunlar), Hesablaşma, İcmal",
+    "Bəyannamələr → Əməliyyatlar: əvvəlki dövrdən köçür, PLS məlumatından doldur (qaimələr, alış aktları, işçilər), Excel və əl ilə; yoxlamalar, portalla tutuşdurma, Excel portalın formatında",
+    "Bəyannamələr → Müqayisə: yeni dizayn — rejimlər bir sətirdə, son dövrlərin hazır kartları, ən böyük dəyişikliklər, bölmələr açılıb-bağlanır, yeni «Trend» rejimi, qaimələrlə yoxlama şəbəkə kimi"
   ]
 }

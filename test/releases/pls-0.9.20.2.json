@@ -1,10 +1,10 @@
 {
-  "version": "0.9.18.2",
-  "file": "test/releases/pls-0.9.18.2.zip",
-  "sha256": "75ce7d810b6112d7e5550a2de9fa9ca868985ecf88a93fe2377b1656e5a6f2ba",
-  "signature": "aw4uONDY8pYDvZiDCW/JvsscWeSv/FGEzikOIdLpgNV3/o+3Vvhq+yFIjit9pEKdF0htO4/W4GC3EwUUqYmbT299U5hBkbVXaQ5YpHXtyAmdFO8CXaeT+iMYCz/zNafgWKlho2FjOobMyJdBqxYhp/0WqLW0RWQF30+qq1DFaDaigYpgcTX4fxqADF2koU8wCdl/5GuypDB897vAHsNRGYSvEDO4OC0LZnIsi64pRzsQNQQm46MlbMF+vJbS+X2LF2kKgPn/HwzJfT+Ck+vh3XTf1JOMpHtDPGz5B8nSahZJ3mMzymI3s6H66FwPNFpOrZZQQ+RJX6JwzhPFLJXlzv8+0gqgj/Uwfz+QRY4OtTSUuiCRwd+LfaZZJh06zq/9Td/fuLJdHOhhcYLcoVv9/K84wDQ8rAWZN74i4GuRvJupar9ruPiC1wUT6+N8MvuyhhiC44xnmJ9C+LyPkC2mh2+dduiUx4+cYtYhoDER1w8lENaUzB8JTmMXsdtc2Jvp",
-  "size": 2413849,
-  "released": "2026-10-05T11:15:46Z",
+  "version": "0.9.20.2",
+  "file": "test/releases/pls-0.9.20.2.zip",
+  "sha256": "ea98ce11001169804415b0d9a8804a92a5f29e8751bd2fb3b93d9fdbd8a6c375",
+  "signature": "eDLqybLRrYTj5TMxxSZjTQq8Zp8q5Ib1Ifp/rhfsujnqDKLlzO7j4uGylfjnQ7M5EjPP/IgjNveE5iifogiRzbPuQYsv9F8/pSNPvH29mdGv5NvVUIhWAQvhlDE89+VGIfBWT3cEHkkpPGcPInjcE1aEpMAUmVjPOMIOAFo7wR4WT4LmHkcKc4JwNxara0tf2g9AOcRdfS1OVUAf8mFX1JAHzfF9cgUiU/trHBfML+A7X1wfGCUg2A7KmK01lq/wxrhVtkJWxCm8HtaD1fL8x1WMhfE0qV6r4eVqWg6aW3IfXojn+mFSHha3UYPR/Srb/h3YYm68OajxMv1W/dKktKHlcKFjD6+je1hvxEwp5LmFAbrDHe/RmyMFQypAM5rGNqo+qW1m7tUQ1puMSYasPT7u+mS2LI5UMJTHV5Ixcf87xTdb9/ke6LfpOc2iKuH9os5re3ah/ymNrN0Bv0U96G6SPza52LuGS0xmiKlgVtAXVav5pBuZ7q/jfqWyMU8G",
+  "size": 2455011,
+  "released": "2026-10-05T16:51:32Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -210,6 +210,20 @@
     "Avansa bağlı MT: «Excel-ə köçür» — seçilən avanslar şablona yazılır (alıcı, avans, tam qalıq), malları doldurub faylı geri yükləyin",
     "Alış aktları: qaralamalar, satıcının təsdiqini gözləyən aktlar (5 günlük müddət — Ana səhifədə və təqvimdə xəbərdarlıq), dövr üzrə çıxarış (PDF və Excel)",
     "Alış aktları: yoxlamalar — 5% vergi, aksizli malda GTIN, ümumiləşdirilmiş adlar, təkrar aktlar, satıcının FİN üzrə limiti; detalda rəsmi PDF, imzalı fayl, tarixçə və versiyalar",
-    "Əməliyyatlar → «Alış aktı»: Excel-dən toplu akt qaralaması — yoxlamadan və təsdiqdən sonra portalda qaralama yaradılır, imzalama portalda"
+    "Əməliyyatlar → «Alış aktı»: Excel-dən toplu akt qaralaması — yoxlamadan və təsdiqdən sonra portalda qaralama yaradılır, imzalama portalda",
+    "Elektron qaimələr: «Qaimə üzrə» ↔ «Məhsul üzrə» keçəndə yüklənmiş məlumat itmir; «Məhsul üzrə» yüklənibsə «Qaimə üzrə» dərhal görünür, əksinə yalnız mal sətirləri yüklənir",
+    "Tab, görünüş və tərəf dəyişəndə məlumat itmir: Məktublar, Büdcə (ŞHV daxil), Bəyannamə əməliyyatları, Kadr reyestrləri, statistika və əməliyyatları, Gömrük hesabatları",
+    "Avans qaiməsi: portal xəta verəndə sahib və administrator «Sorğunun quruluşunu göstər» ilə göndərilən sahələrin quruluşunu görə və kopyalaya bilər (dəyərlər gizli)",
+    "Sərəncamlar: bir qərar bütün bank hesablarına ayrıca göndərilsə də bir dəfə sayılır — «Qərarlar üzrə» və «Hesablar üzrə» görünüş, hesab nömrələri, Excel iki vərəqdə",
+    "Büdcə: «Cəmi ödənilməli borc» portalın ana səhifəsindəki kimi; İcmalda «N aktiv sərəncam (M bank hesabı) — ödənilməli borc X ₼»",
+    "Görünüş: qaranlıq rejim — başlıqdakı düymə ilə İşıqlı və Qaranlıq arasında keçid; seçim bu kompüterdə yadda qalır",
+    "Yan panel və başlıq yeni dizaynda: müəssisə seçimi başlıqda (cari müəssisə, digər müəssisələr, axtarış, ulduzla favorit, VÖEN-i kopyala); yol zolağı və «Geri» düyməsi",
+    "Giriş: sessiya yoxlanarkən yüklənmə ekranı, daxil olandan sonra qısa salamlama",
+    "Bəyannamələr: sətir adları portalın fayllarından birbaşa və dərhal gəlir (portal tabından asılı deyil); alınmasa səbəb və «Yenidən cəhd et»",
+    "Bəyannamələr: yükləmə gedərkən «Çıx» dərhal keçir — portal sorğuları dayanır; portala yazan əməliyyatda «Dayandırılır…» gözlənilir",
+    "Vahid bəyannamə: bütün 15 cədvəl hissəsi oxunur; kağız/digər formada təqdim edilmiş bəyannamə ayrıca qeyd olunur, yükləməni dayandırmır; alınmayan hissənin adı və kodu «i»-də",
+    "Bəyannamələr → Əməliyyatlar: hər bəyannamə portaldakı bölmələrlə — Əsas hissə (real sətir nömrə və adları), Əlavələr (portalın Excel şablonundakı sütunlar), Hesablaşma, İcmal",
+    "Bəyannamələr → Əməliyyatlar: əvvəlki dövrdən köçür, PLS məlumatından doldur (qaimələr, alış aktları, işçilər), Excel və əl ilə; yoxlamalar, portalla tutuşdurma, Excel portalın formatında",
+    "Bəyannamələr → Müqayisə: yeni dizayn — rejimlər bir sətirdə, son dövrlərin hazır kartları, ən böyük dəyişikliklər, bölmələr açılıb-bağlanır, yeni «Trend» rejimi, qaimələrlə yoxlama şəbəkə kimi"
   ]
 }
