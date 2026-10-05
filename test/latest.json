@@ -1,10 +1,10 @@
 {
-  "version": "0.9.17.5",
-  "file": "test/releases/pls-0.9.17.5.zip",
-  "sha256": "02cca2e6b742b5cefe505e19ba87d114b885546e5082185654fa59012b37882c",
-  "signature": "y5Sj5i7B6CTJdqgV7kg244eVdm4dqwjMh024MHCqupdfHQLBeWNktSejfYBEA1Yd4pQcR6u9ZZeuzu4fbkPCxDRzBRHjVOw9tJs/MnN/0nMFqwIfGCsgnPR8sLPQIw/utwfEPDtH4/ykW/CZVQTnsIFaKswV0BGkpv09qW8E+NxgIMwRXV/fDVx0/jvelSeFoNa53YQR6JH2q4Qk4IW8aeDwRkxOSyk+PcRmJdsGUYbKIMIC0sFhNpggkxFQ8/3zxipBcdFtacsPxq+qCSx7BW+nQeg6rCD2TQEIS7kT3li29mGJFTKrp58ZJpg1ZWvVUKritfupSNKnd743BuUxmhA6BTBCZV7YsQPSnSXsSUMLcAL3nOXkD7oN5GwJTEpUTehW3NujqIk0KU6g62OuL6kS9TbCH3Dv6kQBQganRW2YZWpL2F7v7WceoV7OayehQQjFgOleM6om32w3zh+09X+B2dvhIQ97v4nRP+4X0/xWUWpO9XMn9Cck50CytnF3",
-  "size": 2383199,
-  "released": "2026-10-05T08:46:10Z",
+  "version": "0.9.18.2",
+  "file": "test/releases/pls-0.9.18.2.zip",
+  "sha256": "75ce7d810b6112d7e5550a2de9fa9ca868985ecf88a93fe2377b1656e5a6f2ba",
+  "signature": "aw4uONDY8pYDvZiDCW/JvsscWeSv/FGEzikOIdLpgNV3/o+3Vvhq+yFIjit9pEKdF0htO4/W4GC3EwUUqYmbT299U5hBkbVXaQ5YpHXtyAmdFO8CXaeT+iMYCz/zNafgWKlho2FjOobMyJdBqxYhp/0WqLW0RWQF30+qq1DFaDaigYpgcTX4fxqADF2koU8wCdl/5GuypDB897vAHsNRGYSvEDO4OC0LZnIsi64pRzsQNQQm46MlbMF+vJbS+X2LF2kKgPn/HwzJfT+Ck+vh3XTf1JOMpHtDPGz5B8nSahZJ3mMzymI3s6H66FwPNFpOrZZQQ+RJX6JwzhPFLJXlzv8+0gqgj/Uwfz+QRY4OtTSUuiCRwd+LfaZZJh06zq/9Td/fuLJdHOhhcYLcoVv9/K84wDQ8rAWZN74i4GuRvJupar9ruPiC1wUT6+N8MvuyhhiC44xnmJ9C+LyPkC2mh2+dduiUx4+cYtYhoDER1w8lENaUzB8JTmMXsdtc2Jvp",
+  "size": 2413849,
+  "released": "2026-10-05T11:15:46Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -197,6 +197,19 @@
     "Malın kodu: 10 rəqəm qaydası ləğv — 6–14 rəqəmli kodlar qəbul olunur; kod portalın tam kataloqunda yoxlanılır (kataloqda olmayan kod — xəta)",
     "Yeni: Vergi → Əməliyyatlar → «Mal və xidmət kodları» — portalın bütün kodları: axtarış, Excel, seçilənləri «Mallarım»-a əlavə etmək",
     "Avans qaiməsi (AA): yeni Excel şablonu — bütün sütunlar, «Məlumat» vərəqi, nümunə; məcburi sahələr hər yerdə «*» ilə",
-    "Qaytarma (MQ): standart səbəb «Yararsız»; yeni dizayn (mənbə qaimənin kartı, «Hamısını tam qaytar», sabit cəmlər); «Qaytarma qaimələri» siyahısı — «Eyni mənbədən yeni MQ»"
+    "Qaytarma (MQ): standart səbəb «Yararsız»; yeni dizayn (mənbə qaimənin kartı, «Hamısını tam qaytar», sabit cəmlər); «Qaytarma qaimələri» siyahısı — «Eyni mənbədən yeni MQ»",
+    "Toplu qaimə (təcili düzəliş): paketdə alıcının adı həmişə yazılır — portal adı boş olan paketləri səbəb göstərmədən rədd edirdi; ad boşdursa «Yoxla» xəta verir",
+    "Toplu qaimə: «Artıq yüklənib» yalnız portal paketi qəbul edəndə; rədd edilmiş paket «Yenidən göndər» ilə göndərilir, qismən uğurlu paketdə yalnız uğursuz qaimələr («Uğursuzları yenidən göndər»)",
+    "Toplu qaimə: portalın nəticəsi yuxarıda — rədd edilmiş qaimələr portalın mesajı və PLS-in təklifi ilə; səbəbsiz rəddə PLS-in öz yoxlaması və «Paketi endir»; «Yoxla» paketi də yoxlayır",
+    "Elektron qaimələr → Qaralamalar: siyahı özü yenilənir (açılanda, pəncərəyə qayıdanda, hər dəqiqə), «Yenilə» düyməsi; portalda silinən qaralama PLS-də qalmır; seçilmiş qaralamaları təsdiqlə silmək olar",
+    "EQF alt sənədlər: status, növ və məbləğ filteri, «Təsdiqlənmişlər / Hamısı / Seçilənlər»; hər qaimədə HF, TTA, RP nişanı (hazırlanmırsa səbəbi «i»-də); kartlarda «7 qaimədən 5-i üçün hazırlanacaq»",
+    "İş səhifələrində «Sıfırla» (təsdiqlə); dayandırılmış əməliyyatda «Davam et», «Yenidən başla», «Nəticəni sil» — tapılanlar itmir",
+    "Bəyannamələr → «Əməliyyatlar»: ƏDV, Sadələşdirilmiş, ÖMV və Vahid bəyannamə üçün PLS-də ilkin hesab — qaimələrdən avtomatik, Excel-dən və ya əl ilə; portalın doldurduğu ilə tutuşdurma və Excel",
+    "Avans qaiməsi (AA): qaralama portalın qaydası ilə yaradılır — sətirdə qaimənin öz nömrəsi, lüğətdə olmayan vahiddə kod boş göndərilmir",
+    "Avansa bağlı MT: «Aktiv avansları gətir» — bütün alıcılar üzrə qalığı olan avanslar, bazalar üzrə qalıq və yaş, alıcı, məbləğ və yaş filteri",
+    "Avansa bağlı MT: «Excel-ə köçür» — seçilən avanslar şablona yazılır (alıcı, avans, tam qalıq), malları doldurub faylı geri yükləyin",
+    "Alış aktları: qaralamalar, satıcının təsdiqini gözləyən aktlar (5 günlük müddət — Ana səhifədə və təqvimdə xəbərdarlıq), dövr üzrə çıxarış (PDF və Excel)",
+    "Alış aktları: yoxlamalar — 5% vergi, aksizli malda GTIN, ümumiləşdirilmiş adlar, təkrar aktlar, satıcının FİN üzrə limiti; detalda rəsmi PDF, imzalı fayl, tarixçə və versiyalar",
+    "Əməliyyatlar → «Alış aktı»: Excel-dən toplu akt qaralaması — yoxlamadan və təsdiqdən sonra portalda qaralama yaradılır, imzalama portalda"
   ]
 }
