@@ -1,10 +1,10 @@
 {
-  "version": "0.9.17.4",
-  "file": "test/releases/pls-0.9.17.4.zip",
-  "sha256": "d308d13487980d5ea2ba754f03b48b741e3dae670370578ca6ba540d9adbae62",
-  "signature": "LdUVMTqFP7U5NecklD7ZmhlGYyM9egsG78bEPKGwZPOm8AVyeKUmhsySzR2n7mogt8MoRVlM/4KFOgp5NNBqZiOPwhDX/rxMRu3CaOzTaFWm3awDcQz1Sb34ysF/a7TunnNnDs+vKf47beQRr5fTlJ7pLuTA0uB2tzkD7pB1KuHNpSu1Qh0wxrgsyjl7dSHHDT6hSLH2poXh7JU/KK79+ZrVqMjr+1i0aeM9pfIMjlHZ+RYBJVNuWvXcaY0aylsSH0qIE55oXBtaP0k2uJ52IXJVw+uf74q4TZVJtum0xxiAUuczSEIn32TT7mtIDhimhcfQa9TBQoZuUhjGgkYSpa1nXU8m43233tDxj8E7bl2xR3gPDfk1DU6OXAN5PNYGSX4haWfbk21cGrK1QaP/OiQ1Mbnvi0EUWqAYMSeZ7VfTqlVY5EfBKFYjdFWV/YL5lBFjnvcRZ+9zcmUOf3aZFWvAhzEKqAt8o5GIYs5VVeCyqidJDRMtooaFjaw+87EV",
-  "size": 2371744,
-  "released": "2026-10-04T14:27:43Z",
+  "version": "0.9.17.5",
+  "file": "test/releases/pls-0.9.17.5.zip",
+  "sha256": "02cca2e6b742b5cefe505e19ba87d114b885546e5082185654fa59012b37882c",
+  "signature": "y5Sj5i7B6CTJdqgV7kg244eVdm4dqwjMh024MHCqupdfHQLBeWNktSejfYBEA1Yd4pQcR6u9ZZeuzu4fbkPCxDRzBRHjVOw9tJs/MnN/0nMFqwIfGCsgnPR8sLPQIw/utwfEPDtH4/ykW/CZVQTnsIFaKswV0BGkpv09qW8E+NxgIMwRXV/fDVx0/jvelSeFoNa53YQR6JH2q4Qk4IW8aeDwRkxOSyk+PcRmJdsGUYbKIMIC0sFhNpggkxFQ8/3zxipBcdFtacsPxq+qCSx7BW+nQeg6rCD2TQEIS7kT3li29mGJFTKrp58ZJpg1ZWvVUKritfupSNKnd743BuUxmhA6BTBCZV7YsQPSnSXsSUMLcAL3nOXkD7oN5GwJTEpUTehW3NujqIk0KU6g62OuL6kS9TbCH3Dv6kQBQganRW2YZWpL2F7v7WceoV7OayehQQjFgOleM6om32w3zh+09X+B2dvhIQ97v4nRP+4X0/xWUWpO9XMn9Cck50CytnF3",
+  "size": 2383199,
+  "released": "2026-10-05T08:46:10Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -190,6 +190,13 @@
     "Sessiya bitəndə məlumat dərhal itmir — 30 dəqiqə saxlanılır (Tənzimləmələrdə dəyişmək olar); başqa müəssisəyə keçəndə köhnə məlumat dərhal silinir",
     "«i» izahları düymənin yanında açılır; uzun xəta siyahıları sürüşür",
     "Təhlükəsizlik: PLS girişi, ASAN hesabları, əməkhaqqı şablonları və rekvizitlər artıq saytların görə bilmədiyi qorunan yaddaşda saxlanılır (avtomatik köçürülür, heç nə itmir)",
-    "Təhlükəsizlik: iki mərhələli təsdiq — Tənzimləmələr → Təhlükəsizlik → «İki mərhələli təsdiq»: telefon tətbiqinin kodu ilə giriş, 10 ehtiyat kod"
+    "Təhlükəsizlik: iki mərhələli təsdiq — Tənzimləmələr → Təhlükəsizlik → «İki mərhələli təsdiq»: telefon tətbiqinin kodu ilə giriş, 10 ehtiyat kod",
+    "Avans qaiməsi (AA): «Avans qaiməsinin əsası» məcburidir — «Mal, iş, xidmət təqdimatı» (standart) və ya «Agent komisyonu — subagent»; portal sorğunu qəbul etməsə, hansı sahələrin göndərildiyi və ehtimal olunan səbəblər göstərilir",
+    "Toplu qaimə: «Vergi növü» ƏDV bazalarını həmişə özü hesablayır (baza xanaları yalnız oxunur); yeni növ «Qarışıq» — bazalar əl ilə",
+    "Toplu qaimə: «Təmizlə» bütün xətaları və izləri silir; hər xanada bütün xətalar «i»-də; «12 xəta, 5 sətirdə» sayğacı və sütun üzrə filter; xana dəyişəndə köhnə xəta silinir",
+    "Malın kodu: 10 rəqəm qaydası ləğv — 6–14 rəqəmli kodlar qəbul olunur; kod portalın tam kataloqunda yoxlanılır (kataloqda olmayan kod — xəta)",
+    "Yeni: Vergi → Əməliyyatlar → «Mal və xidmət kodları» — portalın bütün kodları: axtarış, Excel, seçilənləri «Mallarım»-a əlavə etmək",
+    "Avans qaiməsi (AA): yeni Excel şablonu — bütün sütunlar, «Məlumat» vərəqi, nümunə; məcburi sahələr hər yerdə «*» ilə",
+    "Qaytarma (MQ): standart səbəb «Yararsız»; yeni dizayn (mənbə qaimənin kartı, «Hamısını tam qaytar», sabit cəmlər); «Qaytarma qaimələri» siyahısı — «Eyni mənbədən yeni MQ»"
   ]
 }
