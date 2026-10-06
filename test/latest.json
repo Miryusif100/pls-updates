@@ -1,10 +1,10 @@
 {
-  "version": "0.9.22.1",
-  "file": "test/releases/pls-0.9.22.1.zip",
-  "sha256": "ec4deb1f5adb7f6ddba10227f0cc4e019aaf72967ff46163f1a9ac57aa4c406a",
-  "signature": "I0YbTeE+LAb3KFWNdhksb6QSq6ZHqWE12AcmMe3EgaFb94gXIus8K0yii0c+7l6RHItx70lGki1nZCphBTxdjFYtIGnOAGsZF09OM1INQMPwlDikzKdK2IuZSQgNenaxOmtncdcBoTdsJWCVVyEsLAL1PEajESoWvYgqZ/BkmBE3RwSbB/+/dgDjJ5C7oXtmATHSGkgBIOHZmkxAlBNllOVPRLjCN6p+I5Ql3FIuQYCIr6klDCRecVIH1RJb9YqaJHlXNJ5ILY10FIaFtHxGWk2Bj8CBjxX2/aaW61NEysIDiG/sPDWQuzKktYlBUACNmXDnao5rNS5htmLSDMR3eqlmAbF1MGDtWYIgYwT0XCyzcgXKfIm7D/yeHy41ovO9ubDcF1cnNLXez1oW9cGc9Gdo5U3Z/4LYftz1YaOyWOwDoAvd/ZdTUhkXY1A4RDh/nmIH6aGCHjb41ajiZhdl6o+RLCELkJ/h7qxyLB2uvg72oCM4cbtQV8qY3SaXQ898",
-  "size": 2684531,
-  "released": "2026-10-06T05:12:12Z",
+  "version": "0.9.23.1",
+  "file": "test/releases/pls-0.9.23.1.zip",
+  "sha256": "8096523fdc284a59eddc1d941f546664ee663b4d5fef1429fdf8b49de24d899f",
+  "signature": "h2nVBRnfaNlPmn9f9UU7B3fuGy+mH0KDruj2gTB7I8DkMd7Rhu3/Nci548AncjfO9U58gvKHq3w0fZMkIY57Z2i9mUreDC6o7WqKdNkw4O/X9RVJV6mHR17pMjRAvuYre4AWZ9TxpWja7M4KUGc9l3KZR7FgiAvyDZWkY1E+srZaZuriU2BSSU3sIOs4W5KICZ6zTcZHr95vPmcYTyoPnoZqYztR2nk/+myNTU1Qe8tIvtafARzTta9WqneIc5soloBvNVV6HUmN9uKSln+DiTOfUQQnU1Sq2N9wQ+WU/EVJCBAprIeqpTq+2w29csbh6ay1uD+qm5CPRbNJxUnOiQ3g3l7szJ3Ra3bXLlaxvuF9iGjYQhHVoeE9a+aMMKdxO10iwikuLiD8/gGjpBmaQ+u6iAqYa3tYzSrrndsDOrEKfiGfetJR1c3g9+hXBN258PR2RHwouEC9wjhVxLB3/DVj8ovTmnUAmzOEOZk71WODCdTeO3BPH7FBAzxT2x2C",
+  "size": 2706007,
+  "released": "2026-10-06T13:09:07Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -241,6 +241,20 @@
     "Ctrl+K: «Son açılanlar» və yaddaşdakı qaimələr üzrə nömrə ilə axtarış",
     "Administrator: lisenziya və ödənişlər, hesab-faktura PDF, Excel ilə toplu dəvət, «İstifadəçi kimi bax», «Yeniləməyə məcbur et», icazə sorğularının təsdiqi, girişlərin qrafikləri",
     "Administrator → Elanlar: göstərilmə yerləri (panel, portal düyməsi, tam ekran), kart forması, auditoriya, statistika, tarixçə, «Mesaj kimi göndər», oxumayanlara xatırlatma; Köməkçi → Statistika",
-    "Administrator → Köməkçi: özünə göndərib yoxlamaq, kart animasiyası, gündəlik kart limiti, bağlanma səbəbi; Sistem vəziyyəti: bağlantıların yoxlanması, ən yavaş sorğular, kəsintilər, ASAN sinxron növbəsi"
+    "Administrator → Köməkçi: özünə göndərib yoxlamaq, kart animasiyası, gündəlik kart limiti, bağlanma səbəbi; Sistem vəziyyəti: bağlantıların yoxlanması, ən yavaş sorğular, kəsintilər, ASAN sinxron növbəsi",
+    "Giriş səhifəsi heç bir ekran ölçüsündə sürüşmür; «Daxil ol» basılanda dizayndakı animasiya və salam ekranı; «Hesab ilk girişdə bu kompüterə bağlanır» yazısı götürüldü",
+    "«Şifrəmi unutdum» işləyir: müraciət administratora çatır, administrator müvəqqəti şifrə verir (Administrator → İcmal → Gözləyən işlər, İstifadəçilər)",
+    "Başlıq: yeni İşıqlı/Qaranlıq çeviricisi, bildirişlər paneli və kömək pəncərəsi dizayn kimi; müəssisə seçicisində «Yenilə» işləyir (fırlanır, nəticəni göstərir); «+» üzərinə gələndə qalxır; qaranlıq rejimdə dalğanın altındakı xətt yoxdur",
+    "Yan panel: axtarışa basanda modullar gizlənmir; seçili modulun ikonu dairəvidir; aç/bağla düyməsi həmişə görünür; axtarış qutusu daralmır; panel özbaşına açılıb-bağlanmır və ekrandan kənara çıxmır",
+    "Bölmənin yolu (Vergi › E-qaimə fakturalar › Elektron qaimələr) başlığın altında ayrıca zolaqdadır; yol zolağı ilə səhifə başlığı arasındakı boşluq bütün səhifələrdə eynidir",
+    "Kiçik ekranlarda (1280×720, 1366×768) və 1024 enində İdarə paneli üfüqi sürüşmədən işləyir: yan panel dar ekranda özü yığılır, başlıq daralır",
+    "Sağdan açılan panellər (Administrator, Tənzimləmələr, Bank, qaimə kartı) 1366 px və daha kiçik ekranda tam enli açılır; Esc və pərdə bağlayır, Tab panelin içində qalır",
+    "Elektron qaimələrdə filter zolağı sığmayanda sətirə keçir, «Portaldan yüklə» həmişə görünür; cədvəllərdə ilk sütun üfüqi sürüşmədə sabit qalır",
+    "Portal düyməsinin kartları dizayn lövhəsi ilə eyniləşdirildi (ölçü, dalğa, ikon, düymələr, qaranlıq rənglər); × düyməsində kartın müddətini göstərən halqa",
+    "Administrator → Köməkçi → Ümumi: «Kartların yeri» (düymənin üstündə / yanında / ekranın yuxarı sağı / yuxarı ortası) və «Açılış» (aşağıdan, yandan, solğunlaşma, böyümə); hər istifadəçi Tənzimləmələr → Fərdi-də öz seçimini edə bilər",
+    "Portala daxil olanda: əvvəl «Giriş təsdiq edildi», sonra salam; eyni anda bir kart; müddət administratorun ayarı (standart 12 s)",
+    "Əsas icmal yeni quruluşda: salamlama kartı (tarix, ad, rol və müəssisə çipləri, «N portal açıq · M bağlı»), sağda yalnız «Yenilə»; bağlı portallarda «Daxil ol» kartları yoxdur — yığcam kartlar (son oxunmuş rəqəmlər, «yoxlanılır», ya da modulun sürətli keçidləri), «↗» portalı açır",
+    "Əsas icmaldakı salamlama günün saatına görə dəyişir: səhər (günəş üfüqdə), gündüz, axşam (batan günəş), gecə (ay; qaranlıq rejimdə ulduzlu göy) — rənglər və salam («Sabahın xeyir», «Günortanız xeyir», «Axşamınız xeyir», «Gecəniz xeyir») özü keçir",
+    "Salamlamada yalnız rol və müəssisə çipləri qaldı; portal sayı «Bağlı portallar» sırasında və yuxarı zolaqda görünür; Köməkçinin «{salam}» sözü də eyni saat sərhədləri ilə işləyir"
   ]
 }
