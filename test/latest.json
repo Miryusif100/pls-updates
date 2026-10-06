@@ -1,10 +1,10 @@
 {
-  "version": "0.9.23.1",
-  "file": "test/releases/pls-0.9.23.1.zip",
-  "sha256": "8096523fdc284a59eddc1d941f546664ee663b4d5fef1429fdf8b49de24d899f",
-  "signature": "h2nVBRnfaNlPmn9f9UU7B3fuGy+mH0KDruj2gTB7I8DkMd7Rhu3/Nci548AncjfO9U58gvKHq3w0fZMkIY57Z2i9mUreDC6o7WqKdNkw4O/X9RVJV6mHR17pMjRAvuYre4AWZ9TxpWja7M4KUGc9l3KZR7FgiAvyDZWkY1E+srZaZuriU2BSSU3sIOs4W5KICZ6zTcZHr95vPmcYTyoPnoZqYztR2nk/+myNTU1Qe8tIvtafARzTta9WqneIc5soloBvNVV6HUmN9uKSln+DiTOfUQQnU1Sq2N9wQ+WU/EVJCBAprIeqpTq+2w29csbh6ay1uD+qm5CPRbNJxUnOiQ3g3l7szJ3Ra3bXLlaxvuF9iGjYQhHVoeE9a+aMMKdxO10iwikuLiD8/gGjpBmaQ+u6iAqYa3tYzSrrndsDOrEKfiGfetJR1c3g9+hXBN258PR2RHwouEC9wjhVxLB3/DVj8ovTmnUAmzOEOZk71WODCdTeO3BPH7FBAzxT2x2C",
-  "size": 2706007,
-  "released": "2026-10-06T13:09:07Z",
+  "version": "0.9.23.2",
+  "file": "test/releases/pls-0.9.23.2.zip",
+  "sha256": "5d0d9277bcdd7bfdd604c446cb7ed32322ea2490d2541318b38cb013197239a6",
+  "signature": "NAC438fwHJgR1hpk2KCppWTU3kVNKXFTUScQ1hSVzvV2PQ+6n9T85KtWDMExofZGmpiL8Xj2+S925ix5DHGQX2zUF2dCCB5x0wXx6u9TX1rxurqg1Zsfk9yutjQKazrsw06n7zOsJlRNpaV3wNZ+xmpbVsTQ+jHorGz78RaptaEEtv/IOc+royz2bu3r00IpQkZcjbAWM8KjTDW9JuagI5C9lNYYiZ72OLNtSMzXpS5OrhRqS16FQglvUOc+qKHcEhEttAx/FGmNrh/0gI+ACxl9i3PFyizHA8AZZFEM72jJGKsel2WtQAiUNWHyKRi2kRsHNpQ9c8VRi+mzJ5ZVbD3viNWLD4IzoPc/Bn7pfYXR5I/yQSJSJ9cf2R1XppHPGYI+3c9zcP4xhogIDBjveMoBD1pr9/FyCXY05uIPIZryhqBzTdHL9dT3syGlpikTkbReL6cnQ/h9ntMXNSzza8WDqryUOkDfaGzzqF0zZOZ1wQOSyZg+b04a1b0rJEPe",
+  "size": 2724628,
+  "released": "2026-10-06T18:17:00Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -255,6 +255,13 @@
     "Portala daxil olanda: əvvəl «Giriş təsdiq edildi», sonra salam; eyni anda bir kart; müddət administratorun ayarı (standart 12 s)",
     "Əsas icmal yeni quruluşda: salamlama kartı (tarix, ad, rol və müəssisə çipləri, «N portal açıq · M bağlı»), sağda yalnız «Yenilə»; bağlı portallarda «Daxil ol» kartları yoxdur — yığcam kartlar (son oxunmuş rəqəmlər, «yoxlanılır», ya da modulun sürətli keçidləri), «↗» portalı açır",
     "Əsas icmaldakı salamlama günün saatına görə dəyişir: səhər (günəş üfüqdə), gündüz, axşam (batan günəş), gecə (ay; qaranlıq rejimdə ulduzlu göy) — rənglər və salam («Sabahın xeyir», «Günortanız xeyir», «Axşamınız xeyir», «Gecəniz xeyir») özü keçir",
-    "Salamlamada yalnız rol və müəssisə çipləri qaldı; portal sayı «Bağlı portallar» sırasında və yuxarı zolaqda görünür; Köməkçinin «{salam}» sözü də eyni saat sərhədləri ilə işləyir"
+    "Salamlamada yalnız rol və müəssisə çipləri qaldı; portal sayı «Bağlı portallar» sırasında və yuxarı zolaqda görünür; Köməkçinin «{salam}» sözü də eyni saat sərhədləri ilə işləyir",
+    "Giriş səhifəsində sürüşmə zolağı daha görünmür; sol təqdimat böyük ekranlarda qalan sahəni doldurur",
+    "«Şifrənin bərpası» və «Müraciətiniz qəbul edildi» səhifələrində «Giriş səhifəsinə qayıdın» yaşıl mətn keçididir; düymələrdə qara effekt yoxdur; başlıq və işarə kəsilmir",
+    "Bildirişlər panelində «Hamısı / Oxunmamış» və mənbə filterləri lövhədəki kimi düzülüb; «Hamısı oxundu» filterləri sıfırlayır",
+    "Kartların və pəncərələrin dalğalı başlıqlarının altındakı nazik xətt aradan qaldırıldı (bütün yerlərdə, işıqlı və qaranlıq rejimdə, 125 % miqyasda da)",
+    "Portal düyməsinin paneli yeniləndi: müəssisə seçicisi başlıqdakı ilə eyni (ad, VÖEN, digər açıq sessiyalar, «Keç»), bölmələr yan menyu kimi ağacla; istifadəçi kartı açıq, çıxış qırmızı dairə",
+    "«Portal bağlantısını yoxla» sətri əvəzinə yuxarıda dairəvi «Yenilə»; «Yeniləmələri yoxla» yoxdur (yeniləmə avtomatikdir); daxil olunmayanda «Portala daxil olunmayıb» yazılır; tünd portalda panel qaranlıq üslubda",
+    "Yan paneldə istifadəçi bölməsi kartsızdır (kanvas C): qradiyent avatar, ağ dairəvi çıxış — üzərinə gələndə qırmızı; çıxış təsdiqi dalğalı qırmızı başlıqla «Sistemdən çıxış». Portal düyməsinin panelində istifadəçi bölməsi eyni."
   ]
 }
