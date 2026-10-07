@@ -1,10 +1,10 @@
 {
-  "version": "0.9.24.2",
-  "file": "test/releases/pls-0.9.24.2.zip",
-  "sha256": "e53ab7df1edb1b2f01bb9597a5664218e1b48760beda37b27c27494cd0297b64",
-  "signature": "DjV7JRxQspZDBjPOOrdPv6bicnLqMTA0+gBJcKbBlou/sd5+5qDxukuvXAojKfVIM+RvbjnTmXvuQUhDmfcihlAp16EUz9pU5CIO2C5DWmqXHDim46goMPGsmi+6YPgAhZDL3lq2P2gW+HRecuEdnOYJB/vDyylhjzX9okmdHeO1aY72f2b3spmLw2swzMS8Qao14Q/0LopCgeqLzaHb9f85Yv6IDsqFowLXXhBasC/nhY8Tp/D+wTQvs9eKlRjC5hQabxqMbp4jcbO0fjENaspX2I/aCzYhO9K9VrKl3a3NC2/eaRqE/UW0g3yJo9fkv52a8OjmiLF+92VJYd3nT5MVHqZPCsx6eDvq9krUV3KAcmr0d2oJDLJ3t4/B4hqUeCazyCfyRPsbDDcAp0k41H9hfhI+0ue2e7Lin6UWhoPR7XckjUSGD36nIJfN7/a61Mx/vgVdpxIj0xT98XHmKx39pyF91Nr1tEOfZiEjAB9g6V3oBLMuTMkepIERY6Vs",
-  "size": 2759861,
-  "released": "2026-10-07T18:31:42Z",
+  "version": "0.9.24.3",
+  "file": "test/releases/pls-0.9.24.3.zip",
+  "sha256": "cc86ad323a2205153a7e137fa9124791ccde38128d05f9965635c78f8be58096",
+  "signature": "j4/wUp4kCYZaY5kfHruaLRKDEl6MKWSfvlBHfSgUYts0KqUFw3n/Kv66o3zV0/Gnwf42YOOMBOXder7p1kYhwcLoSwBCNoP6wNVFRSQG1mwWpgHa4tQqVm6WZSDT9gnFJurgSR+Bc6dcePWIu/jzcVJKyjgHqHMcwKyv9+mCFmTjAiDOu+MEaAH7mPDaWYlyi9b5bdBT1g1aI/aNe5RmhYBR1VOlQkiGWkybhV+1YEpc0wZpGSwoIQj0ykNlZKXXIXXwNzTKKA+1W/fRfOUSTln+6TrEBWc7MdDmjt++KerY3GhY0qeWFv8MupCrBJYcWjIuiAiUOnzt5DneUGtUGqxOaoTV0/Ce2AZ/fvnxi2k1dgIpZmCUm66/LSLGNNhngs+XxHZsAbWXkiNlpK2jGO4rNkUMaTXGbFgk4wzQWAM05SPqDoaZdRv6GqNeOUBmHjNDqqENSOKZ5nzwhPbcVVtauRLSoNMmEaiCgXAZFE5Tyo+3+EbF3YNBdlnSQ7qM",
+  "size": 2999925,
+  "released": "2026-10-07T18:46:29Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
