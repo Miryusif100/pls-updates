@@ -1,10 +1,10 @@
 {
-  "version": "0.9.23.4",
-  "file": "test/releases/pls-0.9.23.4.zip",
-  "sha256": "de91a01803b2ad7ee25bedefef1ad593aada5400df1a1ad7b16543d035a9a444",
-  "signature": "VAZyOsWs8c4OkZ874D84fW5xrA2dvgN8DCJC60XDw4yvpP3Ul4/pxTU2z8EJfqYVIaqRQdAKXOh7HPm3h4SQQPkfba1ZbDACKcCZ1G8JGupjjbGabCP1HzDYelBvtgHhlznWMklL0xBMnTFKDIu2lllVN+mVxtrrVcaqmDxTyao/Yo9IEGFjzUvc4WwrtE3iECj348k8eA2LOXZH+u10paqmdEwTXSh62KIAOuL1Dlnk39nn9RvA3B38dbhvdExFmxSPy57XGBQexw2oNTn43QE63/ex4fkO220gp0EX0pVJSBSGwRp11xhBUEmuefA7MIglPtvLv+ySTXKg+v95FjOVKuFITNqVzXgt5coHXTQx7KWDxbmxfn+F32qa6TI0wsTh6kgIszoRcTSCVsHceIfx/0kuf1eL0YOZrczmrcesr2p4GCpYCB7FDZKgbJRqQQjZECgomE93twdC8ja1K+1G3VX2nqetciLERSfPp8avbkilUVcH17u5CSmeWZ11",
-  "size": 2756804,
-  "released": "2026-10-07T10:59:10Z",
+  "version": "0.9.24.1",
+  "file": "test/releases/pls-0.9.24.1.zip",
+  "sha256": "5dc779d51df9e581a58196aa8986dcff16acdcde7d46aee75917fbb1b9b4e088",
+  "signature": "wYrUoxm4z9k98F4Dyxkh4kDnLX2DwUuC7cB8xfoXM53zxn9hplkVECNWld8nocpqnK4H3+iuRrSL8x+ASgq9BaXn1PnTMvhg4vOkxs8+QtVsQ/+mNidc6Pa1qrywfjQHJYfo2c90OwaHpAU2pvP72EEu9qePC8J0pZDWzfVKGEKuZqTm6DZuyHFuMakcGBAvUbk2NFyxPatomL8Rzl2bs1Jdw93ISToqTPIumScuFzbkpUplSfdqxZ6A9DHdPCyevRArDVyfwbEjoJTPuD/BECLpADZ3Ckpk/Fbs1uMMCdGQAwHlUu/8qRyn/d4yJ4q05Bfhk/rDTcoGwgpwhnk4HALdUOL8GNysIB3qU5Nj19j+LN4xfUn/s/Q8W/MWHk8FIXAtQTF9gEdvDk3o9kcrlhvoL3eZkBO5q7wd0ELEEL0TdJ2L2VgX0elw/tb3zlsLA90WH5RTvh11r9WGm6l0UQTly4tSWs4XX7esuDeI6MiMpl0DYqcJDwWU6VEwmsIe",
+  "size": 2759861,
+  "released": "2026-10-07T14:28:59Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -272,6 +272,9 @@
     "ASAN İmza yeni görünüş: İcmal, Hesablar və İdxal alt bölmələri; Yeni hesab və Redaktə et ayrıca səhifədə.",
     "Hesablara kateqoriya (Müştəri, Öz, Tərəfdaş, Digər və öz kateqoriyalarınız) — filter və İcmalda tərkib.",
     "Excel ixracı Hesablar səhifəsindəki «Excel» düyməsində: cari filterə görə və ya hamısı, gizli sahələr seçimlə.",
-    "Portal düyməsində «Daxil ol» → hesab seçimi: nömrə və ASAN ID doldurulur, «Daxil ol» sizdədir."
+    "Portal düyməsində «Daxil ol» → hesab seçimi: nömrə və ASAN ID doldurulur, «Daxil ol» sizdədir.",
+    "Əsas icmal yeni dizaynda: portala daxil olmayanda «Başlayaq» kartları, açıq portalın kartında rəqəmli plitələr, diqqət tələb edənlər və sürətli keçidlər; Bildirişlər, ASAN İmza, Fəallıq, Son əməliyyatlarım və Portallar blokları yenidən",
+    "Əsas icmal → Vergi göstəriciləri: qaimələr 6 ay (cari ay vurğulu), ödənilən vergilər və cari ayın qaimə statusları halqa ilə, satış və ƏDV dinamikası",
+    "Fəallıq: 30 gün / 7 gün / Ay görünüşləri (ayda hər gün nöqtə, vergi müddəti halqa ilə); Portallarda hesab seçimi, tablar və axtarış"
   ]
 }
