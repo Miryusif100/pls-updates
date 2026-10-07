@@ -1,10 +1,10 @@
 {
-  "version": "0.9.23.3",
-  "file": "test/releases/pls-0.9.23.3.zip",
-  "sha256": "f48d077bf8ea9dae0f09516790fe1780d5026dc578ea35fe60c49c6d2558c993",
-  "signature": "QCu+6umDquMokOagu5lf9vKYHYy7tr+VDWO43fUU7u5we9o2JFxdRryeFiaRlTbu59vn8KL9xW5R/NSptA673PZXQNyy6IXbNCbxNe3p+mqYpXmPhFeRMrUQGctnaH8zduJuGXtev+p5Gl4G/fNpyfPzPLnudjmKdLvMXjLS1fiYQHDN/gVacqCw8TlKetJipECXnASrnwRLwrZNvth2ssX21yja3L7SodStCLvNKIDzqaV5VSlLZCAxxkLlnGgwi7Fc+B8pBNdAuCXCAiQTaDU/+ueIzlO4DXcAcIzbLbnNWUl6VqRnHkr4tRNEBUXR2XYDEBrVdBIsc7XCnENhLoQ0MSjZy1NqcP3Nky9xszZprwCfNxLstLD4Hvdb2GwFsZO4ydX49j7rThGHfQKGwoY76QFQ5XOpk7rUDsSd+A6xqI3PruqDmIIO3DZkaVR0ynXllWZRRJbAPJGC06E7BUIXUFb92sU03uKT3Vls3KwRYz7PtmwkygSZjXsAqtYg",
-  "size": 2724628,
-  "released": "2026-10-07T05:18:29Z",
+  "version": "0.9.23.4",
+  "file": "test/releases/pls-0.9.23.4.zip",
+  "sha256": "de91a01803b2ad7ee25bedefef1ad593aada5400df1a1ad7b16543d035a9a444",
+  "signature": "VAZyOsWs8c4OkZ874D84fW5xrA2dvgN8DCJC60XDw4yvpP3Ul4/pxTU2z8EJfqYVIaqRQdAKXOh7HPm3h4SQQPkfba1ZbDACKcCZ1G8JGupjjbGabCP1HzDYelBvtgHhlznWMklL0xBMnTFKDIu2lllVN+mVxtrrVcaqmDxTyao/Yo9IEGFjzUvc4WwrtE3iECj348k8eA2LOXZH+u10paqmdEwTXSh62KIAOuL1Dlnk39nn9RvA3B38dbhvdExFmxSPy57XGBQexw2oNTn43QE63/ex4fkO220gp0EX0pVJSBSGwRp11xhBUEmuefA7MIglPtvLv+ySTXKg+v95FjOVKuFITNqVzXgt5coHXTQx7KWDxbmxfn+F32qa6TI0wsTh6kgIszoRcTSCVsHceIfx/0kuf1eL0YOZrczmrcesr2p4GCpYCB7FDZKgbJRqQQjZECgomE93twdC8ja1K+1G3VX2nqetciLERSfPp8avbkilUVcH17u5CSmeWZ11",
+  "size": 2756804,
+  "released": "2026-10-07T10:59:10Z",
   "notes": [
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
@@ -262,6 +262,16 @@
     "Kartların və pəncərələrin dalğalı başlıqlarının altındakı nazik xətt aradan qaldırıldı (bütün yerlərdə, işıqlı və qaranlıq rejimdə, 125 % miqyasda da)",
     "Portal düyməsinin paneli yeniləndi: müəssisə seçicisi başlıqdakı ilə eyni (ad, VÖEN, digər açıq sessiyalar, «Keç»), bölmələr yan menyu kimi ağacla; istifadəçi kartı açıq, çıxış qırmızı dairə",
     "«Portal bağlantısını yoxla» sətri əvəzinə yuxarıda dairəvi «Yenilə»; «Yeniləmələri yoxla» yoxdur (yeniləmə avtomatikdir); daxil olunmayanda «Portala daxil olunmayıb» yazılır; tünd portalda panel qaranlıq üslubda",
-    "Yan paneldə istifadəçi bölməsi kartsızdır (kanvas C): qradiyent avatar, ağ dairəvi çıxış — üzərinə gələndə qırmızı; çıxış təsdiqi dalğalı qırmızı başlıqla «Sistemdən çıxış». Portal düyməsinin panelində istifadəçi bölməsi eyni."
+    "Yan paneldə istifadəçi bölməsi kartsızdır (kanvas C): qradiyent avatar, ağ dairəvi çıxış — üzərinə gələndə qırmızı; çıxış təsdiqi dalğalı qırmızı başlıqla «Sistemdən çıxış». Portal düyməsinin panelində istifadəçi bölməsi eyni.",
+    "Giriş, «Şifrəmi unutdum», «Yeni şifrə» və kilid səhifələri kiçik ekranlarda (125 % miqyas daxil) sürüşmə zolağı olmadan, ölçülər ekrana görə uyğunlaşaraq göstərilir; ilk girişdə «Yeni şifrə» səhifəsi giriş səhifəsi ilə eyni çərçivədə.",
+    "Administratorun sol bölmə siyahısı Tənzimləmələrdəki kimi oldu; kiçik ekranda siyahı öz içində sürüşür, sonuncu bölmələr görünür və açılır. Yan paneldə Administrator keçidi həmişə Tənzimləmələrin altında tam sətirdir.",
+    "Qaranlıq rejim dizayn lövhələri ilə eyniləşdirildi: səthlər, başlıq zolağı, yan panel, panellər və mətn tonları kanvasdakı rənglərlə; rəngli kartlar və nişanlar boz yox, öz çalarında.",
+    "Bildiriş kartları yeniləndi: yuxarı sağda, növünə görə forma və rəng (sistem, sessiya, elan, giriş, ASAN, mesaj), eyni anda 3 kart, məlumat 8 saniyə, xəbərdarlıq bağlayanadək. Yeni bildirişlər: internet kəsiləndə, e-taxes sessiyası bitməyə 2 dəqiqə qalanda (geri sayım), girişdən sonra «Xoş gəldiniz», yeni kompüterdən giriş, vergi təqvimində 3 gün qalanda. Elan Əsas icmalda yuxarıda lent kimi, vacib elan qırmızı dalğalı pəncərədə.",
+    "Portal düyməsinin paneli kiçik ekranlarda yığcam açılır (modullar sahəsi genişlənir, panel ekrandan çıxmır); müəssisə seçicisi və bildirişlər pəncərəsi panelin ən çox yarısını tutur; bildirişlər pəncərəsi yeni görünüşdə.",
+    "Girişdən sonrakı «Xoş gəldiniz» kartı əvvəlki girişin vaxtını və kompüterini göstərir; «Yeni kompüterdən giriş» xəbərdarlığı serverin dəqiq qeydi ilə.",
+    "ASAN İmza yeni görünüş: İcmal, Hesablar və İdxal alt bölmələri; Yeni hesab və Redaktə et ayrıca səhifədə.",
+    "Hesablara kateqoriya (Müştəri, Öz, Tərəfdaş, Digər və öz kateqoriyalarınız) — filter və İcmalda tərkib.",
+    "Excel ixracı Hesablar səhifəsindəki «Excel» düyməsində: cari filterə görə və ya hamısı, gizli sahələr seçimlə.",
+    "Portal düyməsində «Daxil ol» → hesab seçimi: nömrə və ASAN ID doldurulur, «Daxil ol» sizdədir."
   ]
 }
