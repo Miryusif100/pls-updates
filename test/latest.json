@@ -1,11 +1,13 @@
 {
-  "version": "0.9.24.3",
-  "file": "test/releases/pls-0.9.24.3.zip",
-  "sha256": "cc86ad323a2205153a7e137fa9124791ccde38128d05f9965635c78f8be58096",
-  "signature": "j4/wUp4kCYZaY5kfHruaLRKDEl6MKWSfvlBHfSgUYts0KqUFw3n/Kv66o3zV0/Gnwf42YOOMBOXder7p1kYhwcLoSwBCNoP6wNVFRSQG1mwWpgHa4tQqVm6WZSDT9gnFJurgSR+Bc6dcePWIu/jzcVJKyjgHqHMcwKyv9+mCFmTjAiDOu+MEaAH7mPDaWYlyi9b5bdBT1g1aI/aNe5RmhYBR1VOlQkiGWkybhV+1YEpc0wZpGSwoIQj0ykNlZKXXIXXwNzTKKA+1W/fRfOUSTln+6TrEBWc7MdDmjt++KerY3GhY0qeWFv8MupCrBJYcWjIuiAiUOnzt5DneUGtUGqxOaoTV0/Ce2AZ/fvnxi2k1dgIpZmCUm66/LSLGNNhngs+XxHZsAbWXkiNlpK2jGO4rNkUMaTXGbFgk4wzQWAM05SPqDoaZdRv6GqNeOUBmHjNDqqENSOKZ5nzwhPbcVVtauRLSoNMmEaiCgXAZFE5Tyo+3+EbF3YNBdlnSQ7qM",
-  "size": 2999925,
-  "released": "2026-10-07T18:46:29Z",
+  "version": "0.9.24.4",
+  "file": "test/releases/pls-0.9.24.4.zip",
+  "sha256": "3b0ec1a1aa8e34b232944a25b406d5f4ce997c03bce5486ca1d26a8aae728ea1",
+  "signature": "iiN+tlEG2ixGS2tMwWITQP/w+TJT3BHrKGkTq0ENwe/q/XuAXkr8xnGOLf0zqI50lZVyyHFPPJ6+uyaE/DYfcqvyDWwV5c6NHAvwbaEEghVyxkn7tQhVJ7J5tTHg5xQsGRHU/tNWQv55boP5mNtvAy+fCXv9GSLDk6tyrJhkUmDlXSNRG74v4V25aDKUc2lg6n6oJADntHIirxQBpt4nX8cwq9UgTl/mH0MK+RjUSvyIdd+nsSpXegFT98Zm9ZKdo4UHRSOy/kY0RyAlghhlL/MKo6eJD9L0GBDFuR80VJo9Nt+zOBwC/ewm1W6nb0lXjekumAjMHwOM+O2xYEczEkH97d7RzSjiMc5T+8cnVTTu8njU3ceKkkw4KsGHDctOBHMqAEITJbhx/6OYtSqZZgCqGKvMveKzxGcfcMRh9W9OoOVZvWkAbuptIjJNoS2k5UbtUKcfNS9Qp1N8uudJ3Fsno4KFNa3a9iy7XJitmdRAEHyXwNSJ586FthVFPTxn",
+  "size": 3167225,
+  "released": "2026-10-08T05:55:25Z",
   "notes": [
+    "Vergi → Məlumat yeni görünüşdə: dalğalı başlıq kartı (ad, VÖEN, nişanlar), dörd rəngli bölmə düyməsi, hər sətirdə «Kopyala» və «Rekvizitləri kopyala»",
+    "Vergi → Məlumat: siyahılar yığcam cədvəldə; sessiya bitəndə məlumat saxlanma müddəti ərzində qalır (sarı zolaq, qalan dəqiqə), PDF hazırlananda bölmələrin hazırlığı görünür",
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
     "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
     "Əsas icmal: açıq portallar müəssisələr üzrə ayrılır (vergi bir firma, bank başqa firma ola bilər); «Yenilə» bütün sessiyaları yoxlayır; elanlar və son bildirişlər sağda",
@@ -275,6 +277,12 @@
     "Portal düyməsində «Daxil ol» → hesab seçimi: nömrə və ASAN ID doldurulur, «Daxil ol» sizdədir.",
     "Əsas icmal yeni dizaynda: portala daxil olmayanda «Başlayaq» kartları, açıq portalın kartında rəqəmli plitələr, diqqət tələb edənlər və sürətli keçidlər; Bildirişlər, ASAN İmza, Fəallıq, Son əməliyyatlarım və Portallar blokları yenidən",
     "Əsas icmal → Vergi göstəriciləri: qaimələr 6 ay (cari ay vurğulu), ödənilən vergilər və cari ayın qaimə statusları halqa ilə, satış və ƏDV dinamikası",
-    "Fəallıq: 30 gün / 7 gün / Ay görünüşləri (ayda hər gün nöqtə, vergi müddəti halqa ilə); Portallarda hesab seçimi, tablar və axtarış"
+    "Fəallıq: 30 gün / 7 gün / Ay görünüşləri (ayda hər gün nöqtə, vergi müddəti halqa ilə); Portallarda hesab seçimi, tablar və axtarış",
+    "E-qaimə fakturalar yeni görünüşdə: rəngli başlıq, künc kartlar, vahid filter zolağı (Dövr, Status, Növ, Ətraflı və Sürətli filter), aktiv filter çipləri",
+    "Yeni «Kontragentlər» bölməsi: alıcı və satıcıların dövriyyəsi, riski, kartı və üzləşmə aktı (Word / PDF)",
+    "Sənədlər: addım kartları, hər sənədin önizləməsi, «Bu sənədi endir», imza/möhür və ödəniş müddəti seçimi",
+    "Əməliyyatlar (Toplu qaimə, Avansa bağlı MT, Qaytarma MQ, Avans qaiməsi AA) yeni dizaynda: addımlar, yoxlama paneli, künc kartları, cəm zolağı, təsdiq pəncərələri",
+    "Yeni: «Yaradılmış qaralamalar» (bütün əməliyyatlar, bu sessiya) və «Yarımçıq iş tapıldı»; avansa bağlı MT və qaytarmada bir neçə avans / mənbə seçmək olar",
+    "Alış aktı, Mallarım və Mal və xidmət kodları yeni dizaynda; aktda yeni yoxlamalar (bir aktda bir növ, satıcının limiti); şablon və kodları AA formasına «Qaiməyə əlavə et»"
   ]
 }
