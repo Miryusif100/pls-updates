@@ -1,10 +1,10 @@
 {
-  "version": "0.9.24.4",
-  "file": "test/releases/pls-0.9.24.4.zip",
-  "sha256": "3b0ec1a1aa8e34b232944a25b406d5f4ce997c03bce5486ca1d26a8aae728ea1",
-  "signature": "iiN+tlEG2ixGS2tMwWITQP/w+TJT3BHrKGkTq0ENwe/q/XuAXkr8xnGOLf0zqI50lZVyyHFPPJ6+uyaE/DYfcqvyDWwV5c6NHAvwbaEEghVyxkn7tQhVJ7J5tTHg5xQsGRHU/tNWQv55boP5mNtvAy+fCXv9GSLDk6tyrJhkUmDlXSNRG74v4V25aDKUc2lg6n6oJADntHIirxQBpt4nX8cwq9UgTl/mH0MK+RjUSvyIdd+nsSpXegFT98Zm9ZKdo4UHRSOy/kY0RyAlghhlL/MKo6eJD9L0GBDFuR80VJo9Nt+zOBwC/ewm1W6nb0lXjekumAjMHwOM+O2xYEczEkH97d7RzSjiMc5T+8cnVTTu8njU3ceKkkw4KsGHDctOBHMqAEITJbhx/6OYtSqZZgCqGKvMveKzxGcfcMRh9W9OoOVZvWkAbuptIjJNoS2k5UbtUKcfNS9Qp1N8uudJ3Fsno4KFNa3a9iy7XJitmdRAEHyXwNSJ586FthVFPTxn",
-  "size": 3167225,
-  "released": "2026-10-08T05:55:25Z",
+  "version": "0.9.24.5",
+  "file": "test/releases/pls-0.9.24.5.zip",
+  "sha256": "13d943f93d8e2e0813c2409f38a77d1bc6bf225af1299a6b7fa587447452498b",
+  "signature": "uSHX3xVcKhjS8Vsemd1KdzubI/4eCW0grY09xXxyUcgVJCmvk6nB/Cs2NkO+ZMCATQ++FtA23VWVp6s3vLas40Sfh7DQzUQfpKbwqdeE90L4uBTk9RFrGY/yTB58dVmMfTb7DEYyKyD//dz3t70e4JwaDwxtWcbRbYBXHN3UDJUS6ZdudjXZRbo3fnqTihKEgUkqblIcLE3FdQEB+9EbfAC7FGvo6tj17MeF2dm644m4UlR0B/GAaE90t+JfWV0giwOCFhKiMg8sGk8f+gJ4VbIESPjkVSqbYXiFypc2rZFNo453rifsgWqPto0AdJ0K2IVQ8Rq+3jefYPqpQ/QXlGMEB4Ha/RTQwdOW99s9Fo479juhSXs/r6dn4HYgD8OmAlJCcEvCdN/LvlaqNxx7GoaV/DQFMHHqc5WY1quoeojiJpDy1giyJ4EEMwbfYbOgwFnfZqXHFfe9735DI/2uqM8Ms9f9dV3IuL37HMN3bmUkJ0XgFh4elHjOcducDK4H",
+  "size": 3177008,
+  "released": "2026-10-13T05:49:23Z",
   "notes": [
     "Vergi → Məlumat yeni görünüşdə: dalğalı başlıq kartı (ad, VÖEN, nişanlar), dörd rəngli bölmə düyməsi, hər sətirdə «Kopyala» və «Rekvizitləri kopyala»",
     "Vergi → Məlumat: siyahılar yığcam cədvəldə; sessiya bitəndə məlumat saxlanma müddəti ərzində qalır (sarı zolaq, qalan dəqiqə), PDF hazırlananda bölmələrin hazırlığı görünür",
