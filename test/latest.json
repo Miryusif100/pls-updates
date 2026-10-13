@@ -1,10 +1,10 @@
 {
-  "version": "0.9.24.6",
-  "file": "test/releases/pls-0.9.24.6.zip",
-  "sha256": "12a093434ccd41088ed54af0a7f61c874ba9d9d918f4a1f040757517614a791d",
-  "signature": "Cka2mMBCIgZ4VQjpy3f143CMelW2RfH2v9DbqV4Suo3LJt4Gvcx4ymE8nRCa1ccZgcnrFzGsIFh5LwbFyiI0iMA6vu/Efbx83jRkcpYYeZznxoDX3K4DCTGtLAQzpULD0RtE1KgW7TxG/wWIOjALPeuW23hqrufG8Y2TETyznUnvZv5d7kxm2ZkZ/hDy/ldx9/vx2jJWRq6EZzzb1G2TPiBCdSkx0IfaYh/T/N71GOC5xrUJwzM3tMEsssq4/nVc8oFVL73a+/fvr4wPzyIVF3VdevMgayU+DqTIsgM43J59U+1UoHgKtgL1VaK3/uhoGJ6s6lbskJyR00CcoJ0SCUdPoFFG90ovopRHhwLEsJ2ryLDcVGB9PvicJt2EV8/QSl66D3U9HjRXllPgs8FWyrn1AuHJtNYtZjWxfCgARQsmRhqfGW27IPbECGeAPCJgrDqtSNCIuMKS8KPjoBYNL8BvmmqoXSFGg1EFukPy2oPI8tApxS8hVDW9ED3htRsl",
-  "size": 3182832,
-  "released": "2026-10-13T10:44:10Z",
+  "version": "0.9.24.7",
+  "file": "test/releases/pls-0.9.24.7.zip",
+  "sha256": "5f503992f53d67d2a594ead70833ae8be860e0d1470f3056bd118bdab1e35b76",
+  "signature": "o/O/OO358Lb50IZiR0/AespZUn7ySxzYXsyefKDG3VxYWNWurm/7TajANZnA+gj1Ic5LzMl2QcEzNrtTeVDbSAlbWMmhNr/Or67njkwhasWr2pXgEtEpOTDFmGRyrbnGLTx/2NQOf1YAsE+u7COj1c+kcnNoHcKACVjl6JdcwXX1MkjhF4SPEsGBi6zf9pRqgiBQ3cH6bUIuLGn2AC3TG4tCcVxarhheoZMVD5QkccqUeClOmjUgJRc0JI+Xeyf0+B5rzI60L511FWvy/+gOTyKZ02c9clVA+Cxq192BkcOJJ8CGZmUuBZcNSWm+mFxJ/DPHT0Ut99nKWZ3xAD9uYUd8ok5f2fpQNCJ9dx4/44OFMiqrFXaKxvvteK6Tpnwqiv1D3r5fk3FzysAuFBA+vWuFIURGfRzU4uzVP9wdrPuous1xWFnMM0z1WBQ9gVzw4x16HuFmeVvgWpo6tffTz4d/pi7S43HQ4t7a0EQSk+p78MTLqygxP6HjO1diJ/5K",
+  "size": 3183390,
+  "released": "2026-10-13T14:06:41Z",
   "notes": [
     "Başlıq: müəssisə seçicisi sadə boz çərçivədə; açılan «Sessiyalar» siyahısı yığcam, seçilmiş müəssisədə ✓",
     "Başlıqda iki ayrı düymə: «Qısayollar» (klaviatura) və «Kömək» (?); Kömək pəncərəsində dəstək xətti, «Zəng et», diaqnostika və yeniləmə",
