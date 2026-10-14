@@ -1,10 +1,10 @@
 {
-  "version": "0.9.24.11",
-  "file": "test/releases/pls-0.9.24.11.zip",
-  "sha256": "e76236fab1cf3b46f31a11ce8c6266a427006a5cc4db3f8624305ef150a682bc",
-  "signature": "uyfT85lAoD9rvKjJSmfpo2E8QGpBx5tRyj3qhzEjL3uGfYJgFZCX0/kwl6ufWQhl/uG6I2QZDB4Fc/owJ73yy6jZ8mL9QpVVemITSHxtnM4HV9Jwu13PyylkwDD3ZeEjIJk8BP/8vkTISgs8p5j4Qv8g6DVnGT94qL7+F+b8mkTrvY2Enc4amq8XOb/BSJ3iADBmKMAgF9EpSxmlU33nr12ITczJUxJrW+YanP4BWut4+/Ml/hN5lhLvdggmukhDoK2XzekG7PwmEkIQZphaGJ4JJGdHGzXJGoOpOaEnzi0OoKBsRILHtUlIlileYBUveKEkZkqMjt4mn3iTvQ3lEsxgMTbGCqQRZI/XDoXROD+I4MH4KvxuE5Ld1iHJ/xf6kDin3hytxIPU+1O78JyTXn3zLwEzGGQ5qi2Q1K2EmOz5IKBJ5cGA1o4wwmMPKsdurXTqltBGBDIWCmE7LxuvyD2Hoh3wYc7r5d1EDr1N14Dnv50UIM0Ab9dWc5K6AAdP",
-  "size": 3282082,
-  "released": "2026-10-14T05:16:53Z",
+  "version": "0.9.24.12",
+  "file": "test/releases/pls-0.9.24.12.zip",
+  "sha256": "e7ee5b37c3ae3e7026f7b890e3e32a93c2ddded55e9c83a9304aeea791eb0226",
+  "signature": "xikl3bJ7PFNE08/T1apws8y7bSgiX3jBZiDgJeg6pDG3Mgsz1gBxuDDgtgiPKdJmgHGUA2VdaKiwVsG1l05q+708tB/XqcDI5mjG7MhDTFDr59PB1pejxfSSCCIHcP1aiuawF2EwqiXc/7InX9skDqmBo6BXBeQ8/Hd0YRXm2bH2Zx+zF2PUT8ckCdhPwzBmJsPXBUUoUmNzr2OkxszvV00Qrt1lmKJ87W4kr/7oueZl51ZfQ7A81HylEw/zKCmDoP55qIiEcHYsjo7/ECYFgtdOl3C4y9EznVY3HSR7peNGGUmq3idq6AsDIXEiSWiOGbPHBxueLUeHXBVoFJMedFXwkzCC9Jphs5hzLGlhOOERsj13NALgPv47gbsV9NE1kvOZugBA5RRQvb4C5j3/0v8eQ4aNolKtrOSVf3S6Spo9V3V+GYuQiOTv3minJDgIse174pMLGM5TnPFx42jFbvRhnqaDWKLe8Ogre86yYe1j/b9XnYllhL94oZEggiRw",
+  "size": 3282927,
+  "released": "2026-10-14T05:56:40Z",
   "notes": [
     "Bəyannamələr və ƏDV → Müqayisə yeni görünüşdə: bütün növlər bir sırada, beş rejim zolağı, hər dövrün versiyası, sürətli seçim basanda dərhal başlayır, «Fərq ≥», yapışqan «Cəmi», «Bəyannamədə aç», böyük pəncərə",
     "Müqayisə: «Saxlanmış» dəstlər (ulduzlu dəst səhifə açılanda tətbiq olunur), «Dövrlər üzrə» dayandırılanda qalan dövrlərlə davam edir, bəyannamə tapılmayanda son verilən dövrlə müqayisə təklif olunur",

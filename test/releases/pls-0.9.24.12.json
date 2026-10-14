@@ -1,11 +1,24 @@
 {
-  "version": "0.9.24.7",
-  "file": "test/releases/pls-0.9.24.7.zip",
-  "sha256": "5f503992f53d67d2a594ead70833ae8be860e0d1470f3056bd118bdab1e35b76",
-  "signature": "o/O/OO358Lb50IZiR0/AespZUn7ySxzYXsyefKDG3VxYWNWurm/7TajANZnA+gj1Ic5LzMl2QcEzNrtTeVDbSAlbWMmhNr/Or67njkwhasWr2pXgEtEpOTDFmGRyrbnGLTx/2NQOf1YAsE+u7COj1c+kcnNoHcKACVjl6JdcwXX1MkjhF4SPEsGBi6zf9pRqgiBQ3cH6bUIuLGn2AC3TG4tCcVxarhheoZMVD5QkccqUeClOmjUgJRc0JI+Xeyf0+B5rzI60L511FWvy/+gOTyKZ02c9clVA+Cxq192BkcOJJ8CGZmUuBZcNSWm+mFxJ/DPHT0Ut99nKWZ3xAD9uYUd8ok5f2fpQNCJ9dx4/44OFMiqrFXaKxvvteK6Tpnwqiv1D3r5fk3FzysAuFBA+vWuFIURGfRzU4uzVP9wdrPuous1xWFnMM0z1WBQ9gVzw4x16HuFmeVvgWpo6tffTz4d/pi7S43HQ4t7a0EQSk+p78MTLqygxP6HjO1diJ/5K",
-  "size": 3183390,
-  "released": "2026-10-13T14:06:41Z",
+  "version": "0.9.24.12",
+  "file": "test/releases/pls-0.9.24.12.zip",
+  "sha256": "e7ee5b37c3ae3e7026f7b890e3e32a93c2ddded55e9c83a9304aeea791eb0226",
+  "signature": "xikl3bJ7PFNE08/T1apws8y7bSgiX3jBZiDgJeg6pDG3Mgsz1gBxuDDgtgiPKdJmgHGUA2VdaKiwVsG1l05q+708tB/XqcDI5mjG7MhDTFDr59PB1pejxfSSCCIHcP1aiuawF2EwqiXc/7InX9skDqmBo6BXBeQ8/Hd0YRXm2bH2Zx+zF2PUT8ckCdhPwzBmJsPXBUUoUmNzr2OkxszvV00Qrt1lmKJ87W4kr/7oueZl51ZfQ7A81HylEw/zKCmDoP55qIiEcHYsjo7/ECYFgtdOl3C4y9EznVY3HSR7peNGGUmq3idq6AsDIXEiSWiOGbPHBxueLUeHXBVoFJMedFXwkzCC9Jphs5hzLGlhOOERsj13NALgPv47gbsV9NE1kvOZugBA5RRQvb4C5j3/0v8eQ4aNolKtrOSVf3S6Spo9V3V+GYuQiOTv3minJDgIse174pMLGM5TnPFx42jFbvRhnqaDWKLe8Ogre86yYe1j/b9XnYllhL94oZEggiRw",
+  "size": 3282927,
+  "released": "2026-10-14T05:56:40Z",
   "notes": [
+    "Bəyannamələr və ƏDV → Müqayisə yeni görünüşdə: bütün növlər bir sırada, beş rejim zolağı, hər dövrün versiyası, sürətli seçim basanda dərhal başlayır, «Fərq ≥», yapışqan «Cəmi», «Bəyannamədə aç», böyük pəncərə",
+    "Müqayisə: «Saxlanmış» dəstlər (ulduzlu dəst səhifə açılanda tətbiq olunur), «Dövrlər üzrə» dayandırılanda qalan dövrlərlə davam edir, bəyannamə tapılmayanda son verilən dövrlə müqayisə təklif olunur",
+    "Bəyannamələr və ƏDV → ƏDV əvəzləşmə yeni görünüşdə: «Dövr və şərtlər» kartı, künc kartları, «Tam əvəzləşən» zolağı, rəngli tablar, Tarix və Ətraflı filter, seçim zolağı və sağda «Seçilmiş qaimə» paneli",
+    "ƏDV depozit köçürmələri yeni görünüşdə: hər iki tabda hesabın qalıqları, addımlar, məcburi sahələr «*», yoxlamanın nəticəsi «Sətrə keç» ilə, yarımçıq qalan qaralamalar üçün «Davam et», «Sıfırla»; Hesabın hərəkəti tab dəyişəndə silinmir",
+    "Büdcə ilə hesablaşmalar yeni görünüşdə: rəngli tablar, sərəncam xəbərdarlığı bütün tablarda, birinci kart «Cəmi ödənilməli borc», öhdəlik filteri və «Yalnız borcu olanlar», «Sıfırla»",
+    "Sərəncamlar: qərarı açanda borcun yarandığı kodlar, borcu bağlamaq üçün lazım olan məbləğ və son ödəniş tarixi (yalnız məlumat); «Bu kod üzrə ödənişlər» keçidi",
+    "Ödəniş tarixçəsi: dövrün sürətli seçimi, kiçik aylıq qrafik («Genişlət»), büdcə kodunun adı, bölmədən çıxanda nəticə qalır; Büdcədən və Təqvimdən keçidlə açılır",
+    "Ödəniş tarixçəsi → Bankla tutuşdurma: bankdan büdcəyə ödənişlər portal ödənişləri ilə tutuşdurulur (uyğun, bankda var portalda yox, portalda var bankda yox)",
+    "Bəyannamələr və ƏDV → Əməliyyatlar yeni görünüşdə: növ kartları, dövr və forma kartları, solda portalın bölmələri, formada mənbə, portalda və fərq, 8 yoxlama",
+    "Bəyannamə Excel şablonunda məcburi sütunlar «*» ilə və «Məlumat» vərəqində izah; əlavəni «Hamısını sil» ilə portaldakı qaralamada da silib yenidən yükləmək; dəqiqləşdirmə bəyannaməsinin qaralaması; dayandırılmış yazma «Davam et» ilə",
+    "Bəyannamə «Böyük pəncərədə»: geniş pəncərədə hesablama xətti, solda bölmələr, əvvəlki versiya və ya əvvəlki ayla sətir-sətir müqayisə, 301/308/903 mənbə ilə yoxlama, axtarış, portal siyahıları pəncərənin içində",
+    "Əsas icmal: ASAN İmza sütununda bütün hesablar, siyahı sütunun içində sürüşür; Portallarda «Portal sadəcə açılır» yazısı çıxarıldı",
+    "Əsas icmal: modul kartında böyük məbləğlər kəsilmir, plitəyə sığdırılır",
     "Başlıq: müəssisə seçicisi sadə boz çərçivədə; açılan «Sessiyalar» siyahısı yığcam, seçilmiş müəssisədə ✓",
     "Başlıqda iki ayrı düymə: «Qısayollar» (klaviatura) və «Kömək» (?); Kömək pəncərəsində dəstək xətti, «Zəng et», diaqnostika və yeniləmə",
     "Keçid düymələri («Hamısı ›», «Hesablar ›», «Jurnal ›») üzərinə gələndə rənglə dolur, ox sağa sürüşür",
@@ -289,6 +302,11 @@
     "Sənədlər: addım kartları, hər sənədin önizləməsi, «Bu sənədi endir», imza/möhür və ödəniş müddəti seçimi",
     "Əməliyyatlar (Toplu qaimə, Avansa bağlı MT, Qaytarma MQ, Avans qaiməsi AA) yeni dizaynda: addımlar, yoxlama paneli, künc kartları, cəm zolağı, təsdiq pəncərələri",
     "Yeni: «Yaradılmış qaralamalar» (bütün əməliyyatlar, bu sessiya) və «Yarımçıq iş tapıldı»; avansa bağlı MT və qaytarmada bir neçə avans / mənbə seçmək olar",
-    "Alış aktı, Mallarım və Mal və xidmət kodları yeni dizaynda; aktda yeni yoxlamalar (bir aktda bir növ, satıcının limiti); şablon və kodları AA formasına «Qaiməyə əlavə et»"
+    "Alış aktı, Mallarım və Mal və xidmət kodları yeni dizaynda; aktda yeni yoxlamalar (bir aktda bir növ, satıcının limiti); şablon və kodları AA formasına «Qaiməyə əlavə et»",
+    "Bəyannamələr yeni görünüşdə: növ kapsulları, dövr kartı (sürətli seçimlər, ayrı-ayrı aylar), versiya növləri, il üzrə siyahı, KPI-lər, portalın bölmələri ilə nömrələnmiş cədvəllər, «Nə dəyişdi?», «Böyük pəncərədə»; ƏDV Əlavə 1 — bütün aylar bir cədvəldə (riskli satıcılar)",
+    "Vergi → Məktublar yeni görünüşdə: tərəf və istiqamət bir sırada, filterlər bir zolaqda, «Sürətli filter» menyusu, sütunların seçimi və avtomatik sığışdırma, «Sıfırla»",
+    "Məktublar: «Digər vergi ödəyicisi» siyahısında riskli kontragent avtomatik qırmızı ikonla göstərilir; jurnal və faylların endirilməsi dayandırılanda «Davam et»",
+    "Məktubun pəncərəsində əlaqəli bəyannaməni böyük pəncərədə açmaq və «Müqayisə»; Əsas icmalda «Cavab müddəti 3 gün ərzində» sayğacı məktubları açır",
+    "Vergi təqvimi yeni görünüşdə: müddəti keçmiş öhdəliklər yuxarıda ayrıca, «Ay» görünüşü, ödəniş sətrində «Ödənilib» (ödəniş tarixçəsi ilə) və qəbzə keçid, məktub müddətləri öz rəngi ilə"
   ]
 }
