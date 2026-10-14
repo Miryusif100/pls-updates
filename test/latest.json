@@ -1,10 +1,10 @@
 {
-  "version": "0.9.25.2",
-  "file": "test/releases/pls-0.9.25.2.zip",
-  "sha256": "567268f444497a768a3224c9c7c3f3a5b734bc50c9ce4e4f63334c14a9162fdb",
-  "signature": "kHtBw777envS4DxQWqpYa5hjTV7RldfFTOXux2bo0VEdtdBljWr/DlIKdhWMSAK1Eub6o5tfMFFDnkr214sqnbdkcYAODczB2BT6Rnldqo7Yw8Kj+ShUzV9gTK6TZE02h47H99VhhGiW6iEvNsdeoj3M47sI7JKMSdJL9bov+0RtSgkac7U5QJJ+Obeh2XEVoXfhIr/Ai/DTVyDEgYdKQYLNFLNFAtDPi7S7x1Uoe44GXFaMpv4msTOxcpqVQBtihnUfSatdBLfJ+s0U9Am5j7BoLK0wBlmu7UbABY5XSxosFL8caR4K8LrFsYSCLDmmeLuEHK3+stTSbZcCH7FwZf7IMr15nV0epQGTxTKSx0sg34TItwdOEI0cpvcR/8wzLMDFx7zy1QnuCnRqLzvW+jUh9uVYBxR2FtULOdKHWj4yW54qfj696UAvZte1syc0hYcHQn2A8sefJRQAPcnBfr9gwmTOqg7i7fRJdYIoFysRav29MmUrhmMJ/5B94/mH",
-  "size": 3335706,
-  "released": "2026-10-14T10:45:33Z",
+  "version": "0.9.25.3",
+  "file": "test/releases/pls-0.9.25.3.zip",
+  "sha256": "3cab5475ceb4b20e7587b7ea0bb9152d110f39ccf4c062c0448e7917b2619b14",
+  "signature": "Qp+XGaT8RzpO3OskC+fmY4392fqa28d1okRRs9y+TqmTSMgac0UY1gKJ8ChvGm0OmZEYt8qQbLs2F9D74MBi+8F4szQHWfFqzkkZtwIW1gxankg4aEkWlzuezMzmbHKMoQkG4QauptglJD0pyBbRy78l69mTmcCBokL19NKtbyy+FG5z/SqEky3GId/wadNSarV1WBguJlfN1twWWd2WfrFapAHLN0oGbqrz1lPl34Kg8svnJpYLYHCrbG23+PKvuOlTXvXs+q5/eU9sxmhGB+ilRcTQWMIv0utXwpuN2U/V/ZAHc6v0SBMwcazc4liHrAU2STo+sJSwtmHTtLyXlld8T9NoQw6YO3f9YFyPjWsisIsHlH3kZV7Izaqo87NWdPVNKIs7GUJsHlsZGK2HLFGE14e1MWhFtwn9ZorBHskpA6RQWMFHu/OeKAAP5YlHy2XffY+5QUbiVRPCZtA9a9offOq/K/obMDSQz2h7mf9Dm3R9zD9bv8TRQPJKReKO",
+  "size": 3340087,
+  "released": "2026-10-14T12:15:10Z",
   "notes": [
     "Bildirişlər: zəngdə gün qrupları, «Oxundu · Xatırlat · Gizlət», «Bildirişlər» səhifəsi və ayarları (zəngdə, kart, səs, sakit saatlar 22:00–08:00); portal düyməsinin zəngində də eyni əməllər",
     "Tez giriş: e-taxes-ə PLS-in içindən daxil olun — hesabı seçin, telefonda ASAN İmza ilə təsdiqləyin, müəssisəni seçin; portal tabı da avtomatik daxil olunmuş açılır",
@@ -313,6 +313,10 @@
     "Vergi → Məktublar yeni görünüşdə: tərəf və istiqamət bir sırada, filterlər bir zolaqda, «Sürətli filter» menyusu, sütunların seçimi və avtomatik sığışdırma, «Sıfırla»",
     "Məktublar: «Digər vergi ödəyicisi» siyahısında riskli kontragent avtomatik qırmızı ikonla göstərilir; jurnal və faylların endirilməsi dayandırılanda «Davam et»",
     "Məktubun pəncərəsində əlaqəli bəyannaməni böyük pəncərədə açmaq və «Müqayisə»; Əsas icmalda «Cavab müddəti 3 gün ərzində» sayğacı məktubları açır",
-    "Vergi təqvimi yeni görünüşdə: müddəti keçmiş öhdəliklər yuxarıda ayrıca, «Ay» görünüşü, ödəniş sətrində «Ödənilib» (ödəniş tarixçəsi ilə) və qəbzə keçid, məktub müddətləri öz rəngi ilə"
+    "Vergi təqvimi yeni görünüşdə: müddəti keçmiş öhdəliklər yuxarıda ayrıca, «Ay» görünüşü, ödəniş sətrində «Ödənilib» (ödəniş tarixçəsi ilə) və qəbzə keçid, məktub müddətləri öz rəngi ilə",
+    "E-qaimə fakturalar Bəyannamələr üslubunda: «Portaldan yüklə» hər yerdə eyni yaşıl düymə, kartlar yığcam, Excel/PDF/Sıfırla düymələri eyni ölçüdə, seçim zolağı açıq rəngdə, boş siyahıda ikonlu blok",
+    "Mallarım və Mal və xidmət kodları ayrıca səhifələrdir: Əməliyyatların zolağında yoxdur, başlıq bir dəfə görünür; Kodlarda «Aksizli» filteri",
+    "Qaralamalarda «Status» filteri; Kontragent kartında «Aktiv avans»; Məlumat başlığında «←»; Ödəniş tarixçəsində «Vergi növü» yeni açılan siyahıda",
+    "Vergi → İcmal yeni görünüşdə: dövr filteri (standart — cari ay), 5 göstərici, top alıcı və satıcılar (riskli ikon), qaimə statusları, son bəyannamələr və məktublar, növbəti 45 gün, satış/alış və ƏDV qrafikləri, «Diqqət tələb edir», ƏDV depoziti və büdcə"
   ]
 }
