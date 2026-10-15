@@ -1,10 +1,10 @@
 {
-  "version": "0.9.25.13",
-  "file": "test/releases/pls-0.9.25.13.zip",
-  "sha256": "d47747057707985a7d1c4e66914f5f5d70e161b7e18d9d011f133f572f99b347",
-  "signature": "lTgThbB9GHjV/L9UNzPtzTF/f67puyoQMKXM36TxXq99IwxoonrU6x1VQo8FYgFyra7aqrXvHDTq+bxl+X/GS3vyN9f5Je9dKMp7XIUmOZEncC2ASEFgxcw8zk9q068Y3hA+MFzn+/JM3MpQpkQd3Rjfiw1ix38+iye1RYRlx6dkcLVyJyLz7J6Vj7BAGkiXgS4ajkeBB5qJIPnK7BzpoI51LLmg4nyfT4K9YvL+CcvZ3MfjXXVyun0bXdI7B1HRcINuKgn2oqKtcJ7GYBkkiUQkwYq7GckhcKo75GPxlvCISh8V9jDjzVvYJ8XbUxMLt8ax4BOWiB0HFHAqK4Vm9T6HekPefQY8E9IY3ZDjVIAMUyU/7G1Ew0AvHH7fRSgtF0N1fDx4m7lcGnpLfQ8rKsgVol3AWl7v5AWU8LdbK53S2LOUbdcQ8CSoeN3hLiYOISjcgs0ACknJRHPD4RmCf1XSOAq8Bc2kuWE53LCzPsjy7aC3rHXBIb22vtyeEt/r",
-  "size": 3405416,
-  "released": "2026-10-15T12:24:53Z",
+  "version": "0.9.25.14",
+  "file": "test/releases/pls-0.9.25.14.zip",
+  "sha256": "4ba7e2802138ed77ba23e5ab40085ba8511c7c94f11801771047e5f2ae6fc2c1",
+  "signature": "wS0LW65MfOr2dgTfOS8d2M/T4jOZt4e8cQ6OtSHyJ6wQd8sLY/a74q4BNKi+j6pWEk7mOWf/9y+UDEeeZiRBzh8070QfkJNHN0POrrn2DW8l0qKCNpBsXTOwmkhdyGW8gW/ms0450OJM4AoOpcuce1NlATq2soeWdD9siZ4oZGNxXp0yevsHT0rn8RyvBtUd72dXrahcgUM8h9U8xo8zX8niIoO5Lfgm8IlnMQ86Frox51qa0J74pNwiHyEaZWUYOOP+sYJKig+duYTfpS+1KkeOMJEtJpEG3RN4aiHLmLxb+2sQT3e+uL76FQjnWC1dZxUiQKq882/oeRSWS/TF/B9mb6ZrFX9tAod3/GkdDj7/WzXQvjsyNjmZEILvtZEiAOCrj2ogXkbrQP+WPm/Wqgd3zg7ODy9lRxH4VFaS7kWe1Fz0SItY/ht7STH3rmqGTfPsPHmQlLqqlNDuLxvyP7WN/stYzFDnLnHmla0A3hs0RacKtjR1oH1zHIgK5Egs",
+  "size": 3406990,
+  "released": "2026-10-15T13:07:11Z",
   "notes": [
     "Bildirişlər: zəngdə gün qrupları, «Oxundu · Xatırlat · Gizlət», «Bildirişlər» səhifəsi və ayarları (zəngdə, kart, səs, sakit saatlar 22:00–08:00); portal düyməsinin zəngində də eyni əməllər",
     "Tez giriş: e-taxes-ə PLS-in içindən daxil olun — hesabı seçin, telefonda ASAN İmza ilə təsdiqləyin, müəssisəni seçin; portal tabı da avtomatik daxil olunmuş açılır",
