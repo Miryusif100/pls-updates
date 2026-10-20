@@ -1,10 +1,10 @@
 {
-  "version": "0.9.29.1",
-  "file": "test/releases/pls-0.9.29.1.zip",
-  "sha256": "f32dac2973b0e7958ad01cb15fee7682934dae3a4bd6c6bf1107600d414b545b",
-  "signature": "hI4O1pbBFcZxzPvZep9ar7UNo/HDr40EfJdQep0T5c+rF1S9OgR/zbAcktR+Db+wSqNyWsOchvWTXBncYcORuKFg3n+aeNuTiwSbcjwsdO51rG6L/nIffh+VhkocxyjEdoiA+bzA6mX3D1bc6VrOiXlhXD3U8DQj5ZSlsf1zR/5Ig+sI2UegHW9+X4k6ctONrRXCLqfTyc5ubm3M57cMI8Ot7HPG17IoccFYMMDJf5ww/NulvahvhBmGogjZ7y/O/8xRDKFEA0j0txpz0sFSN2JcwZ3e9MuHYe9O9rUNOJjkSTR3Q9aJ85D0SS9Szv5655B8f4AHzJ2rV4OGIP8gJ7YbGcqiIelOBdJEk5iPWrnCt2w+L8NqPU2p2iChbl3b+H9gwO0jTSWhIylzMKydFiu+XWFx6ncBTfIIghoHqDwEMFTSiLJ2+4nVXg/DJiqQ1Lywmn2JMuAL2/XB74GOKcu4GdqaVh4qavdCiZicqWQG9+yViueUxjPo59+SAQ5d",
-  "size": 6905811,
-  "released": "2026-10-20T17:33:38Z",
+  "version": "0.9.29.2",
+  "file": "test/releases/pls-0.9.29.2.zip",
+  "sha256": "b624290e0be1a7eecacfb50743d7e0792e4a36a1459926594569baa4146de907",
+  "signature": "TPGagEbN44AU0CQ8MIqKQBCa0Ho+jWiA+Iuk07sagi2n5H7R7XSBCZ4UXo51M2zMzoS+a46dxEaRAKn2YHEa+9HnUp2EiWn0FNFZ+tK1aXX7MjwZKktqYomXVf/O4uVLatcHiaRenR26Qya1TNpDTvF23aljlC/CRTaYPL5qyHTeTHiY+fR1Ml4JAU73NQNSn3U4nLTGO9Cn/ZESWc8B65Hm9l/gyCHLSOf8cCR/n3WyEci61i+E4r3EiuBAkLCf+CN0hzlePqP5Vip4mJQc550fj+IdfaAoHho39KjhDid4T88hSR7haqTn0WJWOW5DM5Aq9Rsc/ZKEsRlxJA1T3LVSQlBCRLbwDaIRqskRYnk3g4KbZt5ZCQ/0YkeeBAWJSaEqfBZLxUN1zLkiHr3oHO1KeefG7bqIVZUuzaXtJhUDFnRAtEcYEjmUN2v/zOIU594pEg4RW7l8waGpwsefAnEHeCfp+Kt12yrF8x2/N+G4uJcXMZmsUI/jX+4aK3UQ",
+  "size": 6914383,
+  "released": "2026-10-20T17:53:23Z",
   "notes": [
     "Tez giriş: e-Gömrük-ə də PLS-in içindən daxil olun — hesabı seçin, telefonda ASAN İmza ilə təsdiqləyin; müəssisə aktiv müştəriyə görə avtomatik seçilir, Gömrük bölmələri portal tabı açılmadan işləyir",
     "Fəallıq: kart sadələşdirildi — rəqəmlər bir sətirdə, qrafik bir yaşıl rəngdə, oxunaqlı tarixlər, üzərinə gələndə günün təfsilatı",
