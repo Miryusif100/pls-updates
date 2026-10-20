@@ -1,10 +1,10 @@
 {
-  "version": "0.9.28.2",
-  "file": "test/releases/pls-0.9.28.2.zip",
-  "sha256": "2b2e03c34a861151c353f51962cfc802e09dc1eb642eb6a6a9dd4b866bdf8ff5",
-  "signature": "cDX+phb0rCaHkY7jClGtYDeF9a3G0S9DdB2yv54x1WnA7xP+abUkIoSc1gNzQZA0Lzln18BjB7wkWf+0/p32Pq/uzJPnGzLMUtDpD+rNXZlF+ceZtZjfrLAUTKwxEcTKvgTWjIoaF+rN72ruvWd2img2A7Li4eNRuUaJPT7oVouFzzlEszLC1M+tenXvLT5EULx9Fpf8xx5ZO2JusGWf2DQx6pqYKGOcqLA9lxNpfgBTT1V8kENb3FX+M8J1icMbptVifKTJmXqFCKIvQaaWzH48YZyflYLianZ9a7hF5O/k3QxN54ER1LzK7VQ/iGH6J4Vw0W0nTCXT0F2YE9cZWQw7TCxpef8JETqquhA0kJ0Ewqe5xHH46Edu/oByqAVu7quGyBN2PtROR52MeJwKezjoSBfIBUG6y+ci0TvA+HDn8z5ewApBF/k/XH1FjcQQIYDYFea0ixhKL/I/wwnXD2rBp0U5bI8/qcn6+37iGZAiD0P2LrFwLK4QQ1bzwP/9",
-  "size": 6863881,
-  "released": "2026-10-20T12:29:50Z",
+  "version": "0.9.28.3",
+  "file": "test/releases/pls-0.9.28.3.zip",
+  "sha256": "559f990fc94f7edf76ec565900d3648ace33ba651512df4ab58ebdac2d0b4242",
+  "signature": "PKd+hNp8Ly8nqdQ+frCoxhEiDTYQ/cK4nPvJ4rn2ni9wIZKKIgkrRYPHG+TrvR8xau1TN5LUKsLnNB78AqqsiQt3zZD/BYyQf7H87ExkHL3HYYJtOXg2BOEgh7YEAMcipXh8ENZFOuJvJWrDPGKkR9yErWEkGbyXiBxhlrmpMbYMaBzKN8voVqsOh0tvlcFmfQBQhyQJ0rpxkon7keb2Q+2rLfOB9sUyYuwFb8MxGj+8Dv2pfocNJrFZvD0/gV8+HGQqU3OQGatQRPpHJw7DXlahDesK9u2iM9ggZOSthziMerX2eUWdUQwJWo2r5TuhDBi0Bbv7l95QfCMV2u5Hywa/Ou42bsImRzmuao+PiMlPbPvmTMWKJ8hYCxv9R+5enKZpSRBg9yxvQntXuJ2g786+1PA5YCftOiTtIWKXZP0cCvH+RhDta7LnDMszSmo4REa41jk4u5rgDQev+x5pRH+KpvnUfpkHjY7WiVRr9L6fpUhEdT4sYtVFBlopZdF5",
+  "size": 6901911,
+  "released": "2026-10-20T14:54:49Z",
   "notes": [
     "Fəallıq: kart sadələşdirildi — rəqəmlər bir sətirdə, qrafik bir yaşıl rəngdə, oxunaqlı tarixlər, üzərinə gələndə günün təfsilatı",
     "Bildirişlər: «Vacib» bölməsi əlavə olundu (xətalar, xəbərdarlıqlar, vergi təqvimi son tarixləri); açıq zəng düyməsi yaşıl rəngdə; alçaq ekranda siyahı görünür",
