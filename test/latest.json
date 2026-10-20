@@ -1,11 +1,12 @@
 {
-  "version": "0.9.28.3",
-  "file": "test/releases/pls-0.9.28.3.zip",
-  "sha256": "559f990fc94f7edf76ec565900d3648ace33ba651512df4ab58ebdac2d0b4242",
-  "signature": "PKd+hNp8Ly8nqdQ+frCoxhEiDTYQ/cK4nPvJ4rn2ni9wIZKKIgkrRYPHG+TrvR8xau1TN5LUKsLnNB78AqqsiQt3zZD/BYyQf7H87ExkHL3HYYJtOXg2BOEgh7YEAMcipXh8ENZFOuJvJWrDPGKkR9yErWEkGbyXiBxhlrmpMbYMaBzKN8voVqsOh0tvlcFmfQBQhyQJ0rpxkon7keb2Q+2rLfOB9sUyYuwFb8MxGj+8Dv2pfocNJrFZvD0/gV8+HGQqU3OQGatQRPpHJw7DXlahDesK9u2iM9ggZOSthziMerX2eUWdUQwJWo2r5TuhDBi0Bbv7l95QfCMV2u5Hywa/Ou42bsImRzmuao+PiMlPbPvmTMWKJ8hYCxv9R+5enKZpSRBg9yxvQntXuJ2g786+1PA5YCftOiTtIWKXZP0cCvH+RhDta7LnDMszSmo4REa41jk4u5rgDQev+x5pRH+KpvnUfpkHjY7WiVRr9L6fpUhEdT4sYtVFBlopZdF5",
-  "size": 6901911,
-  "released": "2026-10-20T14:54:49Z",
+  "version": "0.9.29.1",
+  "file": "test/releases/pls-0.9.29.1.zip",
+  "sha256": "f32dac2973b0e7958ad01cb15fee7682934dae3a4bd6c6bf1107600d414b545b",
+  "signature": "hI4O1pbBFcZxzPvZep9ar7UNo/HDr40EfJdQep0T5c+rF1S9OgR/zbAcktR+Db+wSqNyWsOchvWTXBncYcORuKFg3n+aeNuTiwSbcjwsdO51rG6L/nIffh+VhkocxyjEdoiA+bzA6mX3D1bc6VrOiXlhXD3U8DQj5ZSlsf1zR/5Ig+sI2UegHW9+X4k6ctONrRXCLqfTyc5ubm3M57cMI8Ot7HPG17IoccFYMMDJf5ww/NulvahvhBmGogjZ7y/O/8xRDKFEA0j0txpz0sFSN2JcwZ3e9MuHYe9O9rUNOJjkSTR3Q9aJ85D0SS9Szv5655B8f4AHzJ2rV4OGIP8gJ7YbGcqiIelOBdJEk5iPWrnCt2w+L8NqPU2p2iChbl3b+H9gwO0jTSWhIylzMKydFiu+XWFx6ncBTfIIghoHqDwEMFTSiLJ2+4nVXg/DJiqQ1Lywmn2JMuAL2/XB74GOKcu4GdqaVh4qavdCiZicqWQG9+yViueUxjPo59+SAQ5d",
+  "size": 6905811,
+  "released": "2026-10-20T17:33:38Z",
   "notes": [
+    "Tez giriş: e-Gömrük-ə də PLS-in içindən daxil olun — hesabı seçin, telefonda ASAN İmza ilə təsdiqləyin; müəssisə aktiv müştəriyə görə avtomatik seçilir, Gömrük bölmələri portal tabı açılmadan işləyir",
     "Fəallıq: kart sadələşdirildi — rəqəmlər bir sətirdə, qrafik bir yaşıl rəngdə, oxunaqlı tarixlər, üzərinə gələndə günün təfsilatı",
     "Bildirişlər: «Vacib» bölməsi əlavə olundu (xətalar, xəbərdarlıqlar, vergi təqvimi son tarixləri); açıq zəng düyməsi yaşıl rəngdə; alçaq ekranda siyahı görünür",
     "İdarə paneli başlığı: kiçik ekranlarda portal seçicisi düzgün açılır, giriş pəncərəsi ekrana sığır",
