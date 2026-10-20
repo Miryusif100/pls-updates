@@ -1,10 +1,10 @@
 {
-  "version": "0.9.27.1",
-  "file": "test/releases/pls-0.9.27.1.zip",
-  "sha256": "cb50abcd1f63f777299f83f56802f52529aa661758d6f0365cbf4a5efdcb231f",
-  "signature": "y8o7Ayomi7Rr+3BmK3SEtDjp/EbMhagZfzJwd53Z0/idAqIH14LVlFwx+Z5llP+XU/CEV8sgqvz2Y7HEOiQTub1pS+hkXNvfXRImUv+mv8JEiWHikg/ZczqaTM7lTtFIqXJML2g3EvEpXmT6yFtfejWYQOHRKwsunaTJMdGvmx9RbmVe6GGAGiVBytIaMrK/Qo5aUEzWXkzXrOKMlBQk+qDnxBYCYXvT1vlSSJYMLknV+badaWB3z5cTgYHWKT8Vta6M8msdcjD8XHbi91aeAyUur2KJJQZI9AiyY2OkSRLVB3YfGyA1wlmHQMuUwX4b80F3FKmHnpsURxwqhwcS4Efa3C/LPwVQjSL4s4eUvLJVa+EDGjBnVbDM53GvDZPxPVwJ4iHg7jlYcWnhks+eaaeHredEStB8cydX/dGZj5jvjL8ZH+m1Sx5aDIehu6vkDgIx6xhoYk+iVfUgzHXa5pKzBwA93YJbCOmOHUGx6wsrlDagiunhtizXJ8E7W4xb",
-  "size": 6843277,
-  "released": "2026-10-20T10:22:07Z",
+  "version": "0.9.27.2",
+  "file": "test/releases/pls-0.9.27.2.zip",
+  "sha256": "34c33db748b1dd11c9f4dee730f13661f093c64c6e1dc947298fb7b98fec8ce0",
+  "signature": "patr9zAsbqDTUF2ciuvLFpNPE2Fyolnziqu5Vw5KabZnOuSJQAHmyISzvYYlmpkwnAVvZ15GEWDDme57MU4oGTVHVNz9GmjRf/h3wlPUBE4xf/qqoOp0Xp4xbrHIOPXP3HKubCmckI2Ah2BaaAc1QgIW0fl7pCO0slNlsuz3EU6dktK501SLv0/2Xrsh5HWt0RAxsPxsdMtSe370ibEp5AkZ8kZP3O/izkx/VdhxNgGceU9iQZX5eNejAjvAsMxG/p88H+piJWDfrKeZ7QZgX+halVwEgMooUdjEKc6jHRXjXuVzgWPbdFXk9Afx6KaY7BZEcBRV4uXmC1/ACfpH5wST3WL7i333WFVwGe58nNELVbGx7ofBkABG2wj2oKA13SY0qikBqCsiUJZFZoyQxhg5J1DLg6xcZStt67nlphgTFJbWtX/3q0Rma+nZ8UE72cfwyGmazq+uk9Q79g5nOBYBXtjxgvnfbn23xwOcDyB/RM7TF/KNeHcObVaAJb3h",
+  "size": 6852482,
+  "released": "2026-10-20T10:47:18Z",
   "notes": [
     "Portal paneli: «Bildirişlər» başlığında yazıların üst-üstə düşməsi aradan qaldırıldı; pəncərələrin kənarındakı ağ xətlər təmizləndi",
     "Portal paneli: «İdarə panelini aç» dalğa animasiyası və 4 ikona basanda keçid animasiyası aydın görünür",
