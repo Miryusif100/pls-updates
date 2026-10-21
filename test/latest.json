@@ -1,10 +1,10 @@
 {
-  "version": "0.9.30.1",
-  "file": "test/releases/pls-0.9.30.1.zip",
-  "sha256": "8ada6461121d17b0373112640104e0e5f43fbcef768df882c4e72331fe263672",
-  "signature": "fU2z7PbYAk9Lh2MIxpsmQfJjiBAURNcRP9nPXHpakXAYlvA1FQqjTvvkNez/i+t71VBhWD8y8i0E7qj5pOH/SAlnzxcBR2wMfBO77NxSjrs3xRI3koCd3hulsTbVSVqwPPR7QztBzAoibKWWXp6B6dWOMQMNwwdTq/pNtV7VptNu4t9j4Qy66l802Lb3dUcUjuDUmRsNJDuRe/31/RuYuCFpZHwZ5Aa3TudGj+eT6QoHiLhQkLweEidSwEwcX3TEbS3pXu8XdcWR+nZFqDVIfXKaEz1rNGaX5lEo61rsArlkfNp/xfphgzxmF5R248yK5kbSACeChyVjfSvIzp+n6jdFQTCSNKM0EtU32FGphbuVKbmkPSqTGLpCx6heBvz1ATHAcJkORJADebuXJOxsT66Gl8RsT6mMWmXKcX6S/KAfWsjhlGIx4NuDK5dDC2bQLbhr9ogC3aa8mka5UvT2Ne0Kl06L2Ka7+r6XaLf8+64liuIx+x3ic4XsHQbzoKIE",
-  "size": 6923568,
-  "released": "2026-10-20T19:49:50Z",
+  "version": "0.9.30.3",
+  "file": "test/releases/pls-0.9.30.3.zip",
+  "sha256": "024c449d104c268a0f325d4dbce441108e93def62a705466b21eda514fdff092",
+  "signature": "iJffwubserpxYya6CjpBwnj0fRVHhfI9lm/g8zjAE0h+TPy7v/5gExuSjpEvS9at+b1CLKWLHa0Zvtl6dVNOri8HT6ggtuxKTaSLHir6ZnWkjFQfvIHMtSPRfYWufz/5tiZyZRIQrai9qAmBxohD+X+tCy37K0+H8IV9SCDCzSFh0WJxDzPMi+c2L0hZeVrbXM1gvfZdwro+rEFW3F2mzeXTGvoweRVsBe/TqQJWe9zOfcwxlQoZQAD9s4L8Drwe/sYI0CjuNneUFzo4DUNDnIpvMsGLVxE3k8qh9TK5JcNBORbZgQFaCVp2TtdfBfUJPrdaZpmwZhOkWkuSK3Dg8UIe7bLMxAIBjG1n68rl5onxH6O28GVfah8gL8j+T0PM8LhsQcl7jNPEI/ZBYhERWzA5SB9U5WwqdwjKc41U3Me7qFJUama7ZOx6xm9cyej8rhPeEbkyf7U0W92mgCUssv/oT0VucwIuLt7uBWpra8j5Qoavjg13DD1iDvFlVUKQ",
+  "size": 6941262,
+  "released": "2026-10-21T06:42:07Z",
   "notes": [
     "Portala giriş pəncərəsi (e-Sosial, ƏMAS, AYNA, RDMİS, banklar): pəncərə sabit ölçüdə İdarə panelinin sağına yapışır və onunla birlikdə hərəkət edir; yuxarıda PLS zolağı (portal, hesab, saytın ünvanı, yoxlama kodu, «Ləğv et»); İdarə panelində də giriş pəncərəsi — kod, 3 dəqiqəlik taymer, «Pəncərəni önə gətir», e-Sosial-da işəgötürən seçimi",
     "Tez giriş: e-Gömrük-ə də PLS-in içindən daxil olun — hesabı seçin, telefonda ASAN İmza ilə təsdiqləyin; müəssisə aktiv müştəriyə görə avtomatik seçilir, Gömrük bölmələri portal tabı açılmadan işləyir",
