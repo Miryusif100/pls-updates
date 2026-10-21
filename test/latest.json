@@ -1,11 +1,12 @@
 {
-  "version": "0.9.30.3",
-  "file": "test/releases/pls-0.9.30.3.zip",
-  "sha256": "024c449d104c268a0f325d4dbce441108e93def62a705466b21eda514fdff092",
-  "signature": "iJffwubserpxYya6CjpBwnj0fRVHhfI9lm/g8zjAE0h+TPy7v/5gExuSjpEvS9at+b1CLKWLHa0Zvtl6dVNOri8HT6ggtuxKTaSLHir6ZnWkjFQfvIHMtSPRfYWufz/5tiZyZRIQrai9qAmBxohD+X+tCy37K0+H8IV9SCDCzSFh0WJxDzPMi+c2L0hZeVrbXM1gvfZdwro+rEFW3F2mzeXTGvoweRVsBe/TqQJWe9zOfcwxlQoZQAD9s4L8Drwe/sYI0CjuNneUFzo4DUNDnIpvMsGLVxE3k8qh9TK5JcNBORbZgQFaCVp2TtdfBfUJPrdaZpmwZhOkWkuSK3Dg8UIe7bLMxAIBjG1n68rl5onxH6O28GVfah8gL8j+T0PM8LhsQcl7jNPEI/ZBYhERWzA5SB9U5WwqdwjKc41U3Me7qFJUama7ZOx6xm9cyej8rhPeEbkyf7U0W92mgCUssv/oT0VucwIuLt7uBWpra8j5Qoavjg13DD1iDvFlVUKQ",
-  "size": 6941262,
-  "released": "2026-10-21T06:42:07Z",
+  "version": "0.9.31.1",
+  "file": "test/releases/pls-0.9.31.1.zip",
+  "sha256": "72e19e36e7d2770c0ccdf420605511b45d5bf527a9c4c960768aff4aeea0b5dc",
+  "signature": "vdOPvq9AeP76NVZRZGT0vgZHBZwMfu9qtzds03fAiTcgaGWhX4GtKahV6wiTpc4QCHQZsO5clJupjSzCOY4KE6MR8JEPW52B5e0vlV7VGR7oe7p5Tn+PCaqXLz2gup4h+mSMQ5kauGdUOjcunVrjuvfOzpfTThmibN11iNrdBOmkTPWH4njC+OHPJJDoiK2M2OapxaHEhHKYI3s5bTy8z9xfpC5EjwVrCTH+djUJyugi7SGK/ZAbEjody4Z7JH+qXf2eYiK4mPS8fI5EpAYRR0QvP7QCHAuTcfo23kHGbBs+STixH9rIScq5sZm4VRRuEVkbXNcotn+2EkQ6VJa7xnKZuM20tLrR2mTl9mhfgqzYWSDGZVycM1BhLuv7wROyYJXUrXAZ7NTfl6qEcy50oC6xi4vz+msXr5xpkxEbiHu88ZBBgyeCbcm2gfr52XIljKP+8/dwe226YqYiUh9FghrdHHNWTehhKPS9R0nJidlB7ZML1F/33TVgjR5C9QbG",
+  "size": 6945307,
+  "released": "2026-10-21T09:08:46Z",
   "notes": [
+    "Portala giriş pəncərəsi (e-Sosial və digər myGov ID portalları, banklar): «Daxil ol» etibarlı basılır və yoxlanılır; taymer yalnız yoxlama kodu görünəndən sonra; e-Sosial-da vətəndaş hesabı və axtarış, «Müəssisəni dəyiş»; «Nömrə və ID ilə» yazılanlar bütün portallarda yadda qalır",
     "Portala giriş pəncərəsi (e-Sosial, ƏMAS, AYNA, RDMİS, banklar): pəncərə sabit ölçüdə İdarə panelinin sağına yapışır və onunla birlikdə hərəkət edir; yuxarıda PLS zolağı (portal, hesab, saytın ünvanı, yoxlama kodu, «Ləğv et»); İdarə panelində də giriş pəncərəsi — kod, 3 dəqiqəlik taymer, «Pəncərəni önə gətir», e-Sosial-da işəgötürən seçimi",
     "Tez giriş: e-Gömrük-ə də PLS-in içindən daxil olun — hesabı seçin, telefonda ASAN İmza ilə təsdiqləyin; müəssisə aktiv müştəriyə görə avtomatik seçilir, Gömrük bölmələri portal tabı açılmadan işləyir",
     "Fəallıq: kart sadələşdirildi — rəqəmlər bir sətirdə, qrafik bir yaşıl rəngdə, oxunaqlı tarixlər, üzərinə gələndə günün təfsilatı",
