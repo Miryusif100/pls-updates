@@ -1,10 +1,10 @@
 {
-  "version": "0.9.38.1",
-  "file": "test/releases/pls-0.9.38.1.zip",
-  "sha256": "96fd3b253de75a8030150bc45f38f3c6089581ee4237af8be5793fd08663c664",
-  "signature": "BEaKi2XOS3u5Sk6s29FQ22cBgOKenQYA+Cko9588wBbFRoANS4JhFieyJHtvPHe7ge+/IED3FkyGMeQpeuQjT6nr/zdD61xZkO2K+/ABnuOvDHeMUtLDwGQIKcGMnokmy8PBzQaMm9y4klV/0wv0SgT01/bLKKcF3WP/ZERX9Iee57rtd456BDK6fKyMW5J/9hmAMq6SGrmsjISg+cvs9ksX+qSUv1/RqKQi6vvSapO/e8B0WHPSaTbJn2XViqxXDipkMz8YeiV08ZF4FL+n3n4u2fwTabXx9Dp9h+8qxE8QG2EbQi+7S+fj6oBkbi9VfGD/bwo+uA7kw2qCURWTIv69QJE7WxvFg5c6ynh4sCBo6m1luMI1h56UHtfea7n9Rd5+x58N5oCIP88XpPcfXyMPeIz+gisCOjOO8HL6mUha+HGxAXgzcByLl0YSCqVzi2sGzARD4cxkseWYth4rYzmkhpCZpNnwROpv2HFc8/zd4Z7FBgsdFT0FkNSrtvCQ",
-  "size": 6990421,
-  "released": "2026-10-21T21:09:56Z",
+  "version": "0.9.38.2",
+  "file": "test/releases/pls-0.9.38.2.zip",
+  "sha256": "0c17a661446086605ccce1c509e796294c1f073a87f57fe7e5680c67aac9e5db",
+  "signature": "AiGrpFetBS1IRvEeXzxMueNy2owcXulR2RreYK/Z1nA4Sou7Ib5/e9UKwuiI0gyqHjvRfs9PckFPxmV/y4rgBlfaJ1uTfK2TpJ18dT/yUR+WyesXT4jUeetIFByaK1U2I6lVIUz5QS6hQGjpkKh8tGyAYY9BbNZfp37kCL5JlP2QLe/alXtCSLbbCIbhanNFg9HFu861S/HqBpDcQtJNMlsQ8tw0J+pODvxeMH/ShjeDjocQZcTAf5YUS74aAbO64nc4axqCSEHv8Hg/837vcZ8TXKwmfoAoe45nZLZdJ8BL8LkX7FOctBItuew07/VcRd1ZoZzifkIJVRcWnS7QUSLarcSKN/t/GjmRC3IC9dfQdyq3oPSyTXaqiO1VOEv9P+yYm1a3A7RDPk5K1TSadLVwn+e+vtxBgw9JjfJEgiziPckLByaD5obRkY+CRFo89KKsG7xcRxb7Uf+/HY863LjjrzAhqRZYhmUNmlu0H0XBk25IW3lm8bphPpuXAdYo",
+  "size": 6994198,
+  "released": "2026-10-21T21:22:52Z",
   "notes": [
     "Vergi → Məlumat → Mükəlləfiyyətlər: portalın öz ünvanından gətirilir (Aktiv / Passiv), vergi adları portalın lüğətindən; Lisenziyalar da portalın ünvanından",
     "e-taxes girişi: xətalar dəqiq göstərilir («Portal cavab vermədi», «Portala qoşulmaq alınmadı» və s.), «Yenidən cəhd et» girişi yenidən başladır",
