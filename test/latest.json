@@ -1,10 +1,10 @@
 {
-  "version": "0.9.34.1",
-  "file": "test/releases/pls-0.9.34.1.zip",
-  "sha256": "a8db5114f2bddc8661a2b7ff62606e50ba8886ecafcbab0b9c95ca56c1e5e61d",
-  "signature": "JBZkQsawqm3w1/j1qvnzOKpwdfu2MLhr78vYJ7HUeA5wUTI147n/KzonhwMZdYuTk1ipl2hc+CxfNVgvCzuWoj7pvZJMjK/6+o/VXR9EZurQdbt5RL5z9P4/A99a3tL1ANL0KinIcVwaPQzsw+rjfO0aD7Pnt5g7Hhq2yMjWPgxrkS6qDnokT+Cs9jFfeBI7Ssxo9CauI4AJ1N1eNu/JYpn9ERmWhLsIYrzvifmCcmSu+AxVMbPljaBwixiFbsYgnPGOFGnQeSHTHYqE6/DrDDzvGNQOTLk28eJof5SwHrGzOvvNNrEYGE1qlsVz47sCIerFEHavJcS7E14+Xsa4Sb6WRteIlTqiB+id9K9QdFCWV5TB/9qrMqGCX+zmzY3LGkLPF4DRmMC1sb7ED3TYOhzlEnzl2OYvL4h1L2uwDPuIBFmKy60BUDLYtsirR3x/Vci6Ea1P5+a12bHVC8faJ4KL/WyikaVTyubO/P+SmYzNOVOrWfGruUs0ucD6GKA+",
-  "size": 6970146,
-  "released": "2026-10-21T14:05:40Z",
+  "version": "0.9.34.2",
+  "file": "test/releases/pls-0.9.34.2.zip",
+  "sha256": "2b3d818651a2364f61c8075ae89a68758087edba9154ae84bc76afb0415c3385",
+  "signature": "bM/RKvEp793a38KRKDmst0oUL/D07DNCpm1avfH3oeWR4NExZyGh+N5dA4CPUbSsjJqva7Yx2G7uL42YqM/thliRozfPC5FGLiWEgRPt/14Of8mfLA7LzfZ0pMaUdcBVptlprKnANF6AnH7iUjpqk8f+pPKKCAdjfpbAhevDT3KF/bF699YJIM+oOvNfH6x+1bXfQVsY+YCSVYz8djjVj5GOpreuusC4GKScp+Mx/hKwNqVSmoOHlSRNznl4cMIs8TcP0HWH1aPeoB50bPtl0W+EHVMGR8HgIne0PbQ3ifDLLNsE69PAfOhdGWHHafo0OXzyh4nYJBJr5betvPx9ffbNo7ce4sUVIFgfh/jCRKA0MiqmGesnyUeZtC6XFPTYV7+sZlyhOMtsAbU2mLnUiFrIXYALMKeYKI/bpC46DR77J26dDxaRKhyo+dtlXXNVecE6rN8A27Gznq8ENnfUguLpS+ERin1Z2POvH0RO7NrJLh8etokA/ZI4OqEdnT02",
+  "size": 6969927,
+  "released": "2026-10-21T17:43:26Z",
   "notes": [
     "Vergi → Məlumat: yeni bölmələr — Filiallar, Mükəlləfiyyət və lisenziyalar; «Reyestrdən çıxarış» PDF-i bir düymə ilə yüklənir",
     "Vergi → Məlumat: obyekt, kassa aparatı və filialın ətraflı pəncərəsi yeni dizaynda, bütün sahələr Azərbaycan dilində adlarla; ləğv edilmiş obyektdə portaldakı kimi izah",
