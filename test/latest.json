@@ -1,11 +1,12 @@
 {
-  "version": "0.9.37.1",
-  "file": "test/releases/pls-0.9.37.1.zip",
-  "sha256": "72f4c1f5747f26aabcc0fc77fef53ce9bd8518b1f95d3a4b641387bc03f9f1b5",
-  "signature": "cGE9M3W2Tprx6tjtl4ylUuB2ZxyFTA2pJNJ5M+MJvmVskuUj0mYSws9fMxgvQwbcC4cdhIm0+IhllRmQmnZ6fRHsA9UF0M4xfRyHRzl0N5O4M1V288si2Xa2RJ2eyzjoQagwTEafkgRJAJ7T9cBsC1kNMvkfYxyMJCEnpHhIxrHtrpjU3tcuL8W77gIRvCbSAC2fKw8QKtBslxmDZFfsVw7762AuC2fnj2djtCi7g1V+hLinHIEpfwNtQkRH/GgFOJuDjKI3ho67JN87tUldT9gdO+3nEQr0TaoDoiWJgEKwCCC+EJTkSQD3VAl2Rn9z0Pi3BO0hsRwqc7GOOVES53z3hqCBhuEj9dozJOoWpGxOhf3VNdOGYGtzYkHw5UwpMKKp7lhWXei5k7KB7/ChksHRxqEjUfHTycZ8LPm9+A5kSCaQ0P4uCcKFX/MILHroSB0pP+24UFaNFB0BOQYV6/6u9yQmBCOU4jp11ctDPDfPJhyDmxAj+aztq7pvm+b+",
-  "size": 6990222,
-  "released": "2026-10-21T20:42:01Z",
+  "version": "0.9.38.1",
+  "file": "test/releases/pls-0.9.38.1.zip",
+  "sha256": "96fd3b253de75a8030150bc45f38f3c6089581ee4237af8be5793fd08663c664",
+  "signature": "BEaKi2XOS3u5Sk6s29FQ22cBgOKenQYA+Cko9588wBbFRoANS4JhFieyJHtvPHe7ge+/IED3FkyGMeQpeuQjT6nr/zdD61xZkO2K+/ABnuOvDHeMUtLDwGQIKcGMnokmy8PBzQaMm9y4klV/0wv0SgT01/bLKKcF3WP/ZERX9Iee57rtd456BDK6fKyMW5J/9hmAMq6SGrmsjISg+cvs9ksX+qSUv1/RqKQi6vvSapO/e8B0WHPSaTbJn2XViqxXDipkMz8YeiV08ZF4FL+n3n4u2fwTabXx9Dp9h+8qxE8QG2EbQi+7S+fj6oBkbi9VfGD/bwo+uA7kw2qCURWTIv69QJE7WxvFg5c6ynh4sCBo6m1luMI1h56UHtfea7n9Rd5+x58N5oCIP88XpPcfXyMPeIz+gisCOjOO8HL6mUha+HGxAXgzcByLl0YSCqVzi2sGzARD4cxkseWYth4rYzmkhpCZpNnwROpv2HFc8/zd4Z7FBgsdFT0FkNSrtvCQ",
+  "size": 6990421,
+  "released": "2026-10-21T21:09:56Z",
   "notes": [
+    "Vergi → Məlumat → Mükəlləfiyyətlər: portalın öz ünvanından gətirilir (Aktiv / Passiv), vergi adları portalın lüğətindən; Lisenziyalar da portalın ünvanından",
     "e-taxes girişi: xətalar dəqiq göstərilir («Portal cavab vermədi», «Portala qoşulmaq alınmadı» və s.), «Yenidən cəhd et» girişi yenidən başladır",
     "Vergi → Məlumat → Sənədlər: yalnız qeydiyyat məktubları, mövzuda VÖEN göstərilmir; «Yüklə» — ADOC faylı və ya PDF",
     "Vergi → Məktublar: məktubun pəncərəsi kiçildi və ekranın ortasında açılır; «Məktubun əsli» bütün məktublarda (bildirişlər, göndərilənlər daxil)",
