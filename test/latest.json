@@ -1,10 +1,10 @@
 {
-  "version": "0.9.40.1",
-  "file": "test/releases/pls-0.9.40.1.zip",
-  "sha256": "0b613dd905a3ab3f054dc47c809638edbce3b9a7e39378dd4f6452dafe5c7259",
-  "signature": "t0aINRpsjxP4x3uI8eiN2mr+0cou3PVrpRWJc4MdK6QePSuchTP0d+HAIbS3NwgupYIwpqRwpuHvFt+3GTOxmL0QzERaHpRIAlhmmpFDCJ0KuqXbt6MFgLHRiihkawl/9BD+pY/OvcQ6lJSC9dVzRUQatpJ8J4gwvvzM/vMQ5wFCUnQucBDVHrPNEXPtQL8MYtKrWnrDznwcJuZilqVkZInWAsxSEIPFp5oCDwsu7usNA2nfLvy+9oegvO7U8EyoOJ+bKkxDdlGxIszpZWfaHhMFWSwtgkU1KMSAhIlexBKlGwLvzhhjdqhkzlSIbQl9xo8mDQYQ2l2fE9G/dmO2r12VHTRdKq0VPHQfDWfr0DMF2eOUCEw8aBPCfzNky8DNZ7e53iRNnVoKhbP56mFnmQPF8x8lKTnvwZ1WnDwYr/pEGvB6yZ0cnsl/jjif5QkJvITHzDF9PbgW5iwOMk0rqbKIjNnwZB6jwIgJYwKHCPhemmEqVJoHwmsl2lZvvu0l",
-  "size": 7020696,
-  "released": "2026-10-22T10:06:29Z",
+  "version": "0.9.40.2",
+  "file": "test/releases/pls-0.9.40.2.zip",
+  "sha256": "1b1b0d67db46bd1a96ffc8d0bf8076195c27d6d9d1a409a851321bedc8200573",
+  "signature": "ORmod7mKgNXD5wqr5IaU2/GB4Ikd1nEguY3Ph7rbXQ0TRtZhqM/IWWeHuF6t0Ox+nuM5FUmOUeuh6PRrKMUASrcjhNELwPQuEzE41rmN3c9j91OrCZapzb+rfXPrIIXxKBEL/XlRcYvZptBrzCMPhRV1ccCcNWLb4STBqnpEwk6QvtdSAf/a9qCDNT7VLxqMyanQ9zVWfNJFLvN/StlweAJLGdV3SLj6EvZ2hIQ/Fktc6KeDeVMBv6p2oTevjndTiAhjLQyLa3mHWBPEzghzJla2I5jFD+7J/uEXovSZ83V53wCv7l0+5ZGwFhGRayBO/9FCMFe2ckywHCfCJBcgdujS5LGOC8m8gkqcE2bqpD7xeEIM/wdQ6ZHEgu6Ah788ZqGnoG7+Xj0FIKInjNh4wk55DuvbkS5zf+nvfVfP2IKPgQMq3rMhtf+25ZLjvUzgrrSNa/7paec3Olj/GGpp5Y2dPfDOJVsJFJ14kU7OS0hnpScPXVyYhAOAb1qIsEmk",
+  "size": 7025241,
+  "released": "2026-10-22T12:51:23Z",
   "notes": [
     "Vergi Məcəlləsi və Əmək Məcəlləsi düymələri birbaşa məcəlləni açır (ilk açılışdakı xəta aradan qaldırıldı)",
     "Vergi → Məlumat → «Portalda aç»: e-taxes səhifəsi ağ açılmır",
