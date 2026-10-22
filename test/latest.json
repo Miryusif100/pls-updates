@@ -1,10 +1,10 @@
 {
-  "version": "0.9.39.1",
-  "file": "test/releases/pls-0.9.39.1.zip",
-  "sha256": "0b59232c5dc1800e2d60444ddcc53e64c33ae4e7919ed69d6f84575d15a524fd",
-  "signature": "wu/9fNaHyOnso59NGdvRN+IONQ5Pmi62NH/UY0MT1KLXqjHH+NreJ6CUUEtRgg3TggrA0F500NPnLDqOOI5eWKttNoDaqYZ6CtYlMI5UYbkjU0ijs63xpaC3baYfJSTP6G+ddkovAPySxmFGKfH0URuNvLTYq6jS/CQxADua+YNfPCKUhFg+GzqKvWxXeCs+X+HIU8m1paovTYDuFqAExmEcXx3DsjVFrDcDp3nXJuB/KaaRYRMz5kkNUriqrKpuimeSbY2oFJHwWN6zN0okkGDVCQNnf3v42NOPIPAo+KxVztPJQ/LlUyOsOmSxtlj2bD/84gWZ7TA7TjN0uTnKWT6ruUaIrIuy7UzVfoLacSeBYKmGq7mTvWOMDrm4lLb4OvAesia5+4nqnD8vJKkl3pMpdxKK55lxKuXkVXb482LskIoNCJ1PEl5XWvwBYe24GEPQMNlNFuwyMKQZpViHHbJXKzIJrYXQiLhUh+b3t0MSgRJJaPDFaCqv0UrsVIxa",
+  "version": "0.9.39.2",
+  "file": "test/releases/pls-0.9.39.2.zip",
+  "sha256": "1364a0464ae8e0ca16faa080b57b6db8a5d06832e178e60e88ef54e0721efc03",
+  "signature": "xpIVt3cnfKHieYC1C++ETP3pgZpSJYTgLqT9dKhYAvm/sfd9T+5D+/wBU3DT7nATiK84YTu6RkpUK/kVCjtFL4lUGhh5DTvyewA9SPbIqi7DG5Cod4NzRHB3n+ezjf5UHk7RxGu/7zaWf3+W1bFFOmQS7tQ0W5OdiXcy/B+JX4vpm8cCFpP9A7Rhg2DNx+QXd4rcXVV0RpDssuBd2RK29v6KHFN96plZz256V7Zstdws7Uyr661jH1/FpHzjWSywvDvp/5aCNMF8RtbEyIAaa/sw1sjiZQh0n9z0gn/7UNHt7UDRYwdU9nMfKfQZpTD2LjZPVbel8UNVeQNI2GYQKEms+o4IDoo2Nm9tQsxxmjKI/mAlXnCZZOAvKrTx92UlvJqSxdKtmGvfSrY6PTZfmEfhqcLN2dQRCjKKZcXchknuL1QSTlh/pT/6uQaeyF4vA4yUJbK0UsqSWmsYDJk0nlWTjlNVahr1XVLeloleoIUrRIocXYeii7sAGj1rsEnH",
   "size": 7012313,
-  "released": "2026-10-22T06:58:39Z",
+  "released": "2026-10-22T07:31:45Z",
   "notes": [
     "Başlığın seçicisi: e-taxes sessiyası bitəndə köhnə müəssisə göstərilmir; eyni ASAN-dakı digər müəssisələrə «Keçid et», altında «Çıxış»; «Müəssisəni dəyiş» əvəzinə «Başqa hesabla daxil ol»",
     "e-taxes sessiyası portal kimi hər 4 dəqiqədən bir yenilənir (siz PLS-də aktiv olanda); alınmasa açıq e-taxes tabı vasitəsilə",
