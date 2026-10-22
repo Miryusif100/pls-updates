@@ -1,10 +1,10 @@
 {
-  "version": "0.9.41.1",
-  "file": "test/releases/pls-0.9.41.1.zip",
-  "sha256": "dc05c61fd5adc239ee16c4bc495376c0decfc95c2930704e032c8f301a97e867",
-  "signature": "0z1Vs6u636ZtdJ4dVQvfZVL5ScBiW1TPP3Of+IajWKj87cCTWXLM0ATwIPFdB3KgtvUPTdZThDvDuuO45h+iCOrU+p0M5ASDhb6nfwHLsGAsY22g5z5aoIt/TI63hkErE5hu5n8mzf0xkpMpVbCkGZ/Jyzuil6DAzsf053IHVUvrQygT7hKECjT3bnO2L8wgp/wtdhNNtoTP5fRGHbCe/6rGgyWz0h89IwjdGTVEmNc/wbYmawt+DGtDMQlS73o9vX+/3fT0YkbhkcTyys62Crpmti5wLM2lLPKaPxnM/pX5S1njll/8o+phV/Iv25H0gV06CafOz0ODQfD+vcaFpxQTHLwlSs7hGalb5AQuLTdZagyAnGlSefV1H0jsUt4R9SN2YuimGfDYJSc5Gs68UzLivYe8aCcSz7Cei6+jDhxDd2iA7XnctZm4uTIzdtjOxPubAO4vd9QDIVQCkQFQrLoZE2zJxIa20qheVODreUiNnJjsg/OjGpaV1JELqfPA",
+  "version": "0.9.41.2",
+  "file": "test/releases/pls-0.9.41.2.zip",
+  "sha256": "eb05dcb53b288e9d4dcdf758b5ae274debcf74bf1aea983428eae38a76a82210",
+  "signature": "P9bQZDtqIWV1Z/j+l7fBqfEwBLCHaqNmGYqv9Nt8WH06VzjxiOq1huM63w7s93l/BawURQUJQziYXYjKRdOauAVPBBV4Q+IXMR7vQpH2mHb/c3id0a7qvCxlHD7byZdegDnelLBEN0kbBePP7bPVBz6bSFNk8+C8Q7qhhqeehPzVbKQSnNHlWC7TS1gSr/kukTznrby33CQwxtjc9caAOhgEcyAsD+zCepl3FT8V4R0qwnn/TmxJv1eFifkFmnR7HBNJbpNe7N2g9rVTLREQheTFv+716ixCb+4wrvt7IXLHz0VlzYrBCbMnRNIRy5oWoIlf6NPYF1TXYRFdGOHQ6xVdcZiGnzBphH6IIkQ2YGNytQ5uwGuk9wBzOe5kZHa/vIdmtQSIzO3/uaclkmNV0RBsTMl6bWb7UFvQctAQJ//dNYvfJAv1D3Sy5508x29ACn0HntUsi7tnEA8lBFg1MVXdEFH0uN66UhEZMR2Qv+uB9U5ZJ0szFfcNK3/ubJVg",
   "size": 7025232,
-  "released": "2026-10-22T13:03:45Z",
+  "released": "2026-10-22T17:38:12Z",
   "notes": [
     "E-qaimə fakturalar: bütün bölmələrdə «←» geri düyməsi, bölmənin rəngi, «Sıfırla» götürüldü, Excel/PDF yuxarıda, «Sütunlar» və «Avtomatik sığışdır» sağda",
     "Elektron qaimələr: Gələnlər · Göndərilənlər · Qaralamalar; «Müddət nəzarəti» və AI götürüldü; yığcam KPI kartları; filter açılan menyularla, seçilmiş filterlər yuxarıda",
