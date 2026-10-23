@@ -1,10 +1,10 @@
 {
-  "version": "0.9.42.1",
-  "file": "test/releases/pls-0.9.42.1.zip",
-  "sha256": "1269345686d34266dde198438b146b9825f03abedcace4b0a7828053985fef81",
-  "signature": "XJnwoFriN9bk6+eXqtbsQ7XxtnbsReb4/pxwE0YhAsbwsS+JI5MkVAJRFJGwke1XmgcaKH0d5isF988mBNcymyu91FAUW9e0daDL1V7O+6cuaj9x8XeVt6i2lPCsg68rcHXN0Akw8OUBNjDlupcwzilS/gu77X9Wr4I01KpeH6W5fnv9FDlnWMAMBrzeeVUC++aEEkkR/uihB9TBugustzSUwWnNZgmP12HRVgP3MkLCU8fglqMU3u5zXc9Vr9XubBtJt510P27nBnWnQO8Vh0xWcxVqv7UhiwO9WX4MeVRdvkhIzQeEKpBFXcIVK65+mhbAuk5plcUodZ+Aqr4S0/IjGiIC2kpoH+XuEwuJdqRdXAxTpNiss8hCiWaUfkSiqYCPsida1WMrtpwgDKm86v2k3QHjG5Gd4jcTswVsLVN1m96+kQmzfyT5Byuq6AT9AKupHtwP0D9+OdOS+9GF5lI0z0vdn7KCsg68nxM409Yh9L7n/cAowI2LnvhzCMvA",
-  "size": 7047965,
-  "released": "2026-10-22T20:31:13Z",
+  "version": "0.9.42.3",
+  "file": "test/releases/pls-0.9.42.3.zip",
+  "sha256": "56ccc8f572d2baefdc92a6e05840d969d6db816f4f6e4c30948d20efb691dcb4",
+  "signature": "1DRgVFML38Gs6eu5pV4TaVrYiXxNlTsbgTRJQ25tDiLgsdBsS4LUELfqEEs7uW4eIz2W7u0ldQ9riftZZp8kQcckPUWS+ysmS38a+l0gWj1Rhf9LspEh4CkCh0W15GKj/6KV/yQSs/JoTlhOQs4o/uGMwhlmUfbE6fn2USWKMyckRPfjQ8UQHEsWZguob3HjvSuSiEbuZIJnfhVS/bFlrabE/v46dzjfgY1SpUU8NWSxExTPTJR3Z002CNe2shQKkPaTKVc9S5oDTaaVFf09Sb6VJU5JQveH7a0Pbs6YOlmBeq+2h+AcnQFIv6APBZutEax5ivXz4rfhZp2BTTw1r9DLqejxVVfDg6roFY2MhixwXjiyloIFTG1SdTLYjZ+T9GWincdq7z2dlP14OnW2to1kEk9qf7RwZq0eblh/qLuCUxSBW2JNFPC3cRqB14ZBucD++pMjaodVaJQ9dstkqc9q5S/A8EJpPiqphkypB95JR1MtGVs9/aRfVga8Gg8m",
+  "size": 7032525,
+  "released": "2026-10-23T06:10:45Z",
   "notes": [
     "Alış aktları: yeni «Akt növü» pəncərəsi və sütunu, portalın bütün akt statusları, ətraflı filter (dövr, status, növ, satıcı, məbləğ); «VÖEN-siz aktlar» tabı; satıcının üzərinə gələndə son aktlar və cəmi",
     "Mal və xidmət kodları: kataloq hissəsi götürüldü, axtarış solda, ətraflı filter, Excel yuxarıda; hər koda «Mallarıma əlavə et» (yalnız PLS siyahısı, portala yazılmır)",
