@@ -1,10 +1,10 @@
 {
-  "version": "0.9.45.1",
-  "file": "test/releases/pls-0.9.45.1.zip",
-  "sha256": "b01e49c07f59d7651bf2bad725d3c167d18cdcbe8bd23695e7d283994074b22a",
-  "signature": "Bcaf6/QL7LTBiy37MbMv5LTTh4d6ah250Dx0Y8iX5qk1WXMLPwckO5Zp4OIYGA6sHVMspOl4Gfr23OWnjmrTChwRaCEKnIRqm4E/qGsH4LCTSoLoxK8WRRzhzPrXbKFGqope8RLR0vyezUAJcYdaaygSPkpWe1RL5Qp1LA0RcCD4OzFaAui0eOIDtzXXfO3k1eow72FbxJrvYONTfuyrf+KjuYX4uUZ9rxpsOvcbK/S5HsWcKbia6bmqkJqG9KeOdBsXX59ePQOphFRAMDi6ozoYguNZBXu3a1jr5giMnAAD6V+tk4XvjFLqPh7aE7JUifqeyvHLncvWCsFyv4K0Yem6ufCgYE5GG3GPipuKSHNpPyfo/jZiPY3+2rZZchyJt5zpDE7FPouPYqU1Hm8vpSlzZak2P2+dan2RCfVkjx2VVdQ/W1Z0vqTFEwslOXQrze8O326Tpuu1zvy83IGPxzG+4oKpoTuRqUx4mx0pLouhelwLDbpas+/Q2/12fS2F",
-  "size": 7133325,
-  "released": "2026-10-26T06:04:34Z",
+  "version": "0.9.45.2",
+  "file": "test/releases/pls-0.9.45.2.zip",
+  "sha256": "f5c9b2fb19abef9f2be0e6d0212c74033a1dbc0170d9680b24eef321226d404a",
+  "signature": "AW3dZnL9ZWKIExSpUlBYc8D+wvHyIzBMxG3pFsL0Da2QRjRJT8Mc2pIM27RdgpY5g9MSZWXyy5mQ+yYZAjSdvLrRefb2w6/lIROPwuJzbWB+Tqhrac2Kii8Ty4rgnQ5VCFYkkDk6Ec9nBaLRHsFU8daQOxEY+YKRYYGO7PsJehvrTh21gNV8JV9uu7WNywKMwdf8OC/v/zxRsI8me03ItUomXNtabUJmjc7g/d+NTvfvZpFqQImc86o8MEwzVZpwfuTRGbiSYNH6HZ1AN1rJE/mbG+q1EbI8dJLe9FUlfc8rpdBOK2GRBBYGAtcLH83OT/e2w0QOiaK4wrn+57ToOtf88iyKb2/XSR6e8je5NDo0LjGXX4bHYwN3To3lb6XjbpcTBAJtvbUPl7+dmCv4NM1qjmWqx+jEZJt1YZxSrC0ho++h+GqhdJ68aD67ZwJAb+JC1MWxh9pK+2Ufsu6Vngk3+maF35U4FPNqjcAgxmibKWyY2dr+dwspRcwdqjfZ",
+  "size": 7162416,
+  "released": "2026-10-26T11:01:38Z",
   "notes": [
     "e-taxes girişi: portal girişi başlatmayanda (məs. kod 2031) PLS portalın öz izahını göstərir",
     "Başlığın seçicisi: eyni ASAN sessiyasındakı bütün müəssisələr aktivdir — istənilən vaxt «Keçid et» (müvəqqəti icazə bitsə də açıq sessiya ilə)",
