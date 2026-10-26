@@ -1,11 +1,12 @@
 {
-  "version": "0.9.44.1",
-  "file": "test/releases/pls-0.9.44.1.zip",
-  "sha256": "466a1db8f1d0812a1dd7747a4ada59b67e9ae125c431924ca67682de15da9f18",
-  "signature": "D0ZDk1zWBPSsXqSxywbWKQgPWubHNXP+jltruj7NP9fqiKyL+XmIdn/HBEyGNtnl5vWwY0C3A7Un3AI7c5x1qybD6lMcHFZT5RPseZSJWT/5SbCl7ZW8XxJk0QYKeT7CDVnwuIQADTNXBBy3tEa8Oufyaf4kydasmd4a9UJXp2OrCMbpMHyykoulcAvpu8GSMizPv26/px5YS8d7RQEAT3ena0I3tjfoS+hXYGydfG44FNij9XlRS9zU7Hg94F7uRqDKNPiWuG7gynPK3ggW5Xtcjm1Xmp6mIn1BQABNBcwDoynAYON/7gNMEeVH9yNoOEM0M0l0qOrwL7i/cQQ6fYH9fiP7ctr4rCmeWPKHti8i/gUs5XtfJNqYp/0uAcCpJqDO0eoMz2E8YdAoKe2u+oTFtZKXRsValjuz60SueE+d7gTUtG6DlNXgdpClRXK1RSjEBSu0A/bshd+RHnoQd93zVifITTopyJcbe3C3q0bgIurEIDCtDnv7fw4ZmcK5",
-  "size": 7133277,
-  "released": "2026-10-26T05:22:28Z",
+  "version": "0.9.45.1",
+  "file": "test/releases/pls-0.9.45.1.zip",
+  "sha256": "b01e49c07f59d7651bf2bad725d3c167d18cdcbe8bd23695e7d283994074b22a",
+  "signature": "Bcaf6/QL7LTBiy37MbMv5LTTh4d6ah250Dx0Y8iX5qk1WXMLPwckO5Zp4OIYGA6sHVMspOl4Gfr23OWnjmrTChwRaCEKnIRqm4E/qGsH4LCTSoLoxK8WRRzhzPrXbKFGqope8RLR0vyezUAJcYdaaygSPkpWe1RL5Qp1LA0RcCD4OzFaAui0eOIDtzXXfO3k1eow72FbxJrvYONTfuyrf+KjuYX4uUZ9rxpsOvcbK/S5HsWcKbia6bmqkJqG9KeOdBsXX59ePQOphFRAMDi6ozoYguNZBXu3a1jr5giMnAAD6V+tk4XvjFLqPh7aE7JUifqeyvHLncvWCsFyv4K0Yem6ufCgYE5GG3GPipuKSHNpPyfo/jZiPY3+2rZZchyJt5zpDE7FPouPYqU1Hm8vpSlzZak2P2+dan2RCfVkjx2VVdQ/W1Z0vqTFEwslOXQrze8O326Tpuu1zvy83IGPxzG+4oKpoTuRqUx4mx0pLouhelwLDbpas+/Q2/12fS2F",
+  "size": 7133325,
+  "released": "2026-10-26T06:04:34Z",
   "notes": [
+    "e-taxes girişi: portal girişi başlatmayanda (məs. kod 2031) PLS portalın öz izahını göstərir",
     "Başlığın seçicisi: eyni ASAN sessiyasındakı bütün müəssisələr aktivdir — istənilən vaxt «Keçid et» (müvəqqəti icazə bitsə də açıq sessiya ilə)",
     "«Yenidən daxil ol» düyməsi yaşıl; ASAN kodunun taymeri ilk anından rəngli; Bank sessiyası bitibsə İcmalda Bank bölməsi görünmür",
     "Vergi İcmal: «Son yeniləmə», Dövr və Filter başlıqda; «Göndərilən / Gələn qaimələr»; «Nəzarət mərkəzi» (5 sətir); Büdcə kartında borcun dinamikası",
