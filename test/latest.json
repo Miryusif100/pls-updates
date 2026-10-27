@@ -1,10 +1,10 @@
 {
-  "version": "0.9.46.1",
-  "file": "test/releases/pls-0.9.46.1.zip",
-  "sha256": "1fb164cb7429f81e07179db24c54f97cf1e139e103fd267ff5c856431567ea17",
-  "signature": "zu1C5y5eXLg9AHFNXe2BymVS5MXJ7L2sm2k4RcBXUGvNm4WBn36rNc83sFkLuRXNoSG2EMOitWAw/T4LkSlIvzJUgKemNMr3HhkWrSBXKmZdDNTbbnBijYEw+UzYaalkwg7AtcSlx897RQ/CCPp39mNumLQvLH+/CqjcWxQ1sTgPKY5PsbT3uPr8N5sEn9NHRXKWbulfBLKEFXYXfxcyk9HSuOLdMOHPyKUCbf+PVCLYjGTw3uFLe0+KqD4cLQlsmIleRY31pHVkWJjP+riNODml5T6zeCJGxYr2yXH+RIaS9aCmqfPIEeQwELzrp7P99adq5z2po9Kgb703kezGaakhtGQ8FbUKBQy5XaZ/QaOch0k4FNBC0L+nuwF5wEPrSm7GW7+DNuTkHuc2Ehpg96TSwKXqm3N+ZrQfuG4Fl1ClXlkr5YcZQA69Y+FV9lLe3ZYl7OP1SiJWcsUcMEy6FPaZhvuOzr55jjPShIM71EtC48+bRLxCibG8T6JWsjBB",
-  "size": 7173998,
-  "released": "2026-10-27T06:16:34Z",
+  "version": "0.9.46.3",
+  "file": "test/releases/pls-0.9.46.3.zip",
+  "sha256": "93330a982f71520a3d6e8573b5305705ddefd3978727d6a9c020d2db225d82b9",
+  "signature": "rVemWETp9Nx48sn9ee0xsKQJmx5231P8mQ1Cg/9gRnZjmwEagUMhR8o8kJbbGKR4RnbHF7eMfCCE96/1lBNLVvJJv8FaMKCMEPGigu3prDW+vaJ3ZqWribdBIfs0ziGUqrBJRS/7Bg5/Y8hIArepx8g6vVONwyu1epp06uuGS94P5eG4HoVeb5u+D1o0QiW6yJFdC3LhcizBwo64GTz59AviVwoULdPauH44GshfWhvV/5YMN8LYljBuN93l3XpqxAK/xWXdaUU4+wKmdICDzbnOzkDjPEgGcinEavjNC7zUHKzGkA5/o5oZll9PNeLMkkJJ13DAIOEEGGyua4N6rQx77reYhBzJ085Bxz9JtNOHqdulx0WjgkaFFpisAoUOw6sQrWIcYVJmyD3uVLiJ/psbVYS0NDchw/8WNTZlhQNX/9Z1WRjXHWM2ZuGAF6tiPXEJ0mME6DYy/sljO+vMW/h8Kvsba2efckCQWjlsxJqrcH8PBkPY5Bv6sgCN/BAE",
+  "size": 6624374,
+  "released": "2026-10-27T07:56:13Z",
   "notes": [
     "e-taxes sessiyası: portal tabında token yenilənəndə PLS artıq yanlış «sessiya bitib» demir; portalda çıxış ediləndə PLS soruşur (PLS-də də çıx / Davam et); portalda başqa müəssisəyə keçiləndə təsdiq soruşulur",
     "ASAN İmza xətaları: portalın öz mətni göstərilir (məs. abunə haqqı ödənməyib), texniki blok yoxdur; taymer ilk anından rəngli",
