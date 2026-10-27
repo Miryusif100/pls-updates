@@ -1,10 +1,10 @@
 {
-  "version": "0.9.46.7",
-  "file": "test/releases/pls-0.9.46.7.zip",
-  "sha256": "700ae8d92d9ae42465ae31a3f139776e52d02683cf988ebda092ef2e26151d4c",
-  "signature": "cmqHWNGBESiuM0bWMtSWwXHxBjcMCcO3yFagNYaiRjuVYsBky4sHP/kX/S9bSdpuCwU0mhBmvf/yhMEpU2rpuVP+QNLKcsQDtGvPPBdHew4mIssoEtocq1RH1IbH/cBblJUr4dKPF9PJ8gBE7IX92j4sOd+146g0yAlc3iSR1LlVma0os1WaMa9CtN1TBhIjpYwx6y6tZLYStBTsp84H2zKQU9YOI6Q8GFmgaIZoQmTqDzedZOkTxjPzp3o0LmckMp5qpjQos1tQEq9gGV+T/dBlLF34DLet9wZl9KxaJFVOrD2iqDIVybkWTP0ilIjFKFuxONm15rdBIB9UdxeoUsnjBYxprSHgBv+xqH/f1CFaIAeYjgyixoIz2tkx0pvdNjlu7xyEeIRQuSC6EeScENY4PdvoW1B6uG1w5PBoGsxisP8B6tHL/EXgywSlOKp8na1SjECjlK3AKZwLZUxFcBOhugNyDXd2hPwBoWJvghAZmbjQrqhsd7onTMWmyffZ",
-  "size": 7663017,
-  "released": "2026-10-27T12:20:56Z",
+  "version": "0.9.46.8",
+  "file": "test/releases/pls-0.9.46.8.zip",
+  "sha256": "df9deca7626410c6afc6e6fde8d3cec29f8c84400d2c24ac0c53838d22ad3f58",
+  "signature": "IJNg8pPtFG7T0jgkBAQDDWzgDo+8tk0wzBHFPJLmOXcGHlExkEyho7VhEInTFeQfAxa/ZxI73Evblo6RIY/Gsq9DCk0t5/wyzH+oTMuK3J1S28fe6hmHFxFOsk05eo0FL5VT24G2vpWbMQMFPQhXjN+FTP6066koMWrj2NPWI6a5lMQTcjNweG3XffSIPYd0E1DrrHW0VN0SWL7uionw+tpV0nDXFMMkcRx8gpyXBrNufOtgfJzeD+GHyQmZ8NNShiYmRtz/qd8gJiHq9iQEvuM+RIoSNjPM/Ggx3kpPx1Pm1PcGP12T2YJzXQdIB2H/eb7IJQkCpsrVw+KVqgomVH3B7F3anSEiV7HiKouAJGVvZMnSttJoP6+vF8Q+NB+MrxZg6QqENrd6kBDD9v9fcFlduhoJ8OaRt4Y+DChWjjVWrskCvjHFK5XYlNHTwrGqXDsvtq9JqfHBvpv9rRsmOZiQDxj2XmFpwe4R8Ykk30AOmMAoVYK/3ZUmZt9wHnf5",
+  "size": 7684357,
+  "released": "2026-10-27T13:39:57Z",
   "notes": [
     "Müəssisə seçicisi: sessiya bitəndə son müəssisə «Sessiya bitib · məlumat N dəq. saxlanılır» ilə görünür, müddət bitəndə çıxır; «Daxil ol» bir yerdə; panel ekrana sığır, adlar qısa",
     "ASAN İmza: taymer halqası rəvan və dəqiq işləyir; seçim səhifəsində «Keçid et» düyməsi; müəssisəyə keçid animasiyası; «Daxil olundu» özü bağlanır",
