@@ -1,10 +1,10 @@
 {
-  "version": "0.9.46.13",
-  "file": "test/releases/pls-0.9.46.13.zip",
-  "sha256": "4f00500eb2ef47f3ea234c08aa35d8b80655553c7c046339bd2b14c4120aea28",
-  "signature": "JgtSfpQ+9uwbt3zHiqFKYbXgc4wj5B2cFmbvhh/zahPAVtIf8EIPc0RBf70YT6raFaUzPt1P7C6m2AXb2eIkaGzAl+RXIu5BDgl0q9Rk/2lWhcw9Xeqw2yDjAQ+5Ys8QVB9Tbss8Nh24FzIQBhXGjkZoWP9SAV8C++QBqEBC4D6jRsqppqqbl13MaOKtU1ibn0C7PX8KLti6v9gP3DThAmWNSbmaBeNrSH8te0Xwwjy3mvzz7TmgGH1ZXifYUDswSNYpqtchKnSy9+meoGPZVfNSaa52Ahmg/59YVIbirvi5nH6r/+VPtaVaE+gOSNaIORxuUlZjwe18ebLqeyVmAMw8u7JjNZS6GHq/SKfn4pPVmQzf/lBeUNiWSXpzkOaQEofH1gdiHiYNhmLrNufAK9XbdSs9OPXsq5zneyankO4svVCI5GrnykSJ2MavjzW4vSFmbL/e5HoFrIH2xJSUw0RUXXO9WZTRNtidnwk2QGhH2AlRWkEyiPIEy/2K+xUe",
-  "size": 7828217,
-  "released": "2026-10-28T09:23:43Z",
+  "version": "0.9.46.14",
+  "file": "test/releases/pls-0.9.46.14.zip",
+  "sha256": "bf36f8c50d25f1182282450512176a9edc1825015ccd0282eed588144cf403a2",
+  "signature": "O1g52xD1Y2XknN/gNuuur6oiEDgjNU3PbN46kXx5NlhaDnt3XLAXz6zf0rLNPYY0gz40i15+BZP4UvIqn9j5RNuJ/6li8Lqr9AmAF7+LJYtONmN0BmCH0HHhhqPCl/n25uWZouhOnreHTRoXJz3uaii//uWiMNpFHuQswXBJVwUKNgRg8gtx1AMTpAEFFEP/H7tK4zMQphrsAKEkN6PtqKd5cR5AY3PY1pzPeXgUyrwO/fCRtOO6iAO14HldRnlToQnYGKZ5HHZYL4sXmfMzwOgtkL6v/iKCrVN2mmG3HK1nAo5UVzOrO7hBMmy/ZRDUQeRz+m2HFNBAI4brebpqIJy3YI9AUoYkQwveaQvs8z7jKN6L6W+bgWcPgysYrVGmWj2YknDYyQnC1hg07I3daOAta8JPoRi8BIZF8DgzqdklqLeWKRcFA5/FzCsFMLVujbqRFYJctzioxeZtOmlXyeom/KWPDElOx/fJ1m5ja9hzZAwK7E93AXDWYtZf5/GF",
+  "size": 7828625,
+  "released": "2026-10-28T12:09:40Z",
   "notes": [
     "Əməliyyatlar: əməliyyat adları tam görünür, Excel düymələri hər tabda iş sahəsinin yuxarısında vahid bölmədə, «Portalda qaralamalar» ikon (üzərinə gələndə açılır), keçid animasiyası",
     "Toplu qaimə: «Cədvəl / Yoxlama» görünüşləri, kiçik addımlar, yeni alət zolağı («Portala göndər (N)»), boş cədvəldə yoxlama bloku gizli",
