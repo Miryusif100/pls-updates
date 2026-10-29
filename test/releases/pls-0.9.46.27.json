@@ -1,10 +1,10 @@
 {
-  "version": "0.9.46.22",
-  "file": "test/releases/pls-0.9.46.22.zip",
-  "sha256": "f9d90785a5620b4af4cffed6c01299cdd7fc5a0cb27e80a1ce57759b38777556",
-  "signature": "NtQMhcepO1hD/xjWwnMCunMzsqKn80zE2icnnLTHnRbQoQPl2rCXVQArd28kcdJrcfreSowqKVChIxrSs90h+O9leIXCef5dhf0wHBzesw1nCC3YiBFBkadkOJPedG1pgqPOzAXnUt61zEDuYAZsYDXA4bq9goYiT6zoTSL+OOTrFBJl5VLN6vnPWWCkn1B/G9L6qeaNfRX2xIL6+kpTZy9SLNmmDQh1QTIV/f7KGEA6o2gOUIlWNPeqkebv8nk2hZlSHgx+AgSCn+OPN5+UEHjMjdb45fMquZ99bIWXyTNgK1vfYVk+wqqOhd9pZ7TYdCi0letlI3tCaR8VNhc/uR/f2bGv3DKocaXwdwltbAdDcqmJDxmIatyzUybTwk/zsme+oghA0XEnaLn2OBQmK7OEwLXY43wlTzyK5dxnt/f0W+Oj54yhiKpx0OkFJ5wIQXN8D/FlZIAHy+xSMDSEuubVddEakGH3g5Zmd+MRy2dR6Fi7OxYa/r9A2PAqLS3Z",
-  "size": 8034874,
-  "released": "2026-10-29T10:50:43Z",
+  "version": "0.9.46.27",
+  "file": "test/releases/pls-0.9.46.27.zip",
+  "sha256": "b8bbf596ca04621c908e13a9d49356de256461713f1391658297d343aba34bef",
+  "signature": "JG7aiB+bi27hgN9pYDpTgx3Z4aUnIc8EhupTFVh39iaBKluAupLbW8wq6V+0iW1YGNCXAF1iDK1+LJyhPx/L7TB4RZv3yL3XID5+YXTymxf76ZqvM6HQxTlmdSlvMbiKt7FooN3MAplTd84SGxm0JNSHj3cWBkQvcupkGp4p7/R+U8i+WQA1MShP/72fiRlJEmOTl0JJXPD7I8cpG4A+pW36gz2mRxpUojWXhnDWxLe5BrWnaPL0WNvAvg8C1qq+Puc7vwFffFsQ+ZEcLYTnyr3F0eNAufB0SJusOxiG/KWQE2VUChcANdQOGnrt80wQNmADBP0iM3uSsyjMR0qGU8YjgmmMK/cScxE0NgYBD2Ok72wlDKGq53eI1WNFLhtdeSZgF3HQ82DmQn7uGqGuz6TqKaJeYJzphH4JXhA8iSsImmuD9IIV/VmTkQV68XupD5yLjibeHUQAYFVbB03uF8IwvDGNmx+CNdiJen9kS6JU45wV6G0VnHfaNat98qV/",
+  "size": 8110713,
+  "released": "2026-10-29T17:30:55Z",
   "notes": [
     "Vergi İcmal: yeni «Dövriyyə hədləri» kartı — Sadələşdirilmiş vergi həddi və ƏDV qeydiyyatı həddi alt-alta; hər ay üçün bəyannamə (801/802/803), NKA (nağd, nağdsız) və e-qaimələr yoxlanılır, fərq göstərilir; dövriyyənin tərkibi dairəvi chartda, istənilən 12 aylıq dövr seçilir, həddin keçildiyi ay bildirilir; nağdsız ödəmə yalnız kassadan, sadələşdirilmiş vergidə 0,5 əmsalla",
     "Məcəllə keçidləri birbaşa həmin maddəni açır və vurğulayır (ilk dəfə Chrome e-qanun.az üçün icazə soruşur)",
@@ -467,6 +467,11 @@
     "Əsas icmal: İş masasının göstəriciləri, «Mənim müştərilərim», qanun dəyişikliyi radarında «Kimə təsir edir» (hesablama yalnız bu kompüterdə)",
     "Administrator: icazələrdə «İş masası»: baxış, statusların dəyişməsi, məsul şəxslərin təyini; hazır şablon «İş masası (mühasib)»",
     "İnsan resursları: bölmələr arasında keçidlər seçilmiş işçilərlə açılır (Sənədlər — bir neçə işçi üçün ZIP, Əməliyyatlar E-1/E-4/E-5/E-11), Kalkulyatordakı xəstəlik müavinəti Əməkhaqqı cədvəlinə düşür, «Maaşı görmə» icazəsi Tabel, Reyestrlər, Tutuşdurma, Sənədlər və Məzuniyyətdə də işləyir",
-    "Yerli Aİ (Tənzimləmələr › Yerli Aİ): məktubun xülasəsi və cavab qaralaması, Excel sütunlarının avtomatik tanınması, Elektron qaimələrə adi dildə sual, kağız sənəddən rekvizitlər — hamısı bu kompüterdə, məlumat kompüterdən çıxmır; model yalnız razılığınızla yüklənir"
+    "Yerli Aİ (Tənzimləmələr › Yerli Aİ): məktubun xülasəsi və cavab qaralaması, Excel sütunlarının avtomatik tanınması, Elektron qaimələrə adi dildə sual, kağız sənəddən rekvizitlər — hamısı bu kompüterdə, məlumat kompüterdən çıxmır; model yalnız razılığınızla yüklənir",
+    "Sənəd şablonları: hər sənəd növü (hesab-faktura, təhvil-təslim aktı, qiymət razılaşdırma protokolu) üçün 12 şablon (9 Müasir, 3 Klassik), rəng seçimi, sənəddə nə görünəcəyi və imzaların yeri Tənzimləmələrdə",
+    "Sənədlər: önizləmə səhifə-səhifə, bu sənəd üçün ayrıca şablon/rəng, çox mal olanda sənəd əvvəl sıxlaşdırılır, sığmırsa ikinci səhifəyə keçir; fayl adı sənədin nömrəsi və alıcının adı ilə; QR standart açıq",
+    "Sənədlər: alıcının direktoru və hüquqi ünvanı vergi ödəyicisinin açıq məlumatından avtomatik, tapılmasa bir dəfə əl ilə yazılır; fəaliyyəti dayandırılmış kontragentə nişan",
+    "Sənədlər: önizləmə və Rekvizitlər pəncərəsi artıq yan menyunun altında qalmır; seçilmiş bank siyahının başında; «Ətraflı» filterdə Kontragent və qaimə növü açılan siyahıdır",
+    "Vergi İcmal: «Son bəyannamələr» kartı tam doldurulur; brauzer panelindəki PLS ikonunda nişan və nöqtə yoxdur; ASAN İmza: «Yeni hesab» bölmə tabı"
   ]
 }
