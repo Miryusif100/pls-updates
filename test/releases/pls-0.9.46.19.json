@@ -1,0 +1,18 @@
+{
+  "version": "0.9.46.19",
+  "file": "test/releases/pls-0.9.46.19.zip",
+  "sha256": "90809088b8409985a0813159f7d38fbc8285621b40f48c0f2667adf2dae715dc",
+  "signature": "zzBZFyxmrJPSEtJhQF96yx07mh50SJQAWc0laOZucUQX7HHXwBoql6IMrdbqUUHTsJl1tIBsjD4Vy3pjEfUe5kvr3MROoyggHb5opyJaJpoI7HxvyMiiVTN1nSynbdJwGo8M5zd2dzh8sF7f2Iy+jvUUVyfIIAJGMLlLOq1Axvdh2FbvKh3MqBON1OxaVHvEQ4Crxs+OQrf28OJmxc516adhmIalLedgo9YzwNOH5WgwtTMbymuocTeENuE1R+384Vn8BJzddZ2kcB56FUmIjtfjlZSa4dsd15PeR+XW9V9h6zdF2mPdmlhzGCoZCL9XfVPCIty2aQGjjyMfk4a+LvHQ7btIqgZHtUXwq4hAuIIvRn2Qbkown8PTOjeHJ/SIfKLcANFixfcPsIW1xukFTY6RFLBpVqOaY7NPIALYLl1/tgqL3VsNvNiXXt+7XXbXGm0brbqiOt0XkNXCVmrJlU6uPiA/EX61UVNJzX7ny40fD1ZXH8CN/A9Zmb1daC3p",
+  "size": 8035163,
+  "released": "2026-10-29T09:39:42Z",
+  "notes": [
+    "PLS 0.9.46.19 test qurğusu",
+    "e-taxes sessiyası həmişə yenilənir: bildiriş, ikonda nöqtə, Sessiya jurnalı",
+    "ASAN: kodun vaxtı bitdi ekranı, favorit ulduz hər yerdə",
+    "Sənədlər: Ətraflı filter, məbləğ sütunları, AA üçün üç sənəd, Bölgü, önizləmədə böyütmə",
+    "Sənəd üslubları (Klassik/Müasir), altlıq və səhifə nömrəsi, QR qaimənin PDF-indən, Öz Word şablonum",
+    "Mallarım: seçim zolağı, silmə/yaratma axını, Yoxla, mal kodu siyahısı, Excel düymələri",
+    "Portaldan yüklə 4 vəziyyət, yığılmış menyu genişlənmir, Bütün modullar silindi",
+    "Kontragentlər KPI və akkordeon, Elektron qaimələrdə Əlaqə sütunu, Obyektlərdə tarix sütunları"
+  ]
+}
