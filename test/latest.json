@@ -1,10 +1,10 @@
 {
-  "version": "0.9.46.27",
-  "file": "test/releases/pls-0.9.46.27.zip",
-  "sha256": "b8bbf596ca04621c908e13a9d49356de256461713f1391658297d343aba34bef",
-  "signature": "JG7aiB+bi27hgN9pYDpTgx3Z4aUnIc8EhupTFVh39iaBKluAupLbW8wq6V+0iW1YGNCXAF1iDK1+LJyhPx/L7TB4RZv3yL3XID5+YXTymxf76ZqvM6HQxTlmdSlvMbiKt7FooN3MAplTd84SGxm0JNSHj3cWBkQvcupkGp4p7/R+U8i+WQA1MShP/72fiRlJEmOTl0JJXPD7I8cpG4A+pW36gz2mRxpUojWXhnDWxLe5BrWnaPL0WNvAvg8C1qq+Puc7vwFffFsQ+ZEcLYTnyr3F0eNAufB0SJusOxiG/KWQE2VUChcANdQOGnrt80wQNmADBP0iM3uSsyjMR0qGU8YjgmmMK/cScxE0NgYBD2Ok72wlDKGq53eI1WNFLhtdeSZgF3HQ82DmQn7uGqGuz6TqKaJeYJzphH4JXhA8iSsImmuD9IIV/VmTkQV68XupD5yLjibeHUQAYFVbB03uF8IwvDGNmx+CNdiJen9kS6JU45wV6G0VnHfaNat98qV/",
-  "size": 8110713,
-  "released": "2026-10-29T17:30:55Z",
+  "version": "0.9.46.28",
+  "file": "test/releases/pls-0.9.46.28.zip",
+  "sha256": "504a2e82f9a528e4b479864249390dd553081f2467e7c3acdd568e5afcd38e7b",
+  "signature": "x0qsyMhlf3oLnFT/tZv3XpESh77DWw66lmpcXgFSoTr+25b/D+0J+UE0Vx3Vd8KjFNT6P2WB2nf0tgBfcUEPWDie1BLrdWKHpnjc2yPI0zsRfn9ZtEt4XUljvkm2SGiYd3JVkOsFssSl1k/dnFQW25aOIHyo2uK4ue+x0yIOd/47MuwQ25rhhM8pWg8B4N5O+liqmn0rgqxrBwayWbdYMqnRWK6GBP2f/U1/7DCinwvDi4LiCQ5jay8ekVZVPsd47yUBttmL87F74o5NBlPu1JTbywDSC+1YY8979CD5hnZ/o8xwu7ARbrbVaj/2j5yLhMB5asm80gAQitr49VXnXF1Q/6UwzoCGpXDa9XBIvGOZQEqD2IrEZ/8l7OV7bKdrzlw2ZplsgO7EbzbFi9K2UwowqkgWKfi5nXnTe6vsug8Bd+4wBKeOR7qXmHZY+UvO2Gle/afvDWSTaHeqtF2cI/xHgGCxoM+keEN4uYmqh9vxGbpu1I3s/hKjSCgQlBMT",
+  "size": 8117989,
+  "released": "2026-10-29T19:24:15Z",
   "notes": [
     "Vergi İcmal: yeni «Dövriyyə hədləri» kartı — Sadələşdirilmiş vergi həddi və ƏDV qeydiyyatı həddi alt-alta; hər ay üçün bəyannamə (801/802/803), NKA (nağd, nağdsız) və e-qaimələr yoxlanılır, fərq göstərilir; dövriyyənin tərkibi dairəvi chartda, istənilən 12 aylıq dövr seçilir, həddin keçildiyi ay bildirilir; nağdsız ödəmə yalnız kassadan, sadələşdirilmiş vergidə 0,5 əmsalla",
     "Məcəllə keçidləri birbaşa həmin maddəni açır və vurğulayır (ilk dəfə Chrome e-qanun.az üçün icazə soruşur)",
@@ -472,6 +472,10 @@
     "Sənədlər: önizləmə səhifə-səhifə, bu sənəd üçün ayrıca şablon/rəng, çox mal olanda sənəd əvvəl sıxlaşdırılır, sığmırsa ikinci səhifəyə keçir; fayl adı sənədin nömrəsi və alıcının adı ilə; QR standart açıq",
     "Sənədlər: alıcının direktoru və hüquqi ünvanı vergi ödəyicisinin açıq məlumatından avtomatik, tapılmasa bir dəfə əl ilə yazılır; fəaliyyəti dayandırılmış kontragentə nişan",
     "Sənədlər: önizləmə və Rekvizitlər pəncərəsi artıq yan menyunun altında qalmır; seçilmiş bank siyahının başında; «Ətraflı» filterdə Kontragent və qaimə növü açılan siyahıdır",
-    "Vergi İcmal: «Son bəyannamələr» kartı tam doldurulur; brauzer panelindəki PLS ikonunda nişan və nöqtə yoxdur; ASAN İmza: «Yeni hesab» bölmə tabı"
+    "Vergi İcmal: «Son bəyannamələr» kartı tam doldurulur; brauzer panelindəki PLS ikonunda nişan və nöqtə yoxdur; ASAN İmza: «Yeni hesab» bölmə tabı",
+    "Dövriyyə hədləri: kassa (NKA) və e-qaimə məbləğləri ayrı göstərilir, blok qaimə statistikasının altındadır",
+    "Sənədlər: «Qiymət razılaşdırma protokolu» yeni rəngdə (bordo); «Hazırla» basanda seçimlər pəncərəsi (növ, şablon, rəng, format, yükləmə quruluşu); önizləmədə geniş rəng palitrası və «Öz rəngim»",
+    "Excel və PDF: seçilmiş sətirlər və ya filterə uyğun hamısı yüklənir, faylın başında tətbiq olunmuş filter yazılır",
+    "Elektron qaimələr və əməliyyat siyahıları: tez filterlər Filter pəncərəsinin içindədir"
   ]
 }
