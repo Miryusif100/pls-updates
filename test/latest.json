@@ -1,10 +1,10 @@
 {
-  "version": "0.9.46.17",
-  "file": "test/releases/pls-0.9.46.17.zip",
-  "sha256": "6e6dd3e3a6427702dd736f7783547f50e37569f32b4f0bd1662097aa35c94597",
-  "signature": "RXlW8R9TZGp5mY1H1k3NQoOAxXh5VgTnkgA/hh/AgOpIIhm1vclE5kRbCbNRpaXKohmUyAwmv3EoEdMhb3sSPJNKbVSORQxbMalSd8gnpMYpUn2tCvHfybVo3HfwSut+s1t2akxhC+vGxT5yk1nvIClQZxcOAQexssorHLvHOX+l6BTvoeSl6VI3wKtK/vhUVC+h4yYKVVcZuD/4XS+TiQfPU8iSTLIVeV9B8N5Gw/qflT8GT1eeVc0/8wfRZoPiFdeSl6tCs6OvHwSs0d5AA04Koduuh2e6m2pz6/ebiK3YmlgZYqSYQDWrrdgtlJWYVHLm+XyNyalEv7MTDagARDAlIWmMwvgD/zC/apjDyLCsTNH0oIY3eAP4TCpOle0dAs9QzGGYijp0wzkQsuuKIz/AHtqTJAgnDVfoKo7BMipoXigMQ+afIaZc93i+9Do5kYkltSxDPczU+ojB3xcDE/48w10mg82guoBpMr92J5jVKgJLNGQ+EopEW7uhJJ63",
-  "size": 7833427,
-  "released": "2026-10-29T05:20:40Z",
+  "version": "0.9.46.18",
+  "file": "test/releases/pls-0.9.46.18.zip",
+  "sha256": "cebaaa6bcc31dda748f2d7ff149c3dff9ef31d4e59cddee6f537355b3effc26a",
+  "signature": "xCg3BJJ93wKLuSWNXH4qsnbUwFh+vKMt8cg/TEHnYXGdUrixGBHddsWOs29mp7fBSiJonolAdPpVyIdlCXetfAQxdmJqqeOuAFFPLpkpNFVK2NzykYWPw7VxqKHz+At95VbXnlmi+a33ET/iJHbvDd1eme0BxIk/zV9dfPIZH6Hb3WQ1mKaEMdFNV8dndeNKhc6X6zd7ZGHkrp4BZrUSCm9CKV1U9z+HW6b5R+90rhc9UG4vHyu/p83IagxLs1765jFgafUjYhFyK+DMKtbOqWfGkE3uRjElw7tIYujLutp/30FrUlGBWP3oQ/aACU1hmS3BCf6CbaffIkuSmR0Gxgm8h0IWZ29UoYBeK212JSYeLnqgzzu/H0iqQ00nCJwqLTCCOz9T8CG97OOkYzJ/9aLSAZ3Ax7lTS5ztu/DC7fdHmQLIEj77xB9cbDHU89V8zEsegb9DRngK/aEVvk5spWf3/FsZfbNgyVPCMeFxODUh4xz7OLKDoVgyuNJ54Qxr",
+  "size": 7858295,
+  "released": "2026-10-29T05:38:48Z",
   "notes": [
     "ƏDV qeydiyyatı həddi: son 24 ayın hər 12 aylıq dövrü yoxlanılır (həddin keçildiyi ay göstərilir); dövriyyə vergi orqanının bazasından (e-qaimə, ixrac, onlayn kassa — sadələşdirilmiş bəyannamənin 801–804 sətirləri) götürülür, POS nağdsız satış 0,5 əmsalla",
     "Filterlər bütün siyahılarda yeni görünüşdə: seçilənlərin sayı və «×» ilə bir toxunuşla təmizləmə; Kontragent siyahısında ad tam və altında VÖEN, ada və VÖEN-ə görə axtarış",
