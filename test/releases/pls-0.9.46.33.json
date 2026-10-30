@@ -1,10 +1,10 @@
 {
-  "version": "0.9.46.28",
-  "file": "test/releases/pls-0.9.46.28.zip",
-  "sha256": "504a2e82f9a528e4b479864249390dd553081f2467e7c3acdd568e5afcd38e7b",
-  "signature": "x0qsyMhlf3oLnFT/tZv3XpESh77DWw66lmpcXgFSoTr+25b/D+0J+UE0Vx3Vd8KjFNT6P2WB2nf0tgBfcUEPWDie1BLrdWKHpnjc2yPI0zsRfn9ZtEt4XUljvkm2SGiYd3JVkOsFssSl1k/dnFQW25aOIHyo2uK4ue+x0yIOd/47MuwQ25rhhM8pWg8B4N5O+liqmn0rgqxrBwayWbdYMqnRWK6GBP2f/U1/7DCinwvDi4LiCQ5jay8ekVZVPsd47yUBttmL87F74o5NBlPu1JTbywDSC+1YY8979CD5hnZ/o8xwu7ARbrbVaj/2j5yLhMB5asm80gAQitr49VXnXF1Q/6UwzoCGpXDa9XBIvGOZQEqD2IrEZ/8l7OV7bKdrzlw2ZplsgO7EbzbFi9K2UwowqkgWKfi5nXnTe6vsug8Bd+4wBKeOR7qXmHZY+UvO2Gle/afvDWSTaHeqtF2cI/xHgGCxoM+keEN4uYmqh9vxGbpu1I3s/hKjSCgQlBMT",
-  "size": 8117989,
-  "released": "2026-10-29T19:24:15Z",
+  "version": "0.9.46.33",
+  "file": "test/releases/pls-0.9.46.33.zip",
+  "sha256": "f4590f6d79d835fad07d8a6a19de35d8100b7b7352bf7e7e9d8bc5af132162f6",
+  "signature": "S89celcmC7F7XPM4O9u5jZbUIvDe5bp9Aci1LLGsM4B67oZBZQekY2XPcxlqYzhMLZX3R+DljIhvMBYa0zJsPt4oY8RdzkGyFI6kDK5LtMQQ6hMC2+ZyD1M4MMXT1+8Fyim/pIlV417FRziSZiSbH/pv13S5W/X9m8C1P4+cgUUG63p6IlfbZSCbSrif0MsEAyz8tayMLvEC2opPuXy0KGXTBN/OiRu8mbuotYpA5SYda30bZKZDC6AHGrF/OChnddMTelQBT6ObqcPpix8E/bTGDiyyeYttPaYU1SnSa3M4t01BSCpixvrvUCwohiGBblzgHwXv6WQCjcACEVzVL1hTDqQfLfA6xzQACw+VM1zlfr/xp9cikM8enOgTIodZC+lx037l4sxBoi24je/o0NfK1EdQLV+dVa0tZ6P1GyK8DKwEh2PcxvWZh6q8CPNoN9FRyVKur/+a9p7rZRDjUgLxcIYhT9IhFP+m9xlx/ZtsjK1BR3BsolToJXCtH7JZ",
+  "size": 8162229,
+  "released": "2026-10-30T12:30:55Z",
   "notes": [
     "Vergi İcmal: yeni «Dövriyyə hədləri» kartı — Sadələşdirilmiş vergi həddi və ƏDV qeydiyyatı həddi alt-alta; hər ay üçün bəyannamə (801/802/803), NKA (nağd, nağdsız) və e-qaimələr yoxlanılır, fərq göstərilir; dövriyyənin tərkibi dairəvi chartda, istənilən 12 aylıq dövr seçilir, həddin keçildiyi ay bildirilir; nağdsız ödəmə yalnız kassadan, sadələşdirilmiş vergidə 0,5 əmsalla",
     "Məcəllə keçidləri birbaşa həmin maddəni açır və vurğulayır (ilk dəfə Chrome e-qanun.az üçün icazə soruşur)",
@@ -476,6 +476,9 @@
     "Dövriyyə hədləri: kassa (NKA) və e-qaimə məbləğləri ayrı göstərilir, blok qaimə statistikasının altındadır",
     "Sənədlər: «Qiymət razılaşdırma protokolu» yeni rəngdə (bordo); «Hazırla» basanda seçimlər pəncərəsi (növ, şablon, rəng, format, yükləmə quruluşu); önizləmədə geniş rəng palitrası və «Öz rəngim»",
     "Excel və PDF: seçilmiş sətirlər və ya filterə uyğun hamısı yüklənir, faylın başında tətbiq olunmuş filter yazılır",
-    "Elektron qaimələr və əməliyyat siyahıları: tez filterlər Filter pəncərəsinin içindədir"
+    "Elektron qaimələr və əməliyyat siyahıları: tez filterlər Filter pəncərəsinin içindədir",
+    "Sənədlər: önizləmədə sənədlər pozulmur, PDF ilə eyni görünür; çox səhifəli sənəddə «Səhifə N / M» keçidi; «Hazırla» pəncərəsi sadələşdi",
+    "PDF yüklə: səhifənin şəkli yox, əsas siyahının cədvəli (filter, seçilmiş sətirlər, avtomatik istiqamət); Kontragentlərdə dövr seçimi Excel düyməsinin yanında",
+    "Yeni: Əməliyyatlar › «VM 177.5 (ST)» — VM-in 177.5-ci maddəsinə əsasən təqdim etmə qaimələri toplu: göndərilmiş MT-lərdən seçim və ya Excel; hər MT üçün ayrıca qaralama, ƏDV tarifi (18% / 0% / azad / cəlb edilməyən) seçilir; Elektron qaimələrdə işarələnmiş MT-lərdən birbaşa keçid"
   ]
 }
