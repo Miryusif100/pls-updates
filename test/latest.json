@@ -1,10 +1,10 @@
 {
-  "version": "0.9.46.31",
-  "file": "test/releases/pls-0.9.46.31.zip",
-  "sha256": "6bba4d14cf8f509a7449df1fe6a22f6f11f5915f2b09f93f9a64af327737f69a",
-  "signature": "e1OSW6MZ1Eyp+VCRydo42TTDqu1UoU/VSkSYFX9Dc4c8RgTqM249/L9bxFYEjE3Kt2izSj/aDvAJkyhU1+eaVh/xfCQJvEpTo5RRWxyRJOyUUki2OY0Izil64v5Uc64wYy+kWuofAvHxfBBzhiJGExI11p+v9TXlDq3cGFDlv4cWtpYiPOJP8KHerXe5jrr48GEA6AlWRtGs0byfWdhbxreyrTTAoF5XRY3Zw59Q1rQvWW6fS9sxKgyc1Ev0Y6GMtY3652mUQl27GUadXEYZcltmPSQMNzgTRHoNlDqB24Z0eXNzvQMKnQL3/VLELFhZ2QIOKayN2QXrUcAbYO5dqU9oclDsTqL4yn/UDevn3mqSNAyJb9CYAa7xgw9kZvoFRdIe9V+Sox7D0DobtWcEd9ziR0vM1kmci/eHNvGjjiCoUskoCTAPVhQd8OCHK8ZrjgmrHevZilTugrk0vKlutG55h3Nx4C/D7LXIThLFq/H+NkdJk+vyDq159X2hF/XE",
-  "size": 8162246,
-  "released": "2026-10-30T09:10:10Z",
+  "version": "0.9.46.32",
+  "file": "test/releases/pls-0.9.46.32.zip",
+  "sha256": "02aab269631a77313cfa316dc64d05d3ee0c06e3881e170c8a16a47db075491c",
+  "signature": "Xj5ColRQKAnfbiUlD8h7nSy6WLbVFxPEws6UbeegwZcSqk6/0tUjAquK6dHiNWCWMgTee6ALeP7JHgvYPeyFHXFahn1bvA5mwtzQN13uPrIjlWPpfSghrsH3+IBqIk9RpTeoivincjb5wFdBed0KnoWL3BKXqhzBGil87m7uhJXYEJrE2QCNSIQuSmD2r9ACXXnGtSzwPH29OL3oR+PhppZ3tfGkPp48LusB7/WQut6LPfnTRCsZFA0ljxejgJwedSmu4pOzouZaT3qc2HbfMfTP6iSNeYyy2I2gTVy4yhTqv4gHuy+k/jndAw5R8kcIR9eUtBwtUw2Y2FM28lGmMnXv9kNgHHkkpp0bpKxpeuN1JzBFrHLzRpyImkIgNluPeHps7YcElJzY5BQXyawl94617WApitqgCrS62O92mqHvMe4KMU5TobK00E2oCFRnHuAnmkozki+c7fyE2eXAy2F8EeITI1jdfSnm2ea1UOnARRRrvc12mnCdOy6O0cwU",
+  "size": 8162247,
+  "released": "2026-10-30T11:34:21Z",
   "notes": [
     "Vergi İcmal: yeni «Dövriyyə hədləri» kartı — Sadələşdirilmiş vergi həddi və ƏDV qeydiyyatı həddi alt-alta; hər ay üçün bəyannamə (801/802/803), NKA (nağd, nağdsız) və e-qaimələr yoxlanılır, fərq göstərilir; dövriyyənin tərkibi dairəvi chartda, istənilən 12 aylıq dövr seçilir, həddin keçildiyi ay bildirilir; nağdsız ödəmə yalnız kassadan, sadələşdirilmiş vergidə 0,5 əmsalla",
     "Məcəllə keçidləri birbaşa həmin maddəni açır və vurğulayır (ilk dəfə Chrome e-qanun.az üçün icazə soruşur)",
