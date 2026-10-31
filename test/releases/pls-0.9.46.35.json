@@ -1,0 +1,15 @@
+{
+  "version": "0.9.46.35",
+  "file": "test/releases/pls-0.9.46.35.zip",
+  "sha256": "ce3db8c7bb50649135c8eaee3c5b1fe2681356b91cf9f5b1dac4cc3a521ede72",
+  "signature": "LOwUcToFJDg7WqzqrFA8947o3Nmwc+zdQhAAuQO8YG0NI7qIz+UknhHfBf7r1G2ipTEZPOEDD+hO1flhkJdIgS4rhiWWtIXXsuwAD82DiqeGOXE6QQBOTRRPEuIsoM35fcEwCY5tbM+bMIziMsFpmxS5I4tHmMhOac6nSflrfMvZZOuSb0s5SKQdOTKWuAyxLykHxyZuAvmtI973BFcWy9KUpTd2U5ONjkJECXLLkuz7MYItLGmkjnSqy/EyFn8VSGeDey/+NhILV+hIZxdC/qCd2mcnKMvWW1wdMAQJxMV7c+1+W/SMWCykxSNdtnII8B5A+/W16jh+d1JhOCy61vOxrwy2YJsEiT/cPTVBeMKin/MAXgaZrGTR6XcWvWicvNIeWMIIX3yE6ah822u42cbzoh+kg5SB4L+Fc7NkmB65gPIVNciQB2wSoOTqlrvVVo25zoyVaw9eVnGDTuIGkSDiz0NtTFHA4l/8RaKAfT/u/T5sZuYcWLvZiqPyPtEQ",
+  "size": 8184222,
+  "released": "2026-10-31T19:43:35Z",
+  "notes": [
+    "PLS 0.9.46.35 test qurğusu",
+    "Avans qalığı portaldan: bağlanmış avans 100% (Bağlanıb), siyahıda «Əlaqəli» — halqa və faiz, açılmış avansın MT-lərində pay",
+    "«Əlaqələr» paneli və qaimə pəncərəsində «Bağlı qaimələr» tabı: ağac, ƏDV-siz/ƏDV/Yekun, Mal və xidmətlər, yol xətti ← →, PDF və Excel",
+    "«Mal və xidmətlər» böyük pəncərəsi: qaimələr üzrə bloklar, qalıq, hərəkət tarixçəsi (dövr üzrə də)",
+    "«Passiv edildi»; bağlılarda axtarış; qiymət uyğunsuzluğu ⚠; Kontragent kartında «Bağlı qaimələr»; Əməliyyatlara «Qalıqdan MT yarat» / «MQ yarat»; ASAN İcmal başlığı"
+  ]
+}
