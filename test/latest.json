@@ -1,15 +1,11 @@
 {
-  "version": "0.9.46.35",
-  "file": "test/releases/pls-0.9.46.35.zip",
-  "sha256": "ce3db8c7bb50649135c8eaee3c5b1fe2681356b91cf9f5b1dac4cc3a521ede72",
-  "signature": "LOwUcToFJDg7WqzqrFA8947o3Nmwc+zdQhAAuQO8YG0NI7qIz+UknhHfBf7r1G2ipTEZPOEDD+hO1flhkJdIgS4rhiWWtIXXsuwAD82DiqeGOXE6QQBOTRRPEuIsoM35fcEwCY5tbM+bMIziMsFpmxS5I4tHmMhOac6nSflrfMvZZOuSb0s5SKQdOTKWuAyxLykHxyZuAvmtI973BFcWy9KUpTd2U5ONjkJECXLLkuz7MYItLGmkjnSqy/EyFn8VSGeDey/+NhILV+hIZxdC/qCd2mcnKMvWW1wdMAQJxMV7c+1+W/SMWCykxSNdtnII8B5A+/W16jh+d1JhOCy61vOxrwy2YJsEiT/cPTVBeMKin/MAXgaZrGTR6XcWvWicvNIeWMIIX3yE6ah822u42cbzoh+kg5SB4L+Fc7NkmB65gPIVNciQB2wSoOTqlrvVVo25zoyVaw9eVnGDTuIGkSDiz0NtTFHA4l/8RaKAfT/u/T5sZuYcWLvZiqPyPtEQ",
-  "size": 8184222,
-  "released": "2026-10-31T19:43:35Z",
+  "version": "0.9.46.36",
+  "file": "test/releases/pls-0.9.46.36.zip",
+  "sha256": "ab5d54a28515d0a544955b24103d9482a6b77f3e75fd2b2200fa6fdb76b9f184",
+  "signature": "GkRQt0KTF2fSkV8Y7ONUtSJ4SVYvZswtJPPci+yrsioet1/NrS8Gltv25u/ylEDIun16b0nsAoONNjlYJ2SS7witHD3pli42AaOJ1mnJGKm8sMqFM2IX3v+U9mVV8brOdNlsIQ+CEmH24qLFbiPHbAHG/xor2yXqleSa1iT/LW414eVCypFeakktCcSc9+8HokxvrWby6/n7ohgv1L9ZM8r1fEmF3NhcASrwuM9EXY+wzuADzyu32xsnXmI8bShzQ3Urh42lzJ3ck6TVRhZBdUGEHcfH98yx8eDx+djj5GoFrR3iQCqrUyUjccGE33i0DjZFglOP6R3aaGMTLtPz6u9GOEL1GcoNs02c+HH+2ihNm9ReHLLgte3iKSw7gBxbhFsrwWqLKGXv3FibgVQ8gC77iFA7wq/SHP6EQ8q5OeQ35iLYnTauk4Ob/dx7z6Kc0bjoaPhVIaX4uQRRSdoKUksiOfAWwnf6hFi3mcxERN39mtQV1BVDvAWrEJxUM/GV",
+  "size": 8197346,
+  "released": "2026-11-03T05:24:16Z",
   "notes": [
-    "PLS 0.9.46.35 test qurğusu",
-    "Avans qalığı portaldan: bağlanmış avans 100% (Bağlanıb), siyahıda «Əlaqəli» — halqa və faiz, açılmış avansın MT-lərində pay",
-    "«Əlaqələr» paneli və qaimə pəncərəsində «Bağlı qaimələr» tabı: ağac, ƏDV-siz/ƏDV/Yekun, Mal və xidmətlər, yol xətti ← →, PDF və Excel",
-    "«Mal və xidmətlər» böyük pəncərəsi: qaimələr üzrə bloklar, qalıq, hərəkət tarixçəsi (dövr üzrə də)",
-    "«Passiv edildi»; bağlılarda axtarış; qiymət uyğunsuzluğu ⚠; Kontragent kartında «Bağlı qaimələr»; Əməliyyatlara «Qalıqdan MT yarat» / «MQ yarat»; ASAN İcmal başlığı"
+    "Test 0.9.46.36 — 0111 paketi"
   ]
 }

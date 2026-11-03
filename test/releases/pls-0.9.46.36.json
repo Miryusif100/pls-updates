@@ -1,0 +1,11 @@
+{
+  "version": "0.9.46.36",
+  "file": "test/releases/pls-0.9.46.36.zip",
+  "sha256": "ab5d54a28515d0a544955b24103d9482a6b77f3e75fd2b2200fa6fdb76b9f184",
+  "signature": "GkRQt0KTF2fSkV8Y7ONUtSJ4SVYvZswtJPPci+yrsioet1/NrS8Gltv25u/ylEDIun16b0nsAoONNjlYJ2SS7witHD3pli42AaOJ1mnJGKm8sMqFM2IX3v+U9mVV8brOdNlsIQ+CEmH24qLFbiPHbAHG/xor2yXqleSa1iT/LW414eVCypFeakktCcSc9+8HokxvrWby6/n7ohgv1L9ZM8r1fEmF3NhcASrwuM9EXY+wzuADzyu32xsnXmI8bShzQ3Urh42lzJ3ck6TVRhZBdUGEHcfH98yx8eDx+djj5GoFrR3iQCqrUyUjccGE33i0DjZFglOP6R3aaGMTLtPz6u9GOEL1GcoNs02c+HH+2ihNm9ReHLLgte3iKSw7gBxbhFsrwWqLKGXv3FibgVQ8gC77iFA7wq/SHP6EQ8q5OeQ35iLYnTauk4Ob/dx7z6Kc0bjoaPhVIaX4uQRRSdoKUksiOfAWwnf6hFi3mcxERN39mtQV1BVDvAWrEJxUM/GV",
+  "size": 8197346,
+  "released": "2026-11-03T05:24:16Z",
+  "notes": [
+    "Test 0.9.46.36 — 0111 paketi"
+  ]
+}
