@@ -1,11 +1,14 @@
 {
-  "version": "0.9.46.33",
-  "file": "test/releases/pls-0.9.46.33.zip",
-  "sha256": "f4590f6d79d835fad07d8a6a19de35d8100b7b7352bf7e7e9d8bc5af132162f6",
-  "signature": "S89celcmC7F7XPM4O9u5jZbUIvDe5bp9Aci1LLGsM4B67oZBZQekY2XPcxlqYzhMLZX3R+DljIhvMBYa0zJsPt4oY8RdzkGyFI6kDK5LtMQQ6hMC2+ZyD1M4MMXT1+8Fyim/pIlV417FRziSZiSbH/pv13S5W/X9m8C1P4+cgUUG63p6IlfbZSCbSrif0MsEAyz8tayMLvEC2opPuXy0KGXTBN/OiRu8mbuotYpA5SYda30bZKZDC6AHGrF/OChnddMTelQBT6ObqcPpix8E/bTGDiyyeYttPaYU1SnSa3M4t01BSCpixvrvUCwohiGBblzgHwXv6WQCjcACEVzVL1hTDqQfLfA6xzQACw+VM1zlfr/xp9cikM8enOgTIodZC+lx037l4sxBoi24je/o0NfK1EdQLV+dVa0tZ6P1GyK8DKwEh2PcxvWZh6q8CPNoN9FRyVKur/+a9p7rZRDjUgLxcIYhT9IhFP+m9xlx/ZtsjK1BR3BsolToJXCtH7JZ",
-  "size": 8162229,
-  "released": "2026-10-30T12:30:55Z",
+  "version": "0.9.46.38",
+  "file": "test/releases/pls-0.9.46.38.zip",
+  "sha256": "aab2cb23fe48d5d8b5eb31aa75f86b6f023af8858b7bef7dee697c46cede00ec",
+  "signature": "UGZTLgiBkJfugzWPfXM+tuc4K7Zo1a8clmfbDMGAXw4jGY2ZMVQppfp2Zd+LcHChJyY/hwvgGJOiKIJXyu46JOgRCblDtWC3truBupDF50BuTeqSBhwQIC92eJYtL4j3eMPvHo7IsK2vZb2sClYCVUmqpMY9QFuyoxuOUuHMDTK9hIxSr73ndQl/vzY4nZtFl6VcLmfId+cBZAght8Sz32K+LW7+gqycia9JHaxbfFYOYdxrZP/LI1vIVpMYg6+Zou7WLTkk9KRUOwjArvfBLzILcLGJKnDXUBu7VnrMueMjSnhb62CEQ6Bjw8WGbo6LYJfsBSJnR5+DFMNdn2Ejc/cgkiS4s0Tfo9/SCP/e88YyctIxD8fNesyB/rw2eTUupLAXSBF3h74UjYL3CLVUAXUfpau4IXMvLeZdwzlThw192MiWHThLBAg8eEaSmX6hcnpk2zpGluJnvuaGvks5q7tGYtn3tAB+H8v/lmkAsgwOowfRfvoraHOIgptvhU89",
+  "size": 8289185,
+  "released": "2026-11-03T07:54:48Z",
   "notes": [
+    "Əməliyyatlar (E-qaimə fakturalar) yeni dizaynda: bütün bölmələr — Toplu qaimə, Avansa bağlı MT, Qaytarma (MQ), VM 177.5 (ST), Avans qaiməsi (AA), Alış aktı, Təkrarlanan qaimələr, Mallarım, Kodlar — eyni görünüşdə: ikonlu tablar (adı üzərinə gələndə açılır), addımlar sırası, Excel düymələri, vahid bildirişlər, aşağıda iş zolağı",
+    "Toplu qaimə: «Nümunə məlumatla» Excel şablonu, cədvəldə geri al (Ctrl+Z), axtarış (Ctrl+F), sətir menyusu (ayrı qaimə et / birləşdir), sütun eni, böyük pəncərə, xətalı sətirlərin Excel-ə ixracı, paket limiti və «Yadda saxlanıldı» vaxtı; qısayollar: Ctrl+Enter — Yoxla, Ctrl+Shift+Enter — Portala göndər, Ctrl+D — Paketi endir, «?» — siyahı",
+    "e-taxes sessiyası yoxdursa və ya bitibsə portala yazan heç bir əməliyyat başlamır — düymə kilidli görünür, basanda xəbərdarlıq və «Daxil ol» (bütün əməliyyatlar, bəyannamə qaralamaları, depozit, e-Sosial)",
     "Vergi İcmal: yeni «Dövriyyə hədləri» kartı — Sadələşdirilmiş vergi həddi və ƏDV qeydiyyatı həddi alt-alta; hər ay üçün bəyannamə (801/802/803), NKA (nağd, nağdsız) və e-qaimələr yoxlanılır, fərq göstərilir; dövriyyənin tərkibi dairəvi chartda, istənilən 12 aylıq dövr seçilir, həddin keçildiyi ay bildirilir; nağdsız ödəmə yalnız kassadan, sadələşdirilmiş vergidə 0,5 əmsalla",
     "Məcəllə keçidləri birbaşa həmin maddəni açır və vurğulayır (ilk dəfə Chrome e-qanun.az üçün icazə soruşur)",
     "Bəyannamələr: sadələşdirilmiş vergidə dövriyyə 2026 formasına görə 804-cü sətirdən (801–803 — rübün ayları)",
@@ -479,6 +482,12 @@
     "Elektron qaimələr və əməliyyat siyahıları: tez filterlər Filter pəncərəsinin içindədir",
     "Sənədlər: önizləmədə sənədlər pozulmur, PDF ilə eyni görünür; çox səhifəli sənəddə «Səhifə N / M» keçidi; «Hazırla» pəncərəsi sadələşdi",
     "PDF yüklə: səhifənin şəkli yox, əsas siyahının cədvəli (filter, seçilmiş sətirlər, avtomatik istiqamət); Kontragentlərdə dövr seçimi Excel düyməsinin yanında",
-    "Yeni: Əməliyyatlar › «VM 177.5 (ST)» — VM-in 177.5-ci maddəsinə əsasən təqdim etmə qaimələri toplu: göndərilmiş MT-lərdən seçim və ya Excel; hər MT üçün ayrıca qaralama, ƏDV tarifi (18% / 0% / azad / cəlb edilməyən) seçilir; Elektron qaimələrdə işarələnmiş MT-lərdən birbaşa keçid"
+    "Yeni: Əməliyyatlar › «VM 177.5 (ST)» — VM-in 177.5-ci maddəsinə əsasən təqdim etmə qaimələri toplu: göndərilmiş MT-lərdən seçim və ya Excel; hər MT üçün ayrıca qaralama, ƏDV tarifi (18% / 0% / azad / cəlb edilməyən) seçilir; Elektron qaimələrdə işarələnmiş MT-lərdən birbaşa keçid",
+    "Qaimə əlaqələri: avans qaiməsi ağacda həmişə yuxarıda, bağlı MT-lər altında; siyahıda AA sətri ▸ ilə açılır; «Bağlanıb · 100%» barın altında; «Mal və xidmətlər» dairəsi — avansda təhvilə, MT-də qaytarmaya görə; böyük pəncərədə kartlar qaimə növlərinə görə, «Dəyişiklik olanlar» düzəldildi",
+    "Excel faylları MS Excel-də xəbərdarlıqsız açılır (bütün ixraclar ciddi yoxlamadan keçir)",
+    "Vergi İcmal: yeni «Diqqət» kartı — uyğunsuzluqlar, MQ cəmi MT-dən çox olanlar, uzun müddət açıq avanslar; klik siyahını həmin qaimələrlə açır",
+    "Sütunlar: «Seriya və nömrə», «Seriya», «Nömrə» adi sütunlardır; «Avtomatik / Əl ilə» çıxarıldı; «Alt sənədlər» seçimi göy rəngdə",
+    "Klaviatura: siyahıda Enter — qaiməni aç, Boşluq — ▸; Əlaqələr panelində ←/→, M, E, Esc; «?» — kömək kartı",
+    "Bütün «Yeni» düymələri eyni görünüşdə; kiçik ekranlarda düymələr və filterlər aşağı sətrə düşmür; ASAN İcmal başlığı digərləri ilə eyni; Kontragentlərdə «Dövr» axtarışın sağında; Sənədlərdə «Fayl» həmişə «Məktubda»"
   ]
 }
