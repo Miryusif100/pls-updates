@@ -1,10 +1,10 @@
 {
-  "version": "0.9.46.38",
-  "file": "test/releases/pls-0.9.46.38.zip",
-  "sha256": "aab2cb23fe48d5d8b5eb31aa75f86b6f023af8858b7bef7dee697c46cede00ec",
-  "signature": "UGZTLgiBkJfugzWPfXM+tuc4K7Zo1a8clmfbDMGAXw4jGY2ZMVQppfp2Zd+LcHChJyY/hwvgGJOiKIJXyu46JOgRCblDtWC3truBupDF50BuTeqSBhwQIC92eJYtL4j3eMPvHo7IsK2vZb2sClYCVUmqpMY9QFuyoxuOUuHMDTK9hIxSr73ndQl/vzY4nZtFl6VcLmfId+cBZAght8Sz32K+LW7+gqycia9JHaxbfFYOYdxrZP/LI1vIVpMYg6+Zou7WLTkk9KRUOwjArvfBLzILcLGJKnDXUBu7VnrMueMjSnhb62CEQ6Bjw8WGbo6LYJfsBSJnR5+DFMNdn2Ejc/cgkiS4s0Tfo9/SCP/e88YyctIxD8fNesyB/rw2eTUupLAXSBF3h74UjYL3CLVUAXUfpau4IXMvLeZdwzlThw192MiWHThLBAg8eEaSmX6hcnpk2zpGluJnvuaGvks5q7tGYtn3tAB+H8v/lmkAsgwOowfRfvoraHOIgptvhU89",
-  "size": 8289185,
-  "released": "2026-11-03T07:54:48Z",
+  "version": "0.9.46.39",
+  "file": "test/releases/pls-0.9.46.39.zip",
+  "sha256": "870de546d1283784287e777f06bb42beea871447e896e546604454c10010b947",
+  "signature": "iGBXpi9fJFqqpET7VXU8sBQ36q1Xp37J5wQuoY4a9UreX+yHNdDm9bqi3o9F2XiHzs5pKZyaZ/llQnUU3sxXnQrh3MClS7HagiCcYfWhJSM/BK1p2ElGsXk3GBcePcKpp8JhVGaUlFcggkDa3+w7mF8UaXcfPwVCEHPVt1RGbTgoIGWcygwyz1YGoVOBZ0+TfHJbvlBgvVprJvYz8rUClOW1T8ZTOSbKHt8X96eZ3GYqmPQ5W2fy8fIrA5xiTaXnSI5rWmMioDjl5EGAtwPnIfIIeQebRW9AjzPpZCesUfIuUwiJJ+ZbtB4nGtoVW9Z53IFfX9xTz3Dyuh5uCAhv7BASq984Mfn9YTU6w0DVD3uk5XmEwf/8x2w0o9vx9hyKQ2W526lyxQqHmMYAmoO/KrtJUgkc2/fLwvNHzLu3xOaKJwIWCZ6Jp4NuoCKT/yfZ/JvyUmiK798mqYPxW5t9MC5YC1VPCiRmNrFMkbQ5Q7/AtFtIam6ryLSdRQmTr6HS",
+  "size": 8293915,
+  "released": "2026-11-03T10:53:25Z",
   "notes": [
     "Əməliyyatlar (E-qaimə fakturalar) yeni dizaynda: bütün bölmələr — Toplu qaimə, Avansa bağlı MT, Qaytarma (MQ), VM 177.5 (ST), Avans qaiməsi (AA), Alış aktı, Təkrarlanan qaimələr, Mallarım, Kodlar — eyni görünüşdə: ikonlu tablar (adı üzərinə gələndə açılır), addımlar sırası, Excel düymələri, vahid bildirişlər, aşağıda iş zolağı",
     "Toplu qaimə: «Nümunə məlumatla» Excel şablonu, cədvəldə geri al (Ctrl+Z), axtarış (Ctrl+F), sətir menyusu (ayrı qaimə et / birləşdir), sütun eni, böyük pəncərə, xətalı sətirlərin Excel-ə ixracı, paket limiti və «Yadda saxlanıldı» vaxtı; qısayollar: Ctrl+Enter — Yoxla, Ctrl+Shift+Enter — Portala göndər, Ctrl+D — Paketi endir, «?» — siyahı",
@@ -488,6 +488,8 @@
     "Vergi İcmal: yeni «Diqqət» kartı — uyğunsuzluqlar, MQ cəmi MT-dən çox olanlar, uzun müddət açıq avanslar; klik siyahını həmin qaimələrlə açır",
     "Sütunlar: «Seriya və nömrə», «Seriya», «Nömrə» adi sütunlardır; «Avtomatik / Əl ilə» çıxarıldı; «Alt sənədlər» seçimi göy rəngdə",
     "Klaviatura: siyahıda Enter — qaiməni aç, Boşluq — ▸; Əlaqələr panelində ←/→, M, E, Esc; «?» — kömək kartı",
-    "Bütün «Yeni» düymələri eyni görünüşdə; kiçik ekranlarda düymələr və filterlər aşağı sətrə düşmür; ASAN İcmal başlığı digərləri ilə eyni; Kontragentlərdə «Dövr» axtarışın sağında; Sənədlərdə «Fayl» həmişə «Məktubda»"
+    "Bütün «Yeni» düymələri eyni görünüşdə; kiçik ekranlarda düymələr və filterlər aşağı sətrə düşmür; ASAN İcmal başlığı digərləri ilə eyni; Kontragentlərdə «Dövr» axtarışın sağında; Sənədlərdə «Fayl» həmişə «Məktubda»",
+    "Məlumat › Sənədlər: hər VÖEN üzrə düzgün sənədlər (kütləvi məktublar çıxarıldı, fiziki şəxsdə «Fiziki şəxsin şəhadətnaməsi»), «Sonuncu» / «Köhnədir», sənəddə başqa VÖEN olanda xəbərdarlıq, «Toplu endir» (ZIP)",
+    "Məlumat: bütün siyahılarda Excel və PDF düymələri; başlıqdakı Excel hər siyahını ayrı vərəqdə yazır"
   ]
 }
