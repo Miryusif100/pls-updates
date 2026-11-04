@@ -1,0 +1,11 @@
+{
+  "version": "0.9.46.47",
+  "file": "test/releases/pls-0.9.46.47.zip",
+  "sha256": "77f1dc7b83ee7dc67f557b723b3ba6433bd5d2ee159d1861fe95e560a824e010",
+  "signature": "jqQTPMCR8XPNXjvNkIpweikfT45BU6b1PayTOtC3ce6shBhP0TAPuiiCobcjbU7gRxM3hnxKiFAQNZ4NlId097Hh/qaHAv7FSKJn+eAseOQ3+m6y2qAlG+ylSsRI6J2BoRcoOVqPJuMz3c2AdBHYl3VJe77MJ68EQ41VkCHC31UjD+ogjhh0lvNEUjE88LuqSu/qOsrTN2G1qa90NBF2WAeeShF7pQIyxnSKw3PGQ7vcQ7hks9S3MiamiSZn0m2DjzLUNUDk/nqmX/fK/IlB/fNH3OEOjQB/BAJyY1LWds9ktkh3Aeu/+Sbp8+72yGhFl0mXn7plM8U6cSAnNei0PBfPTAQGACUFXARbGSOoCSJy8p7CJhBzYWB4JDvn06NAYvdw79p76MxdsluRBBiX8MoXvHekxzrH9M2r9bV3wrS4GUK0YK1sXNc+uFLiLRgGxacAz1XVkCYKyA4mBEiKWWYPROg/SQ936ZQi6LaNhdFsMlyVJvixF3F0LN9vkKut",
+  "size": 8340424,
+  "released": "2026-11-04T07:06:58Z",
+  "notes": [
+    "Test 0.9.46.47 — Bağlı qaimələr (reading 'children')"
+  ]
+}
