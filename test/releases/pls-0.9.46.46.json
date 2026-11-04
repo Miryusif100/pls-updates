@@ -1,11 +1,12 @@
 {
-  "version": "0.9.46.41",
-  "file": "test/releases/pls-0.9.46.41.zip",
-  "sha256": "019b9580ddbaf2ed432ebff3b78683aa8b5952f2a9d226c80290050576b8d3a6",
-  "signature": "L/GCfPWLl0eURjyO7w5taBeaEJGhvahX9mZujT+HJCFWmfuOwXqDlPMWQAqBLeq4kwu5VoSQud0LUiooXpzGLE07o8r2bJLtZxohvFA2QO7Dd3Q8vYQIGygBt/BLZioemAmwDlou+qtMSpfEMoW0LyYrjUWlI9+ji8IeY5uw8lDZXITZrVj5AzgKUOcB5hVhE27WngKFvoWEhGriVauFIUh51hL87Qg6cEXVymD6u68ool3PVzxFoVIzySDvcyHEd8wd6Ud6cDTy/we/YlLFon9VgFFr5mK/SRW/Om41un8MKNXW9tpypMQmf5tdVYQiDFDyXCep6aHqC0o+lhuBYoBxE9/eaO4Phcdx1wPs0rNvn0sqwYdIp6VmXMePXdALSxwDx2lV9GO1IxvKHUc6ncN3zxXg1bEtKeRpKSi2eViFjGuaGDFD4MTzATG0EkxeW+4gDxMWU94JDv0xibmeXgzWDqgF9ueoefjHdjwF7e6QaUF7E6rwv6tMiMPiOxUS",
-  "size": 8299497,
-  "released": "2026-11-03T13:28:21Z",
+  "version": "0.9.46.46",
+  "file": "test/releases/pls-0.9.46.46.zip",
+  "sha256": "be4478ae512915b25cd04b3b7d95bec62eec4c700b309209341e04bf5d523eef",
+  "signature": "TV3ZSaxcbcMQhsjklC3vtJAa2R/Ws/G22pZO5ckz8Zshv6jD/leeo76AXTf/USOr4DxyVHHOSInuPABw7eC3yqKXLMxHHRejVfO1Fg6lLpZxSb0x3YR9hqEEbowZoZ/w1sZeTv6KuGY8GE2izg0K9ORsSn6YcjVbwNzqSk7YlxoMvNljK0bPyyECaCo7TQpwyUqX7wxw7GSFh9dQuy5ZUOTW1j3TvQH1HxJT8/pMnzLOk+iHYDrXsSoQg1mgqXIlF/BucthQ94eny0PI9FE9Gm/+eSPZwEW/0DrLYqeTYbESaYNAsqzKNhHf72XGnf9AqBFdofi+eXzcEiUVj0O4E5rHvSeDfr4LGm3ZPFhxWu8+dotbx2donb8caL35eUxXfmnV1XtSorShdJVp53aXSNQTNzLHXc3oGI6CL9ON/PKd7YJx7kbviehJTRsocxhp1lRxQ/5KY9q7l+m1Ybq0Leko0XWaDACDkX4sZlQ4B5hq4k5zBxfGzMHDJUKkNXDC",
+  "size": 8340436,
+  "released": "2026-11-04T05:41:24Z",
   "notes": [
+    "Toplu qaimə: portalın vahidlər siyahısında olmayan ölçü vahidi artıq xətadır (portal belə paketi səbəbsiz rədd edirdi) — vahidi siyahıdan seçin; nümunə şablonda vahidlər düzəldildi",
     "ASAN İmza: təsdiq ekranında PIN1 / PIN2 yalnız həmin ASAN «ASAN hesabları» siyahısında olanda göstərilir",
     "Məlumat › Sənədlər: yuxarıda «Sonuncu» / «Hamısı» seçimi (standart — ən sonuncu sənədlər); «Toplu endir» Sənədlər və Obyektlərin sənədləri üçün ayrıca, yeni rəngdə; «Sənəddən oxunan» sütunu çıxarıldı",
     "Obyektin paneli yeni dizaynda (qaimə paneli kimi), PDF / ADOC düymələri rəngli; Mükəlləfiyyətlər və digər siyahılar ekranın sağında kəsilmir",
@@ -494,7 +495,22 @@
     "Sütunlar: «Seriya və nömrə», «Seriya», «Nömrə» adi sütunlardır; «Avtomatik / Əl ilə» çıxarıldı; «Alt sənədlər» seçimi göy rəngdə",
     "Klaviatura: siyahıda Enter — qaiməni aç, Boşluq — ▸; Əlaqələr panelində ←/→, M, E, Esc; «?» — kömək kartı",
     "Bütün «Yeni» düymələri eyni görünüşdə; kiçik ekranlarda düymələr və filterlər aşağı sətrə düşmür; ASAN İcmal başlığı digərləri ilə eyni; Kontragentlərdə «Dövr» axtarışın sağında; Sənədlərdə «Fayl» həmişə «Məktubda»",
+    "Dövr seçicisi: təqvim sütunları hər ekranda düz, sağ sütun kəsilmir; panel düyməni örtmür; əl ilə yazılan səhv/gələcək tarix üçün izah; Esc gedən yükləməni dayandırmır",
+    "Bölmə xəta versə ağ ekran əvəzinə «Bölmə açılmadı — Yenidən yüklə» kartı çıxır, xəta Diaqnostikada görünür; dövr tətbiq olunandan sonra səhifə boş qalmır",
+    "«Bu səhifədə qal» yalnız portala yazan əməliyyat və ya saxlanmamış forma olanda soruşulur; müəssisə dəyişdirilərkən hər yerdə təsdiq istənir",
+    "Elektron qaimələr portalla dəqiq uyğundur: ay sonunun son dəqiqəsindəki qaimələr, eyni anda yaradılmış çoxlu qaimələr, sətirsiz qaimələr itmir; «Məhsul üzrə» ƏDV portalın rəqəmi ilə eynidir",
+    "Rəqəmlər hər yerdə qəpiklə və tam göstərilir (KPI, qrafiklər, kartlar) — qısaltma yoxdur",
+    "Riskli kontragent nişanı qırmızı (keçmişdə riskli — açıq qırmızı), yeni risk kartı və kontragent kartı; aktiv filterlər yalnız düymədə görünür",
+    "Bağlı qaimələr: ▸ ilə açılan sətirlər bütün sütunlarla; eyni avansa bağlı MT-lər alt-alta pilləsiz; avans barında hər MT-yə keçid; təhvil və qalıq üzrə ƏDV-siz/ƏDV/Yekun; tarixçədə cari status",
+    "Sənədlərin tanınması ilişmir; Məlumat siyahılarında sağda boşluq yoxdur; Vergi İcmal kartları ayırıcı xətlərlə; «Məhsul üzrə / Qaimə üzrə» Excel/PDF ilə eyni ölçüdə",
+    "Test rejimində: «Uyğunluq yoxlaması» (portalla tutuşdurma), yükləmə jurnalı, qaralama sınağı (yaradıb silir)",
     "Məlumat › Sənədlər: hər VÖEN üzrə düzgün sənədlər (kütləvi məktublar çıxarıldı, fiziki şəxsdə «Fiziki şəxsin şəhadətnaməsi»), «Sonuncu» / «Köhnədir», sənəddə başqa VÖEN olanda xəbərdarlıq, «Toplu endir» (ZIP)",
-    "Məlumat: bütün siyahılarda Excel və PDF düymələri; başlıqdakı Excel hər siyahını ayrı vərəqdə yazır"
+    "Məlumat: bütün siyahılarda Excel və PDF düymələri; başlıqdakı Excel hər siyahını ayrı vərəqdə yazır",
+    "Elektron qaimələr: böyük siyahılarda portal limitinə düşəndə qaimələr itmir — yükləmə avtomatik yavaşlayır, alınmayan aylar «… alınmadı — Təkrarla» ilə göstərilir",
+    "Aktiv filter düymədə adı ilə görünür («Status: Təsdiqləndi ×», «Kontragent: … ×»), filter siyahını daraldanda üstdə «Filter aktivdir — N qaimə · Sıfırla»; «Qaimələri göstər» həmin kontragentin qaimələrini düzgün istiqamət və dövrlə yükləyir",
+    "Dövr seçicisində iki ay həmişə yan-yana (kiçik ekranda da)",
+    "Sənədlər: önizləmədə seçilən şablon və rəng Hazırla və Çap et-də də işlənir; çap önizləmə ilə eyni görünür; Hazırla pəncərəsində canlı önizləmə; «Bir PDF faylı» seçimi aydın göstərilir; direktor sahəsində mənbə yazısı yoxdur",
+    "Məlumat › Sənədlər: Nizamnamə «Yüklə» ilə yalnız Nizamnamənin özü düzgün adla yüklənir; Toplu endir pəncərəsi yeniləndi (sənəd növləri, format, irəliləyiş)",
+    "PLS həmişə İcmalda açılır, Vergi — Vergi İcmalda; Vergi İcmaldakı «Diqqət» kartı çıxarıldı; cədvəl başlığında «i» düzəni pozmur"
   ]
 }
