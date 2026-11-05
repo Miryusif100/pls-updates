@@ -1,10 +1,10 @@
 {
-  "version": "0.9.46.46",
-  "file": "test/releases/pls-0.9.46.46.zip",
-  "sha256": "be4478ae512915b25cd04b3b7d95bec62eec4c700b309209341e04bf5d523eef",
-  "signature": "TV3ZSaxcbcMQhsjklC3vtJAa2R/Ws/G22pZO5ckz8Zshv6jD/leeo76AXTf/USOr4DxyVHHOSInuPABw7eC3yqKXLMxHHRejVfO1Fg6lLpZxSb0x3YR9hqEEbowZoZ/w1sZeTv6KuGY8GE2izg0K9ORsSn6YcjVbwNzqSk7YlxoMvNljK0bPyyECaCo7TQpwyUqX7wxw7GSFh9dQuy5ZUOTW1j3TvQH1HxJT8/pMnzLOk+iHYDrXsSoQg1mgqXIlF/BucthQ94eny0PI9FE9Gm/+eSPZwEW/0DrLYqeTYbESaYNAsqzKNhHf72XGnf9AqBFdofi+eXzcEiUVj0O4E5rHvSeDfr4LGm3ZPFhxWu8+dotbx2donb8caL35eUxXfmnV1XtSorShdJVp53aXSNQTNzLHXc3oGI6CL9ON/PKd7YJx7kbviehJTRsocxhp1lRxQ/5KY9q7l+m1Ybq0Leko0XWaDACDkX4sZlQ4B5hq4k5zBxfGzMHDJUKkNXDC",
-  "size": 8340436,
-  "released": "2026-11-04T05:41:24Z",
+  "version": "0.9.46.51",
+  "file": "test/releases/pls-0.9.46.51.zip",
+  "sha256": "f4271261d7d15c472f8d8332ec53ed0a73c1d7a5b11578433817b814f8385b1d",
+  "signature": "oXl7QOg/4tvUPMeWhZY4xNQY63g28DNccBOi8cM5RQU4E9Xc1T/YJgrMqL/pqm47uYMxVhNS6A1zng4r1I0RTD21rnleybGUflvAF6SDiTkwxrRLWTV6dGBHDdlNrzc0iicXrH1WeR5F9u+I7o2ff3+9hreixBO2MbF3sIM6SqplzpOh7w8GquER9K+1+NUrnX7njnDxxuQv3QnvL6H15C1EhRz2EwXZc51hO12p2g6Ku9Jf8NCO2k0vI+gG3BWN5EZJgFFVWWZ30ZOwiNrPbaIBibXCaNE1A9xDKXilfmkctC82n+HukoaI7aAzXGQEPFc955E/388r5vjzobtQdmVeVIusSz7J+wrZI0iOS/QR6dmf5PJ+mu5NUFQrjT/Xf946EKA+wY3CQIJUqDZ9Os6JgEDLkCzZfO5yLYGVES24WB4ikZgQwibdQzoU41ozuMhtrrg29xT1nIAl6pCrTy3gM5cXfiWU65VULK/97cfAlwU2u1lmriW7U4kN44do",
+  "size": 8364017,
+  "released": "2026-11-05T10:51:02Z",
   "notes": [
     "Toplu qaimə: portalın vahidlər siyahısında olmayan ölçü vahidi artıq xətadır (portal belə paketi səbəbsiz rədd edirdi) — vahidi siyahıdan seçin; nümunə şablonda vahidlər düzəldildi",
     "ASAN İmza: təsdiq ekranında PIN1 / PIN2 yalnız həmin ASAN «ASAN hesabları» siyahısında olanda göstərilir",
@@ -511,6 +511,8 @@
     "Dövr seçicisində iki ay həmişə yan-yana (kiçik ekranda da)",
     "Sənədlər: önizləmədə seçilən şablon və rəng Hazırla və Çap et-də də işlənir; çap önizləmə ilə eyni görünür; Hazırla pəncərəsində canlı önizləmə; «Bir PDF faylı» seçimi aydın göstərilir; direktor sahəsində mənbə yazısı yoxdur",
     "Məlumat › Sənədlər: Nizamnamə «Yüklə» ilə yalnız Nizamnamənin özü düzgün adla yüklənir; Toplu endir pəncərəsi yeniləndi (sənəd növləri, format, irəliləyiş)",
-    "PLS həmişə İcmalda açılır, Vergi — Vergi İcmalda; Vergi İcmaldakı «Diqqət» kartı çıxarıldı; cədvəl başlığında «i» düzəni pozmur"
+    "PLS həmişə İcmalda açılır, Vergi — Vergi İcmalda; Vergi İcmaldakı «Diqqət» kartı çıxarıldı; cədvəl başlığında «i» düzəni pozmur",
+    "ASAN İmza: hesaba «Müəssisə nömrəsi» sahəsi əlavə edildi (bankda «Şirkət No») — formada, siyahıda və Excel şablonunda",
+    "Yapı Kredi və Ziraat Bank: ASAN İmza ilə girişdə PLS ikonu çıxır, «Daxil et» müəssisə nömrəsini, ASAN nömrəsini və ASAN ID-ni yazır"
   ]
 }
