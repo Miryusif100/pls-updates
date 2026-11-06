@@ -1,10 +1,10 @@
 {
-  "version": "0.9.46.58",
-  "file": "test/releases/pls-0.9.46.58.zip",
-  "sha256": "3551586f8b0abb6edad7b5e1ddcb63e767c672d537b673a32d35d63e6fc5908e",
-  "signature": "VevLvEKIPMTcjLxWaFZ9cPNsmTj2y0suRn9xeKxunykhpnupK1rd7Kl5FSLcfGIO/QeEf6VkqjYp9UIsbHBMjFmyNAS6U9wb+SaFp5jQnDiGLGJ0/KdfkHtjrfThKIlc6tD8RGeXCz9bDXN4NYV+yA0IwUSVYRrMGDwUHau759J6bldj5ftVpbwPTEbIJKJ08JkBsJBbyDMcubc36yBMI33/WgwKQdFW/iShpUljzYfCEwsNYBbd9g4CSz3ITzuViA63bDFT96nJ6jQeXK9ZD8hpd1PDHr8eotSeJg/47yPbr7r2wUz7zeuQPGxIq8O2gCmwQS8givLaRYdV/cAHPfE5pG8TuE3p47t4F+44BPmqGv0y7KLNp6YRCI6TlZKL+OtnfMilTGYBlilPBA2GV69LFlcM974NIUGp4nlPHckJIXN4SOqVkbI8Y0/E7KVcuPEtj1BzycbriNZYDuvdn3m5H7/qeGIdVXM3zb3ZCAkXWYOrLR3DSwxNlkPm7wcM",
-  "size": 8495881,
-  "released": "2026-11-06T05:36:06Z",
+  "version": "0.9.46.59",
+  "file": "test/releases/pls-0.9.46.59.zip",
+  "sha256": "5cf97b7fc3ea3194792e8efce678bf63d440765a0d6d4e3e27cdd3f6126a4a73",
+  "signature": "B5XUpk6X0sBi3BtyvzadWyHN1aR2rWnFGtaHbr6VxnYZ4MqRKBZBkrV+jacwZzpF/zkbAC/YSmOkCl0VfAKbmpk460w30kyEJNhpCgWtfPpdxrUzd4rnOtp7PfnySu6KMh4xQmhtuj3CVlJztXWhOSZjpjHKIe4LxHFln/KZyxeLUkqki1efmLECHNi90HeZuL/hF1zvPjBx7RtzxFmGk+xmxro++VQRMw62BMJp53wCVcLcHNyoR/7KsM4sHXzkFpLYCxZi/iIzA1w03BINf74Aadu7jM2tOMBV4NoYSQUtalWjTZu3e+r9W4edyuLOq012nFvytDgwISn4/CBaR2rCIz1VPcdUvRm8IoU/CZ0RcU4NDUgNjF3sLdiWvxAkvinnuqL13ta5w9GAU6aywgFiZFau3v30A23WUxva6ypiVEbYWcqmcapmi53wHezRzW2a8q4Ywk5a383uj5qQwEwWNdcipAW0mKT/5Cj3h+9TWkTX0kd8f6G+viizZl31",
+  "size": 8510506,
+  "released": "2026-11-06T11:06:42Z",
   "notes": [
     "Toplu qaimə: portalın vahidlər siyahısında olmayan ölçü vahidi artıq xətadır (portal belə paketi səbəbsiz rədd edirdi) — vahidi siyahıdan seçin; nümunə şablonda vahidlər düzəldildi",
     "ASAN İmza: təsdiq ekranında PIN1 / PIN2 yalnız həmin ASAN «ASAN hesabları» siyahısında olanda göstərilir",
