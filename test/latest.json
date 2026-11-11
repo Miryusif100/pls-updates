@@ -1,10 +1,10 @@
 {
-  "version": "0.9.46.67",
-  "file": "test/releases/pls-0.9.46.67.zip",
-  "sha256": "86df8565b712f0f75bde3483a17da43c6b1edf93627335f5fb8e1263c9f95858",
-  "signature": "MXE0Gn4a/WG51UslRfc68rl4ci79/Q/ixulM/4kgU2nzFikZyMmsxSvsOCzbLRJRGW9Jq4Oi/oeuuPmH9dE8uP5wCalq4pU/vbhCt0XAUawsI0eipuQ5zig1LZ8EvzX+9o0XKKd4ySuwSNrczSaL95mf1L5pPFMJXuq5s/22QsVNoMU7HEyZoApSzMi8sZvmFUfupumAfQ/qBn3huzxx6feGuYPWwLZ4MoNxFBoSy4mmsdmDGcMq5B24PhSWNxWeYhXueM3079kYCetPBRc3LOvmhxZ9nAYIWTi8dLPr47YrdPl7AnTLXbFws/grrfqcRH1SVhqFEVPBtD3xEfgGpOfhNZzyY4rTjbUEJATky8lRLvBwG+CuSMFZnWcE5k9wWWeeynfr3U+nMXQEkBKU9Nu6/0W4TuAepg4r15B6eXA11Le2MsZOpGREmSIYcsP7jS/n/x6LtT0Rn50ffnnPRO8vM/rF8r3LKgtEbtHLBfJiPzU4quPDCi3xjh9S9feF",
-  "size": 8580897,
-  "released": "2026-11-11T09:17:52Z",
+  "version": "0.9.46.68",
+  "file": "test/releases/pls-0.9.46.68.zip",
+  "sha256": "1852351d563b7008dd72ea56324654586e99dc256b08dce6d74fcbd41985d15a",
+  "signature": "kjbrMti1NTkikNOTuOKydbRN2LFYxUKGYLt8WXMEXD1GGGn5x+coeIe4OgDFD11Tygxxbs3f5aw1A5NIM6oXTbe1412Ey1mb7c1W57IMCSuAW7i9VvUPQoRKBKwRx0Vf95OdEFh5ty46MDjDTI2Tt4NFWV59M8zQFxxOMdpWws4cT6QvphwY0tw8RAVbRDktKjHisIf/Qg2OrJWVUvMqH5F3Y9iL9gK8qbwe482kmUELsb/vACzq8rjsYr8y22hWIHVwnXRI8MOziwBmreGqQVOuaYKQhwwALm9VZ5W9WQv4HJsdQfFOTNEL58n5nlYIweBXVZxNiGwFkAMQ0YBavzBgJdPjlP77Kg8bIS2t5e3HEAWnGDH8i72GrioYmTfSz9OcRJzNZRHsoKr6gZVK1QnFihIp6jH/4OhcMPk5kfBeUf4IoRQLWENRr32AzOcWarr+WOhUKTokgxbUbuyz9fyMlI6aiWyvATMKZJBSntnDxwjuIX1oVJR8T9Q8zqKS",
+  "size": 8581375,
+  "released": "2026-11-11T11:22:06Z",
   "notes": [
     "Qaytarma (MQ) portalın qaydası ilə: mənbə — bizə gələn MT-lər, qarşı tərəf «Qəbul edən» (malı bizə satan); qaytarma səbəbi məcburidir; sadələşdirilmiş vergi ödəyicisinin qaiməsində ƏDV sütunları yoxdur; məbləğ və ƏDV 4 onluqla; MQ siyahısında «Bizə qaytarılan» tabı",
     "Əməliyyatlar: bölmə dəyişəndə yuxarıdakı tablar yerindən oynamır; «Mallarım» və «Kodlar» sağda ayrıca dairəvi düymələrdir",
