@@ -1,10 +1,10 @@
 {
-  "version": "0.9.46.73",
-  "file": "test/releases/pls-0.9.46.73.zip",
-  "sha256": "83db9942fcefe458906554623771ffa2a0f6153c6ff48b83ce3506ec87f59ec0",
-  "signature": "MmQ2AM8F4V3ACEJoS2c3lWTC2qk+WQ1HEUWJD8717BodtnhaWwID86IebptHtswk93RWKclVNDVvbccUyybtU7GdmGJ811D7P5DCqUk4oqJ6uavzEO65YIyI+LvwLgYqcnlDUs4p99ot+hGm1zX7FkGdSWjRx/8DLKk+L9lQeS0SaX4HF33mOSB4r4Nd3HrBkcEkYDkg0b54u8amBk9adEFcIKWyLsX25+yw9HF9y+5xiNUOETyRGmpfCUyXdH4fJTFtyebh5HuooZ6N9WaK9hEhFRwWp20QsD+QbCLRc9wjQBuOEuG12ybdoTRLSITQ8YKj39B6ePi8S65mCzu33wFqIk9hls9oBZMtrrqEcVQZF47IGQE0rlh5uGR1ck6Uyptae8JklRkWIaFTa+tKL/HvcLTF6lV6DBP2dR2XNQIP/E+REA9+SzwjpEhhaKQr0RsObx/mC9LP3v8HemGaksUWqaoYBCvf8bwdtI2YmzOyaDFm4V2YhcaJK72L5Rcc",
-  "size": 8584973,
-  "released": "2026-11-11T15:06:24Z",
+  "version": "0.9.46.74",
+  "file": "test/releases/pls-0.9.46.74.zip",
+  "sha256": "531e6a0ecba91da937c42c50569c4f26143340d811a8ed71c32320b0162f0a67",
+  "signature": "Fm7GW+M/0tfZ6qaDCSDVvyz4YQT1Mf8bjdfpAEnl8Iq/tqiq4q9wR/Kw++G6r3fSB/S+a/tlUJjblXDsh5Hvdrk6fIb+e4KhLVqvCtqY1B0q59mfdW13ZQtqXntIhnXSljY54TR0uX05R5EU7H3nkyIFdAGQe/CkWRwRDUqR9E3HxFo7A8xmH08Sqq/Q/efo84G5Xe/ZD0JqxZDkc+GMqXPkCWu1u+pwQWLIzAMiBPL3M6y29MpNGVfjxfdcM1T+FFYXm+TZgAxihzL3Kiu2RpnXoZvcy8QC6ZswVyu8mQ8QBDOgqJXpM+Et6ekjh3jZc11H56l2K49ptBPYQhG0hrEBU6icJLnK6mddMdp4z/Eazi/CAzPpkwOL5sR8ZxCwMLtlumLvhS03zCscMsFaxCkiUW/G268N9prhrp/+ICAi6h0g14SdosDhcTRFFoqB//HURpOCMV1gVex1rCc4qVpwnZ9Ji9zj+chW4xmxmk3g31ZiEEI27uP6P8ePFFvz",
+  "size": 8636997,
+  "released": "2026-11-11T19:08:06Z",
   "notes": [
     "Düzəliş bölməsi: iş gedərkən e-taxes sessiyası bitsə, növbədəki qalan qaimələr portala göndərilmir; «süzgəc» sözü «Filter» ilə əvəzləndi",
     "Qaytarma (MQ) portalın qaydası ilə: mənbə — bizə gələn MT-lər, qarşı tərəf «Qəbul edən» (malı bizə satan); qaytarma səbəbi məcburidir; sadələşdirilmiş vergi ödəyicisinin qaiməsində ƏDV sütunları yoxdur; məbləğ və ƏDV 4 onluqla; MQ siyahısında «Bizə qaytarılan» tabı",
