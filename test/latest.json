@@ -1,11 +1,12 @@
 {
-  "version": "0.9.46.71",
-  "file": "test/releases/pls-0.9.46.71.zip",
-  "sha256": "5cd28a38a6f74b99bb52e8da7f1248c1cbce77a589ff30c18c5d253344024689",
-  "signature": "KfhYMKtQqbZX1kDHWXw+YjcxcMv5qYt6wgXw8kk1PPik+tkXF1DWvn+2VbfavSM9alPX8DCKLSj57HERsZ8qGYadE8ndP/I3J+UjKndLFJref8vM/mMupkgPS2jxah1Ger8FBOv5ZKMPZx0jkR/yznwdG4T1XS7NQLwYGaHj+DXvNXU5yxtupvuGyVNHBJ4xiaz5lauVxmcGH5JlB+VA0O+ttUcEXS5oOFrYSYFyrQAa0PXoP/D0bFplP5enEnEq0rxSfurSi0tfiarXNnfDzokdUdJqt0oPYvCvMeSsklHVntZpOTwiMs1AAVEbkVSEPK4cyXrIzt9rvRDl4MbWhE81pUj5p3ZZ6c7SG7asn/cBry70UEIdrSG5VI0GNs2LlOAIulzk991PSO/jD5DsKwReTI5IXJBszWROOSpi6Ji76nwgudNhgyey9y8cjybqUuYUsg9QxKyo/BlziqcT49mmw5VwX7pz7i48e9pBcUkbi2oM32C4W5kYx8/tFCs2",
-  "size": 8581399,
-  "released": "2026-11-11T14:18:06Z",
+  "version": "0.9.46.72",
+  "file": "test/releases/pls-0.9.46.72.zip",
+  "sha256": "cfb5b0fa1b585c0fe5ca1a30182dce10d674b891b6d9e36705f0e0a9bde92f07",
+  "signature": "xwgbtumU7wA+GW6MaWglglVXTvUoI3rez0XiPwfRaTsCThQRh6EJILUWGq8gI4xRKgRwqAxjEDN5OtEmkL+/FEqiHZqzX4TzmvUq9kqqeFgTSPfJwWdN9WRY2s/WpuYGFNXUHLcxka77qYLqD585MkDVsTa3kBcg3vqj6YaTFPffd1Pf+brTCnXHMNbu7hpo4BX2JjAvzT1VwTHTfKfmD4/zax+JgjE2zPHmYdLgbfdNpYcVUl1kDa+ddM/Pc1Qds0mflPmQecsKjMweMqXtELBPY0rssQLVcG4rXkowSUcxxUUqY7CGfmuqgB/ltly3nP7O4jpYXT5WF12HIKzisr+xhApWgYrW9OKusO/ZJjyJS9bANiPO0WujAxcViQnp1kioGClGOaTMFKLzrjXnEGULZXg2LySxKs/jx5uRfLiNjZvtV8GEEdMwJ8+IvQ7h91gAaqrEyzborqbkG+DyzNbsJk2hHPUivm6X3IRQtzmH7+RB4YfdNnz6VQhoozJ9",
+  "size": 8581334,
+  "released": "2026-11-11T14:45:24Z",
   "notes": [
+    "Düzəliş bölməsi: iş gedərkən e-taxes sessiyası bitsə, növbədəki qalan qaimələr portala göndərilmir; «süzgəc» sözü «Filter» ilə əvəzləndi",
     "Qaytarma (MQ) portalın qaydası ilə: mənbə — bizə gələn MT-lər, qarşı tərəf «Qəbul edən» (malı bizə satan); qaytarma səbəbi məcburidir; sadələşdirilmiş vergi ödəyicisinin qaiməsində ƏDV sütunları yoxdur; məbləğ və ƏDV 4 onluqla; MQ siyahısında «Bizə qaytarılan» tabı",
     "Əməliyyatlar: bölmə dəyişəndə yuxarıdakı tablar yerindən oynamır; «Mallarım» və «Kodlar» sağda ayrıca dairəvi düymələrdir",
     "VM 177.5 (ST): ƏDV göstəricisi (18%, 0%, azad) olan MT-lər uyğun sayılmır; ST-si «Ləğvə göndərildi» və ya «Ləğvdən imtina» statusunda olan MT üçün yeni ST təklif edilmir",
