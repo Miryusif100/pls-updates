@@ -1,10 +1,10 @@
 {
-  "version": "0.9.46.75",
-  "file": "test/releases/pls-0.9.46.75.zip",
-  "sha256": "33e739b9cdf9cb31788f326014dc63d2ad3734ecf668c0a05cd3407e10e5746d",
-  "signature": "LtGaKK2wuwoZfyMSsNrHUxbL/O+a+931pxvCPcDI9R5ziEluB6VgF/4n/WPczAKM++DyGK/e70KZZj7wwReRGcwplPe7v/Ay36JrhpCQCrzcFqef70Pq9h+HXmNU+bpHAR8uQKUsOM4C1zPwj+I4kes+io1Vs0zQT9EciOhOBZVaUDHLPYM9762rlOCgd6pCG5/w4fm4CuTsa2qSBngGH+NNCJoCtiV5hMxG2AF80y3xWD23nHmdes143CNRgEdqvTiv3MqRgkwZrF9j2TJUnx6u5xGIoGIT1V5D4sBTNnQod494MFkCvlfkzGquAWMeu2K4HTFr4H+fnVAdL24WfwMdzFQysbHvzvJTLs4v5I+Bj8yl3+FtmrHeq50HDnV+nztHcrTYKuzkpxJQQrj4R5MPQYp9U5BkSRNbU+qT2jOmOHhZXq5ZOYB8NsepMxZWaj5gB/XvImRXgR7Zjm/6WtUFQpkbkM8f0YJ/CFZjlSXBpT6DrjzkDcUXTQXeb8GP",
-  "size": 8640599,
-  "released": "2026-11-11T20:11:36Z",
+  "version": "0.9.46.76",
+  "file": "test/releases/pls-0.9.46.76.zip",
+  "sha256": "e03605a0be0d761f31eff40a290a954b8192d3f4b4121e6e14ad3deb8466a0ea",
+  "signature": "KCY4dsDsqrXSASHXAmUaHGCAOvvCXv50SHHDYe9GCK+wBMkGuhb/WjKF355VYQ74oVyyCYHF6e0CuagG3//9mYrmoHkcBRMfZ8XmqgFIQEP08wAa8wIJGGXGpDkChgBVGkz6j/gbSPYGdGPXX1RIBqr7kNSwM2JdZdByTY/8MA/vmLOYld2AZoO2pPI2S3GNCdoi3hO3V6Nr/8qefU/yeCZYuo3E5op2phtzEHxzpik7upY9btPRSAmBCu9qFheQVhJKp+ZsQcZAX8LB6+b7iWkQhf0hsevEkzSwdXk7sadWafOdbgnZG4brsFu/ru/arSHcTcO+RnOEwQTITKE1Zcoz/cw6udwUFWnTl0DJE3l9MW2Q/Q3CNoVpVYLgXtrjWLdBzYY/iD3oHVgSq4EYASomESNNvUd/LrOvO8IBL1RaLgYpkNgrsL71Y51hr9YOUrBxyRmOzhSATqpndrD7WqbeSDKM18OJJY1HRUOxu7ZthkI8pZCEz1vtp2tZh6SI",
+  "size": 8640724,
+  "released": "2026-11-12T06:20:20Z",
   "notes": [
     "Bildirişlər yeni sistemdə: kiçik kartlar sağ yuxarıda alt-alta (ən çox 3), bağlanan bildiriş məzmunu dəyişənədək bir daha çıxmır; əməliyyat nəticələri aşağıda kiçik sətirdə",
     "Yeni bildirişlər paneli: Vacib · Hamısı · Portal · Xatırlatma; hər bildirişin «⋯» menyusu — Xatırlat, Oxundu, Bölməyə keç, Bu mövzunu söndür",
