@@ -1,10 +1,10 @@
 {
-  "version": "0.9.46.89",
-  "file": "test/releases/pls-0.9.46.89.zip",
-  "sha256": "df2ef865b35ac220e625bb9e8b526392acea9474d0cc05853e4c1024f910fc27",
-  "signature": "sW86/IAuSfyLrD5DOKuMoJh/AF0SByNbEsg19Wt2sVXVpCfmH+5fzId/jA1gAOJT/GXLwHkZOakB5APDYDIiK2GmfsfCxGzRLmqjWkKKQYp7mGmZhL1ZP59m3NAPkFE+ho05c6LF0HHUv9c5YS1k3O4YBdXkXR9BmcVPsA91aw/0AMTNWaZLsfIzMdh8six4zf+EeRDddL1bm3otPSWMlo3ckVQ2COBbqpSChSpc1hWi3lolkSdqYtW94PpgP7tZIDbkztaGvHf5S0NY1DHX8jTrvhZIVSP8cylRa+J8nsLK5bQKZ1J6ZhcKL36M6T4Zt5mpklpPxtuDAuQPYggUHnHJdTCPL8sRN2wGs5ym814id/5hDuOy4Ny+DVvz2HqWGGqAH+xsUjQhpJz1XfWZDxuzgGMo8loRsKDPYGQHv7CrtM1vCt/gKYHVr8w7TG6MLfD3ELZOYxv+R2CI/cjbuHSObLzF/OCtmpCN6eIYw/5/kMyrBXw3Kn6CvNuSLzgv",
-  "size": 8654349,
-  "released": "2026-11-13T07:20:34Z",
+  "version": "0.9.46.90",
+  "file": "test/releases/pls-0.9.46.90.zip",
+  "sha256": "e9a53462ab1d1c2ac5b4e36720034be74e6b1f1d92cbc9d6a2cb23b96541fa75",
+  "signature": "x+63KttxYji3VQWq+iyZ4R5T0l3VD8gjD8xQLMvQJN27j/+/P7XWZy43bLQvQuf8c8P67ziPKOIn1UARXmN58UscpisHM5Ws4RbutLXLMopbHjWuaGXLnek4QNXo1bSQFSNiN4C1N/b2n/b+p5ZWU5DEbLQbUI5v/nGLgLVp5izGSA1bJPUrNw4nQM43Up+GBIaMj10iD+KvEYbeQD8Bol/KnxN2u3BI/DIMA72BneEfrk29+S9sAOtsguZ9gv/ng12LQu69X5QAaVI6cLQIu1P1W2TK9Gf6O+4ORZEhGyJbllzzPemFkC/ox434Mx54R7bqQEW+4zNjk9UzT/7f/Ya/zi9nc64VknUk8XJ/+oX51eOXiBnWmEf4b004oHWRSJK1Jj1/pqwPXTJDYTRwVp1JUmphxlPU30bGWfapEXhm6JsKq7b0Ndt5fcCQDuVF598YHGTqG0gLupz0sa4Q0PtCmz8vRj44uxeaEQkg8n17tqTT9amxYdkdPp3uP9bN",
+  "size": 8654577,
+  "released": "2026-11-13T07:40:50Z",
   "notes": [
     "Sənəd rəngləri: palitrada eyni rəngdə üç seçim (Xardal, Kəhrəba, Narıncı) fərqli tonlara ayrıldı, «Narıncı» → «Qızılı»",
     "«Təsdiq gözləyir» statusunun mətni daha oxunaqlıdır",
