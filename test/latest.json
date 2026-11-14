@@ -1,10 +1,10 @@
 {
-  "version": "0.9.47.13",
-  "file": "test/releases/pls-0.9.47.13.zip",
-  "sha256": "e3af6f5ca354deded9bdc75cb95733a50633b982a367033f7ca429ffaf50e8ac",
-  "signature": "gzqqhS3GvivzQ4y3ovwoE24dFTr0iPR1owBSzqpZsHkAeUHd1Cmr0y3yVabu2aS470JvYxLGU8dfGfJXmarfz9omPUVU1sNJa0QwJ7lrUcDeGxY3fpDpRaEwiYfzgWFYlBxSKcABk4om9vzqaA+2/6DLsG6NITapA4oTtdLggd1O71/bZQXRe15cj1IW+WZlIbcTHet7nYBLcYVdXUZQUwfC0M+MSTJ/AgU41XWgas/0WNGfjt2h9yYTUcFNdfdBGKrIglhXf5UdIGzFqOwuZHLFREWMGqj/5QoBoJj+zVSY1lXJ+/haqJoCVKo3Yr6fvNyXdK96uQWcqouhsz4xrLFZNJ8SZog3uAx0NoPuez23zfCZOkuUpEoZjFqt3psIka6AJNNfUApJQL7FpsQsG9cGJXOSb4+9H8lToircx716Cwsk2K/myqjAVlpii/jZo/D5JD4gXlXqlqk1CGZ5e+iiJCAPsMjF2E/wmHi8OsF4MY75EjqveTD5OrAB+Kqg",
-  "size": 9040621,
-  "released": "2026-11-14T19:43:14Z",
+  "version": "0.9.47.14",
+  "file": "test/releases/pls-0.9.47.14.zip",
+  "sha256": "a354dee40d25286d6bc0c099c293ca0e75bc8f55d558ecbf2f17dddfd6681469",
+  "signature": "myzKZya0AauXmBn/zL3ujD1lBkJpmh82dihxlNkXJh1Dv9dgxQwjxGqVWZuSvop6437o1DnzFAj8nnmfYOk363ZBXBBeUARmkd+FD53qIiuE9nA/MA/4c5mv5FLD0swIJVRezvUyQLqCUE8uDxC1Qbvv66+PafM7DFmAN3xj0CMguoSvWDmaq4l3MnK6A6et0fd/0s5wsLN+G8xxl6jL/+FxOt35FG97cC9S/hib1c1h4gD3cOLv+WLWQI6Fp40fkt+R6jJqUP8XYQEoCydNcL1oeqs1a9FekpwsQ11mL63Oi7TLEqoG5AxufecD5W0CDOamtDjfUC4ZmGKBXaXsbfX/pLnBpXntRwNS543N4LLL5jL+grnberkLi0wVMBtB5ujrW5irgK9fXdkKH5hN80nFUHZiLDnGHrSeBBrWB0R2SBz2v9PKbcbuJwoVFvxqAPWCA+Kgd91a+JCTeMzE2m7bzM5ZDeOmirui2GsKehZNr4xtyj+jdYA2/4rtHCge",
+  "size": 9040382,
+  "released": "2026-11-14T19:50:06Z",
   "notes": [
     "Sənəd rəngləri: palitrada eyni rəngdə üç seçim (Xardal, Kəhrəba, Narıncı) fərqli tonlara ayrıldı, «Narıncı» → «Qızılı»",
     "«Təsdiq gözləyir» statusunun mətni daha oxunaqlıdır",
@@ -530,5 +530,5 @@
     "Yapı Kredi və Ziraat Bank: ASAN İmza ilə girişdə PLS ikonu çıxır, «Daxil et» müəssisə nömrəsini, ASAN nömrəsini və ASAN ID-ni yazır",
     "«Yeniləmə» düyməsi (başlıqda və Tənzimləmələrdə): basanda yeni versiya dərhal tətbiq olunur, alınmasa səbəbi yazılır"
   ],
-  "notes_signature": "mUPXUC6PbLUvqEJK5hetirDyd0YNOkEkS61VEcwhCzCjYiayJNYpFt0Sqg0dd6karv+Xxh3IKerE3c3LrVd3lV/Aw6eLJkBWjSvMCfG3UCmSMwYcksSuIdtx5GhcqToS6fHEoQSFl+ucecQHc1cUphWx3E2N3xDIDsqgJfUKWEYT4Q4ESVRmy+4iInOSJEyY+GiIINFP04G39O3q44SGiu5xIKDChIo9RHrDcAWOmc/LJmibXQ+TqczGG06iRXyNah8s0Las0h2D7LV6siWnzBRRGL49Ud320lbNZOlENkpTvNR+Cuex48Rbx4Q5vofCCqV0U0W3Yo488LBbd2t6NUQCv/VGXTl33gbh7kL7tbCtUxPvxEafjW7v5HKr81AdMhTdolt2U0Jt3mZh4lWdK6z3RAfyTsqIN8A/SEo2UEW7FwE/TV9RD6ISpOWE8Llu1lAQLF98Rkbh797/HMDUT3tbdIeRpq6fNcyifS2eava+/E3x4MCUDUaJZc+lH6xg"
+  "notes_signature": "yew7pjPpkM4Ba4WSQyecWDgRPWVU+uPxS3UcTMT2Aof8i4W1ZnD58I2cZgPEVlNMfPOjZ+sLUuW36UJuudW6oicideXyhNyiP/y4ys55A98oIHxSMORHRWNujZkzlcoUFK1tJ9boQBz+jzNb6zrst+aXAoE+I1e4o1yiV5ImNYAPW1uowQpTTh0DAEB+JB5UbSDU1NYm3QF0J2ZbUtNZNrmw9LRsPfzBZ9Tad1TwIdEswbWxbp7zOWgsm7Epd/NswW/OdnUUA6p69I8kQSwBWUsiK6R1t+VaT+IWvuPndpFC8zbh86DqkHRDyQ7skKzjoSv0yYzI85foDdyZkJkj4eSsvgOc3tI70P71BvDICa+3D5HaXLVOxHK01/s3lvzv5uzRzeyMX/dICk5L6kCrtoEQpKzZCSA4iVyO2TFnC0fc81qMlLKS/Uc6QIdOFc4cwvV79wJnqXzDwf/XbgbjaUmfjF6Jq8r60l0Dn4SL3OIKch2Tx7yZPA4AMCy9bDbM"
 }
