@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.21",
+  "file": "test/releases/pls-0.9.47.21.zip",
+  "sha256": "2cd161d9ac5b763ae96cd028ca16a4b1421d94460bc5f674d431afc2f40d6e9c",
+  "signature": "llAwlEzf6NwZIL77RaSk8ftnhGECUTbHgKJ1eAjU93r+RtjCThfG3Tilny92Gmy8UUv4dlwueAjcegbyYXGcm6B4LgmKvNqTGOMjyvqiqLxV/kBwRZyQ0SUBJhHkQxJjwVQkzFlfeRVCdzF3r2dE0kx3yesen5yI6asw/QOC5QqMyHdz7bnUfJZZSJAtpE9oyULKS5ZxX0zzk3qsmFpVnIBm2NXCPdyrvshLculU+slzc1/GApdRpLRC/lnmgRbz3HC8skZjM7GiNYN8csQ02w9UmB55a5LRrmu+5Kk+3FfVDYNli19cGfTVcVeHczOQ61NfosVwRkaq0ioktzW38kKpY7+wlfH+/i5FEotT3j5te943PRvAG6mfKHb6xA/gt7DUFsZmsnVhwn7GUpio0RvpL+FzILOmzxugIJzS34RJ/uuYrfxMDdeiWNIEcc+zjHVuvsruRqYoP9SRXVf9ZOqBl9q5eUxk1s8QiLKhSficEioJnlhAHocNzOM0JkRY",
+  "size": 9038121,
+  "released": "2026-11-14T23:05:08Z",
+  "notes": [
+    "#166 D1: e2e ayrı workflow-a (gecə + əl ilə), yoxlama.yml-dən çıxarılır"
+  ],
+  "notes_signature": "kz+w60VyycyqzWp2UaX8tbbm+a3nXzfY0NODYMUWBCBonU9Ny4J4J78aocdfhEqtCCz5O9qf78A7jBkIK4Ypt16aSHEMJUIDosaD6Q4AVKirxGcP2Svg7v95lP2kqfUXnnt2boF7K2QXDUc/YXJDxDZ5jsRvRNVr+n2OqOsHXRQ3fqWLBm2l/KtxJZmbFakQTCC4pd3CEruj3Q69h3Hna2C2oK5X7jLwd5Skodqca6jKCBbxaRQZx/z3AjeObr9y6HHZj2rQS20p2CQllu1gHsuIX2e7K1Td7u/EN7HWCKd18ViBm2iLqDb8RQ7RcAzTPum1NsIYjacnnwqYercXSaRbvyuTGHRGyZGpCi6tqcHtkoSlG3lZxwcw5GH/v0CWXULY1YGpzg/2GszqdSX/qsaSQc8EFukaw33a8QsQOlu64FGweQlhW4waJi/gxsuCzwNEs6J65qXkPLzfhwf71hYQ3UNGRe8ZzhatEQpbv9wDOLJGllEzq32Qp4LFU9Gf"
+}
