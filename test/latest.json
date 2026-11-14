@@ -1,10 +1,10 @@
 {
-  "version": "0.9.47.12",
-  "file": "test/releases/pls-0.9.47.12.zip",
-  "sha256": "3df909bd4622cd6b163d3de5298210c04b53441d856ab6508a5c431752fad76d",
-  "signature": "mfStRMyBnO0eW36sFb0u+Npo+Fv3fgXgRchcLhomnZ42JZJ4wHGB8snyOcG3YS/GDollHYPEHdD4nUmiavEVXrV3oYL67ZeEYPzIK/hHZ2KAelW18YLdukvLbOUm4WnkYfm6yHYRKmZS1UyPUqEc9m6Qq8EgWYPeeltj2tdcj/mJ4IcJr2ErSz478aXKF9/DvGpLaP9Tmhl51QDsdPXgzTTSzYT1i3Rip5+hFD81um7wydmo+6hAe45gfEiEqOU2bpvXth/vvulIACHTJOurRJG8LbVEt9hjvz8ch4bHhGZdjdtAkqLK6y35GOb0WyFQAvNvq6ZaGFcM2K8/Y+sYwgkPvfWs4hOS2cSpLcRByMkzc2EG+B6nRpaA2YpUHFtRBvdr88AJEyjHfwrlftKS/PdybrsF4Nw2BJJG9V3qRXqPAGMrlMaF6HUarkL1DljEBnD9ggvp7slD/WZkmH0I7Qz18v6kyNQqago6p0AI/Gn8vrQYuse9abpvjz7zyoND",
-  "size": 9039751,
-  "released": "2026-11-14T18:55:39Z",
+  "version": "0.9.47.13",
+  "file": "test/releases/pls-0.9.47.13.zip",
+  "sha256": "e3af6f5ca354deded9bdc75cb95733a50633b982a367033f7ca429ffaf50e8ac",
+  "signature": "gzqqhS3GvivzQ4y3ovwoE24dFTr0iPR1owBSzqpZsHkAeUHd1Cmr0y3yVabu2aS470JvYxLGU8dfGfJXmarfz9omPUVU1sNJa0QwJ7lrUcDeGxY3fpDpRaEwiYfzgWFYlBxSKcABk4om9vzqaA+2/6DLsG6NITapA4oTtdLggd1O71/bZQXRe15cj1IW+WZlIbcTHet7nYBLcYVdXUZQUwfC0M+MSTJ/AgU41XWgas/0WNGfjt2h9yYTUcFNdfdBGKrIglhXf5UdIGzFqOwuZHLFREWMGqj/5QoBoJj+zVSY1lXJ+/haqJoCVKo3Yr6fvNyXdK96uQWcqouhsz4xrLFZNJ8SZog3uAx0NoPuez23zfCZOkuUpEoZjFqt3psIka6AJNNfUApJQL7FpsQsG9cGJXOSb4+9H8lToircx716Cwsk2K/myqjAVlpii/jZo/D5JD4gXlXqlqk1CGZ5e+iiJCAPsMjF2E/wmHi8OsF4MY75EjqveTD5OrAB+Kqg",
+  "size": 9040621,
+  "released": "2026-11-14T19:43:14Z",
   "notes": [
     "Sənəd rəngləri: palitrada eyni rəngdə üç seçim (Xardal, Kəhrəba, Narıncı) fərqli tonlara ayrıldı, «Narıncı» → «Qızılı»",
     "«Təsdiq gözləyir» statusunun mətni daha oxunaqlıdır",
@@ -527,7 +527,8 @@
     "Məlumat › Sənədlər: Nizamnamə «Yüklə» ilə yalnız Nizamnamənin özü düzgün adla yüklənir; Toplu endir pəncərəsi yeniləndi (sənəd növləri, format, irəliləyiş)",
     "PLS həmişə İcmalda açılır, Vergi — Vergi İcmalda; Vergi İcmaldakı «Diqqət» kartı çıxarıldı; cədvəl başlığında «i» düzəni pozmur",
     "ASAN İmza: hesaba «Müəssisə nömrəsi» sahəsi əlavə edildi (bankda «Şirkət No») — formada, siyahıda və Excel şablonunda",
-    "Yapı Kredi və Ziraat Bank: ASAN İmza ilə girişdə PLS ikonu çıxır, «Daxil et» müəssisə nömrəsini, ASAN nömrəsini və ASAN ID-ni yazır"
+    "Yapı Kredi və Ziraat Bank: ASAN İmza ilə girişdə PLS ikonu çıxır, «Daxil et» müəssisə nömrəsini, ASAN nömrəsini və ASAN ID-ni yazır",
+    "«Yeniləmə» düyməsi (başlıqda və Tənzimləmələrdə): basanda yeni versiya dərhal tətbiq olunur, alınmasa səbəbi yazılır"
   ],
-  "notes_signature": "E0XPJpe6QFuNqk3zlR07gkoKus41IyveWULDyJCVN9JhSNzr7G1Jsiq1NF5GFtcLa9pi0eT0JpwRVOwQ4r2BRwXS6afAaCV4rIuO4tOZB4qAYur8KrIOpJt1DanJIp0y5MDGxffksnItacmzWe+Bzvp9meQg3tQ5g7BJLWOjNMBhBy1xvWxSXfnVKvMPAnZwRsB58T+B1Z+GGMQ8FZZLEz2eE5vaz+yOa4H4P9+4GW59PkX2nnb2/EAJf9teIaoyWQydHmj9Xa1HGfHw/8x12ErGGds4ZZYchTY623pvHB3t0inRHWAfy8Q2DMXcwL/sGNdn/nelRR1R9SyQnqd7UwzIvRgfMZZ+7ZwoqqcjKETqWANXrqC9opU+JNF4u3LqK30a/9iKnpafpTvJhQeuKxP5dG9VH8h8ne7t2rsgBsDxlmZGexFqy4NeuhIhx0SRQ7HAV4xiw/k0oV/UHwqbYyjtSx6j9Z2ZOxwBc6iOMS9GWIOn4/cDEmkUXooHcy3o"
+  "notes_signature": "mUPXUC6PbLUvqEJK5hetirDyd0YNOkEkS61VEcwhCzCjYiayJNYpFt0Sqg0dd6karv+Xxh3IKerE3c3LrVd3lV/Aw6eLJkBWjSvMCfG3UCmSMwYcksSuIdtx5GhcqToS6fHEoQSFl+ucecQHc1cUphWx3E2N3xDIDsqgJfUKWEYT4Q4ESVRmy+4iInOSJEyY+GiIINFP04G39O3q44SGiu5xIKDChIo9RHrDcAWOmc/LJmibXQ+TqczGG06iRXyNah8s0Las0h2D7LV6siWnzBRRGL49Ud320lbNZOlENkpTvNR+Cuex48Rbx4Q5vofCCqV0U0W3Yo488LBbd2t6NUQCv/VGXTl33gbh7kL7tbCtUxPvxEafjW7v5HKr81AdMhTdolt2U0Jt3mZh4lWdK6z3RAfyTsqIN8A/SEo2UEW7FwE/TV9RD6ISpOWE8Llu1lAQLF98Rkbh797/HMDUT3tbdIeRpq6fNcyifS2eava+/E3x4MCUDUaJZc+lH6xg"
 }

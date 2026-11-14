@@ -1,10 +1,10 @@
 {
-  "version": "0.9.47.7",
-  "file": "test/releases/pls-0.9.47.7.zip",
-  "sha256": "aa3a5772a6b129c8ff7480e021f37dff402e33ea579e0d1d36b2f211f62c5914",
-  "signature": "CH0ZfANXyUPx/rZFdjWpnpJ0PQrDqj97TVMPUijwHenJyMPLCj+16BCFU4YCzW16AlTrj9CEY8fyWairQY3fN1AmSYWB5gxk8ZQjC/itwt7lEeSS5lk3MhYg24Txw/hkkmLhn2uxux0AX9rmHaFZMfWQ0PvNqIWGel6SV+Zd/Fowiu+xSlujYJKOWKbDk+2mvUgbT8ua+PBm//KiaNV1mcMDQcL1lc/a14dzl2c5x5iyF1pVHSrXWUjJrif0m5igM1WdbFsyhwSzt1VC8n2NcC+FjLjTvYpkgCjcWMfWHpIUWQ5poT69tTaE8LbVj1WwvgeXg4t0SfCmilixaeHcnWkXNQrUt0sZOibLQYlBh6VSABNu6zPwwPqul67zbwxtDtPTaIu9fg5Ss5H4IRaTcs9RrBeIcGxTplahf5o+UbS9Nh4gR4mWVs7WNoWJba9V3Yjvxg6nIUP+fSvFNlEvSBDD7SP+xTetBdxOFHUBqsOPDgwUH/xik38KMXpIV7S0",
-  "size": 8659033,
-  "released": "2026-11-13T21:00:42Z",
+  "version": "0.9.47.13",
+  "file": "test/releases/pls-0.9.47.13.zip",
+  "sha256": "e3af6f5ca354deded9bdc75cb95733a50633b982a367033f7ca429ffaf50e8ac",
+  "signature": "gzqqhS3GvivzQ4y3ovwoE24dFTr0iPR1owBSzqpZsHkAeUHd1Cmr0y3yVabu2aS470JvYxLGU8dfGfJXmarfz9omPUVU1sNJa0QwJ7lrUcDeGxY3fpDpRaEwiYfzgWFYlBxSKcABk4om9vzqaA+2/6DLsG6NITapA4oTtdLggd1O71/bZQXRe15cj1IW+WZlIbcTHet7nYBLcYVdXUZQUwfC0M+MSTJ/AgU41XWgas/0WNGfjt2h9yYTUcFNdfdBGKrIglhXf5UdIGzFqOwuZHLFREWMGqj/5QoBoJj+zVSY1lXJ+/haqJoCVKo3Yr6fvNyXdK96uQWcqouhsz4xrLFZNJ8SZog3uAx0NoPuez23zfCZOkuUpEoZjFqt3psIka6AJNNfUApJQL7FpsQsG9cGJXOSb4+9H8lToircx716Cwsk2K/myqjAVlpii/jZo/D5JD4gXlXqlqk1CGZ5e+iiJCAPsMjF2E/wmHi8OsF4MY75EjqveTD5OrAB+Kqg",
+  "size": 9040621,
+  "released": "2026-11-14T19:43:14Z",
   "notes": [
     "Sənəd rəngləri: palitrada eyni rəngdə üç seçim (Xardal, Kəhrəba, Narıncı) fərqli tonlara ayrıldı, «Narıncı» → «Qızılı»",
     "«Təsdiq gözləyir» statusunun mətni daha oxunaqlıdır",
@@ -175,7 +175,7 @@
     "Vergi → Məlumat yeni görünüşdə: dalğalı başlıq kartı (ad, VÖEN, nişanlar), dörd rəngli bölmə düyməsi, hər sətirdə «Kopyala» və «Rekvizitləri kopyala»",
     "Vergi → Məlumat: siyahılar yığcam cədvəldə; sessiya bitəndə məlumat saxlanma müddəti ərzində qalır (sarı zolaq, qalan dəqiqə), PDF hazırlananda bölmələrin hazırlığı görünür",
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
-    "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
+    "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API girişi üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
     "Əsas icmal: açıq portallar müəssisələr üzrə ayrılır (vergi bir firma, bank başqa firma ola bilər); «Yenilə» bütün sessiyaları yoxlayır; elanlar və son bildirişlər sağda",
     "Bank: internet-banka daxil olan kimi həm Bank çıxarışlarında, həm İcmalda avtomatik görünür",
     "Vergi → Məlumat: e-taxes-dən əsas məlumatlar, qeydiyyat və ƏDV, fəaliyyət növləri, rəhbər, quruluş, obyektlər, kassa aparatları, POS terminallar, bank hesabları",
@@ -527,6 +527,8 @@
     "Məlumat › Sənədlər: Nizamnamə «Yüklə» ilə yalnız Nizamnamənin özü düzgün adla yüklənir; Toplu endir pəncərəsi yeniləndi (sənəd növləri, format, irəliləyiş)",
     "PLS həmişə İcmalda açılır, Vergi — Vergi İcmalda; Vergi İcmaldakı «Diqqət» kartı çıxarıldı; cədvəl başlığında «i» düzəni pozmur",
     "ASAN İmza: hesaba «Müəssisə nömrəsi» sahəsi əlavə edildi (bankda «Şirkət No») — formada, siyahıda və Excel şablonunda",
-    "Yapı Kredi və Ziraat Bank: ASAN İmza ilə girişdə PLS ikonu çıxır, «Daxil et» müəssisə nömrəsini, ASAN nömrəsini və ASAN ID-ni yazır"
-  ]
+    "Yapı Kredi və Ziraat Bank: ASAN İmza ilə girişdə PLS ikonu çıxır, «Daxil et» müəssisə nömrəsini, ASAN nömrəsini və ASAN ID-ni yazır",
+    "«Yeniləmə» düyməsi (başlıqda və Tənzimləmələrdə): basanda yeni versiya dərhal tətbiq olunur, alınmasa səbəbi yazılır"
+  ],
+  "notes_signature": "mUPXUC6PbLUvqEJK5hetirDyd0YNOkEkS61VEcwhCzCjYiayJNYpFt0Sqg0dd6karv+Xxh3IKerE3c3LrVd3lV/Aw6eLJkBWjSvMCfG3UCmSMwYcksSuIdtx5GhcqToS6fHEoQSFl+ucecQHc1cUphWx3E2N3xDIDsqgJfUKWEYT4Q4ESVRmy+4iInOSJEyY+GiIINFP04G39O3q44SGiu5xIKDChIo9RHrDcAWOmc/LJmibXQ+TqczGG06iRXyNah8s0Las0h2D7LV6siWnzBRRGL49Ud320lbNZOlENkpTvNR+Cuex48Rbx4Q5vofCCqV0U0W3Yo488LBbd2t6NUQCv/VGXTl33gbh7kL7tbCtUxPvxEafjW7v5HKr81AdMhTdolt2U0Jt3mZh4lWdK6z3RAfyTsqIN8A/SEo2UEW7FwE/TV9RD6ISpOWE8Llu1lAQLF98Rkbh797/HMDUT3tbdIeRpq6fNcyifS2eava+/E3x4MCUDUaJZc+lH6xg"
 }
