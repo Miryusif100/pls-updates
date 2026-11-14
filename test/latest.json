@@ -1,10 +1,10 @@
 {
-  "version": "0.9.47.18",
-  "file": "test/releases/pls-0.9.47.18.zip",
-  "sha256": "5a731ac82461a89a3862c8069f1f890c3351d8cda1efbb0a6bf2651da3f29632",
-  "signature": "x+9Fr3jj7l0JTWhW/txwba59bxWIiM693djBNukLLN/Wo8eB05zcMVhW1Sx8mPf+YcQ73urJOTQAUBLb6Stv9OoQply/+wAjuMWBvuG6XzAZka/G6KlR0AxX3WSr3b+Z1SLYUnFLrs3mO7CjJ0dE71tkCR2WOwXQLBVQEaDbpCSYX4zl6eqTZarF7K/bTBw9nzSQ5wJCXcKAUOdgT/L1bBTFGksP0cBe16MEeC+BUssHVc30bcPty+G+8MdcR5jPi8FeOVqRvEBCArOQ7l3s4zaVfX/6QtTz+kLUkr9hAILNX7zwR+DKojyJJ/mnDgmJj/fb34J9pOHqObuVG20SaUCND3yRBCVGu8IrkWNEtLBjd256UouSEDByRCeoxQ9qU2WcjfdTBecDy8GdLUEO9otEQB/Ix+HjaSiLi0DCgGKLGX10Ios1dlMDdI7vhTg1vVs24OL+CyR4yHSnqTJNSC0mqmTxHXRes4nnpnD7xTuKjXf83NUIa84TlFTX30+Q",
-  "size": 9037041,
-  "released": "2026-11-14T21:34:45Z",
+  "version": "0.9.47.19",
+  "file": "test/releases/pls-0.9.47.19.zip",
+  "sha256": "a571d55e4d384d1b75b4fe391881ec7fa555d33b378df2ffcd9e390a6bdea6ce",
+  "signature": "pqesjpWw0sTjsCk8oBcjDASPfew/ZTFR8oE2iB7qSUDDGmjIXMAbL5QmxbLaUYg0dscLdsYyaXOuECvUqsw5lrNBNlpQsr07/RMHUnZzLKDVckwDNmyFn7zkznmJTSJIzsFqdEKBf6fO6MOj/epts279X7bjNIIl2zXfc78blPfOhMQ6EL0NiQLCRg2MfhUOg3ZQAXhZlk7/dbjBTXn/yfMz5yZy9MUUIkZSGFyK3ato0rX609hf+z9HNZNIWZtNpLdzDPplxsmZOt2S/TgLhKtSQTRoqmFEN4S3S1b4IBakn4T0qgjWcmrbx3hbDq1Qd/BMVtNgMgP+zdQtJ+iUDnZ2qjWkF4mnQaY/o02co8t7E9nF/cYpsX25O3QqPswjaMzkQc62sVcekpVkSfD2ppCysxxTnngTq6vqx7Cd+ykp+8Zn6ausGIgbyXarZ+L7SMn/E9aj21LxbeW3y7diQFWhfVNVwGrXhqovha88m1VDaJ+FO1S9zcWW7lyUN7Wb",
+  "size": 9038122,
+  "released": "2026-11-14T22:07:17Z",
   "notes": [
     "Sənəd rəngləri: palitrada eyni rəngdə üç seçim (Xardal, Kəhrəba, Narıncı) fərqli tonlara ayrıldı, «Narıncı» → «Qızılı»",
     "«Təsdiq gözləyir» statusunun mətni daha oxunaqlıdır",
@@ -531,5 +531,5 @@
     "«Yeniləmə» düyməsi (başlıqda və Tənzimləmələrdə): basanda yeni versiya dərhal tətbiq olunur, alınmasa səbəbi yazılır",
     "Elektron qaimələr: müəssisə və ya sessiya dəyişəndən sonra «Göndərilənlər» əvəzinə gələn qaimələrin görünməsi düzəldi; menyudakı keçid həmişə işləyir"
   ],
-  "notes_signature": "xTimjIK/oxrk+95FnwjY1ytYbb8mTrljj2qJ9lFKvszPKiQLrtE0W4M3maEeKB2TNjaWPhCXmYc+SntwGcy8q13vHsmWXd7H5ALdzg/cNDvyksjDhVQFBrM6K8woLDqFAX/OooXcRaUFi/DhuaNv75/EQF88s01oGRVf4WMUz9UxHt/mQ8c9rJTzZjI0K9GuAVj4IWs8WuxOXX/Z411BVj018cAx8NKI+XGoZc9oj6b8Dr0bst3wmpUyKyamj773r7U4lYt8D5ctfkEwS47ER0/D/066nB8/E8iiYC4WPpbmFlOmMnfl/fleJxn7Tr4h3nrDgZBEoyfdR3/yPCFytoTRrodcj98jAMMYPVgm59FLq+zAto/5ROhJ8G3Q/mtSfb0QVhItgGD8Eb85Z3QHdOJSYvHup9cYmElicRu3IZ8wNOM63gAz4FZngezUcvy3CuXvaA1ZvqA1jodUqct5ZrfMC1vWTL+RbBKJrhV189MoQoZV6qxPubfijoTeVm0a"
+  "notes_signature": "rbIHuUx4IddXRdggOjXX+85IsqDZ2jE6TKpCkJ0rX7qsY4iR/QnVnc8ECv2B5QAPpXo2Yz4Prm9BOPz+81tBMVqSfCjl9kmj3Wt4k18/7C/JNeJEX6DepK7vdTXt/RzylY3hySiMNciEi+OmW67anVD99IQVbIUUv+Qmr33jy9f9JJEPDRiLThIqUrbTMaSrfT1NrdNW/mK1sB7fMHMwJTDg6V4NZe06Z6x8AnlMv2xYNaJe2eKdgjqyvYkVjSZ4FMJqw2Mn3IZTr/OoTuJoHyzsNQxX5IK5tSWHnL7BfjC30y7reOI8foXeafGC4VAkrDW6GAwuYnjboklFnG3S4m2LwJJI7e7XG/d1dhAIuaPrBZeIXZ/2pVhSClU3lnJ6UoAuD/ktUiyzx6/qnNU9qvO7B7XSN7w2BjySFpfODhk0+/bDzIYpm1ebv1cJz6G8sq+VO57DWtvABpfPTBlDf9zBEF41Q0NnfKEuiprfEu8hWgRGA1o8e61skEPMYr8U"
 }
