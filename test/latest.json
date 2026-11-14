@@ -1,10 +1,10 @@
 {
-  "version": "0.9.47.10",
-  "file": "test/releases/pls-0.9.47.10.zip",
-  "sha256": "e76effcafaaeee8acd0901ee9318e6099c077e371dc117b1834a4d5ec58d421b",
-  "signature": "qkpT43Xxij6QhZfBv3iYR75Q0lN1mfIfyHvaaaT3W2gnARCGlLwBOt0MjsvFMt3w++O4E+SFGPF8zCeyftrL+Vwi6TQnWMzbAZ03E0Em5jW3D+nG4rZUxXW/chJwqxWrsidLY/tgJdqgkqQkE9rGCWnxHmIs83kdfZtmCP1G9nFdeKHgi2VRzUTJocn1r9vZGbEcn5f3Se2KIPub6B2qW4EPsVndrb+9nK0leRG5L9Sf7MJvxKA/+Nl6buKV8cju/5yzNz6goDFvdIr6JBCpjXhfGiBfAXc8XjYtG+K7LNtxhZ+0IQY5ExiY3QrA9nF1MlkjV6Vj8xDIL/fYqgChy8fIHGAfxSm63v1H01F1ZpABvVi8vha3lE0emiQL7/f4tPcCve1Fh8C4AnrkF7F47rjegbK1iwE7PvYuBZifcZ2JrEbS8fNCWxGpKSXmOa4Eby8+goMKdawdWxIv4AWXjIcViJBLQW4TY2SpQHP7HVQJe6TTy/5BlrECgbfE4rzS",
-  "size": 8661110,
-  "released": "2026-11-13T21:44:19Z",
+  "version": "0.9.47.12",
+  "file": "test/releases/pls-0.9.47.12.zip",
+  "sha256": "3df909bd4622cd6b163d3de5298210c04b53441d856ab6508a5c431752fad76d",
+  "signature": "mfStRMyBnO0eW36sFb0u+Npo+Fv3fgXgRchcLhomnZ42JZJ4wHGB8snyOcG3YS/GDollHYPEHdD4nUmiavEVXrV3oYL67ZeEYPzIK/hHZ2KAelW18YLdukvLbOUm4WnkYfm6yHYRKmZS1UyPUqEc9m6Qq8EgWYPeeltj2tdcj/mJ4IcJr2ErSz478aXKF9/DvGpLaP9Tmhl51QDsdPXgzTTSzYT1i3Rip5+hFD81um7wydmo+6hAe45gfEiEqOU2bpvXth/vvulIACHTJOurRJG8LbVEt9hjvz8ch4bHhGZdjdtAkqLK6y35GOb0WyFQAvNvq6ZaGFcM2K8/Y+sYwgkPvfWs4hOS2cSpLcRByMkzc2EG+B6nRpaA2YpUHFtRBvdr88AJEyjHfwrlftKS/PdybrsF4Nw2BJJG9V3qRXqPAGMrlMaF6HUarkL1DljEBnD9ggvp7slD/WZkmH0I7Qz18v6kyNQqago6p0AI/Gn8vrQYuse9abpvjz7zyoND",
+  "size": 9039751,
+  "released": "2026-11-14T18:55:39Z",
   "notes": [
     "Sənəd rəngləri: palitrada eyni rəngdə üç seçim (Xardal, Kəhrəba, Narıncı) fərqli tonlara ayrıldı, «Narıncı» → «Qızılı»",
     "«Təsdiq gözləyir» statusunun mətni daha oxunaqlıdır",
@@ -528,5 +528,6 @@
     "PLS həmişə İcmalda açılır, Vergi — Vergi İcmalda; Vergi İcmaldakı «Diqqət» kartı çıxarıldı; cədvəl başlığında «i» düzəni pozmur",
     "ASAN İmza: hesaba «Müəssisə nömrəsi» sahəsi əlavə edildi (bankda «Şirkət No») — formada, siyahıda və Excel şablonunda",
     "Yapı Kredi və Ziraat Bank: ASAN İmza ilə girişdə PLS ikonu çıxır, «Daxil et» müəssisə nömrəsini, ASAN nömrəsini və ASAN ID-ni yazır"
-  ]
+  ],
+  "notes_signature": "E0XPJpe6QFuNqk3zlR07gkoKus41IyveWULDyJCVN9JhSNzr7G1Jsiq1NF5GFtcLa9pi0eT0JpwRVOwQ4r2BRwXS6afAaCV4rIuO4tOZB4qAYur8KrIOpJt1DanJIp0y5MDGxffksnItacmzWe+Bzvp9meQg3tQ5g7BJLWOjNMBhBy1xvWxSXfnVKvMPAnZwRsB58T+B1Z+GGMQ8FZZLEz2eE5vaz+yOa4H4P9+4GW59PkX2nnb2/EAJf9teIaoyWQydHmj9Xa1HGfHw/8x12ErGGds4ZZYchTY623pvHB3t0inRHWAfy8Q2DMXcwL/sGNdn/nelRR1R9SyQnqd7UwzIvRgfMZZ+7ZwoqqcjKETqWANXrqC9opU+JNF4u3LqK30a/9iKnpafpTvJhQeuKxP5dG9VH8h8ne7t2rsgBsDxlmZGexFqy4NeuhIhx0SRQ7HAV4xiw/k0oV/UHwqbYyjtSx6j9Z2ZOxwBc6iOMS9GWIOn4/cDEmkUXooHcy3o"
 }

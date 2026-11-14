@@ -1,10 +1,10 @@
 {
-  "version": "0.9.47.6",
-  "file": "test/releases/pls-0.9.47.6.zip",
-  "sha256": "591c477a0c416c507d9d6a943d5673a03fbae5d3a7626e88e2b2df4c09e265f5",
-  "signature": "fyX6Nxg7gQyPvvQDKxcZb2ZtRk/sEEsuGuah2na+kSZbX0OecmgDr/uk3oVm0DGRSfzRRKCbrxrAo57aWfAkmEp2zNC6EGzejWbtiD/MCJ3Giu/1T7xhv4hPfxcs7TisLkOLwuqWXVs+h6D6VVKx0jk6cG9d5ZM6u2nV3eEsQ+kcyCxHiZY6iiYuxm/MVEBvx6HE0sW1+4rwIAC2m+sldpL7DGyowunE8HLZtUKdik62JUKJXk1IUcVPBSkEBw1gr4pYYhpOWKWm/Lg8TIb2+tyLZ0FTz91j36pSfBI3SYdTgrLnNa4Q641fIGZxttscieqwqESvHZWutqStH6eKIiGh3pm24xqwYXF9PgstF3cFtZYP5TCY+mBwFWrS7mrdzAeG3yEaavYzHt33xhHa9mwrGjcL0t4Rttrh3QtHIJoVMlOKk85ANiJtYIznPGsGXVDzb3VbLx9Pzvk1bamQ4DjP7XcSZvjHy4Jwfzex5BHO7XxxHlQvb1IFKjP6odHD",
-  "size": 8658444,
-  "released": "2026-11-13T20:42:44Z",
+  "version": "0.9.47.12",
+  "file": "test/releases/pls-0.9.47.12.zip",
+  "sha256": "3df909bd4622cd6b163d3de5298210c04b53441d856ab6508a5c431752fad76d",
+  "signature": "mfStRMyBnO0eW36sFb0u+Npo+Fv3fgXgRchcLhomnZ42JZJ4wHGB8snyOcG3YS/GDollHYPEHdD4nUmiavEVXrV3oYL67ZeEYPzIK/hHZ2KAelW18YLdukvLbOUm4WnkYfm6yHYRKmZS1UyPUqEc9m6Qq8EgWYPeeltj2tdcj/mJ4IcJr2ErSz478aXKF9/DvGpLaP9Tmhl51QDsdPXgzTTSzYT1i3Rip5+hFD81um7wydmo+6hAe45gfEiEqOU2bpvXth/vvulIACHTJOurRJG8LbVEt9hjvz8ch4bHhGZdjdtAkqLK6y35GOb0WyFQAvNvq6ZaGFcM2K8/Y+sYwgkPvfWs4hOS2cSpLcRByMkzc2EG+B6nRpaA2YpUHFtRBvdr88AJEyjHfwrlftKS/PdybrsF4Nw2BJJG9V3qRXqPAGMrlMaF6HUarkL1DljEBnD9ggvp7slD/WZkmH0I7Qz18v6kyNQqago6p0AI/Gn8vrQYuse9abpvjz7zyoND",
+  "size": 9039751,
+  "released": "2026-11-14T18:55:39Z",
   "notes": [
     "Sənəd rəngləri: palitrada eyni rəngdə üç seçim (Xardal, Kəhrəba, Narıncı) fərqli tonlara ayrıldı, «Narıncı» → «Qızılı»",
     "«Təsdiq gözləyir» statusunun mətni daha oxunaqlıdır",
@@ -175,7 +175,7 @@
     "Vergi → Məlumat yeni görünüşdə: dalğalı başlıq kartı (ad, VÖEN, nişanlar), dörd rəngli bölmə düyməsi, hər sətirdə «Kopyala» və «Rekvizitləri kopyala»",
     "Vergi → Məlumat: siyahılar yığcam cədvəldə; sessiya bitəndə məlumat saxlanma müddəti ərzində qalır (sarı zolaq, qalan dəqiqə), PDF hazırlananda bölmələrin hazırlığı görünür",
     "ASAN İmza: İcmal, Hesablar və İdxal və ixrac sol paneldə ayrıca bölmələrdir; İcmal yeni rəngli dizaynda — son istifadə olunanlar, ən çox istifadə olunan saytlar, tərkib",
-    "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API tokenləri üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
+    "ASAN İmza: hesabda ABB, Kapital Bank və PAŞA Bank API girişi üçün yer; «Daxil et» siyahısında əvvəl dövlət qurumları, sonra statistika və banklar",
     "Əsas icmal: açıq portallar müəssisələr üzrə ayrılır (vergi bir firma, bank başqa firma ola bilər); «Yenilə» bütün sessiyaları yoxlayır; elanlar və son bildirişlər sağda",
     "Bank: internet-banka daxil olan kimi həm Bank çıxarışlarında, həm İcmalda avtomatik görünür",
     "Vergi → Məlumat: e-taxes-dən əsas məlumatlar, qeydiyyat və ƏDV, fəaliyyət növləri, rəhbər, quruluş, obyektlər, kassa aparatları, POS terminallar, bank hesabları",
@@ -528,5 +528,6 @@
     "PLS həmişə İcmalda açılır, Vergi — Vergi İcmalda; Vergi İcmaldakı «Diqqət» kartı çıxarıldı; cədvəl başlığında «i» düzəni pozmur",
     "ASAN İmza: hesaba «Müəssisə nömrəsi» sahəsi əlavə edildi (bankda «Şirkət No») — formada, siyahıda və Excel şablonunda",
     "Yapı Kredi və Ziraat Bank: ASAN İmza ilə girişdə PLS ikonu çıxır, «Daxil et» müəssisə nömrəsini, ASAN nömrəsini və ASAN ID-ni yazır"
-  ]
+  ],
+  "notes_signature": "E0XPJpe6QFuNqk3zlR07gkoKus41IyveWULDyJCVN9JhSNzr7G1Jsiq1NF5GFtcLa9pi0eT0JpwRVOwQ4r2BRwXS6afAaCV4rIuO4tOZB4qAYur8KrIOpJt1DanJIp0y5MDGxffksnItacmzWe+Bzvp9meQg3tQ5g7BJLWOjNMBhBy1xvWxSXfnVKvMPAnZwRsB58T+B1Z+GGMQ8FZZLEz2eE5vaz+yOa4H4P9+4GW59PkX2nnb2/EAJf9teIaoyWQydHmj9Xa1HGfHw/8x12ErGGds4ZZYchTY623pvHB3t0inRHWAfy8Q2DMXcwL/sGNdn/nelRR1R9SyQnqd7UwzIvRgfMZZ+7ZwoqqcjKETqWANXrqC9opU+JNF4u3LqK30a/9iKnpafpTvJhQeuKxP5dG9VH8h8ne7t2rsgBsDxlmZGexFqy4NeuhIhx0SRQ7HAV4xiw/k0oV/UHwqbYyjtSx6j9Z2ZOxwBc6iOMS9GWIOn4/cDEmkUXooHcy3o"
 }
