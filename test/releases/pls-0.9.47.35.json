@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.35",
+  "file": "test/releases/pls-0.9.47.35.zip",
+  "sha256": "3bbb73e8b3c7585293f7b60bd8c77e9b4d1ddcfdf0a661e27b9eaaa4313b8a6b",
+  "signature": "Msk5q8gnUyL7gBIqEBk0NKQ4cMc92tudZvY2nU1YDlW1mK+3Wmqm8SXZu8lRXYpjhsFKDEANV82no+NaZpM1FZBHXOOH7289DUABJ2DMmcC+rGZMWkr872pGRvigIOIk+HlAN6lcWvlSmtABl1pCLJyKDxKCTCrvy2F8zgZt2yuj66GOK0TgmHk5h38NLW4dOEaLqZNj/OfQVH2T8o8QWf11Sf5suxQftWUKH/i82vahxyEscjoycrVGyZ4bcaz2gmVzIZsdblPG5Ox8RGyCVzI5JVv9Hy6HRcNkVEzaTpcOeIEbGrsqCcMzKqMTpe9ccYgbuLAGxMFH3b+xCFxFO1Z7f4gsq9PLsWaI+7+RIN8EQW5bwNBkdP8Fs7Neh/ZExzGddKEiV20W1egPQhg3a2FDwela1gDoYvfd/bqsUttIY8ls8yMQeL3cxYPQk/9ldsQxndnTFIZCdGi5fkLb5A0f7bpcMn40fIhz2W+r/tg6Su343LLUXdtRHyk2zB/c",
+  "size": 9064791,
+  "released": "2026-11-15T21:12:31Z",
+  "notes": [
+    "#183 Əməliyyatlar: MQ/VM 177.5 dövr avto-yükləmə, MT → qaimə, UI paketi"
+  ],
+  "notes_signature": "TzM/0a+8WUfWr5oxnrWYbbylw30lkPTlMkMSt2XuulcTXuRONCbO6c+GsqQkKckbhIqjLRxdHs+/NJocRkpu6TXSxYReAuBxI0P5uyUYphnHj7jxAkzuc/llK1yTghrahtY8PcTsDbt+78IviBOz+l6DbkAA5thIxkrrQ67uDwXXnOY9d4MInuoP4QZV58DuymFdC2NSMFOmkTHr1F1kM00ANgNdNjM4IzYxskM8X/q5K/JEyxkEBjTaw4NAm+mWnfDv7bzedJTB8a5lT3Lqp/92US/h+dD+2uMkYdtL2+04cQT7/wa+o9nM3NZ3ja1a1JMCyqRyaOEQ6rfkfGhlsulAuQf38TSU1ThtCRoWw3JCfub8+42TE5eolTTNbV6WQAQN1InnnC02Zyf2BvqEHKGw2xqohncAzSZUJzvp5nwJMK9S0ZZJdRLubYDGBl+q1PwU/W72CfzgTr4Dk1WUXJ5GZCILz17MGmohtzEE2PI4UeL+K/FcE2lIUNdELcD3"
+}
