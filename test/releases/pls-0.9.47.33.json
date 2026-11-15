@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.33",
+  "file": "test/releases/pls-0.9.47.33.zip",
+  "sha256": "4bd62ae19775e9263d0b023256460967a0605f2dde6a875cdab112e2250b516f",
+  "signature": "uAdj0L0JTwGdGizAxXQvq+kWqlEa38wPe57tWV8F1Q6mOhQMYKS/GdfJiaW3xgLkLU8zN2XjJZjQOKHsbhf1HSrS5cBpSyshOeYCvP/gqTh2BBVWzIlfDvszD8yvtZVu0sYCwTX8Nk3M1Uxbh8eKO4xXS7zgahRX6FInUeSqU1PQYiXQJzbwGpiebr9I+VA1lFlAKsZv0okyPWr1TlVJ8uu9720EKiqsdD4hRFgMIR+etmko0TPwWZYQOMysBZAM5J6kUD3G0dmY72ORtPxfReJMh0mqf7GCaRzzUQelfa8t41YUt3+fI7JjolXWdsRUboR0J28mva3NCIe43a8ePvSs5t6C5Fv32oz0nk4xRxab4AU6LycFmQVCfW0/2Fs6V+TdDvJUqBeWTKLb4FmmEdHxoJXzFB7fbgit++Csn1e9ci+ngmaO+Ez6oguup0N+GlZzseBBYimu0f8o+EHYwUuo6pFCTjWlfai9FlgU1Tgyxx6UJH0KLGPYBvok8Chl",
+  "size": 9068573,
+  "released": "2026-11-15T20:25:39Z",
+  "notes": [
+    "#179 Bildiriş: elan səhifə yenilənəndə təkrar çıxmır"
+  ],
+  "notes_signature": "cxidL0+wxZz1/X9zL0iaol3uwJm33CAEu+xFptRukMUfEe+wUYbFN7oYAPKlZxVMOI9U81jBizq792Q35vsnmJpEegZm3ROY5Iv7M7cRmzy7VROZO5KpYAJY5coiUGNuZqMh4a/Xwyruze5CRE43QQ3zPz4r4SUWTDLvEnwh3bb4CTGo3egwp4iKlJnoVmigXAROfFiBbt3VMAhaoDZNw34KWvewvGXjLAGc38tn/npseBigGpjjvkApfC8rGTY60eSXu0GyBTZuWUi/J+oZxT2cmKYF4D5LhvcOMZ7aS8xMk041cUjjVnIzQSRxOoWjLJLciwdy7jytGtQnIMGC6LKISYsTlHNErZFVBNLzI0bRhRjOwDPGJvmvFkuTApF3vYSBPqbu5bIabK/miPEBSmzTInoYn/eIWSTrHAGABKMT6q09DaYdkKya1gxig8Z6GTp8eGfkouTTA+5co/fgHZGA75B1R1h/RPQFJ8Fgvm/KuavbYPPu+dawX1Z9JV9j"
+}
