@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.41",
-  "file": "test/releases/pls-0.9.47.41.zip",
-  "sha256": "d3b80020836d8de8d01e1adc7c1693cb4b3e7f672dd35732433ace7a234e4188",
-  "signature": "R2HIVSyJNKlmICEYfvPUTXuAI5Te52BcukLeZYanKo06lvMf9+i7W+trKsR6R2UERqG44Nn7Y//zKaYfAVQbteNn/O9epVtH5+O0fqCbGyJboMwtlCsZnOi/+6IjHbvHO7nBa4pjpFSHLGy1FMfL6LexVi8eO76Qzle7BDwOcD3PIy9Lj+myLku20/EoWnhXl/kem64yHMxyJWi38oy3wC1vA3jllrYHwheON1t4mpXK9qKO9GWH+lf5DE83/QgAqkYf6pIpJM80nj3j3bPEgsIJz1dqxkIhr+Sh1MTptg4ri8v4SeEcSK6siP53KfQFHkDbBL4h/YHU8hVxfnZ0oFLFzxwnVCvmji792PuIX0KOP+qkm2pMIpxKD/wSAFBb8KgjwIyVEkLD96BsgdkTQ/wOPUvhUx2jbnOmSZFoZHnrcpOKoiqNROFAtXNyz7SrMyqp85U5BRQNqhOcbXuK/9iKBqO8/CommuQKnux4QqSGA5osXXLys9oliQ/pGEI1",
+  "version": "0.9.47.42",
+  "file": "test/releases/pls-0.9.47.42.zip",
+  "sha256": "3427ecafa096298803fe47e18336b425f6b649d96ff6a09ff4880209f9faf009",
+  "signature": "nK+mHA7LbNbXsNzYJouOpKvve52wABi+JA1yzt7J3FGC/0wkg35unKsGt97kubswG8/97/Bjt5wnjbKiE3pnUDLrQRaViAztdQJ1ZmraoDub8awHqQoxLE4qyblO0g10ucBqSTyB5C/XRDbZqrGihsnTEX6Z9dx3snYT2DcVc3Jyvt+fS6VKsBGx+U0N5Z8/X/p/Tb0V8+ZwDLfih7uUgleyjjuIBb+k5M8Jpt8lwJZhKkD0PpQX9H78CFVNB1q3ZxA17S2hcl88lgf3amDa19wunl0iFDJrQxtr9/52USoDlv9LRYW6zcBSFyFwEX6koYUe+Ybr42TsKvZnfzG8bOB+GXPaOYzZieHvb4TifAH7O2xPbLafv9CbpeBMmQOm3LHpO8rDwmgXAklfJqRJmBx70Da24fTb2it/15PkIqjWQwNzarqTygaO08le+qZEz02/4Cjt1oEwMSJvHFZlaaLI8tKg+iL2c8rjjrVYwGb+A8tT/oNPwKjYM6oGWV37",
   "size": 9069367,
-  "released": "2026-11-16T08:46:20Z",
+  "released": "2026-11-16T08:55:03Z",
   "notes": [
-    "#195 docs: sahib qərarları 16.11"
+    "#196 docs/38: S3 ✅"
   ],
-  "notes_signature": "T7f3y6Il/uTD7NiMJPCBwkKmpZ2Dxk7P/TWD59X9pn0R8/pINm6Q43fRm9hK/GH/gWtJ+qPMNxrFFRKV560KIvsuomqOKf2JbKFjquRq8UYrrIgPvHQ3hK/1VCuxDO/jaM/1s/XEybbOp4lg8arEGXImjbcIKSFt4FDK42syH8crCpmf2aBwCITAoct+Nrsm+1zEX0lREjkbE4iv/opbXExVOW+PXLwNBacxbGcsXD3j2XW5+vsjUpyyxJXKs4JeRqqhOrEAOKTcWkK5a5uLPCmuC1TN8aQEgEY4I3lX+dHF5c4kB05XpfQrAlCbwvbuWq+H2p8MmgH/POV2rlWaxhQB5ushvlub95EiiW+CH2zUBZ6jyfWtyqu8wPnV4Ia9YolUnILq8lTdfObX5XS2KWYyJHtZQDZ7MuLq8fcfTK2MfaAgTAbjvkSEDb2kvFqYm6TW9wbjxNb1noFciQXTU0YErGPwosLGGyHcLGDYUEzZalwvuVSjHhmh/kqLZ1ik"
+  "notes_signature": "Cdv5t4rxYImZR9UXQ9irzeP5VK460kd0aXweH71C59dhZcF2iR2IIFsJgrIr7jXVv9R6gokaJHCul1c9kM+mWzweMX/4DmVLNcKttfiIM9KA6VwODLIBVX41SAEpU28I2nlnbXHfSpnuOQcFIBV82q6EMhz6zxDFh8Z3VJ7KIpy+yr8753odunMdvGuJHHvJRZXrLFyVcqaUtwoTHjL0WHxgbPbmnxTUYCJ1qcfhi+ZNtyF0mBbMtRNeGJpnku3BZ/QE3t0tPo6YiIENGrp9STkvmc076UYldn2j5dDic7pagaKl//kYEDNn2tRYht9HHD7JmC+HbRzvrDuxZUnhp1Dk9Rwnw3cwYbdb23ECkj78+uydxR835bIInB7B7fZLe1ak/rvIZzGbGBKXYdK7MdwNCZVTOz9FH0z7AHayZHTzLAHqHRS8LeW5owVnXiz0spmJw9RVdY1el3U8sZXwwXxSzSpfTFgptRtE3TLHnmfCgUoeM2QPdZSltN0ZY9jO"
 }
