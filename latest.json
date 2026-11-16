@@ -1,10 +1,10 @@
 {
-  "version": "0.9.47.18",
-  "file": "releases/pls-0.9.47.18.zip",
-  "sha256": "5a731ac82461a89a3862c8069f1f890c3351d8cda1efbb0a6bf2651da3f29632",
-  "signature": "x+9Fr3jj7l0JTWhW/txwba59bxWIiM693djBNukLLN/Wo8eB05zcMVhW1Sx8mPf+YcQ73urJOTQAUBLb6Stv9OoQply/+wAjuMWBvuG6XzAZka/G6KlR0AxX3WSr3b+Z1SLYUnFLrs3mO7CjJ0dE71tkCR2WOwXQLBVQEaDbpCSYX4zl6eqTZarF7K/bTBw9nzSQ5wJCXcKAUOdgT/L1bBTFGksP0cBe16MEeC+BUssHVc30bcPty+G+8MdcR5jPi8FeOVqRvEBCArOQ7l3s4zaVfX/6QtTz+kLUkr9hAILNX7zwR+DKojyJJ/mnDgmJj/fb34J9pOHqObuVG20SaUCND3yRBCVGu8IrkWNEtLBjd256UouSEDByRCeoxQ9qU2WcjfdTBecDy8GdLUEO9otEQB/Ix+HjaSiLi0DCgGKLGX10Ios1dlMDdI7vhTg1vVs24OL+CyR4yHSnqTJNSC0mqmTxHXRes4nnpnD7xTuKjXf83NUIa84TlFTX30+Q",
-  "size": 9037041,
-  "released": "2026-11-14T21:41:15Z",
+  "version": "0.9.47.39",
+  "file": "releases/pls-0.9.47.39.zip",
+  "sha256": "2be73c341965c44013bcc2353a80087e07258a9317157b57f1bae71db444ad24",
+  "signature": "hW7uNXBQGOM3c43+qv7Bd13Sevkh+FPAWsW3JqYf9zJuBbgRkZ8Z/1Bp9GT9MrZX/9omaBQ56DHFRH4QCiZaf/drDIo2UpBHd0kjuTEQKmbTyZJyQp03O1q6y9+/0s12dShDg8Xsd15x5vi9v09GlDmHyuqotf95TMpbwUpDYWZKGFXbak3yOPOZdHYRs/c/yE2w5UAjYtCa1tl8jPeuuYK/W1qJRLVA8BTFn7U3NdMUFDHjuOv1r6f1gmfJQx1v5WExzXEkg3QJ4UVirfwQefAnx24ilVsZ8czESNnECfIducV9GeskodQguBTH5ZjDh0Z+qc/RgDVFnr9gQQV6IMCbEZVJsVPjmMrWLgpNZudrYQwA0DUZg7teRps+e1GtApzGpArKok9+ePcURnf0bFt44/f0AHTdcCpS2rb4ntgwz5arFqDSkBnMzIMZUmhsGIb1za+amZEuUb0A88NisxHguiCxKQUU04ppleit3tRnn7UHHlX6+YffAG4ccvK6",
+  "size": 9067298,
+  "released": "2026-11-16T08:31:47Z",
   "notes": [
     "Sənəd rəngləri: palitrada eyni rəngdə üç seçim (Xardal, Kəhrəba, Narıncı) fərqli tonlara ayrıldı, «Narıncı» → «Qızılı»",
     "«Təsdiq gözləyir» statusunun mətni daha oxunaqlıdır",
@@ -531,10 +531,10 @@
     "«Yeniləmə» düyməsi (başlıqda və Tənzimləmələrdə): basanda yeni versiya dərhal tətbiq olunur, alınmasa səbəbi yazılır",
     "Elektron qaimələr: müəssisə və ya sessiya dəyişəndən sonra «Göndərilənlər» əvəzinə gələn qaimələrin görünməsi düzəldi; menyudakı keçid həmişə işləyir"
   ],
-  "notes_signature": "xTimjIK/oxrk+95FnwjY1ytYbb8mTrljj2qJ9lFKvszPKiQLrtE0W4M3maEeKB2TNjaWPhCXmYc+SntwGcy8q13vHsmWXd7H5ALdzg/cNDvyksjDhVQFBrM6K8woLDqFAX/OooXcRaUFi/DhuaNv75/EQF88s01oGRVf4WMUz9UxHt/mQ8c9rJTzZjI0K9GuAVj4IWs8WuxOXX/Z411BVj018cAx8NKI+XGoZc9oj6b8Dr0bst3wmpUyKyamj773r7U4lYt8D5ctfkEwS47ER0/D/066nB8/E8iiYC4WPpbmFlOmMnfl/fleJxn7Tr4h3nrDgZBEoyfdR3/yPCFytoTRrodcj98jAMMYPVgm59FLq+zAto/5ROhJ8G3Q/mtSfb0QVhItgGD8Eb85Z3QHdOJSYvHup9cYmElicRu3IZ8wNOM63gAz4FZngezUcvy3CuXvaA1ZvqA1jodUqct5ZrfMC1vWTL+RbBKJrhV189MoQoZV6qxPubfijoTeVm0a",
+  "notes_signature": "r5NxM4oMHclWk9bH5yLhJc3EQy54QNiSCIbXsp/8loINZH6GRpjOp1bQlCL9iH6rU+BFNDBxK/jNg7TOcYo+LWKsG0nhsq+gG2bN2oqQZOx7nv32SixUfl/lqLw86WhDR6dtx2DIu9ql8LqQhOC/9b2jEGu0ZSqTRDqBx7+seVg+tee5qLcscCM0q7/Rrf4qoAqw5tM10YOagLy6bVdbP6iIBNAhOFczhopD6bdE31FUO7/ev9oVu2LtEFFPqqf9mtM1+HobqLUJ+Oy2D792VvnrDkpywWHXKTmmWpSXXHSNuDqgTMRcR7MhCLv+xU8N8ZEbnn3zGdcjR0mWA1trvnCQnSypj4m2JoB3KuKI7KJzwPjLtNIoZB/tM9xHYsIZfph0oPnzIs5D9Q2LdOofa9yu2S56q7K35He+3RIuWx95DewVPiy54WKt46TznqgbvptCxqXaQ8qL18R+e5ehQQGgCSvJVsagyhxhYT7OlxdukebikcQ3dOvh2MpII5K7",
   "installer": {
     "file": "installer/PLS.zip",
-    "sha256": "cdc8b5e35e375c8ce57b7b8b491d44075fe72c38aa043beec0671b4cda80a85b",
-    "size": 9073802
+    "sha256": "e9c4dc2bdc773378bbcd388214784683c74a335140b285b2c920d83563f2c2ff",
+    "size": 9103627
   }
 }
