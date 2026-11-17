@@ -1,0 +1,13 @@
+{
+  "version": "0.9.47.60",
+  "file": "test/releases/pls-0.9.47.60.zip",
+  "sha256": "2d6b5b3cf6491b670b2469cec5aa07185b510d39bab060104b5076b4e298477c",
+  "signature": "Oo7SmYCcUlN7pJvRZQWAh65UPLTKFwRqTj3RtQciEWQsQCcBoaY8oogk7EYSJmiwtsqqyASdtDuGTWk3dqXT3LsKzcLUKbI/G3JW57gz6GzYmOd60godoN+kDFN3ShKreQgCF56sFJ7ey/JxbEBcO07UlDakR8nxN+IBG4XcbvXN+1w8HUP6ps2qJEbw0crnsGOFVjQgjWz4flPFiBzQkuycwO+34SXBYNjWQX6wcI7D9m9qhZuEpxiZDLozYpy9nFxYmU68jfTFtWBN1n9sfkEo+AwsdIhQj59ALfzqGW91/7IcBx0Gy8pEDs+mpMkCWJycnn9JeqD7tefbsvrCHTwhGle2QTI5FRvVmeQFGTYBAT/gEoBQrprPSikeq1kVpYfrFTRTvZq2sr7dACuFOleJ+POtScJ94UDJgOmpxuCD31PB/mg0ezy2j1Vvl2L/M+Nq7caMl85tCRpFOTAEmbTEUIs4EpKufVD4E7pPW5GL4N7in4NqcUygbmyInTSQ",
+  "size": 9101306,
+  "released": "2026-11-17T13:28:13Z",
+  "notes": [
+    "#237 Tənzimləmələr: «Yadda saxla» qaydası İR, Profil, Yerli Aİ, Yeniləmə; Müəssisələrim — yalnız təyin edilənlər",
+    "#238 Q-183: başqa müəssisəyə keçəndə vergi məlumatı saxlanılır (Fərdi › Sessiya açarı)"
+  ],
+  "notes_signature": "qS6zOGMvQ6z6NHKdq69XaoLlt2lm1Lxdr48FSlcYZNTohRL1w+0zNN1jopjoAkNzb16z3Vpc980CqvSCKnbaCQoN2Co4NgifmwC3K9YBRhS3ejnPWoBwYB41TCgXW6Tt23tY6P8TWyqJmXq46Jb39poo+8iGpv/BFCdaF/A+RXAj41YMu8Z3zPAcfY9xUuLJmzF2Z7I4m6ZWDWZEcFM6NY/au9wPvPYltdnjUU9FREDfyoyD2xLc7fdk+EQP/5lVNmp/2Ke+8Ht/TJhuYBwFTaRsSvSa0jqKKn6zYmrzuevdvcqkAZF2b1QvbriPl01m0czPCP77dofcBTvY4mOEUTLRYZDWrjN1pLg+Q9TLFUNJ9CK2ZUtghDKAjrLgVl9vfIkCQ9zrSm8QBmlovBikn7zBwXhstfqwNswTCTYN/inQHILAMdZavMY+iS4dU9e5mN7lqK576W9UkSaCJuFJ+/h+BuH9lSLgNn/BHd7YbVJ1snJSO6kZHEF5O9alUQyr"
+}
