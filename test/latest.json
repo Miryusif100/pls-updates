@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.64",
-  "file": "test/releases/pls-0.9.47.64.zip",
-  "sha256": "87f1c98afc9efa3a7713228e7d443404daa73d09bcbb54aeb7cb3d8c67aa4b87",
-  "signature": "FHZK79TBrWdVCdS7J1W8nAsz0uPPDlw1uuunGGElS6YfQYBL7HkWiJuduIw59F91i6LOM2ewaJBkq4O5Bi1RlmEkrsHeGpmKrSItuNjOrPizMbJNl5LjtwCv516PYglEWzFvsoAw4hlc6osYYLCV10+0EYaLBbpG8Gf36TtXVugomzQchB04ifjCsXWX1bFAl6/DLcNQJic5WS8iczY+PglDzCdmuacjPHH0nlHggz8tAWdtT0xGRc/lnEOTUMeDjgsOlaBmyC3jjfE0EJHpcKrH8+4w1bMjOI+r903AcxoTdhvQibhtdVmF+yFAREla8tMN8P0NeDiFt7hNbKh6JjIg9FvSwzLMyd9FuHw1pWhoRakLFyVB5PHYPf9QbAMMR5i7La5RTqE1C3AnGbfQE+i3U/cyLbGYlWWBloNQuDNRYzwCHDIZGrHPIKBsFIhv2kMGrTROAh9bKjLu/N+HKUh0R/sLNZQQeBsamiVZMESJima/82E3YNeoEjUCSD4l",
-  "size": 9113465,
-  "released": "2026-11-17T15:18:10Z",
+  "version": "0.9.47.65",
+  "file": "test/releases/pls-0.9.47.65.zip",
+  "sha256": "3ccc7074d94d1b6f46343d4230d6d2b6d35b8824b99ba1f7a3213d9677b73a5f",
+  "signature": "IjOZGs4OTVu4HfYtYGkEUjWdT81AeygE1gEshKLhVkMoy0iB+6I2+y4JGbe0E4BEamINf9GTrvF6rXXNPxV+ImTtvH2OSRuDAnOYA5zUZa3OyxltQgmGkpY6xiQsytF6lOE4Md8vqsb3BoVX9eYyW6adx9OECAC609aAYLalYG9z+BWc000KkA3IasD1l1k0WGbQ1axUk/6k687fBcu++XxK9qnEPBscIFXS6fn6WfIfAwWSry7xheQ16clTtm4e2UYWf5yyD9mMDa6OiNjq0Jnn6/aijHi2rPXxQ46VUkODnbP8BwedIXExpQTrMfWLuKThK6I3KjvtVv9jS9x78rTxITbYf3hMNYkAGtKyCDmi3YUf/MiLjN+qC1SEB7OaUfVgi8WTa5a5qpqPcbpBH8911oatglTUnS7AMQMoehS2q/DMzhnaTOVAL15C+c/cB2Ci0/kcaQh9wEoGUEISYK630HPOGHB/lLXiqIMgGdmk/YZbLhA5lspDGTMI1soC",
+  "size": 9123526,
+  "released": "2026-11-17T15:31:45Z",
   "notes": [
-    "#242 Üst zolağın menyusu səhifənin arxasında qalmır"
+    "#244 Tənzimləmələr › Sənəd şablonları: yeni dizayn, Vergi içində (Q-184)"
   ],
-  "notes_signature": "g6XihuYBCz/CgxqunaGzwaQDItASawaKwdUQarQ6UojGPd8U/Qq0k00ABMT+xoMVuzypLrUInBkgcGJOBzMboNg/pQbDNcSBtvl8C+Ope6Nf+yAf6RXRF70EyXMHqqXn9cVyIxUP48wgOhke74YrRP0Dt7UF7kWIuxHIaUZ/auD7xbhZ6tUnTjFgVIYnMF7poltlOqSpxCF4q6XEBHxxwLw7C7mF+Cd2f3Okg86V4wlf5qmWOTmkhWaOCtSCeHjr5j5VvDz3FDhworYYWPt1b+0hRd4NzD1Un87mqqR+UbM0fO4nf8QhHXrkk64N+wLC+zmfgvVgCUoL+YfMPDa4BQ9uX2xXDGj9LTsI3mxJggrgTTIVP8XKrfpmnf45VXi/mMSisHXsv6yrbPI9NUNDlTTfMlfr4J8AqsqNnAaAT73TlzZd7siiDqDns2WinmngdRuCRUYzzICTJjHsqlIfasL5gu8C7FgptlIX8OlmOc/3aqRzsBtDEUuLeCEnpHlA"
+  "notes_signature": "kWg1tZKLzkpeq4q9kK8Sg3qR+newv4kQYLrspRVF7ZMWWRyPvL7eQUkxF1QTv+/MqGQ/uddOX1wPw+/0JTZN3U8FmmVK0I0ZZtXpD2rrkqFGBLCJXj2M+JE9S4nS2WzhU6TsaIhhH3x+LI21AtjTMxkRSCuzBYAIJFdnucstCnEyJB3H8ACw6WaBYIstFuAC6wdSxOSKvkXFB94jI24PZjaR7gojUe+FNjWhxmaLI6P5OsNINe6rWxLtnb98CGjntIGKxf5ImtL++KEh2R2OZEIgF7qqypgP9Rg8jrE6mIrGECxyOZx11u/4JElxLOTfeh0NClNEbCjSOb5+GgY3m32TPLFYWP30YLso1YTbIXmp+8JYqG6ZgDE4g6lupZOK8hmBXBaa9vhMNRcIOih7av3oHm0oXjq+lV54i5MpwD78W38MzDuf7+IfK0KuDAFd2IIaP00RfY58zarPp837bkjdSvArQp1hDQXHFx6Eez20eyE10DSGgvXuWcTGKy6X"
 }
