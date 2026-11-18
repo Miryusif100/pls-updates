@@ -1,12 +1,15 @@
 {
-  "version": "0.9.47.76",
-  "file": "test/releases/pls-0.9.47.76.zip",
-  "sha256": "688a2113663965f1d1e77d1a7c47460cb2281a43676b03e449aace9f05f6b57f",
-  "signature": "jVfNJrmsrb9PpXNzBA7cxzx4XQPg9ki4tkdSmz9HRYLGy3/BQDIN8ZQli8OggKbrTXjR8DnmuNBUtkwvan4k75OKW7cil3IwtWre262Edfh3mMBvm1qh9cM1RejF0JCBvYXjve1uQw/IKv+n0pFz+JlBYG4O9KHIQ3Ht03qb203NMi/b9rWYM8cjtrnM7Nggy95ASh8flXmEOLkD6Ovx13ze64zT1oJTWSiFPSmG8rQ4E3SIbRVUl6/yFlmPZA8+hyvCeXEWhjtHFFYNhYG2swCHxU7xTdWDQNkV4BylcU0nkxUHNeiPOxkQtr21Zz/HJSW3qFXb7l6sw0x4+H/cmWd3qU2Jc8GqL3FLLP5K/JqkEMZ36RN7EBul7WxZfFqJj1E8HkBlc2cxLXRtPR6TvlLC4cRBjhy4WKVMdO2htcQXR3jAxd9iEyNYMTzFbUkFtFdsgYYNRcCjHpltHerId3CIpY3VdrMjUYSZEZah4H+KoDjqBZRlqPppoGLAhhfe",
-  "size": 9161610,
-  "released": "2026-11-18T07:49:52Z",
+  "version": "0.9.47.77",
+  "file": "test/releases/pls-0.9.47.77.zip",
+  "sha256": "0fc477d9981922adf23b1a27c883c3c88772a1ddc22afb54111713177a8046f0",
+  "signature": "z5REp/+yFbqbPGbEyG7F8uWcjlqJ99fMpjH69CefiVaa1asD6uEf8dX0vtD8K73xmqrrhuOZbrI5ULTdVVh2hRcHUcT+Chv4j3LuZm2fL64ZJDzORSuOfrcQ7FCW5mrYnYa8oVYPfrmVSn60Gc/usXZovXcz3SYxcoCi+otaNK4SFc/7eWMXKWTIa+VRWB0x6fKjj4ytUNoesPYpABbAkc+uAxj8uWEC0Bdoqd6VdFIC/eUqT41oL+/948W/4em3wyHVNbQP6zPf/+tg+2GnFyZ+LWoPQhNstVoumxP2yqefeIZSfdgnqvzeI3c3OhjyMT3HZ5SzPipaoW8Ox6Z3qUEpSMDWctEQG4HQNMryK9uRmudycj2ChVXxMMM4DWbDMthLAzv721JeJREB5f785GqErcw3lwlzJLW8CDkXrxGjjcUj46nliUOkRrvy2f6ROpy0xn9bdzuAMnSCvG43Se3Tgn8JpiJ/RubA0Mu0WfsYCyg8WA82ZzmUuDsTQKV8",
+  "size": 9169918,
+  "released": "2026-11-18T07:55:41Z",
   "notes": [
-    "#264 Audit 17.11: möhkəmləndirmə qeydləri (genişlənmə)"
+    "#265 requirements.lock: fastapi 0.163.0",
+    "#263 Tənzimləmələr: «Müəssisə» bölməsi (Q-190)",
+    "#262 Audit 17.11: möhkəmləndirmə qeydləri (server)",
+    "#266 Audit 17.11: möhkəmləndirmə qeydləri (ehtiyat HMAC, CI, alətlər, sənədlər)"
   ],
-  "notes_signature": "Z1P5A+eYbJ22ysJntm7NsSFgNEQ/f7Nsl/Q7CLHz8KrhWERY/q1AvU0nzeQl/oYKsYnN1m+utyzxEVvFCGngp58e9cPlVlGDJ+J85Sm4JDNloKRMNv0wILoC56sobQT6gHgoENDwt/8T1WZTXg3S/kEy6GuDOBV7GnfRkL/m1yVWTszlMefPgAvsTTugDf8pPLGovG+jmN+xCpDxGGwySAX5F0frKlSAVwwYGezoNXPkkUN/tKX0Izhv/WM9xjaZquOuWP7R72Jh82E8RWLDDdZ0a5dtEoKz60C9mfoZlWaKHcCjp+Kco5i3qKUcTGfokbunrcV5la13mJPaTzqNUqmiQxpfeIoilXLCubiRo2ln8JDyYFn7GUfbRWP9SfJib2ZOlxhOKQinRVnQ+p8eHgzyejVkl3LSeNwsUuAQZ1vjf1QJ/I7GTFqXU/gIzXnELyvhpzfKOha48Z9MMHdCXXgZSCGRM7MZkOw3+hNNhkhYphkQxd1xNd0+U0M4u+6S"
+  "notes_signature": "C1ECDiLNrUeEuJifG9tM2qPhgJH7M/lbg6MplFNr/4BcOM9xhi9SXSTGPyH93JPZZSZxW+LJx2k2QUPnHHjXGedInZb2PRLvW+l4Z2tDBNLhN8X7VI1usccansbE6CFRj1hybfYebDFm4svv08RgTNAa8C4rJkhlyivuuTnUNmhuUlEkApHWJANRPYB3waxpye5M/Lo9AaMUjxTxtWtAvWSK6dXJ+Llqa2nmevL8kHb+dFyEMjy4bGHzmYP+3GxCJOFt9F3W19DYI/0prhROwXvsVciR6i1w1iRSdGZghoGUSI3be1KwQnCSpy5eZ5tvsrMLtlb4ghFV+GDa6x9ytQTwc5xT+ejdkXkgx0XxcNDnlasNWeDcye3q9OhvviZrAnvTuYEtgIK3HA0jT7bmnej+e6pVubTA28zVkozStLe83FT2m3aL3AWTcEZWidlissc7znKSIbSwXK1oQ+fJjFIA20eL2WOjDyDDnM82WkU1cmjVpgrU/+2jeE/m70BB"
 }
