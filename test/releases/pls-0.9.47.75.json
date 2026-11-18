@@ -1,0 +1,14 @@
+{
+  "version": "0.9.47.75",
+  "file": "test/releases/pls-0.9.47.75.zip",
+  "sha256": "5cea2acb86d01cffd1b83f13fbc7524d79854ddc8c93fd01427431544584ae40",
+  "signature": "Q589jtktEUoUaKuSzim62SSLBiQNHXfQeCMxaLg7Pu6xR80ltsDSKvPhuqr4f9+zvF0qB97mDolAudp/M0TyfSLosR/e/0Vucpbzn0ITZjJXf89ySyYxyAeELbeejcxXaRG5jUUA2toN1lKTuFlgf9OoSp9BHbSDNBr+fQsOxd4xcb9zkQtTdalKA1ji+KjV5mregjgzKP7oq84mK3pShllBQ/30Kj4+E11rFEd+MkTirbBtpyOdi7SKn5mtwsWXGtcEKHqm+NTSMjxxAuI3u06NcMvCswp1Q8IouzkEHGVMjuNpEOTB/GrnfX+7pdlKiSUlpnINBb51IyAwMDKMvgPsztKrBm3VQos3YK5Y0DBQoWSZ/BvL7uxEvUmLhrYfs4bgQLAcmzFQ4PuxhxsTIERh6WQeeLBZ8wgn8TiEUY0N4DPUlILyXO3isKNdTdPts9+wRIcV3CA9tU3K7Bdx7iNvgqi6x0dyN0c7qIyIw9EOzZqIRFLJuj3LLiljQvZH",
+  "size": 9161194,
+  "released": "2026-11-18T07:37:38Z",
+  "notes": [
+    "#261 Audit 17.11 (Y6): klientin IP-si saxta X-Forwarded-For ilə dəyişdirilə bilmir",
+    "#258 Bump the minor-patch group in /extension with 2 updates",
+    "#259 Bump fastapi from 0.162.5 to 0.163.0 in /server in the minor-patch group"
+  ],
+  "notes_signature": "GJzJER0NQMVnHV6XwITiFWNFICHR8a159clTiiYCuMTp3Sgo0aqyYrdwr6yTxyEZh2MrZnd306XSTnzgT88mx0NtLqfufmhpucv2kBHtK+X63HDwr5+DnxMS6YD1MnJ9o0egdYZwB4VLxZZgsVVy7Jw/ojVzT4V59VmmPCwuEuA3AIRVgwVrFWCIjai8YwD1plWkN9YhaX5iC25/blpqcwVraVSp30bumiBILkM9x8n8hbLOzVjbuWWLHHz1x8LkX7f2xgJiWQnzxSyWbq/hVftFJslQ1anM6fjQ8SLKaOLmJpSR+C0O7RuGgnBUvosGRoP4Bn6L7hNkDMd68XBsJMUUT1wJGUKqjFNK9P9cKsE0+FCJANBRgbxEJMEpons11p4DFCDZP2frE/tdLWY4PsK2FUqxCzUcye7YyAx/e1y5V2tDITE0wf9qb9aBcQGIO8HiY/Gu25LtwyWiI3DWvoj+q7pY/OLkaoeatZs6o2pzfjmQQIAX+Xh202MVqTJL"
+}
