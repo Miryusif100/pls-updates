@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.79",
+  "file": "test/releases/pls-0.9.47.79.zip",
+  "sha256": "b87c4df4331e185a6e573836aeb88b27835853efe57093d81f61657d9eddf8f9",
+  "signature": "el9/YGwzhcvmiCHDNeyfP/M/SnwXqPubNFahqMACd5X57T5VNYcyi4K8GiS6730fKU/ojlsqbo3M94FROlf7vSrWicm/sOSCdB0XBhuDHCnDGokelLmicpaztRW+mGZdW8bkR3J6MZhuPe/CJh8ZhStA/HEirB/7+QdDkP+eqwXRhJuABTL0KRVRcunacu8EL5tEz/o/QjZlpCvfB9tjFxKZ3DzmBKN/WaH7zf8W+gNPQvtWe8SfUxKjnnJqyjWCK91Mkpuet0zuYlwfuhTG5Di17mw3kr2kVOTKzaVDjnNsaxQE3Sm0bipoKUzT+ZXyU94/QZSPUMY271yGFFwrUlUbWwlRB0rFphhxV4qfScOZxo5oDQS8JXS/I1t9iWyLjulz9GiWdnVpqKF41+BTjZ/pxQVzlJ2sb84YiF9d6zDqlrvkOzes/5VvYldy3RziJYwjehwlNYaLBOVhsEX/N8xFwLy6lXojhkSWxHOdpO4dhoI5x4Xej2aihsqLwSZR",
+  "size": 9171689,
+  "released": "2026-11-18T12:44:55Z",
+  "notes": [
+    "#268 Dövriyyə hədləri: hesablama düzəlişi və günə görə dövr (Q-191)"
+  ],
+  "notes_signature": "uOZEz/aMJkLmAlaAJoJAoO8T3lQqwZOSkKpDcffGyTQfw/4ulzmPb9Gr4m6P721m9R1hrA5qEoNVb7LsjYCzSk4OrzVLjE4nP7CX2kyY01BBEILrqYgcJZRqMaWpMr6SVFhS+0kcA6P7Nejcwf3Oh6EZVVseQ5oPHoh9f5m5k6T23HfntDYdXc2V01j/zuJCPN2O7AwSkXTEk59fVbvJnsPJfdFhbEdYgK10tKIdu9tKpwqK8xtPepYMEeigoquyYB8WxRVSkErZDPK0dGb6zpMpsidF3N1MsBB7MqCgfqUXHP44mLny5L8LFZWQ8r/YIlvoGo++mWJLMruy12iD3cT+dncpnWIAM9qumN3nrg3KGUywXBqrfQlSPu5W32UrBu3VeOYEcofhFRuTJDJ9ZkW8L0t9GeFjHejXbuogpyZZMbDk0RL2Jf631+vgfHsdMkkywZoKOVCAodPEEvQXr5uivrUWMdIdmq1etLDBVoZhaCUgoI7RxvAbXCdGD4af"
+}
