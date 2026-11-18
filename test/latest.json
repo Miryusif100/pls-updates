@@ -1,16 +1,12 @@
 {
-  "version": "0.9.47.69",
-  "file": "test/releases/pls-0.9.47.69.zip",
-  "sha256": "855bb17c0ee056c7803eb746c88ec726a7ec0bf8c970f65d2ac75fa911ea8753",
-  "signature": "LKQ9n1HVMzBIQiI4y2FHuWHGmKwad7bc9XuMOvlcItf6lxx2gtwtA+FpTQS6Izycjkn1c33uxvFnQQ2v8H9AuaofwHRjUI3tc2caw/T6cDTFJDYkMGfeWNmqMlmz2VAweeeRr44YWnjtsD8cvlFEvTdcAb/wIZqJ2uh+ueN3X9PnMif4i9V9sCeDXdsmp/5Zd37Q1O9JuH9GrmgMYOlpn6ps3ae/MVLr1eD2I+XKnp/PebnMXkoJfLEyOsg6Asb69PyopriAO3DnvthYfMs1XWq5AOEh+h/9mn4YLRQc8Mmd0gZFJ/o3hhdXXFtaldgydUEYVJuRRQJLrjq8u5z5EypE0LBOXU9T/tDxI4IJVld+r5ClE8zsGNhoIKHZ7v1EGKzvTMEhRLk00wEE8VFL+x3pV5q1Fqxi915yokJlOCU0ck0ihWTrZ41U1pgKwCWerJKmJnKnzKvjcBHggFdn+OWYiFMSWld8PhKeP2VW+4CA47MM5LLiPlMFptYYL8U9",
-  "size": 9159420,
-  "released": "2026-11-18T05:37:50Z",
+  "version": "0.9.47.70",
+  "file": "test/releases/pls-0.9.47.70.zip",
+  "sha256": "150131b17dd0520118c452bba8d2b15123dff54a954751e2c91d2458a08879a1",
+  "signature": "p+F7Thz6/57FNBZERtBc/P1AgaEaQXoqdZSagRsAu5c3gdAAAOvkFpvRkghKSmkhZMQdlz5i9+T/LUUFIj0vnyS0l2UN+QVKgF1zktgRdPTVR4so/h6sdrqxv4SH+RadLHcpx2wgOzUuTSfKTZspFex+nkY8tfL8U8TefcC19buxQWlvM5V1m22+FSF3S6jbBS0H5TmokQZ1rhJImQaDdUr05IC7u3oMohgnQhEYdEuVsrUX1klgKFXDmwguiJiup/voSMgcVxe/5VXo9gnIgHZ6MZcoZld5sWtQWc+xi3FSbWcsnnNFxBEPm1YglRYSmCHDo0ajIjG5guqasjnMNHGqqC5T6g5fxQ7amTfxtc8ilGtKB+DB/IIt0R9oi13mYF+QybiMh9UKHPiBswe+xQg8v+M+0Nlw5toCoDceRnFZw3yrnvHMouhyq+MXMWpbCbZxRe1EgyWjb7+Od5FgEYkQgd0xZM+5AdeGJEaS1LDorGc7YjveCE/kEAOUMef2",
+  "size": 9159783,
+  "released": "2026-11-18T06:53:40Z",
   "notes": [
-    "#249 skill: security-audit (Cloudflare) əlavə edildi",
-    "#250 Yoxlama sürəti: yalnız dəyişən hissə, vahid 12 axın, avto gözləməsiz",
-    "#251 Audit 17.11: server tapıntılarının düzəlişi (T1, T2, T7–T15)",
-    "#252 Runner skripti: dpkg gözləməsi sonsuz dönmür",
-    "#253 Audit 17.11: genişlənmə tapıntılarının düzəlişi (T3–T6)"
+    "#254 Məlumat: girişdən sonra ilk yükləmə xətası — keçici xətada səssiz təkrar"
   ],
-  "notes_signature": "M8emaM+tQi+ZQ+WBDSHMRh8YWxB2e8avcASddLOHZo1K4nFmx0lOCFnqWqncCN9G2PtXtUAWuL831txNfTS9YhMRptGDRyY4DoB5c1VEsxv/1jcoL/Gzle/Lvc9PVivkmekIVp+JzkFH+MWgwwCxDpDzXp1IzAECYdDkMsz7F9zazHfiqIfOhMflxjlSPy2ewdrb+1PNrRv/wT4Gtz2OGTdoZM6/LrAsbQW5fl3Et+wVJu9FsiV4JAgWDre3pRxKvdoGu6E3U1oasg36ONydLmXXKz1XnQoaj/IKlZxEKlClkfs0MNgro91cwVj5DjzzBZAZ2jmWNqEHpYJI0kJKWPs2lXjMn4zRak1Rt71OfXtgub789Sv8So+//CGoDEg3HQo0LNvopxqhyJmOE3DyfacDH5yKe0VBr784WtqvSJGG0B76tDyIgCwaHW8PtADk8FIg1M40mr1mgG+uDnI3JAqYnQ18dlZxVZXwP1j/3jA6/JMSz85DdMh024cpzbvh"
+  "notes_signature": "VVN1MaOACoGZ798CYMXum1ZwB5yvQDVd+4LVzMNNMvfZRMWpmnBEqnB33Nm0UKhn5Lihd4gVrlg6AAPJKLXRAGDEiekSbILn2cJq4mfmD2BBK9oSirqdzu5GwRfxEzRnqdRY/6N8adP5RbrVxP0NaVnSDo1DF3696zao9MVadRStDCU/OnZ9mJQCevAyKwzr9WoBTJ+54d+nmUBh6NTux2ZI1NyQ6B3hRuSjOoCDt5IabaU3YK4bmcTe711QF+jYuIK70yvWZgLIRid89Kk9ASkNM7HkrXyzOPeH2JZwokRmNROuPQ9Gn+qQASyxwKOe5XEoTkzOfZ16Vffh8gIEGithhtWvwdHetcEb6ApLkXepWV6/SMpqP56KJg/h+1BzaUTC7Y2BEtymEB4Ntsr5bjOdIW/AyVCs7g4+ucZt6cxuYRvpKfk9ymRi8ADG/sZC/Zblnjy6mXQbV6XVGrfocA8WT+tFHcA0RI+iIsCKJ2/R42Wn5Zars6FN1ejshamu"
 }
