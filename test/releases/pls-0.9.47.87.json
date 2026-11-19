@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.87",
+  "file": "test/releases/pls-0.9.47.87.zip",
+  "sha256": "e3854c1ae5e83d02c494a2b36f1ad5772464023650759d3fccc246413ae6f20d",
+  "signature": "s/jj74an540sOAGkD0ZVzNjTxi6TxAwksj+oujjgRjiTKzq3cA68QPnZOCyC8F9p/6bs+IckL8vg0eTgFVqZQHGGOvk3OtrqWAtzoBEQfjPk0ifbQE1i5/0BjWOQ7TWp6PkFO9Dz+TVgySlXWyk/Yik/lZjwMuixc1kbUeDGkuYFCBiGHmzPQkJ2c43E0QKEqbuFuQ3NqBYiEmPN9t4ixyephphasqke7BziXrBG1u9IeOMDehXFx3l2qW0Z4Ysggb8cc7qgIf3jwLK25jmXfVTcS6wVVhuueaQHedoPImKlP9flrzPtktJD6YNSCSC4pfDxA45XQ58tYlbFBjg7cbKZO0wpANR7jiSBgpNPo1lNeJcHoYNcVE7ywhE5KKa20h7tCajM+2mt2OCgIlroZq1vAhzZzK3cwJlBhsyHh1pVYJKltxAwFKvikAtj5f1vJdQw6B74VIo7PZY/SCBkoYnuINiMwU5rE9Tku0XKqXcYPjX4jpImibjcVyLtwHOe",
+  "size": 9229947,
+  "released": "2026-11-19T06:04:12Z",
+  "notes": [
+    "#276 İdarə panelindən TEST kanalı xəbərdarlığını sil"
+  ],
+  "notes_signature": "1Lu37VXxWcJBWd342ImPHRNyUk3mngM2jjch3aqjsGmSMY24tORAYTYuqZs7HjM1DjOokHL0kDdoHIkP4XaiYgjq2UMluLaseP2WjXH4cUT2ccAxLLaXzW72LVw9RcveVFZPUdXIwa8/6qfBfCJcq8k6gF4OwokorIdqjOj2L32MBm4rvde09I3IMAXkXToC6CPXPEz1DYOD4LaK8/qotyDhFVms9G7NUSVUg9P9uJBgqi4qAcX6zgdRUXAhxrurgo5Pn/ij9yq3e0OVpOlHVNQUMFpG9ZwFsJeVoJxwmICXBQEQsTEV4cjXIFRRrhp8iqjqsToFze6PlLrF01kNqC7sMiXUsU4PG1+hUG8xqvc9Az+sczBXIUREYbSkmTf+sKi3c6HYQBAsrCq+9LhxiPjEEZCP0hZYKppVGbQiOgrq5a2bo/jada5Thjx5dDkbJB1/3CNZN2NFh7zCcaXMesxLS3rhbu9nsattCjxk/bcTOBx/6Y0GCac0tKnQu1he"
+}
