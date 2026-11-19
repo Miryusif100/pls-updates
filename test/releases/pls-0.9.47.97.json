@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.97",
+  "file": "test/releases/pls-0.9.47.97.zip",
+  "sha256": "bb8ca2cf2058c9ca48277ba4aafb63dda9d7ab427805ccf8fc0a4b355a5d44b2",
+  "signature": "GkGJfsKRdbHZgmfmdXVymbYDw5F/yfTB1wu40RnnZXIUJFeroE6+iBIRygSfJSe9OQvG4o+A2RZ2dM3G7Tp+r3wogFtZAro18oxhuOXdmHGfB/mod25fKngVtfeqrU2NQqkNI722ZKxxWjvTtmaaqBYo4y3+FvEgsTfLRaxZFc0dVdxYxgwTqIYvi7YcQqD05p812K2GlPgQyDkQRGxAOmhL8py3LYJtAiM6kY5WVCTRqph/CJ02BkxEnaL4EJZ3kKCECEChLO2EK7C+UdDRSpDwf/+JaWh0ArQ7UYihL4mvzOZP43AJrOYo4333K0dES7sAbPdtbOMSvS4oUqon+s3bM2MeDuAs8B3bOBz1qDE8RAOzdYQ6fs8s/9GEhfL5A4yyHHtUpOfp68zdEO2MvIfg4e18E04OObTLcuCpDN2m5mlD2BL0ridaoUS2Biw9X5aA/rRJ4fFEnNNbnRFdsaiu4hj+bW/toEplPgv6QzYc/AFjAsg3LQoYsWZ1cC+C",
+  "size": 9261525,
+  "released": "2026-11-19T19:56:12Z",
+  "notes": [
+    "#288 İcmal: sessiya bitəndə vahid «Daxil ol», portal kartı düzəlişi"
+  ],
+  "notes_signature": "kHlpOfCHyYs/E5KJQb3MImpzYAUlRr6PIH0SxY5YrojFqwtbn8rGl4azo9p/e8HLQocbxjIxdZccdwByLoWPWAD7B1Wxdx8zpDRBCbgEwug3l2h92j667z9MF+zzL8h037K8wSp5ozWDX+a9hV2VGy1Tv8GIZ1GsahX2roWftE10JlCeuNPpR6qB9xrNQGJISypaYGqDVssdiKKrNJ5H8VlElqipE9730jLphOVbhxu28Rkz8bd/YkeaTowa4xyymM4i9epTcJnAdCosg7ScukjcTDZEob1WMLs39tlQP1chU4WlCbIkAfzXv6fRuC23KN9ruLB+5AYJBcuP9p3GHFca0j5wLgSa8jxYe7CinjcUHxBLicCQwXsG3mMlT+dAOMUOh1areJRvucRQJrqqHFCo5IKiTrbH/w1UthWkw/4ND/u7Ao8rDvmKSFOSi9ZHTbO1oXy+UHRTxiL3rMHqvqJRK1teemqKHNcg2BDTkEe2Ff5x4COUivrOWIJbj+6s"
+}
