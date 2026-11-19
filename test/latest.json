@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.87",
-  "file": "test/releases/pls-0.9.47.87.zip",
-  "sha256": "e3854c1ae5e83d02c494a2b36f1ad5772464023650759d3fccc246413ae6f20d",
-  "signature": "s/jj74an540sOAGkD0ZVzNjTxi6TxAwksj+oujjgRjiTKzq3cA68QPnZOCyC8F9p/6bs+IckL8vg0eTgFVqZQHGGOvk3OtrqWAtzoBEQfjPk0ifbQE1i5/0BjWOQ7TWp6PkFO9Dz+TVgySlXWyk/Yik/lZjwMuixc1kbUeDGkuYFCBiGHmzPQkJ2c43E0QKEqbuFuQ3NqBYiEmPN9t4ixyephphasqke7BziXrBG1u9IeOMDehXFx3l2qW0Z4Ysggb8cc7qgIf3jwLK25jmXfVTcS6wVVhuueaQHedoPImKlP9flrzPtktJD6YNSCSC4pfDxA45XQ58tYlbFBjg7cbKZO0wpANR7jiSBgpNPo1lNeJcHoYNcVE7ywhE5KKa20h7tCajM+2mt2OCgIlroZq1vAhzZzK3cwJlBhsyHh1pVYJKltxAwFKvikAtj5f1vJdQw6B74VIo7PZY/SCBkoYnuINiMwU5rE9Tku0XKqXcYPjX4jpImibjcVyLtwHOe",
-  "size": 9229947,
-  "released": "2026-11-19T06:04:12Z",
+  "version": "0.9.47.88",
+  "file": "test/releases/pls-0.9.47.88.zip",
+  "sha256": "13997c8e268b1e9330a295b3c70c0f3bab16c4cca775f5a02dd390bfb3dce5d2",
+  "signature": "S5pE2tj3Q2slj2w4q0QmzC/B1vdtLDnXOmb2VZSzE+KtXt499ooNaOp/Xs/LfCMd67vHWOMmqIJ/hhyrntRSIwSpCV/voWVkW/H3CuzQdgZlew/C09niLt/gJXnkNEjrpg74WG7eV8lZ1cWGX4hIEboFmfQ1FWlAXOlwWKPq9fqn92+dNIs7s5FTsa6rdA2+I9jlDdJH0Nf2r7OFu0UEJVr0Yw1aZZU/IqCEExIuSm/uWkADMdZBgpTLadPm7Er8PwCuBFygo9Qbzs6xOkCCP8CdjXPtjN4kOsyorYdkErYAUZiM6rUFpor38z4ZEHWNBtu3EVnMkm/Mp3hlOy84kIhDIFJv+qUQGUw1OAVrez8ljgEmsSIAX82h23H5s1Ts6bKK1eMEfBMb7bxtKTilEJ+DW7u4N0dWWJkkgKCa5nDGwT5E8nloGFk0azafjOyyTViqk/rI2m2G8zLa8Z1A5L40FZNrQr+XpAKmw4ylR8INAeKcknwabWHuC6M8ZG1F",
+  "size": 9241590,
+  "released": "2026-11-19T06:08:00Z",
   "notes": [
-    "#276 İdarə panelindən TEST kanalı xəbərdarlığını sil"
+    "#277 Portal paneli narıncı ton; Administrator Əlaqə bölmələri ayrı parçada (Admin.js ≤ 600 KB)"
   ],
-  "notes_signature": "1Lu37VXxWcJBWd342ImPHRNyUk3mngM2jjch3aqjsGmSMY24tORAYTYuqZs7HjM1DjOokHL0kDdoHIkP4XaiYgjq2UMluLaseP2WjXH4cUT2ccAxLLaXzW72LVw9RcveVFZPUdXIwa8/6qfBfCJcq8k6gF4OwokorIdqjOj2L32MBm4rvde09I3IMAXkXToC6CPXPEz1DYOD4LaK8/qotyDhFVms9G7NUSVUg9P9uJBgqi4qAcX6zgdRUXAhxrurgo5Pn/ij9yq3e0OVpOlHVNQUMFpG9ZwFsJeVoJxwmICXBQEQsTEV4cjXIFRRrhp8iqjqsToFze6PlLrF01kNqC7sMiXUsU4PG1+hUG8xqvc9Az+sczBXIUREYbSkmTf+sKi3c6HYQBAsrCq+9LhxiPjEEZCP0hZYKppVGbQiOgrq5a2bo/jada5Thjx5dDkbJB1/3CNZN2NFh7zCcaXMesxLS3rhbu9nsattCjxk/bcTOBx/6Y0GCac0tKnQu1he"
+  "notes_signature": "zf3V0b3WzvF4GG4S972fGdmwwoLvTaosNnlQH4AsLK8xuMU8PsGkZdhaVVgV3FXTBkzWEgEKLcCccAPICak6o7Yhv9KtGo2QtJdByYT8zEywKUbwmejvhbRpMFUHLNZizA5ScrmSNoTztO43UszwTYxwIeEHROdXkYwknNQNZ7F3HFB1+s9bKT6x3F3GqEiS8mvM/nqa5LS62kbugilFqgIZHfF4fLf7EKcSrPATHxO7Fl/xhL/6CskZKcqjmebYgh8gC4SaKvlS2gWMioPhrTzd0l0KA2TqfnFQbsB+CQ/bOYrVXj6fUw8yQxK8qnYkfTo/raKRXeA3caCc4BQm2bBDxEKxTVs/Tk2+71jPs1+86hlAHfnqNU0udJRcwg3mAyIne+MXZONvugI8QA/U0ulfkCmRQ2Hf4jvE6KkEqLDyMn2tkZzKFT/Fe8wOH1Zx2ihc2jGRzFrt+m5jK1fq1dacHS3rdUh7yAwMAH3lE35Wo5VnNJo0f6Qm8TRMjwSF"
 }
