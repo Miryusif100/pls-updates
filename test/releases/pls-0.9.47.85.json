@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.85",
+  "file": "test/releases/pls-0.9.47.85.zip",
+  "sha256": "b82b04a31a8605f96a1819d44db8a44e6c6b425aad4ee1c4ae314f083c5cf101",
+  "signature": "AanqRqq5jr3GgNorMJdjDG4TwCVpHLhH5DcyxzdJMiNeYCWluzbkTaznCF2t3NBu7N0aGN9enSQrzDQAw7CXmBCULcel0367L/PCTSqlmaxlT3bCxZIqC057IX3RzNtv/Wby3AfAWdb++ZNNm89uCxs5W/G3qWnqPPOC/FIce48JupwwuNfwVSC153/WYD7ZD/cQa8Lpvn+vUC6dkiKdJacoZoLcn6e8ZlcIZO5VfA5wwMuBr+PR3sAQlrs0JZqUE20c9qF3LuETw5YbMeg5QV6YIIzyFoLlKVCBtT4TK4Uy9M7gl7z8zE0lDitcTUzpa6MVozmFFH51hGook250BfJmfpDcuKkib8oSGdu45I8q/ZTPytQdxP73sNAx9R77bUTgpvVOweBugH9nDU9hJjE7N5aSssfQVK/BVucP5QcAPu8dvXBBYtPi65qX338hVp5EHpXEVJinzcdYBrTd76G8nWk6OxPrIIdTuKmkkr9fOMd1OGLogfPQP9WSFQ3f",
+  "size": 9217149,
+  "released": "2026-11-19T05:42:47Z",
+  "notes": [
+    "#274 Administrator › Müştərilər (PR 5): Müəssisələr, İstifadəçilər, İcazə şablonları — yeni dizayn"
+  ],
+  "notes_signature": "eOg+FREd+Z4Ixsh/O4FAYGer739PBNZrgHJZUQxZ7fMOTZbyBr9TzsKzUZp281E4mUHhZmAofVH98t6wIpiboBwXIujBGd6ZBBI+qSdH2aaHD27P9u8hmdbpQFirJgschMxNPkPHe+YnonUnbf74YI3p6I0nJj7GmUjR2in0nOMSGj98MbYcUsppSHBhwa7OwkHaJ3ZG3LwEWflS9WNZCdeOXZ0VFAWNJGJ1WwQnSnU0+R0OHeFQScF3ruH7Pc3LQOUpo3NuiELZCyzIobCMnY4vWXcbKljrg4qnn0nrbcpw5EeWvk4n85WRy5et4JVjwW4j6u3m7qcmOCVLbVx+u+k1iIa/PaABztKEEZgupLyRznbr0nD1TzTz9eIJEmxThduDlLzPcJfdKA9vOBDb0h80yqqDrWBguwn7JBqwlg+EghwQmpLe3DgsK3w2oZg5Dxn2YQeUCxUhlk0cDj6pyfZZsTaSYE0mc1M2V/Z4v2Pg0jpOwwxnwiJay5gQrtib"
+}
