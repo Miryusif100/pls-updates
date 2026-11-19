@@ -1,13 +1,13 @@
 {
-  "version": "0.9.47.93",
-  "file": "test/releases/pls-0.9.47.93.zip",
-  "sha256": "59d8f893e758f6ca97274c100b4efaf0caada549117702ad482a41dec6db0395",
-  "signature": "b/B9/vBpPtC0mAKzsNZRzbnVLdr6YXo7Gpb88TfsOD4jqbEs/03C7ckPM8IudFNuxwcwusNDrQaLjjIiUvdOr8SF8v2v8pzKGhHsirXL9pe3mVwiffgOeeN7mBp3jkv9ClTjuSou2RDSnsvKgNF3nAhQsie16Q7od4JOdIaJQgt6whdpznz7cUXCWI4wg+twRuVu37cB236P5uQn4Ajlln8olzyhqacvOInomiP9bd4SW2z8+qq/PNZvjmsPzWJI35fv/VBaz6tqh5SWDhh8wyjkmZ/5ZxazIpNSzCJxsJ4T2X+XVFedoVWWY0NYiNxNziNXl8NcldX+LwzUXaMvvUUNuUqVzYSQMukpJEFJFWFM2XKFtlYGjn3Tzyib345XhLTVmsyiHaWXCPhbet2Tr8/19usPGLERTyjRoG6t5slOKjJa03zXii1D71Ux1TFEa4Y6/O6IpUFfgPObzRJx487dHEbcB0pOB4kAabhGj1nYuCJugHEyuWvnRjnWmXQZ",
+  "version": "0.9.47.94",
+  "file": "test/releases/pls-0.9.47.94.zip",
+  "sha256": "095a350ecfe0e54421adf15056809a0f6615ca206bd7d6e7857fbb29ada985b7",
+  "signature": "2Wx2XVkViQ3vE9awR2VZnBeP7zzS9GufNkj4iBlaBSwWyqblWzekYzwQRQCcQXD+mqXeD+9UQTdO3bOP+qILwfknQVzDX7ZpsoUI7kwtBavBX89t4X0x8Vvgc/NA0pKCxRcBJjT4SGcvfJj2hPAFxyTHEA/R1Su5x6l5GgWPgGy2MyYxalHI/pmt4XquBhKa9erEn234fIGixDs7Mx8ahHTGfmI++dk8OydWE0fs63332GWPw78OxtGm1gGfRtlrTorywkVq5D337E3Zx4RDtaD/9wJhoHrIb5MGMbu692e7mdqlxTQtApf8jsOypXLXmaCYks7xcLWngJOsvi2kTNF/jTDF23EZ5czSbnZGcFaI5hHScZKJIOASFi5YyliRdmGu0NrSLfuHhyc8y/mNTpXI1bLevGjCxmqtAJe4rfalYuSSQg/iCN0bEjiu45gn2bDj7ku0q6nnK+YbBnbjeJeBwRFJ13PSQX3qzH8ZmzfNZ5/R425RCFvxANj43L8N",
   "size": 9253818,
-  "released": "2026-11-19T17:28:11Z",
+  "released": "2026-11-19T18:10:31Z",
   "notes": [
-    "#282 Toplu qaimə və qaytarma ekranlarının təkmilləşdirilməsi",
-    "#283 Məktublar: qaralama (UUID) açılır, digər vergi ödəyicisinin 31 növü «Məktub»"
+    "#284 Buraxılış izləyicisi: Avto-test dispatch run-unu tanı",
+    "#285 test(e2e): xl-gizli sabit gözləmələri şərti gözləmə ilə əvəz et"
   ],
-  "notes_signature": "qiA7F+1SCjrdG2fukpLOHjW/XBQLfbpkZrhvhi9Di2GmtS/N6yoUt0JtiI8eWpHJ3Z66L+aNImBLm2I4xGUokr+LREhqSjvdNq98dA4/CkZyeB167d496P3y/hmNQeoWdac6lYt8efXzvaVWYZn76Qh/Aijfa0VGD8Gr2gs619xDS+I3RvDcvy5OIxsTqFax2xZ3agXMl9J/9IUdc4dzQ46aeHpyPfI0CIoNkje6kHHA5Nx/kXtghMKr9C0BTuZBx4bA1EBRtuuW1YSh3vpbO/ZJMa7DMtdJxvt0LveQnH1mle+JvjLrnhOgynMBkyEFsZN5zUxEPFxjSLymdceWpuDL8/SbQxu2f/x8p5heS6oM9BO+DSd8afBwVGxW7/ammhokl4amYx6wolUgJ8aXMQydYZyfHdFrrAL6ywj4xBX0kA7ZBdsDyM8c3SgRJMyeVI7DzSl4dO2FZvlQs5CDxfdSeNZa9xr66dTmETo4O2BHALY/b1+1nREsnXijyR9D"
+  "notes_signature": "HmCEcIugIskdTsVtDoVDlfj2i3Snc0Q4l/SGGeNoRaYwuqAvBj8B/WcPhNBXWFJMRTFA6BtKDui6YkcAJfALgGSwAL+mHo1G/mxkkh04qwrdA5nqD4u4g71qFdwQPgPUVU0Z7OUF06FzrdYFTLup8p59g7iw/HZLvWt4fNZ6dJeIv+z5oVQz+8cvGpY6f+vVlB3wydcUXFlwDcrGxx7smMW368a2duJ3I2kxtpcLcfQovNilO9zXE6TpKy7zeLAYCFsjkDu0yJ/rM6gKBKAIeHI7hG0yuFnHLozAf90oPg6a9fgrVvtuE+HqSQxxCg7W/i5sGvlIHt5HeB7EKQQkwLl5ASAzlDtdTwhgH5UjOJd8FRdC+wAFa/FDgMe9tllwkIIUzD7EmqEc3lkXTLeHxuIikO1rzF/66qKu/YtIAcAUeTHstxguUozGTXQn3QFydpjf7FvVdcr2wE/yBtMR8wwlCUkAtMszkh2AWrZJU4lquR7Of/mQqn43tIoZplFb"
 }
