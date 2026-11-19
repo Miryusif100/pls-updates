@@ -1,0 +1,13 @@
+{
+  "version": "0.9.47.93",
+  "file": "test/releases/pls-0.9.47.93.zip",
+  "sha256": "59d8f893e758f6ca97274c100b4efaf0caada549117702ad482a41dec6db0395",
+  "signature": "b/B9/vBpPtC0mAKzsNZRzbnVLdr6YXo7Gpb88TfsOD4jqbEs/03C7ckPM8IudFNuxwcwusNDrQaLjjIiUvdOr8SF8v2v8pzKGhHsirXL9pe3mVwiffgOeeN7mBp3jkv9ClTjuSou2RDSnsvKgNF3nAhQsie16Q7od4JOdIaJQgt6whdpznz7cUXCWI4wg+twRuVu37cB236P5uQn4Ajlln8olzyhqacvOInomiP9bd4SW2z8+qq/PNZvjmsPzWJI35fv/VBaz6tqh5SWDhh8wyjkmZ/5ZxazIpNSzCJxsJ4T2X+XVFedoVWWY0NYiNxNziNXl8NcldX+LwzUXaMvvUUNuUqVzYSQMukpJEFJFWFM2XKFtlYGjn3Tzyib345XhLTVmsyiHaWXCPhbet2Tr8/19usPGLERTyjRoG6t5slOKjJa03zXii1D71Ux1TFEa4Y6/O6IpUFfgPObzRJx487dHEbcB0pOB4kAabhGj1nYuCJugHEyuWvnRjnWmXQZ",
+  "size": 9253818,
+  "released": "2026-11-19T17:28:11Z",
+  "notes": [
+    "#282 Toplu qaimə və qaytarma ekranlarının təkmilləşdirilməsi",
+    "#283 Məktublar: qaralama (UUID) açılır, digər vergi ödəyicisinin 31 növü «Məktub»"
+  ],
+  "notes_signature": "qiA7F+1SCjrdG2fukpLOHjW/XBQLfbpkZrhvhi9Di2GmtS/N6yoUt0JtiI8eWpHJ3Z66L+aNImBLm2I4xGUokr+LREhqSjvdNq98dA4/CkZyeB167d496P3y/hmNQeoWdac6lYt8efXzvaVWYZn76Qh/Aijfa0VGD8Gr2gs619xDS+I3RvDcvy5OIxsTqFax2xZ3agXMl9J/9IUdc4dzQ46aeHpyPfI0CIoNkje6kHHA5Nx/kXtghMKr9C0BTuZBx4bA1EBRtuuW1YSh3vpbO/ZJMa7DMtdJxvt0LveQnH1mle+JvjLrnhOgynMBkyEFsZN5zUxEPFxjSLymdceWpuDL8/SbQxu2f/x8p5heS6oM9BO+DSd8afBwVGxW7/ammhokl4amYx6wolUgJ8aXMQydYZyfHdFrrAL6ywj4xBX0kA7ZBdsDyM8c3SgRJMyeVI7DzSl4dO2FZvlQs5CDxfdSeNZa9xr66dTmETo4O2BHALY/b1+1nREsnXijyR9D"
+}
