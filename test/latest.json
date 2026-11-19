@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.89",
-  "file": "test/releases/pls-0.9.47.89.zip",
-  "sha256": "512938a8836cb8d3dc33e1fd7f0a38cf239654b4248a552f89e2d4a5fd4de74a",
-  "signature": "ofvnitNz4NYEnm4zUfFcRM5GviYRIO+vcHjeq9OlNJoy3Cl+khKWijo6FoXEEtQx/A40mR0izGy9RMzNOKJ9A9ogGxe1TgXINvt3Q4RiDcERuqbF0qpSWS+Qr1D4FSMpE/81tfBhNWlkTAXBcB7xw5DgRtQto1kgGzCNmDm3tGr8rR0xG4/rXAaylDYvgIiyBh7kCKLNejMmIiVlivHzltafUp036uz1Si3O10c+JUquUwkpX5FrA5Y2yYL6Ga61UmxWfeHNTmePBGnad2EXsqBOeRH7amEUsKIQ2h+2Sezt0RHiUxbt7dlORkAmIYcVfu96qM2mUVq1GIQfFG0efn0j65pi6v3fNFpWn+vWsBlqY8fLaar9d9Qy241pDpKTChQSeD15KQJaV+ljJJGfg6kGJdx+HLJuDnXwnZwNkdWl544bZ2ikv1q/RcuCw1GjGap6Hp6KqOdxC8mC0LwYqFp9GXqxiVGYgbiDlP9WRl5Osank9YEbg1xOhN2wcSn7",
-  "size": 9247192,
-  "released": "2026-11-19T06:24:34Z",
+  "version": "0.9.47.90",
+  "file": "test/releases/pls-0.9.47.90.zip",
+  "sha256": "6c9fc763b11b6b0c0370f8995038573c6694de9c73dffae4f7cd0bd9475780b6",
+  "signature": "0F/2Iq6UB8wGLtkHXxcOOWJDyzU5M5//E1SydgCSQ7ZVZQ0FtJhkZl767f7Zml8Zk10/raAYHt18QBX/5OI3ajvfLj272axHpjzWp/Q7SwyZMbiOZkcOlSVzUPjm9vsDHjzt+Cv9a5FdPsPFcz4qd3n0A9Fdg/gUotHXS8SqYULVfcUQCTqQITVA1guCtpNtFB7YUbhNlHNBq8zrPAEl81gCXCyQoNcKesjiZq31my6CfSP53HSGRF4+T3JzfrnsLE/8juEp4EEhUxDdxYBrwB4SwABADUBxQitobAZRgh+YARdneGVOJaUu3uSauJz7H0xQj3yZAVK/y0+HxxtFuxoFchFRhFqULHvhPtNFP2GnzNVmwGoMIZqFP/hPwob4XK9ZJ97ODVh035oz2Qap4wTOj2bUHGTzD2e6elEoAubFG9jO4PJ2FT7C8jOqY7UQT4ieaKeAi2jYTYi1d9HzLLch0vI4+XfoZu+K+GsXqGTdYiTkL235OWp5AL9rAptm",
+  "size": 9250532,
+  "released": "2026-11-19T06:29:14Z",
   "notes": [
-    "#278 Administrator: Tariflər bölməsi və server tarif cədvəli (Q-192)"
+    "#279 Administrator: «Yalnız baxış» icazə səviyyəsi (Q-193)"
   ],
-  "notes_signature": "nD4uGx5ucVpF2BCiXS8m5jEAzNaGV10NLZ9NLZ+FGmXrUYq/d9cp8+5beOLAU/3KJBz+KLh0d+fLuHzWcRQEa8j9fmA7nT2/507OsEqmRGASAUxZa3eaCL9zBX7yXqdLhiphXpSKC2M/RUXwuNXS/ev6L+WhkUJuk0yqokmDKcFH1vkTqmOl+NiGNfXT4e6mnRpbjsKftfQKUlLJAEWoHBQYmsjXlabj+NjcagsHxXSNaLTLpVGEu1z5GX1yFIeEsDwGvcev/sk7Z/iX9x050Y5fpjWdBcXPGSZ6diy8XjAflUoCbzs0IW5WBFaRZ+0L83jhih4kRAxNxI299uB8ul+wrPSWZdMgfeLzLoCIFbcWABsbXCAvAeUGrp47/Tk5tWH6F/fFqaII1FRmqsqww14AhM/O5qGTOjAMCKiB5luPeBUMz2H31PMcvhvEzRmkSbG5XYVRFaoO+OAlyJm3au7raij3oUNIx68FI50TOFknybUoY9nbFqZKf3RE2uiY"
+  "notes_signature": "GT6KoB4i0B+ORe2T1d1f8e1TIkcJIcTXkP+biU5BvG1AVqfULMoNwu9CjTrpbP/+BMtkD5BYHUM7JR6n5lOQ22mvMXXGNLiyno7dKzluZuVrHAaOZb/kKWVTbrv1sW0aSy993ojqj8WWrpLLWvU6mG0s+DFEbPB6VmsYwtoQZHbLhlbc+biWe6Gvk97b3ForQ5sBoofNTYAiJfV24VpizCahCX2CRbjDfHbtALcp1UO42k2x7S6PuRdNPNnQVpt39bu54YpCCFDdQADifCa3u7MC0w+XiYIEVojr5VE31xu8WPequ1Hyr9Yj3QPREIDTlaKlrLRmd4uI/Nm0QySAh0CUEEMJriPuhU4JcXW3eQPkO6eg0InUPl8tuqKw68wBLvhxdQqLE80NoX39m+q/9v2vyUk42dx6LCy7Tr8P+RWHRBy39Fhh9fS+s/RKstGjcIhl1edLMnd8s+UDW5VCcMSI4eECdEw1fSrZUTmjoYEuu8Q3ovEJPBFi4PeChg2h"
 }
