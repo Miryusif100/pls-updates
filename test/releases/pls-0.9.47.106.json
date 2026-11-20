@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.106",
+  "file": "test/releases/pls-0.9.47.106.zip",
+  "sha256": "44c542585ec61f4bc61222f01824234b0eb1c81ea316cf50129b92b2b6357ea1",
+  "signature": "czyfoyiTNjFoDnrGe29Z/D4WaOYzYYmQ67k1jcdMKJ0q2wFnF/GdtYvBTXSlKJ8+te5+JLShCM8/LVc2mhlBYgkugxq0W0vLhX3hLIH6y4eXW9vRoRvu/qOfl4935cKRtBBk2tVLMo4uccgAz4WFtFhgK3wzUSRHHz9ZFQ0Gza4g13F77fSiOc/fCcw+GCBDicaYsbo0vUnIsgn7kOaYVTcFVMnLo193ba1icEaXFxkVGqPiVKCzVuOCnCRxbvAdEA0q+2u6smLdV7VMwHYPH/ODtoN00/3W5D/Uzn2N/DW8z0XPqqzp0udKWQFHR5aOZjqBNcvq9uStL2kduDxY6X20gddH0iYCjNCJIliqffl/CpS7WnOdoEdDggAFVYFyj/SQsCu3/RVZjcJTA4byNLc6DDyy04GZ2q1pSJ9BwPBBNgLOqe+iqCq2lYa6VtqR2jfmrfRWvdMfWf9G9pxIaABNbJ3jlsKE91eWNdImopb9NH+EKdDO2uwYxjvpjejV",
+  "size": 9322400,
+  "released": "2026-11-20T07:47:43Z",
+  "notes": [
+    "#299 Məktublar: real portalda yoxlanılan düzəlişlər (qaralama gövdəsi, qoşma yolu, Təfərrüat)"
+  ],
+  "notes_signature": "eTZKeF+YtROu3KR0bsPfhjBhix4Rd+JiufRscklBR+idFvjA8APknLpSxFVJtIoP2h2HRZuh2dT3kNtzDhK8lSSFixQAvfJjySTgKx6niPBt4Ou5srCKWP2qbLQ1cezvN61xxQk7ySkImz1N9bp4Qpd+mkDXGI11ikn57qdOeQ+1ren8ZcqUuLea2PXi57azLCzRPe0d7ABeYx/Jv20Mes3oTy6FAsInwR2JPwQYi+kxeN7ruVko9qo7gcVbvlwy/yNAOPDErMV9ajZ3bRYVgv0UKYxQf8c1mVtW1rlRhIccSTq284Sq1vvvZrisuo1+WOt55rWA0FdMDQpONMxHY8hrc4ROyc6iyikq3WW32NWW8izwadcgmEhJp7hwJ4HRLEVjXxn5vbWYBnzXbg+x7yRKqhjF5IiOEI9WMZCJ0gAiTzHPefVmrtJ2SuK6UZ57tbeDJw7DJI0wKzLYenRimobrxsKg4eOFGLPuEwgxV7oyBD3flnGVi56pfRSWeBoO"
+}
