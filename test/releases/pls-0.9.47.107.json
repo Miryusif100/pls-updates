@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.107",
+  "file": "test/releases/pls-0.9.47.107.zip",
+  "sha256": "319504141384f3e58ed3586e15286b85d6cdcdc2eb5c43512dcb7ab5b801fd3f",
+  "signature": "P3ubsPoy6NiFfXD6omMhxKZjcHMvRtmCzfvu6mLdQVscEPoqwT0nYDLZhPfsGpnISrBJ/eCccO9uyhI82hohO6oej5zQ2jPCMKrpDUTp6Jfj3cqVC+qn6dG4txnl2hSrYgh85qNLw2AmqSsk0wMrozt1WtxerFi/8Nq0IPfLa3WM5FyEZqrZR6B+qNbZZDhh0MB68gDDqqHGmvJg8xXtcOgxPUBRC1Bj7x466lgUDXj8b+m4PrWcnI11mKROyJJ7jfk4Zv4Av01PqjJoQozPYMBzSgJPyGpiOY0Jv9j1SAEAVEofKqeWOM3jX55eb/ZElq/G31tm2xJTvoGVL6k4YQ2HiaiEHX5HgRnywbR2x64orpl+js1vHr5VzNFd+vA0W3AjbBUOUCSfP4iKwks5tPUhuRMmlZpAeapCuk5diUwx2m2QwT2z6HLXJejV+bBWi+FEapLIEQb+N+KSlAg1iq4T44J8jMrQD1gaAn6YRK7qKfzxRepcpbmGG4ayyv/U",
+  "size": 9326415,
+  "released": "2026-11-20T09:31:22Z",
+  "notes": [
+    "#300 e-taxes müəssisə keçidi və «sessiya bitib» görünüşü (Kart dəstəsi, D4, 1D)"
+  ],
+  "notes_signature": "KERBXmZJpX79tEL1wAqLlrhj3gG6LWxjXhJTixrKe3cCqa1wvllblYyqyL62cRPkbaCUR2F4+moPLUI4yf39GE8elRoQz8ZJo5a3EhYWXjLDQPk6satvnxx5C6Rv4wdqBq3bkym3egQ0IFsfahSu3HsWgsv3j0B3Sn2Ow0ksRtS2FzTkEP/RoychlTpD4lYkNORGXwXK743s5PdPbx/iFfFuinVNn5S5vVD9BqPDr27X5pjefXk8IAv28p278qVzXgHVu3siKdphlmiZZIvOv6yHDufWPILluL+QtdVTKV2KLVUTQxL+H7w70TwccRLZTYIzXla5x89SGrrkA8ul10bkRXMJRGJH0ptMoPnmWgTT9tc2Rcz/aKBH8rhK4L1Hug4gfYiEmFp8716V78HUnNr5/s6gTBpYW4mxm2GuFkGiUxtug33+h3xzfNaPdqqOEC6z8SY82Fdk9jXgHagvYbH7+ILjO2Tp+1lRUWz1CosAG7FA/vjFcbL1PH/X3YdD"
+}
