@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.102",
+  "file": "test/releases/pls-0.9.47.102.zip",
+  "sha256": "8bcfbe5e938886be3bf70951fc924cd4d9384f9d1115db02aa6dc6d073b0a81d",
+  "signature": "jTO4BujWXFRBL4vvg5CtYmY6Hfg2tlkqUv6zdMqiLyF4+Atour/2wdZz4S6N4LMKSAg2tFFAnOLAE6BXOThqWl00pnY+ywtZ0ca28AKK2xZIufcVMtHJkYYAmdydNboUYgagWrgUATyw+Bou8bjtJKY3NfeVrUqNt3a/aBtuTpCpMQfWPhfUDLdF4e4fC+Uo/dewcihqewW4UWNLZjG/nnjrv4XWm7q+VNW111iw50x+ttpEerRsBEyg/Oz8WbvIZClcsykO6WfBj64rmLi9cUUMzg/3I3Bi++xXxtR0QUa92l8aliv26Y57FrXHDzpBiqACGvsZIk4CiTdnmMnPD7fdXqpvb66vbi+fNQjz2WKucY+I0oqF5UCgxNLFQNdYVRmK7xvANARlsWwMw6pHs4kI6E3H/bEC2gf14O+aXfDOltlQ5/61wOoiSQtXmXcMbZtGOMCFyJWSUTwru9nI1nqHjYeM3X7IjsOx8SQ7UNBBFMQbBT+yhcEvTdHqO2bp",
+  "size": 9293117,
+  "released": "2026-11-20T05:46:10Z",
+  "notes": [
+    "#294 Büdcə: yeni dizayn (maket v6) — Hesablaşmalar, ŞHV, Sərəncamlar"
+  ],
+  "notes_signature": "l8daWGH+4b8TXXxkKLEjZ7YSdloNN5Vp8ft0sWfn8kO/lft2/EFGxwMVkdMvnGypUzI6obA5fj2U79qIadVCDWifD6sPOGVLAGFVLdzZOqhaEaY38xHcvd6RumBbumxy/d0u3/srINuUksa2iMqNOs2qSwNOdmlQW3VB4MqrKgw9oF6Va9yDDqmDNnFkBei0A7gXcY45RCW2uJjgiU3dbJqBTnkzGMzevZ1WsNgNqymzLBJZvNAHGR9F+78Nh+8Qvjd/Na3Jj4fdteeVvUtD7pBBwaC1ChbjFDJKrzXeyPyE5fPArW9NsSBA6mKzkDduzfSf7WgA6V72c0OK211F7IWnD5nlnJ08pos7+qyyRDTEHQk9WuIdIJtG2Lglu9L9bAPYV1vvPkFElOXhX86UbRouwSQpfw/f8pOEErQo071/hZ+YEg7wyTu0qTz/d2VCfua72RWRub+glf0I7m2Qo5FgY9TU23t2lpN5krf56ImawhblADB8gbiblRFIKRfk"
+}
