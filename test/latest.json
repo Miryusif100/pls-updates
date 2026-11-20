@@ -1,13 +1,12 @@
 {
-  "version": "0.9.47.103",
-  "file": "test/releases/pls-0.9.47.103.zip",
-  "sha256": "3b06297b98ec119038e1178b6b08526599161482933caa77a309f0ebf8fc384c",
-  "signature": "B4IflNHRnYPIC+PfBpvnz90YmVQGLBSi7QbG+j2iB8u6ORlbQwwVq0pjhRi0onIKgh3hm2mb2pyrIkLy8MM81Zx5FV/m+v9BDxdnjVwqyP4Vwk4FQM917r4nCrz383qk0+o/59TUM8wbza2S6MbHO0InSR/FF6k7Z5Jpn0dRsvXYZ3/iblpgZ4DtcL3bhCGIHbTQ2mwgvc0onnqk2tELKgzrbI9XK620AqCkL2WzNSZrUF6siZY5p09uap6WAxr2e20oNNqKE/EVAeeUQVFP6PQTdD9pQBzMrftH3//FNK1IwW03u9d/YCG5vxGqCPE1JofkV7qMEZFlE8J5qo92NmEonmvc3W1WvIy37MUCgXZF3/f4BYGYmKmIWaUhuOuPPRIhRESpvfHzhtwX14K5NIEUyfq1bV/uRIb4kLrFq0Ac4KDZyaWuUpRSuKMv5eFwfQ9pXNQIdMFjukm/Dk059F2OfT3isayIn2bL3nGEUj78OADpUv+kUZP50td2T86P",
-  "size": 9292666,
-  "released": "2026-11-20T06:49:57Z",
+  "version": "0.9.47.104",
+  "file": "test/releases/pls-0.9.47.104.zip",
+  "sha256": "cac33dc9b112e358dfa9b67047065ede24734f67f16b734ace3f02675d60f373",
+  "signature": "fSuQrLvek0lZcwbttJGnYXCR7xJMuOnm75YaqGUAKkO+WLsxrfHzqkAAFaZv3QhHgRzqFfneAtfDV6bBv5h8l0ySszYLAz6DEnB3ljwRQrJ+/xNZCDuOSCZ1DyY7l+ikemRve6bXknMKU2O/aSa6Vuiono8xUg28pisIrI2qKaXiJOU48exUigdQI2/W4Z4bDKWsBoQZ8q/Gx3GpW4zL/riprbH64umJvIqGkfUQuo1JmTEgl+WPvCV6QyX4Rl+9nYbKwCWQ5v1q5BEXH4DM8sTrNiFwxshlGxJvN50xk/TzqFRI8+XsJetchrzDYHoAepuyyxWNlFPfLIH5J6qImJ/N93GnVpeOuyGp6u0lryqyvFErRxz2e8YJotDoj6a02j4f9bFAfvCKYVbKAxQW/CNJGdXmdl9X7dNQj0fqLT2txjVXonYVnLg6SrnduNclBDReV3PbXk2K0j9yVgAV+0YQD5A0cprqwBEL76KGGQY6F/uT/bJbDmLy60izVnc8",
+  "size": 9304147,
+  "released": "2026-11-20T06:57:13Z",
   "notes": [
-    "#296 Runner: Windows-a girişsiz başlanğıc, nəzarətçi 1 dəqiqə",
-    "#295 Büdcə: yükləmə gedişi kapsulda, tab ikonları, «Portal çıxarışı» rəngi"
+    "#297 Məktublar: sahibin 20.11 qeydləri (açılış, ZIP/Excel, qoşmalar, toplu məktub səhifəsi)"
   ],
-  "notes_signature": "Hi0g0Dm0laeIKzF2ooFy8itx/XF6o4K9ah8eHmoss2XdyhWFAV7gcCk572ySKuM8/kibu0qAWGJSwcJCIyXsrO5mYQ8F0sleS3SWakYOuuPWNp/kIwVwNBkslVQmW/WuRoLxevC4kKs7Z7puHqBYYtiKERt9DTLD3DK/rlCGvr0SsTfqZrAdtzp7DcrWm4YiAwrXk/boNYrRw2TN1yURPk0h4/d/EAI8dhdYzv3XbjSLJiGXxquTtQogYQE7IW8bdkhgOWUPnVbJEGiIHkX4/QUKes4A6srEvFFJdjxFP+TgpQGXIxeoyeHLthKgRqmZ3dSnmZcQc/j+f7/ekhaNTRC/wGcDh/R7LLwngKb9Ud/VCfPZePM5mRHKGht37HYV93Ik6LCqJRSAnPNcka4V//k6NasQ+3HsWpWzSj4zpN0FgzTJyTJ3567GWX+ohjPhnxEpclJyyUc2sFTbE7nxOUFYzgoVCwuI6pGWtrQjXiLD3gZthoYAmPKdr/Lp9ZyJ"
+  "notes_signature": "P8lEGeJCUKXxJH5DtzSbQPYKyzSpdsZZS0El/1oq17rQU+FjXjNqFvv3QVhTDiWcDEC7KK0iskCFyZOeWCYf4GF9jMa9i9wDpquBw68eeGjLgiSOp1hEB35kXyMXvzznYSyk8/o0VWrgHCCr8iBiGvHMSu4yosjN6ntuh16rMxlsxdMzAXBvysUxA34PT7AXlpsUl8XGniuL6FSKpSMqb4Wo7qdl2sty0iveOvYbDMAQYosv7jdV84wBEwsPdnach1TLaM1Emd1GWtAsAq+sk0mlvxkEW5wMo1TY62pCIi5UdZ6DOhu90Yy96VXPMDoyXMymstgzhNXo9FWpKmZxV9LSZTQf6MZVIy0mDWz/j/1Lp1a08crDBPXc4wq4/OINELDY0DCUAu3654CT/A29yt1yAuw7fALgMsWGq+rDBnw+Ntzw+SaSpTmaZQGsUuG5pNumh+VeriheU6OHK+pEhwU5W9oy7PupRURdrMnIE9nc2rvgxpFDu+cn9qQ8k7wI"
 }
