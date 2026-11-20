@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.117",
+  "file": "test/releases/pls-0.9.47.117.zip",
+  "sha256": "d7d4439c8dc279a7e48e6e3eb34b867b7514bdf0861aa9bd2eb960a8ed9c528d",
+  "signature": "SGPP4z8zIX2VNCBHLCKKkWyDtfBSfDLhBFNLQuSEeK+AC35zmZnuwyWFyAgXi13Q71UJEaU/U+BJQd8ZAA5U4vKvNM6xMIxsxsuadoGb9LYPMer4yU8abSwh1jaaXkJh1qa49plGXnY+UOvJnQaSjUoXLmaZeUdX5nh0t+tWaNbfXrnJj8LUmcX0phyXJZNlReHF/1sE5Ad7J+5zQNUs4dLaXhzGtk4vBgdx/XYJgikXHpw5Gj5YwjCtIzqjKBRewbEHuWniXMCh7xZSBpZNyz9gS8LjTxnYJpjNZUpafH7F17T1nxfFyDzEQvYUUCRzgXURQkoNBVWIAGOXGdbU5llZBbcDzdlpw1ik3GmZMuXP6ZHmkHUnzRSwnJF9Iyy8fvpCuQX4NUcapUuGlLbiOI/LoRpTh0rooARTXJx9+j4h/y56EPUR1c132OstPxMVfOzKQfvJtKklwikTOttqIOW5Tz9whS8RmuB8frT/jRP7m4nXv816GQO7SafInb8d",
+  "size": 9380069,
+  "released": "2026-11-20T21:03:48Z",
+  "notes": [
+    "#315 Ərizələr: «Yeni ərizə» və «Ərizə növləri» B dizaynı, 225/263/298 qaralamaları"
+  ],
+  "notes_signature": "EOER4c5lC1onXkpq+YeKjnpKbfltoMQ3px91PJ6Q3TIRO38aNzwP18u4StVq3d4jodC4SeBQil03PhSfYnWzKIcU/Smdmd5UygPJl9tyMv0WSjAqeQOU0G5Hbi8xn/RrMXWiRSZi0y0ReSaxDx3ufLbZ6lwIjzLqUc2TZbsnw0K4i0S56rq0COpGVHI/3YcnmHdQ8ri2PxSnZ5B3gXBR7mS25XeQFAAtksgcGodz5j6gWx3KicuKEWCaBGVR/4+1eNS6I1bCiDEr2Ym42f/0RN9l1tj3RruvFPLo8ZRnqbKRJNdMi4KnJIdMWPXykX/ffYieitSLZyfBjFA1Veu16iVMVc4Yr32e26vXvvtyKBLJ33rbuGHhUN7ox0cHtEsBAwAcXbIf0JjUN1IDgzKQZ+WFWFYzIlWZRXdzDGYSEMWwfW10ryzUAIrsW8U0FJ8hJGE1NRC9vz1LSXgvREKJRy93vki3Lnsx8kT0aFiyjXpCOzzSckXTmdHxdQmAvTAL"
+}
