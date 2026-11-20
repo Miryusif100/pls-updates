@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.100",
+  "file": "test/releases/pls-0.9.47.100.zip",
+  "sha256": "36dbcd2b1ec4ef3458133b072399f49a937535d49541c2ea47ac0e00117db333",
+  "signature": "FtWw1KOI5yr+V/hu3ML5kKhvshE4bmWTW8+Ug3YoxlL40pAbpcubObzfDWTOljL8VGNTOw8dIWH0k1STOnUD8N+pn8qvK7fqdpxX7FORtgmZKOBJjrjPAJPSzTRtZrjOZwFs5L7/tsUOq/rOdW/ORzpvvNPxxgAi6JBua8TmYl/+YBAnPFLdHCp3p5xDw4gp1oBLIC1wKDXVhbifUsnElDy2D4wZS/TVZ0JIAku/HaxmfHObSA+5Wh1Vp/Gtaxwdkl2s3SXmdsCmvdRIgi5YDY1rGl/fc/yjEJgiSOsJZtb2SC15JbYD9m4eZfeinTEW41VIgh9KmLI4LndZNqxTN/p3AFsE1TCPzDQVqHVJ84gN1WDRc6a7txO2zY6iH6Z0t9sRvrTNXyVdUHPW5Pn6WEe3YlN5JFgMAdZQqZMEgWVLAIC+1BXBxSRaYMuvQ5Pq7ciGtnjMAfV8g8QgF5N0ZYM5phNsKWUYNrbqjsYcHU3IdCA9WHEjBzP4mA344OwM",
+  "size": 9281158,
+  "released": "2026-11-20T05:36:28Z",
+  "notes": [
+    "#292 Məktublar: səhifə boyu oxuma, yeni Ətraflı/Vəziyyət, qoşmanın forması, «Hamısını endir»"
+  ],
+  "notes_signature": "Q2Xp+vpU+OPiKpk2VOahZeUcIgeoJx44gsOZbC1r12ciBTnK60b+BOIWOJf0RWyZTwFnNqwob/D9qG/7zLK18muouHdfqjynId0ddCQqWugyZlcxyUm+ALoMDUTbIYLRTR1FrKmMQW8bhTTNjT35t/Rb6oG/+JzqDeuosjwpD5xw0bR5DPWdHvF7lqqFkMoF1hkNTh5aafMPHuajSocZYz95PyTx7Z46jbnG8Vn6Fk5UBBu8E/ARkgiVn67vvWECOdYdHQXLaOZUvNhIwEztl11x+BFOVRlrtLebTJ+b/mGZprPsD057tunePNBkpYwHv2BIIF9RhExf5om+70TweO+I0iI9F8fVDEBejCWfBR1AVFrO5H4lhjAb09+uSDMvk1CQMoL1qQ0ueGsNSRWaQ/aG0woGTyzRnbwRL+w8KFWjcw/7BIVwXdeV6YP/FuHZQR02X66OMSKRPPvDdixPm29ZC9MVh4MsJEieJkSBz0jSbrTZhrEVfyIYo+3T/DWM"
+}
