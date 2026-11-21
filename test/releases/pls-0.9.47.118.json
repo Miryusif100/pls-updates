@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.118",
+  "file": "test/releases/pls-0.9.47.118.zip",
+  "sha256": "3e9cffd7ed4562f4b4a684a6381b97568676fa288709521f2ea6735564d06efc",
+  "signature": "gX4YnDmkaO915BceN33KNdg5o0kje7RoWrmbIrxr349XvvdOVH3rp9m+xxHCM/kzzC3IfY8J/BPgewDOtJ3CDXqgqY3kXrOPH2+OzwAQ0GhBFkL/cqnPqXO3a5+Y45C44OFq3r0FeM2658me48RCFiC5BwLuA0o4/oVZ0yk1qSzZEJZOBLz6vdZ6357mMNwO0jUGSRqS6yLraQfCX/gOYoRjJbyT4HYJrIVwtzi+TdKeITUPLYBOCsDNVIS0ZQNKub/3/ubdU4bQ5uZkVwfdxEPg+JowDCG/C4levA2seyl/vTcv8hHPQ6KyOTV296XdsYJ17Wwo0TM2wHXvR7Qeld58d/7ajqd5TI2suWqpRtIBEojYhw09KmUkwRbStNVCapSJRbnfcrFEn4tsz8YPZoTkYNs/L9a9ImSODI1bIaf82GUqdsnzVxs0BsUJJT7QSceIYojFKR2PBl+2apgc2HoeoBQYTOlpJDdr/rQHHpNaXfJphQOr/SuLbyoHDYwh",
+  "size": 9385161,
+  "released": "2026-11-21T18:47:39Z",
+  "notes": [
+    "#316 ASAN İmza: hesabda bir neçə ASAN İmza, yenidən giriş son istifadə olunan nömrə ilə (Q-200)"
+  ],
+  "notes_signature": "JqYa+N5tJCwLY4hNRTWfYkgCn3xaLj74bxCXiewfsKsjFJ8963MgExj9CcFwQGVa2ImzGZP9886F+ztnhV7wSMSmKKdWDpzenH+Dwo4YOmz/M45zO0KdYUiiI9jRlDaL/siSGygYfODNBi6v4w5d/Y5OBrhJfK8EuVERNRzZ+9yof+96v+OAHpcy2cH6+qKg/l9FpDTohYsN0gaDiu3gElD7N89yg0xBAb3t8vLGm7zk8+yMVMOsvMRmMp/wpj8cwbATMs9KF52nVhNDcWBU6HeSavd9ZveJGp6LgW43hU8CRqihdMnd2HuZh4FhihSsYwhonYP+F70WI3Lwff9/QG8V9KjscUJrWKnILTkJTAfrhllcMJH4BeL0wTa5AAO4sc1qGtAV4seOvG3NeB6e1RdOZ5GLnpi0Av2ZZzvRFuXJMHFJ1nLr6ky2KqqHp3zEAfi77vpWIzict/uJVYnR3UCkc3OgRbWZaA2LtMmIVHwnlXqgA7lPwuppHp4dtcKx"
+}

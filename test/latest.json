@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.117",
-  "file": "test/releases/pls-0.9.47.117.zip",
-  "sha256": "d7d4439c8dc279a7e48e6e3eb34b867b7514bdf0861aa9bd2eb960a8ed9c528d",
-  "signature": "SGPP4z8zIX2VNCBHLCKKkWyDtfBSfDLhBFNLQuSEeK+AC35zmZnuwyWFyAgXi13Q71UJEaU/U+BJQd8ZAA5U4vKvNM6xMIxsxsuadoGb9LYPMer4yU8abSwh1jaaXkJh1qa49plGXnY+UOvJnQaSjUoXLmaZeUdX5nh0t+tWaNbfXrnJj8LUmcX0phyXJZNlReHF/1sE5Ad7J+5zQNUs4dLaXhzGtk4vBgdx/XYJgikXHpw5Gj5YwjCtIzqjKBRewbEHuWniXMCh7xZSBpZNyz9gS8LjTxnYJpjNZUpafH7F17T1nxfFyDzEQvYUUCRzgXURQkoNBVWIAGOXGdbU5llZBbcDzdlpw1ik3GmZMuXP6ZHmkHUnzRSwnJF9Iyy8fvpCuQX4NUcapUuGlLbiOI/LoRpTh0rooARTXJx9+j4h/y56EPUR1c132OstPxMVfOzKQfvJtKklwikTOttqIOW5Tz9whS8RmuB8frT/jRP7m4nXv816GQO7SafInb8d",
-  "size": 9380069,
-  "released": "2026-11-20T21:03:48Z",
+  "version": "0.9.47.118",
+  "file": "test/releases/pls-0.9.47.118.zip",
+  "sha256": "3e9cffd7ed4562f4b4a684a6381b97568676fa288709521f2ea6735564d06efc",
+  "signature": "gX4YnDmkaO915BceN33KNdg5o0kje7RoWrmbIrxr349XvvdOVH3rp9m+xxHCM/kzzC3IfY8J/BPgewDOtJ3CDXqgqY3kXrOPH2+OzwAQ0GhBFkL/cqnPqXO3a5+Y45C44OFq3r0FeM2658me48RCFiC5BwLuA0o4/oVZ0yk1qSzZEJZOBLz6vdZ6357mMNwO0jUGSRqS6yLraQfCX/gOYoRjJbyT4HYJrIVwtzi+TdKeITUPLYBOCsDNVIS0ZQNKub/3/ubdU4bQ5uZkVwfdxEPg+JowDCG/C4levA2seyl/vTcv8hHPQ6KyOTV296XdsYJ17Wwo0TM2wHXvR7Qeld58d/7ajqd5TI2suWqpRtIBEojYhw09KmUkwRbStNVCapSJRbnfcrFEn4tsz8YPZoTkYNs/L9a9ImSODI1bIaf82GUqdsnzVxs0BsUJJT7QSceIYojFKR2PBl+2apgc2HoeoBQYTOlpJDdr/rQHHpNaXfJphQOr/SuLbyoHDYwh",
+  "size": 9385161,
+  "released": "2026-11-21T18:47:39Z",
   "notes": [
-    "#315 Ərizələr: «Yeni ərizə» və «Ərizə növləri» B dizaynı, 225/263/298 qaralamaları"
+    "#316 ASAN İmza: hesabda bir neçə ASAN İmza, yenidən giriş son istifadə olunan nömrə ilə (Q-200)"
   ],
-  "notes_signature": "EOER4c5lC1onXkpq+YeKjnpKbfltoMQ3px91PJ6Q3TIRO38aNzwP18u4StVq3d4jodC4SeBQil03PhSfYnWzKIcU/Smdmd5UygPJl9tyMv0WSjAqeQOU0G5Hbi8xn/RrMXWiRSZi0y0ReSaxDx3ufLbZ6lwIjzLqUc2TZbsnw0K4i0S56rq0COpGVHI/3YcnmHdQ8ri2PxSnZ5B3gXBR7mS25XeQFAAtksgcGodz5j6gWx3KicuKEWCaBGVR/4+1eNS6I1bCiDEr2Ym42f/0RN9l1tj3RruvFPLo8ZRnqbKRJNdMi4KnJIdMWPXykX/ffYieitSLZyfBjFA1Veu16iVMVc4Yr32e26vXvvtyKBLJ33rbuGHhUN7ox0cHtEsBAwAcXbIf0JjUN1IDgzKQZ+WFWFYzIlWZRXdzDGYSEMWwfW10ryzUAIrsW8U0FJ8hJGE1NRC9vz1LSXgvREKJRy93vki3Lnsx8kT0aFiyjXpCOzzSckXTmdHxdQmAvTAL"
+  "notes_signature": "JqYa+N5tJCwLY4hNRTWfYkgCn3xaLj74bxCXiewfsKsjFJ8963MgExj9CcFwQGVa2ImzGZP9886F+ztnhV7wSMSmKKdWDpzenH+Dwo4YOmz/M45zO0KdYUiiI9jRlDaL/siSGygYfODNBi6v4w5d/Y5OBrhJfK8EuVERNRzZ+9yof+96v+OAHpcy2cH6+qKg/l9FpDTohYsN0gaDiu3gElD7N89yg0xBAb3t8vLGm7zk8+yMVMOsvMRmMp/wpj8cwbATMs9KF52nVhNDcWBU6HeSavd9ZveJGp6LgW43hU8CRqihdMnd2HuZh4FhihSsYwhonYP+F70WI3Lwff9/QG8V9KjscUJrWKnILTkJTAfrhllcMJH4BeL0wTa5AAO4sc1qGtAV4seOvG3NeB6e1RdOZ5GLnpi0Av2ZZzvRFuXJMHFJ1nLr6ky2KqqHp3zEAfi77vpWIzict/uJVYnR3UCkc3OgRbWZaA2LtMmIVHwnlXqgA7lPwuppHp4dtcKx"
 }
