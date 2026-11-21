@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.120",
-  "file": "test/releases/pls-0.9.47.120.zip",
-  "sha256": "ebdf67e6e873be92df5d85ac062e6e0610ef63e08900ecb545df7c0fe9869d61",
-  "signature": "slU0vZ7rIUegpA5YHbi6l2SPt64ji5RbkdMq63O6QfcuYqPvQBPfBs8puCKQh6YeVT85mYBkH8sb1vqBQSRxbIXqDNNx/Ladqtp8mLUnCxK/V20vIhMqQmavYvImRQWK2EFfu1OV36VCdoUOeIO9OSYLu0Ymeps62WIGk8IkysogJ5oM8r5pkk58LIlj/MULJ3rfzScp3EspgE8UG9dFqOKRztgoZaL6ZqjlvY0P1utmRGWjcwThPWqwfXBeN4A6TtdAz/lcspf7OJFOIjYD0H/Co1nU8keP8ko5emJMeqTo8dGKDtjRBKBl5p/5pcMBcvPxjIphNyo7Hu/1K8/suXFSWNIQCLSWn9D21h/GkBMNIi0UqR+Zk+D8RZADSKDhOWiHt/clb8gd4BvLeSZDYWxLyv6IwTBPZmrLNYQneGHgOHT0HcQH/1jk3nvmK8F07lZDCt6TSfb/8OoPKt+c502RNn0+kyoL7isD0yqUnLAgxeOHLEAi/u4MFtzJKg1N",
-  "size": 9385355,
-  "released": "2026-11-21T19:30:16Z",
+  "version": "0.9.47.121",
+  "file": "test/releases/pls-0.9.47.121.zip",
+  "sha256": "1647417511a8ee42fdf2936696446af1263930a7058f8c38995dc20c7a310629",
+  "signature": "C0bMm5zp8rNT1k7XYtMJG0AqcrPiXiPe+0MneL6aqmmOg2mVawTou2yH1YccYQhPJ96AAywSxSoQ4QDwNjj/HScIdgeO7MkHGlVSB6nx3bo5fmtpzBkwNbrNDJZm4ZQ4K1sLwgdkY1DtAN2wQh1oqgFUaU9gw0Ew6l6d9OFoX3N3KFgwXnldi93WP5RrUx3Kpo4jr9ccW5hvU1nVExPb5Z9xTLK42KyLr/bIhNc3XpGDGfLK8veU99WPtKszRG6B+zgrZGvvGPJ+Y+gI0kz+/zDIUR5J5NELgX0mf9/82VC7ySqS8h8/VI+xjcgFQBbNZswfHOsh2D9sepQ8Vn8PhemFkiO68G4CJFJumq3pX6II9igTkAPq5i1wydo6g//BnqAndprvxzeWRhM0EIrGQSbAM6W/zc1bIw48JVX4urCRkjuBW6QCZHKshnCW8SLh1XF/K3g2tFZqQa/DNTWcaBph2P9D+QR5kORgdsylITHqfssZ0a3onxbCEo0ekV+q",
+  "size": 9386069,
+  "released": "2026-11-21T19:31:45Z",
   "notes": [
-    "#318 Vergi › İcmal: Son bəyannamələr — bir ilin portal xətası bütün kartı xətaya salmır"
+    "#319 E-qaimə kartları: Satış/Alış = status kartlarının cəmi, kartlar filterlərə tabe"
   ],
-  "notes_signature": "OPvDevLKnvCT+XXyC2LHE378BLlz1YzELDJdbuGYMnK2B2g/BCRVTUA8PgY0M0m3c94+IPGkruP6DPjmnqzW54/6AzeF9sFlFtNnPSUJBn9ERq8x0UwO/Hz+xlkBvjHxkyN4jxsea3g4XaH1wFCQFUhkgaVbEev1/hfM3OciyVRLjxDQANyLelKnmr1jco9sYY4V5xr4oNXTlAulE49vPAUZMFBh+x+sUT4NFWYudsmaOG2enOIafZX502dmjeasCTbEetf6HmWXN0+7M8dAmnpLi7up+EALywmRGaVVVaOO2nJCd/GvlZqM42ScXPknD8LgbNmUYrFrUeP6dV4xQy8I7uJo/XB68vVp0F/KdtMahFlLPMPs+sk9zKf+ToUK8LgOBwWxhE+ONhlUKl/1ineIWyH5XkcrGv2WT3dt8FBsG5LNjVLr4TYcwTy5/uYHPDVYpXgEWB/EyWh9ZTy4wCc9BX0J29diDD4adfRWBqcNnY7f+4VzdFiqvva+ivIa"
+  "notes_signature": "Qo3U7s50p/I3lWABgrjTvhEXg2EUi43u8+6gWA/klsBW6+LwDlcX4piEoufLUlTcTjDJnCKVkNniXHCly0DoQTXQY+tJoTE9KiQHklTvZrfcnvOhzC5ntC9CrNp7tuSeBiV82jwI4zBWFxr8E9j8ToXo2U+SPQNqCnlVezTE2rjZkEYWf74oI/GrkJMRmRCxGakxQ4e2RmDWJh+TthAdh1Qdi4ezY6U4SurtNUaegF1MamcUGlZrE+65oUCA9Txty7ZHjX4NlzDVPvXcfrBQyrTI5JjKMskI/qE8rE7EqF6A7jdwkwRQcNNqxNt4RnGO1VOKOu6JmcOQizI6461MAiXUjwTDnIDWGiIlUBjAZo6riYOPPk6rBbDU6MbKBhiDDIVdW6lqKv729F3Mz7HHFaQdL7gJqvK7qdtfRIU0o6M93zJ1gtzp5mjRvaGuLiCKAzIT20x7kIg6VjxNXHnOWGq8I3zLuNb3QIgqVIA4D2bGH7ZsR1tsBw9Q5kyLQnSn"
 }
