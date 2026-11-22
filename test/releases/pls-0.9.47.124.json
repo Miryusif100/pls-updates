@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.124",
+  "file": "test/releases/pls-0.9.47.124.zip",
+  "sha256": "4a8e84b51b85f3bc13003f28b4d50d6e47df2a9e9e8f8774cf09fb0757a61976",
+  "signature": "hlsImZmUIZ8Zcr3j5gRKUDaioIDWbi9gwYx9jdeHleTwYQxRFLctFOw5l9YRDFzbkwDQI+rsIBFb7sm6Z2DGrEwXrwFctwDxMpSmPAE4FGU9RR12EU4HgfwvxSicyyoXjxGSznH1PjUJudLVl93LtXnU9OAVa6qbXhwE3iI/ir+S1xulGIirHLvtPJSlvO5nNS3ODBwtsPwinNqW88L77gFd2JQUC6tk9VJ/yhH3PD0QNEY4g24G6V5gfaonYhqje5KUUvW7SGRzNF9Ol5+B4iufFON/En+uLpLdPkq4SZE0eUnDlLaIiqF9E995AnumyMx3gNKPH4Nvp2h+cEVu2NE8s/1HxgT0HiZvJ4uhH6otFaZ2jatKjKjNcuhB4KQE6JRSZobJs0UeU3jc1eMxk8WGf5Sx2ZqS5UD/cT87szs8hGepQM69D0RTeaHWkBBOJSuCzoXCRr08GVRwhUQ1CsP29armd9+3hUjj1VhgnnHpmdoBMeVvw8obqwasWaAD",
+  "size": 9403276,
+  "released": "2026-11-22T21:36:43Z",
+  "notes": [
+    "#322 Vergi › Məlumat yeni dizayn (1/3): başlıq, sol menyu, Ümumi məlumat, Sənədlər"
+  ],
+  "notes_signature": "EwQ6M+gUq/kWPVZvgLWWKmjG6gkrzVhxLPKPaWdzMeBE9kpO/mHyIV9fF+s0VVOM2z6Jpnr+2xDrUO1DX5wXxELixCQ4VycjDMHRNK/sBX2DUODvpX6alCu/+RUI0MDR4wa4Gebk6alSleBlQVI9ch8iv3AdoRqJ+xXZS9rkvBuraZklLT6qDrig0kfUcF/pl86nqt2panbJaudrsbuTPApzsTI2wc+KNcsEjqenr9UxexBrD7vqb5D+c44jKLqOBzhCoLvxfasrCrd0X8FWCn4ZFrCLIAIN+Ca7RseYFYeeq7RDrqjt+K4WjaMfV/NHI9LTLBIAX0SYSa0VQ8k2SRRTTbGn2leqGQ8J+e5qJNaUORLh120sz8V8gt2GY/hgSgFZRfZ/SYMeQEk2oYj0DGlLEqKXY9Ni51LaI0m2oyGsrIz8s0tyv03TH7DfD7Zfrl7dPFg/WOjsL75ktv4V7DlKPzxmmFwHZbCNRiwTgQ/dJnRaYHw6bJXy682+EygS"
+}
