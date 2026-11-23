@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.127",
+  "file": "test/releases/pls-0.9.47.127.zip",
+  "sha256": "cb9017cf6251f0400b9b801f3135daf0aa204829bb8f03b55ae8b38514cf5129",
+  "signature": "TFMo9A5qnFKJ27/b7dmyhrigzu1T1Qop7q0q9W2bbJ+SJiX6KTwLMPsrYaOMRkSUmK2AmNHbprn4mYK8GSE2r0oFYh8lnipScV69Y05xmI8XUmlbZ9rrl+P/4SKuoQVlEuaFdNQwPPlMoNpuj6Al1qlml6QmE4Cn8cMZLAxFXTu2iIPzZS8YsGrtNt5T9sOYme92Iczxzj3eI4VuwvLsf2DOqFS3cB3M/CWlvZx8cb291O4qmhF18R8deN/fQA9/KptFd969/kJgtD0jsFwb+L+eJGtGO6e8Le8EucR09AWndRXkJlkBjnt1C9oaZ9KZ8RF8RWNB6ZLz1UACBpDtCG9pFg2ydILLRG4FxnQ5cdWwxmElsC/GxFwbRzLJjkd5CBR5iNrt9OFI49L7Chbj1h15Ky+wJ1rje87eILY189zGSTMEsSy2Ez6+rK7KTVKLT4pkqm5vnPhaEH1x6K9tYoxwkxoWbl3O5rZKfWZ+MY9rAUbpxXRR1mwHn2V8Y34V",
+  "size": 9436902,
+  "released": "2026-11-23T06:09:14Z",
+  "notes": [
+    "#325 Açılışda həmişə Əsas icmal; sessiyasız portal kartı açılmır"
+  ],
+  "notes_signature": "tUrG+AcoznpvlP/0lf59Xc952zLC8Ih25jdqMKxLiwyf7USRGFAJn7IXvMTBjOt/0i5nHxXPSn7zVTRHlhOvgt/CJQ6WTc8W3uG4WYAhRhYRIL3Ja79nKjnEEX4DOqLb0XU2hhy2XONvvNFY91uaNtY8hMmMUDMDYnTjV2CrZ5u37pwx3ju1cLPQLuPmuBs3VNlcBajps9V4U47HbAjt7mFWx3z4o6Q+8To5q8h2ER+wQF8oLhlTQBCJo4u5TXY0DOXhB1/ob2naKDD+yCExj0MfOxd4wV8z74ufxspyLLpCUD7K5MRkcFU+HsUke0+bUc/EUagONhN/pTJ+w6JSJHNEdjeT/7BIufEUZKubt9gm6wctCwxLIX01dhqIwRjmqwoR0awBXn0pbmJyWqOyVG73KMbhOiHzU9fbDQDPTmvHJWnNSuPV8YiwtoQtS9o32jdyupX/ia5g9QvnPbZyFTzYhc6yMlx/pBkHnZR/VZhj0VTiZrxjPGNS0ZAhA7hK"
+}
