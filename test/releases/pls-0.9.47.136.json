@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.136",
+  "file": "test/releases/pls-0.9.47.136.zip",
+  "sha256": "3d17e08aaaba43ff0ba632f7b45672e60fe81b74193c9f71c97a293a4d213617",
+  "signature": "1j201OYCEbpwRtoUw0v5k8sJOSNHAk7ydVp/se2fWbJV79l2TWrsDNtLOTiNQ1puo+x8swd0Wvlpk3e4EkgFMT/mLoxbK8Go0x9HsuThKYqR4/jbXtHSBrNWl7sgwO7FQdMtWZOsIb0SNrCHrzX57Dgxip1Jp3n1Ed6kSkvF1IKWgHrpxKzs1vEj1aJ9Xo+ZvJmXLeJ/hriPfDspr8TXJ+vo8hh57hlxa3zJ525LpQZBBQJfRWj5NZb8rrdtNyDiJJIsvrnhCgNIqdLPRI2UcgJnboC86aEoJQFSK/U9NkdPkUUt1BA6cDKZap9J6GGW5XyDJhUE/yK231ephhrC+Oza/dvZ5mCProGMQet0QdAG4iX8TeU/JQ0oCiQumUMXeaDjvseyBqCwCEHlJFhWde+HiPhFoHyfQ6M81uNSRIUCkmvAa5Vr4gUe/Cg0uoNXfX23RTZ6hV/D5JE9o9mbsLnD2HHHUbS+PXJ2OURrOIfZDt5eWpJg7u6FNpvTlKhD",
+  "size": 9441111,
+  "released": "2026-11-23T11:44:11Z",
+  "notes": [
+    "#334 Vergi İcmal: dövr yanındakı Filter düyməsi silindi"
+  ],
+  "notes_signature": "hmlQoh8SQC3hssE4hke/nF7VlfwAnXgKfVPkA9TQK46S/Hxum7fz+MmJOi8fxSY57iM14DgQn76k0mr4l1+tECdJmO5HCnnkzxMVW3aZ7Iqkpqzr1rjz0HK67uCCj2gZ1N95HkZeEElaXnsvx+zUTSvBr7hiJBlTmJmqevurPezQ9LUco1Oe/hwbcrEDvNE7x4x90koq4Z4ZEoXPItsm2Anje7/E5EGk0NWr8ZmXcBpQVdYhilUglo8gsd4BPlDwMubHz2IF1CIFRjn5fA8UtEXLbpnkSQLaSe9Q/4IXYXhJIRQ6MvECWCajpG5DGedUk7m/mGBBKmHL9MHfXKYi+X0ep9tvGQmg0JhipxKjcYijmXyWjTeUkrkk2Gty1ZdjbWU13VWYf7x876IfLCIYFdNz3w6SFwcLXYro/YUpCwdcUPHRltIlMWPj73Inrh5fsENq/SmRdrlnimh/zbpeZ2esNNBFUT6XHcgogMhID0YRYrPc6XKvM3rrwJm3lDmr"
+}

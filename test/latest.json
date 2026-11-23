@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.135",
-  "file": "test/releases/pls-0.9.47.135.zip",
-  "sha256": "54caac24c4bf951f3de91f4593de6561647c014866cdbd017826950f29e8c424",
-  "signature": "X31szfpddYLfQX8n2c/L+K62uuqZJE1pdikdcwBE2ewZFVEypMR8zujEZAGhk+XL2vbrZiccOhLvbBnwYya1mL1Jzq44W0MlNF663iDxyCqhkL1GmJ2SLLxPBG6ILxzGPt5inTSq3tGBS2K3EbzTMjatJple5nNKoczJYmUbGG2lORaM5gR38X/KaX5wdgv4SB/YTLVYBvvOavnZZBfJtulhZdOyzDXyaTHCG81IYPl5fu6lQ4hQVntdAb6/zLkKeGSz0mqXQHumezn5J8OeRhest1XF1rp56AQXJrlxkJal+k05iFN7SGod7kLUsde7svA77GIAbfXjyWQ7oMC1Wn74GvXqxCdOvlAG/TwMR1HCxfrd6iRdJ9dXRCjEkAeCjlmEl7gVxUUy90bLUnDPyoyb/f+v6234lFIvEGf3LneH//OEFUCVSTkwjgikqEBTmU+zgBSOdPjjgRWf6UVHblY7v8lEzUTuix9SxbsSqGP0hGZM1XEZc0hBDgY0roL5",
-  "size": 9442919,
-  "released": "2026-11-23T11:42:33Z",
+  "version": "0.9.47.136",
+  "file": "test/releases/pls-0.9.47.136.zip",
+  "sha256": "3d17e08aaaba43ff0ba632f7b45672e60fe81b74193c9f71c97a293a4d213617",
+  "signature": "1j201OYCEbpwRtoUw0v5k8sJOSNHAk7ydVp/se2fWbJV79l2TWrsDNtLOTiNQ1puo+x8swd0Wvlpk3e4EkgFMT/mLoxbK8Go0x9HsuThKYqR4/jbXtHSBrNWl7sgwO7FQdMtWZOsIb0SNrCHrzX57Dgxip1Jp3n1Ed6kSkvF1IKWgHrpxKzs1vEj1aJ9Xo+ZvJmXLeJ/hriPfDspr8TXJ+vo8hh57hlxa3zJ525LpQZBBQJfRWj5NZb8rrdtNyDiJJIsvrnhCgNIqdLPRI2UcgJnboC86aEoJQFSK/U9NkdPkUUt1BA6cDKZap9J6GGW5XyDJhUE/yK231ephhrC+Oza/dvZ5mCProGMQet0QdAG4iX8TeU/JQ0oCiQumUMXeaDjvseyBqCwCEHlJFhWde+HiPhFoHyfQ6M81uNSRIUCkmvAa5Vr4gUe/Cg0uoNXfX23RTZ6hV/D5JE9o9mbsLnD2HHHUbS+PXJ2OURrOIfZDt5eWpJg7u6FNpvTlKhD",
+  "size": 9441111,
+  "released": "2026-11-23T11:44:11Z",
   "notes": [
-    "#333 Vergi › Məlumat: Rekvizit kartı xətası (#185), tam yükləmə ekranı, yığcam xanalar"
+    "#334 Vergi İcmal: dövr yanındakı Filter düyməsi silindi"
   ],
-  "notes_signature": "H9g+uYHdlhXhnAsO+MA1TE2hwUVOtm5BCEdb2NrSOQrC3u8NUiEVc9Y0lcaVH++fPAPiK0y9yP+B7M3r+PtBm+auGP9JN9Y4C1bRl+iZA4Ewj1kedXg2QfWZSAoNYx2tC2FHUgEE+7jZhjNTDGts5Pcuk+SPFt1l7Y55NKGPMc70qL/XH3CTw8ihtBXrV5faZlDCSQMNDxx3wp5FHaTFqFjhW2DFZJYkNT8QbO6GeTREV6AcpAc41ullTu67+b4eveaJcxUvSJygN+o0QgtchuALlti29Q0wc3jfXq83013lE+7pqCagv6DdkK1xKvtxXd26kCBAoZJRehpWTVI8HT0UJkewsM+e2lBfKl7Mqe5l6wv5S4aWH/nG0ahHGSQP0BGBjcOgijOlnQ7ReHMStoFRSY01jbmE8rQuyIVQGSytYRahVC5GAa5/tP4s30TRUvquQfn6mzVfijU1O89aVVvnZDNn+Dr3fU6wZ3ZgTZuhBuzogNgYFJ95VMTPO+zx"
+  "notes_signature": "hmlQoh8SQC3hssE4hke/nF7VlfwAnXgKfVPkA9TQK46S/Hxum7fz+MmJOi8fxSY57iM14DgQn76k0mr4l1+tECdJmO5HCnnkzxMVW3aZ7Iqkpqzr1rjz0HK67uCCj2gZ1N95HkZeEElaXnsvx+zUTSvBr7hiJBlTmJmqevurPezQ9LUco1Oe/hwbcrEDvNE7x4x90koq4Z4ZEoXPItsm2Anje7/E5EGk0NWr8ZmXcBpQVdYhilUglo8gsd4BPlDwMubHz2IF1CIFRjn5fA8UtEXLbpnkSQLaSe9Q/4IXYXhJIRQ6MvECWCajpG5DGedUk7m/mGBBKmHL9MHfXKYi+X0ep9tvGQmg0JhipxKjcYijmXyWjTeUkrkk2Gty1ZdjbWU13VWYf7x876IfLCIYFdNz3w6SFwcLXYro/YUpCwdcUPHRltIlMWPj73Inrh5fsENq/SmRdrlnimh/zbpeZ2esNNBFUT6XHcgogMhID0YRYrPc6XKvM3rrwJm3lDmr"
 }
