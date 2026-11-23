@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.125",
-  "file": "test/releases/pls-0.9.47.125.zip",
-  "sha256": "2f14c746caf06229ba218fdc25cd6164c4aa80ba0e99264204c52328b6f544da",
-  "signature": "QXqhHElKzawybu+P1aD9pjoPay0/1DacGNXK6ktEz9edv02xtWdKgkYah2klmxxExRrig0D485vpvhW0FD2lvdFz4nj9eO84lFIhrq+dMFFZpwjEwGRoLatc4YktTtagtXBIQyONTWWPp7b9NPYkINkapk1yUM62qLoqn7uLwluMO+K4onb/3Mkb3Z+0lh5r+pwCqvehRa07W8kktmGNxY3ZhfppJtqvPutebPUK6nx0H3uprvq0RO5Ld99Ur7XlDrxssG9ebJ2Xu6Srl87vIMiO4saEbm8vSsGnHksDZavWHfDqGPfxcHSGfiIEtELUEuqrDBuHICrfgVi6Y0cG9qrifh4adyplDf5zVfiullJw5YPGeHvykj27wcOqTr8FrvBSo8ooKVTSjWcL7mVIn6bPUwxp0smlbK5J2RUvJ6t4qr9bgCZ+WBJpRxZcq2B8bvHtyh4o5lh2Fyh4Wvz3zYBwmnZEWJTwOBqh4ZL0LObA5mOh8I3MBZmYUZ/o54l+",
-  "size": 9416052,
-  "released": "2026-11-23T05:10:18Z",
+  "version": "0.9.47.126",
+  "file": "test/releases/pls-0.9.47.126.zip",
+  "sha256": "cbe25b6aa0d48ec0fc6f207be18309b047d3ff28b1ad492799a1a86956529a98",
+  "signature": "AMCJr6DoXBSgoenL9qs52+/CIl2V8I/MawVt08A58jNWFd7Gbwmp89wk9nUk/lVuFZ8xr1Z9t55sHW3hUGXdzKP0sAwviC0MighKCLB1VgQJ/5g11oI+IjwpJtn4beaMfSKIFCkwb47e6DOtJfCohFp9uyveg8Q9aCGiiLnfO6AcOzhmc3Oja6OaeNfidw1TOpJaVohHo3iuAxXdX2YG1iVc6Gis3CpXLAhKKBdR8KxJ/lfd91aTn/5aFZ8OKIB8v2U2AZ0VKe6zFfnUydWdvIKLnJ/P+tGLJ88kBO+N4gjIU3oIeINBGXqrjxNobZy1O/e0UBn8c8HT3kSektvnBs9d8BzclqSDQ56S9+ziH1RKZyritQ+2JUO+06Sgsw4sjuq9ceMw3d3UVON8n2MddlgHsfTcoGhVLxKAZT+HVVt4cqAPMLmyu2e/mD+mMSLewq3hYb+fJfwxJvfHxfFoePLR4twzNjPaHgsm12MUFsXV/eYuCeoDmYLzvqn22aUv",
+  "size": 9436737,
+  "released": "2026-11-23T05:37:10Z",
   "notes": [
-    "#323 Vergi › Məlumat yeni dizayn (2/3): Fəaliyyət, Obyektlər, Bank, Mükəlləfiyyət"
+    "#324 Vergi › Məlumat yeni dizayn PR3: Rekvizit kartı və «Müəssisə haqqında məlumat» PDF (AZ/EN/RU, QR)"
   ],
-  "notes_signature": "h5axHsUqOSO2NqYDejU9sqGV9CwZu+6fu837V5wC5l3gu06hjnLNqsPoKmG8kauX0meDf0796DmSqDzsjUFKwoeydWZHEVqMCqq2pv907kQvbdrNtkmX/NPTiIAa21Uh/pz7J8RMBuN14nidocvebPHxuDfOK4q7gVaTY0kC/9DoHPxv9Ha0dm+NzuvmgMfx2R+EDXs/NU6upmq2QV/cWnMF/GDLGEqGVEjrNcT8wmTw3bX1zcW0/o1sHeQoQAt6dmqlKRX+1QurtKaEsQr12Wwy6FiGUBYQQgNvSZsTbhBeMuXAr1EItqWHWulv1m5ZnnZparJFQ46xXgkhSoGslnkklABGb2aI/V6CcQuWGLNBWRRoHWdCYKPQ+kcxASB+ENYANnHGvTaiSwXuNz4JTO+s4zHQwMkT/JJEW28bcr0gO/wsQ/51tOKh+wC9Vfe01RgZv1aThU6l9VRutAproqWmRzPcR4auljAnvrhp0WQVkLPeZgPtj8lNUdQfnBnP"
+  "notes_signature": "N8GvdVCiNjh9PtbJizjDLfQDVb1G5uUNxxEwOpFNLYYvh4Ch0xgfHGnGiA/RiMnCtrTW1LEXaBSHYxlZ3SqXlkHssH/OLxkQUS2l3AOEacC2Sm3x4YXExZXINYKMW4VuGcM38QAeVsUAbRfBeywzUl7ezKAFCGeEba1R4nTbS/pujr6OlqUL8R7kjF0QtRJT2+5I7oJnSF5y9M3o+T9TB6otvRDbW4q7W01GLLLIIC8n2Mbt1xfIgS8Rkn3L87IptwLlMZMktWrcmi5gHymoo3sEYv9WivR/FoTKQysz8SiHhlwrv2foMD2py1fI+Qsmm39Zy3YxXNNUulrNzGocJkcEvJMiS3gWmaA5O3pj0BPacWNTcjPsQKZtxhcRsE4YKRW7awr4luTlXDqxxNSSAffPymeHm02Sez2uTB9SY433x71E5Xj6DkgnL+POrVM62/EEMpSy+Hl5FWmpajKPjdE6o+UHGh+EQhDCiWLoc8Nt6v1tZEKeOHJXB8YKnOC+"
 }
