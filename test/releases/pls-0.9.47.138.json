@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.138",
+  "file": "test/releases/pls-0.9.47.138.zip",
+  "sha256": "2bd69be464b4b1f592cdd7be9589a87221026778949f1dc20f1ea7fa76ef7c57",
+  "signature": "Qx5+tG2wUQfYrVQ+hlKVPkgT9m6BMbVm46bN6EO3b+/4Lfr5QjTCAgWH2iVA3HTGFTlgs9k8Sva46tdsxUiUA6OVQUARsG8PvnYCnAIaX+QH9i+XD4n+NOXE6Mp4Rk1qPxIN/YMJ4Wp2iWiXSU6UaDWqbxm9Vc2Tp58L6jE+FWQk5GZWTGvTlZkFlnYxww9rddtSHiLR/7SMlP8QpIyq4UrWWCl2M4pwa6Z+AasezbxCsoEgoVC6A/SaJ0Xzshg3kL1R5QGJolW/Xgdf/mTuNnqV2vMmHYlZc+Y5Z+/h1jVn/0R7dD1PWAr8b0NrzDa314Wigb+x3NlQVycN2LOJnYpVq7axK1iH4pUEiN6RpCkYyVR9+fqreHfUxRHQGr89DGMjSOjpO/n7ch4/csq7pxSg+p0JekkUoe462V14Ot5ZASn4Oe3CrXQA7xUTEpK2mGK6IB6MNn4g0pagAD5C4qISM+rI241GU3YcT0ZmIFsAo4vhHaWVp8eM3nMLStYC",
+  "size": 9444921,
+  "released": "2026-11-23T13:24:35Z",
+  "notes": [
+    "#336 ƏDV bəyannaməsi: versiyalar açılan siyahıda, «Sənədlər», uyğunsuzluq, təqdim edilməmiş dövrlər"
+  ],
+  "notes_signature": "WNTkCV+hYPHJHx8AvAkMjsjCwtDvnFrX6T3P4e7JjfAUCUx9FL4O1zNOt99a9okTS5WjiaA+cnRK9Qe6Il8+s9lf4/wsHF8MNNXlmIgzLvRnJ18+h/NlYCtbAU+LIQjevlU/jBP1ieb75nSOZ1pSxyEzXN5BFa6h3LSnKhh52U0npIj3zl5qfq0UeD+PXV7n8PEcHBMMUCEhkVFyd9uI4v5Xv8aOJjK0xWoKnxBMSzX86pudwc/M5GZWiUoiBzEyQu1NQR+kZ7ILGNICNRihnu2mCyT1fqZvcNr1uhB1balGIeQ5R+5C+iiHXKl3wPFEt+Kj90gOvfJzzbAHHwBbCwS615SXZjiPEDqaeLd96vMtT7N5F0mf9zg5Bg3JUU2B89nhP07bMyLsE4O/w8MMMrmOdCDOk3oNkbI4PVcby8FhVPa7O8Lf+b3pJrAH3ryF1xwq/zfoKLcQ+t/zOdCnkZC7Yl9PUsTwNJSHF1yXW3d0s98Vdpk+ktBtFd9kdliL"
+}
