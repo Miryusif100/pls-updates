@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.129",
-  "file": "test/releases/pls-0.9.47.129.zip",
-  "sha256": "869dcf1b9a18920e5f2d7818399dbde9dd8d0846537cbbc7ea3279a42b681652",
-  "signature": "L5iaxBD/+sB3xRqf1dxRUZF7VAyg5ZvLsiDGE7Oc/KzfMwCfgFoFOyGFCtZyBJ8QfHHFQytjhGipPaPqttu5awSYiNT6+G0zEtV6r4AafMaUUfcXMTBsU2llqH9cViR+GeaOK5plJ4SB0ZPR7b51rRN53fiq5NS/2MlaII7WX6QZV89TslNLYOx399UEgIKYH38X8ch1591vthmMmIQ6ElLSflIDtZttt6MDWj3sbfZYmc02ZxRwydnRP4HsGSIYDeSwm6Ew4BC6ZPayUCsUFJX/7CVuaIo6Zwt0ZXXK800WG32jd9X4Y3VEQgGulZuG2SePocVfSBer1R0OCFjH3GBu9n3QVQwklu/dpbA6A+mevUR7hREu00OO7Zfv4rKbGGX1vyZmEkwUoyb/tb2G4dMmJBrzVm4Ujk8uJ0u/X+PMM89jtASFjtGpPcdkDIhLN+hMeHBm1yl4KtpzKFIFzUVHOvY6ML/KVDjKNbl6ITa0vEvzJk2GLbV6SdSZNquC",
-  "size": 9442106,
-  "released": "2026-11-23T06:31:13Z",
+  "version": "0.9.47.130",
+  "file": "test/releases/pls-0.9.47.130.zip",
+  "sha256": "765ece9b52fef15eff51aa552650075061e346b2b86ddaa3f4d300cae1082143",
+  "signature": "fLgJVgYWjj1bvBBUiUe+Kie7SZzFceDKhr2WwikoCtfuCqntvb4nmFtNmqRdxkHzO1XOtsEaLfsaZYfIT1JtE86iJbxppvvt/qVRylRvYG8P2BpaJ8kFZdj2kN1IyRo0B4tWYPrqE1qSU+ZQ/xG0N/14zYPzo3uH3ryD/ZOQgQK6Q0F29yEavw7oX3zDGRIaBwnZELVxPyyFg2t+khgOLdXtBsEUap64iTHQSaEzq5TPTw7x8hWF+KmJznJO9IFkQB4RHRbXAd3Bq3IDYpjHmko1weLrDVpWAq+hdFWdqA5q78AhGQipgIvjnRFsk/vKjYMXTS280SFv+o8hmaa1++GQTCJykckW3NTLOR7KF1BBKByruRzPay7kpqe3aZ1u8izw+OtiPnF1NmRvTXWLb0S0hYBCH/RffQ+HH0QlrRCwYKZCWHGZMWl21USvuWjaLy75jvOL15ULtYEJv7Qv+uzQKeNDA8cDl/GCGQ1KphfxWrnRAnz+JpfZtUxgPdO+",
+  "size": 9443103,
+  "released": "2026-11-23T07:00:26Z",
   "notes": [
-    "#327 Vergi › Məlumat: «Hamısını endir — Excel» yenilənib (pasport vərəqi, «Xülasə», bank kodu / SWIFT)"
+    "#328 E-qaimələr, Kontragentlər, Alış aktları: 23.11 düzəlişləri"
   ],
-  "notes_signature": "h66i1iDxWxBTOOi/3+jnT2mWlcvbpiXWss3J7UwIqep3D+i7RP/PRYT1XAv+YgNiMSgxgHxAdbIYs22modaGa4hWOyHh/ZAZBWUpyN53mWB77GFukPB/sE+W5nFJ3qboSlnSeh2qDM4yDsjzhBzRO2A1zpK8/lytwebubzd18c+YcfflfxW8NQpEhSgvRu4VFTdBxMX31+y2z4KGzU7XFBTJB0AdAToYZ/OOJZSG+u5ESkj/34sDV2sbIEMgBOJ3t//1E3RyeQuxgH5ZgqqI03Bm//WAuX5I29olTHUXnOKV4dlwrfxUcf6ReMWBv6A5dXWN2aXGzNAS/ncFCNjDJzO31OPwde56L9nTITcezOCYZKSMJyF+nJWP8egTWbwNIkb0khPBVZiaAY4i43nLxKY4CeDFlYENmTmSaJX8gjHmr75p6k1OH8DT4RsQyuixuKS0a38m3LlZ77C7NCBaJJ5XYd0OTKs0uxNeJmGgKhEUG60nvXE0OzDwYsvXXeFD"
+  "notes_signature": "dHsHaSqd/81truLeDk/4hk4HSf3OZRvt70Q1GPHLUlsHPM5wG0vxNmAs7prLuOwU6DE07MqQdJGu7ynTdEOFeZ4g6LAs1IA5eVuj2qskCB/X/3FkLMsWXG1tYLvmYLAJZnuepzMdJevnN+yOHhEYw1Q4IbSQP/qvekF4Mlaj3+QnyAHh5zv7KpidWyfswtZoy/8sgBmiGgOZu0R6jRtk4TjbSZLn+B/vdFZczyYI8R4AlYfZ3fATNAAHEbLgz52PpGDnxEf61Uc/NymH6fhvr3H+0fzbya6CkcMfd/ue5vnirWe/FC4O496zp0ElCjGmQ/krg3CJhGzrqFe/dwAwb1HwrJlqlA3hK7DsvXFoHJncbN0g0d4o02WyzmBkJXU07iIgP49RX6+QbiPugcAAR3OpyF0DsnBqFev7/IO4KDhAb/j5EXMBQs6Nl9qvdiA3AkOvdrbuN6MFQgSsUu629ddgRlDxZ/g0gkYUhncjaCwy80xGz75keaWMJHdX9mXJ"
 }
