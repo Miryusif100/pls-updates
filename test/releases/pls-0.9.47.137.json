@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.137",
+  "file": "test/releases/pls-0.9.47.137.zip",
+  "sha256": "80cb6840ed2fa197079618fc6bbc72255706b9f49239a5dfcaaeb6fe86ba539a",
+  "signature": "cdsMEULE3wJv8jdV+NLZhYluwylppLDcIPGJR/dh/ULz/OsKQFwqcUGlCNks0A4R+2QnUZhoLPIyPYiRIzIhfx3nV9pgLGMZqoZ4O0wzBq48xC9d+QEv+Xtr6AHWFn4JV3jsvkLy55sb67ZZtowObeAj5ifqggLdQ4NUvWjJ8C4jyogjnnj6mcSXdTqSk5/URCDndxixyRXGB/5Trb3ZmHRLwdT0j54YklW7WZZw40c0/PNNSYzKDYIoJ4J+tVCYUErCRZsO4EIqPbRzSoR0by7YENGJJWvC5eKtyIMaRNcocnVnn5631ICgKkLJSS7ofTvfSifx/WU5crpC3VykFMws++GmEOmZdBNNtx7xagobZFtxeIh/6+Ggf7dqpYMo6APsqsE+hnViZn4nZ/Sz8cLnwz3o62u9FLsYyXMJyjd8h9odxKwyUT9gcu9YcyvYvDDK60tMODGVLcldEveXzVKMqHtLhmAtTl2+ohedcGs8Envl9PaT6GhfKlLBjnQx",
+  "size": 9441279,
+  "released": "2026-11-23T12:25:36Z",
+  "notes": [
+    "#335 E-qaimələr: «Əlaqəli» sütunu daraldı, «Kontragent dövriyyəsi» düyməsi tabların sağında"
+  ],
+  "notes_signature": "Iy0Po1gA1OzRllV0tozOl3zX8ShMPU/8r5Za5rNSu89Q8SaRgUIFsE+6E5+BtfU+G/XPoEuR3sRADu9IltTRhowYz9YDO6xor9ggIi6YpZdo9Xc47wsMglJygCXFQcVrmlIURsAwk66mRBthha+su9aSU5GAnMR6RGFdk5CBDEFtZkWsd0F8jcPjFpcA4GhMmAk1omKl1ELs4zcWRWXUg4AmxbGY5xljhvh29L+HhZAj6o5QS9S8YTyrLaPpDBQAlTuz96aqOEzM6sZOSzw+APcmvW2ahHGyleILzwexer/sySwIqbg9l29YlYdOpMFl6lcqsc4VJdRPiq7ChJBbJQhJ7PoDbcOWso6/pAzcS1hHkiJCERt0ANfzel4x82YNMkZvcgH5dstq33OZPxY9Qxu6B9tdfaw9VKZT0QwPZhjD3BFc0JRf7uAdzJMYsjxrjU0fE0CYQRSF7m7sCmtB0VWf2PL+UYYnXw07a9TN+FBPpXb8SLDdPTSO7zgPf2XV"
+}
