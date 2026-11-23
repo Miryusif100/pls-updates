@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.134",
+  "file": "test/releases/pls-0.9.47.134.zip",
+  "sha256": "aa809bb93bc0a87f9354aad933cd24cdd4c3f40598c4f5afbc2695a6a52b3a00",
+  "signature": "Jhcgyo2LlRPhDitHZnkZ3a/zHSW4exRS8I4Lni0lCdmdYrJcHOhPTczIydprFYATN+tqRNR48XofuPLJQnV2HUAwjnVuYYlq01a91ljA8p8XFm4kg3SP07wGl6wirZ7ZjlA3MwVDHMVkLCzwsPcS23fgUADwb1gzijsslQHJI11b4nbsGeUrriu1ZMBTrBSSH2ojauOpVA4OCeuM5L4caB+rANBcxKh7ftyzQRxaTItcg588v7nEwAG/LRgGGAplwpRpi8x8A+RwbS6vyAKef7WfZZeQSjE7bG4mrCacyl+hBdpdK9U2odSNlK3kVFb/RYez7+9HWiPomVNGnuzVr7vy0CC1Yl20UvFWrJS/mC+wy6d2RNtcQCVMrCvXLlHNpKxBwENQ4iVTxfxm8BbpoB3hXAOgZVTu4koogRf3rTxPeBmJOIEMGFecdbtcX0+G8o8x5xNhTfRJFgzsRHA8VF+d/qDAzxzKvFxj6BrpUyC8bO2/Wq8G/nQSqHlONDSm",
+  "size": 9442711,
+  "released": "2026-11-23T08:23:47Z",
+  "notes": [
+    "#332 Dövr seçicisi: müstəqil iki təqvim və aktiv tarix (A)"
+  ],
+  "notes_signature": "tvsW31x7WhEJW+oawXr+owxEHzZ82o3rIrGCpAbRQTtTsz3cALelGVr/oHNoR/k7pfslVGmUwacj45gT6yDC2S2pzaQM9AK5qeNyOxekmiS0EGeJkbr2hiAPyKU5GrwML0waGN3CB1HTitYdpi80S//Jy61sIRtYTok61jIpp5Qwi6IXYtPOQMnbSfGTRVkVwlLNEzDqXZL+/NC8iDJha82Fyfz4+ryJ0cvbMN2diSOzTPRlRB/nWeqqL9AAOCD//V6y+sZNnWCKDoOWEDnERwHYT2H+CdzA7Cio0eV7TXRNl27glwCfb0gm5BnY3n5rTIT4gf99xOsRlE7LWBnsfsExgVVcXcellz/FPMwxrrK7ctK1UiObPES8FS/nPbtE5Cs9lnDYrKBrhE5g3xZtb0C2R+SUcWi8Mfkq2+kQmEiBnVMrBZoWODHb2xbJM/OWUssyKtjA0fmE7md9HXg75cIqotBf4HU/SpVSxaBc2p2jMDoiLEyYNAdrjpSAlH+6"
+}
