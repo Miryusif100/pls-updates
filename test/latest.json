@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.128",
-  "file": "test/releases/pls-0.9.47.128.zip",
-  "sha256": "d201be020d2f0aa05124669656acad8b08eee5dfe16f37d85ba5021d49e53773",
-  "signature": "ahqZnF9qQlI8cQGDgoNO3xaAc8HLoD2upY5Ss5+Dv9nKiFDuzCtCa6haThIDL892Yj8xlIkswNY2zJKY4CBUnlULsptYWUs7SM3lVhA0dBFg3hLNSX2g+LIDroVVHgNkvxxpJs707bOYt/XUt7B9h26H/PFlO3zxGmz23RWl05YBUmEL7IqI574hqWo44ITzACSnoUf/FfWBVkO2A2nkpNQ93TbmqnjSWtCHH3gzDsf1ncErPx0C7kydv8VSNX3fuNdfqaDH9LfTtfbdSMDnZcvIhf432Q2f4+lAVZ/5V0G2vdqxFx8539PiiNmGJhUwNw/aeha5dp8OmsXZTVhcLBS+Z7EoONeChf1mBeA0PUVDVrvAHR2/sw0i7P8H9752I2cx1rjFSUIFpMfQiP61jBC4vjW+TBas12Fk5QOJ+Ykh/x8K/3I3BMzrogBzUPQX7gZRXY9m1ilKKF1BgVyjNQCSp1P5juiVi/Qi41ITE9qx1jYpY/GhDdUyNTiQdohx",
-  "size": 9440087,
-  "released": "2026-11-23T06:28:46Z",
+  "version": "0.9.47.129",
+  "file": "test/releases/pls-0.9.47.129.zip",
+  "sha256": "869dcf1b9a18920e5f2d7818399dbde9dd8d0846537cbbc7ea3279a42b681652",
+  "signature": "L5iaxBD/+sB3xRqf1dxRUZF7VAyg5ZvLsiDGE7Oc/KzfMwCfgFoFOyGFCtZyBJ8QfHHFQytjhGipPaPqttu5awSYiNT6+G0zEtV6r4AafMaUUfcXMTBsU2llqH9cViR+GeaOK5plJ4SB0ZPR7b51rRN53fiq5NS/2MlaII7WX6QZV89TslNLYOx399UEgIKYH38X8ch1591vthmMmIQ6ElLSflIDtZttt6MDWj3sbfZYmc02ZxRwydnRP4HsGSIYDeSwm6Ew4BC6ZPayUCsUFJX/7CVuaIo6Zwt0ZXXK800WG32jd9X4Y3VEQgGulZuG2SePocVfSBer1R0OCFjH3GBu9n3QVQwklu/dpbA6A+mevUR7hREu00OO7Zfv4rKbGGX1vyZmEkwUoyb/tb2G4dMmJBrzVm4Ujk8uJ0u/X+PMM89jtASFjtGpPcdkDIhLN+hMeHBm1yl4KtpzKFIFzUVHOvY6ML/KVDjKNbl6ITa0vEvzJk2GLbV6SdSZNquC",
+  "size": 9442106,
+  "released": "2026-11-23T06:31:13Z",
   "notes": [
-    "#326 Vergi › Məlumat: yığcam siyahılar, «Kart» / «Siyahı» görünüşü, Rekvizit kartı və QR düzəlişləri"
+    "#327 Vergi › Məlumat: «Hamısını endir — Excel» yenilənib (pasport vərəqi, «Xülasə», bank kodu / SWIFT)"
   ],
-  "notes_signature": "A9E5dTd6svxlFTNYhzJD4UpzP5L4g2xDqXybR34CoUmo30UCyTQ3Eayi/ocloitw7v+WIfEn6Q/kYYwXntyk+jg5rZfSmhe1sWj4n1HqtqlgSkZGoEvKVyg57WyfF9UHB5YyMebL1/3KpNUx+BBNmHaNRj56DJf+Abwg75QTObRo7gi7bQ4IUiq3gTZ8tweLLI9hWIAOw1F4MNXEV+s9iEMaAthVflKvcBEKM9mQ41NpvlexW4zYqZaMWaqNVQZVWOBVyjURgAjF8rK/1gteIaeyjMXE8vo+sOoG1XCYviAUz28YUzGnYXq59jdqep/Yu/YdEDpFMfYlHcXJgy2+7gLhd59yWfSKH2fHAuTCRgN1EVa6Ry2RI//wBKigDaIxk/xGvBmhUaRSCl5sxJM/1oblNrUMEZE2qegdgnFlfMkH32Tge/shIFQYj7+C733qnCXq1r8OzVqABdVTeBHV3VJgYDC0Slc2rVJiy5yPP5jlhrbciVbID6/jZToJWQse"
+  "notes_signature": "h66i1iDxWxBTOOi/3+jnT2mWlcvbpiXWss3J7UwIqep3D+i7RP/PRYT1XAv+YgNiMSgxgHxAdbIYs22modaGa4hWOyHh/ZAZBWUpyN53mWB77GFukPB/sE+W5nFJ3qboSlnSeh2qDM4yDsjzhBzRO2A1zpK8/lytwebubzd18c+YcfflfxW8NQpEhSgvRu4VFTdBxMX31+y2z4KGzU7XFBTJB0AdAToYZ/OOJZSG+u5ESkj/34sDV2sbIEMgBOJ3t//1E3RyeQuxgH5ZgqqI03Bm//WAuX5I29olTHUXnOKV4dlwrfxUcf6ReMWBv6A5dXWN2aXGzNAS/ncFCNjDJzO31OPwde56L9nTITcezOCYZKSMJyF+nJWP8egTWbwNIkb0khPBVZiaAY4i43nLxKY4CeDFlYENmTmSaJX8gjHmr75p6k1OH8DT4RsQyuixuKS0a38m3LlZ77C7NCBaJJ5XYd0OTKs0uxNeJmGgKhEUG60nvXE0OzDwYsvXXeFD"
 }
