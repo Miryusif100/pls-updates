@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.131",
-  "file": "test/releases/pls-0.9.47.131.zip",
-  "sha256": "2c2dc85c6d84eb20841b07e7b972932dc0fa9a1a9928ba68f84ba3413dff8b02",
-  "signature": "WKeTzfX2hxotzsh85o4AYQ2lmRAjoBi942hNUqS5CGKFVDGYoUbqSqhM7Ea6B4M26yFmXMSGPXetn/7sX97pTCVZBfaFfFDzgU0B6+2hFdbv4MDt3NRRiCuWklPeRjXGdwDSQDn3ScaEU3l35oc/Sck28Ra79g3yhxFuemP4hy9CuVhAIqr7PCgNWP2qPPa5C0RVjLw9957LeM2+BhbHcQ/vhqVF7zqsULfM0BJ5DoIJ/z8nMN2T0BlePbjZdUPmkzt2zRU7SQvB6CTipjA4Ks+phMccfETkexhxvK0CVne0Z+8tH2gSTy/Xrh2JbfsJc/OzZUEnlv5zuDrd29UNfh5ExuorofI4hR4bQs3j5rmAETpaVM/36HbHsbiZ7DBaBJjquTLweCyB7qK5B8lGdfRecZhX8dNrE78wyGJl7meLjv3EXt46/pMJ3C6+0wd9jF8lwaTq5kVYTqib1o2Bvn/7u5mUg671p0v23c6ubcKp4xTUTTKHtjj9HajPQul3",
-  "size": 9443300,
-  "released": "2026-11-23T07:27:24Z",
+  "version": "0.9.47.132",
+  "file": "test/releases/pls-0.9.47.132.zip",
+  "sha256": "fbef08e0b7afaf5a202980ff37ec9ff39690b3ecf0675d4fd2ccd8ecabca2d1d",
+  "signature": "LdwbvryCB0xREfK2KrkBj/wjKZ62GY2oAE4RolrmEDs2iBYM6YGvIss+KM2fkO5Jb21ISOVWLyJOP6hMJENjOU/y0dLMgwlbdutJK0b6cA94YyqgYI4/4lCo7lB3ZPNEk+sdl7nUTnxSlIx/EqS/Oy0MdAqCpvKCEzZdsy2gnHODflBU3Lk0qYe3UYgkGteA8NmX9V6CynGW5QUldkjmK4paX8yZ3AG7jKvR3Lg5UfXtkT5DUly55taKbxczcWdGeANRLJgHt4m4yulVDRgbNteQnh+8xR8GpzK0F8I9N/wa8I/xzB0fX6TnYxh9Ft3wEltFBY497bQf78cUvVYL8fW6bzcfvwwiatOM5Ciepx+4LaQiIEsFfRifJ5poBLkJ2vp9Jaw7pU0maCOL7L8QIVu0K1dQ+jxSM/Zh7717FM1KH2AzHmBEm5sBgJP2OQS16zvBY5am25XZznfwfneGQMuMAh3PmYynfiQkIoL3gQ1g7ygcrSUS6x7J8vvGiOJI",
+  "size": 9443454,
+  "released": "2026-11-23T07:28:55Z",
   "notes": [
-    "#329 Yükləmə animasiyası: köhnə yaşıl xətt yerinə «Sənəd axını»"
+    "#330 Vergi › Məlumat: «Toplu endir» bölmə rəngində, bank xanaları yığcam, AZN hesabları birinci"
   ],
-  "notes_signature": "hUpQWqfWpdEE/Ozq0bIOfdE3dF9iVIY9fbGLQ4dute1bjYEwrz8v5sLKgLse7SpBam6lFtUvY5VVYdqiDaLltKjn3nhfeX4CU+nxwEfL5IeYSTmcUbaF/DU+qF5Xiig/PD5T3y9Ee1B2C+4gjvbpy3d6orB6A9N9sL1A9PotR8OtBRrEMLopVnl6zdzzqg/hTyUKIN4Id8tKX9DJ2EDlgQTl5aOx25MFO2afIuMvqQp6g8RAWHLRRqWQgaV36jtMNxrn0ulrma7LwBSKU9sRJ0AXLWO0m9mcHw6RD1jhT9FL6q0xU5IagGHBbWJJfGn6JMrAlVxxIynfY129/cV/+fpsEcjJoFQAhJNVSB0GglGzLccjfQqi7C81XcoHXolKc1+URHegiJ1XiIVzKUN+7jnnblJV4B6alszIgtmakHZcGv9fmCU2Ffeb1Sp1Vw7LTXiBFYrF8owAPBQhu/2XpQveiwRkK88EVN+2rzcY9FZKoOwHGj/9ePVH20AQCIKC"
+  "notes_signature": "SOOq0fsd7ICX4uXik2Oc3RnJGMu/ctbH5dqBxskX2d/N+qLsvq64lvnDe6GPiVLew5UJSuh1Rdj3oJ8irAwO46RcE7TWDWqbiPDnSpLPFoqkTWLZsj7dvtTtgEhFs0Lkx0hvay5YBJU3AG8bjFxilkmOiIKkGt0slkhvad4iS0QZleryBAK2C4e5HtjVqVS3fe7DH5J39mKG3v0mKaIpqmsxUNEYJy0LagJubAI4wNBro24nF2fELXC9zxPA6lXXZapqQzMPsSB+qB+fOO1XTM9cyimH5qepzch2DxocZJb/4K5eJnKq0U1Lgu+sBbmae+7P3si/q/rvPcntxwOmZoU/dRkB3eBEv88bwnHQSXmALUWdgQwnTUQWKtGYXoW6twF/JH9x/fYzBjacMvjPvXUB9Q8D8P8Oj94yZ3LN289jF5OBedh8qy0bgp5oKDdtCcI1wYL2B03ZQm3H5HMTy7sr+gvF/2ceotB1bHcmce9/RE9ypCw5kFBSa3hRfWAF"
 }
