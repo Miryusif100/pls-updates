@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.159",
-  "file": "test/releases/pls-0.9.47.159.zip",
-  "sha256": "b282022bc9b1ed991e502797bde4dd4b9edb555dba74409c8d74eb4660fecd16",
-  "signature": "lwghlvY4Yg4tvX8f3I5fQn6AAYoHP9f45k2+LNp04UilZnTx2w6dTo1DnDubQuTIsKjmEHkhEXcNVg94QTKh/RLJurvv4KYchI5TY8EMVfpayXT8tyHj1X1jgzzxLVbNYGbWILbxsLTfZk8ojPXMelk8n4oxwIRA+Btfg4xUOFAW7ciGNEpUK/TDMru7L+9eISbLBEjtjr6yUDWyNOTB1Fa+CDwg/gpsEyjTKiBaalwoCf6C+FUq9XVhHWelslnUfb1xXhokxNvdBYDurRHlJqIxKFx+vhBsSpmhlYcF0pmp9QAL6t6qTiB96cnJ3yw7u5Pc32xpXCwRBaVTExF6/oXHtB/MdQ0+K/1D75j072AhFtAv+boaXn0DMIGKQ2lUnXHX/dURyTqOoH31cUovv0GUzv+xLqtk33nHRxpxiLqI3wjbhOVVQlftzWobDQLXtzr+/cWm2rKmH414N3Nl4K3uGc92jf6HisluNun+oZBjNqWysYhOphqeggjVFDgm",
-  "size": 9523857,
-  "released": "2026-11-24T08:26:28Z",
+  "version": "0.9.47.160",
+  "file": "test/releases/pls-0.9.47.160.zip",
+  "sha256": "5949f0ba95c4590f20eb75f7d1515e321323a825cb89d0b5c335760251158f41",
+  "signature": "pSD7OHOQiOnyRQV+qJWfCWC7sYxihea6UczMQX93nag/veKSqytu+EGpF4AzWSpTLvb2cjx0eCqK9Szzw8bzSlT1K5qKsg96pwT5j9SgoK5sHoWXEz7W7fXnJLQSeHu6/QSCxpVRgrVmVw+htu7XcLlXbgYU3zXDWGmz0juzEx89TIwWa7V/U37JgpxnNuC2ybeXREmPX+JuFlnGB8DsGKmyUUkxKinrsD6YkYKYOwKbB4LUlQQXLC4UZdrEiZY/GXxuvtkyHBDy03NPZ4lv/XnNcZUMwcpI1f/laRSbRYBtD/CII/ID66F9OSdW9OyUNuBfrFTWi7AzLajTE8zKANYs4sXC6272+FAG2PFvWCkOP2LJqjLDC/qCxBf6dBnG0Q+Q0tC9NDPZllJ0p+JgxhtzdlHt13j29UFQuHjFNaRjdHy1XCEJggFweDgU9kvhDRWw62btSyT2OUr6/Z4BSjVTIzfOM/BD9HP1B/Ipn3fjJ5QUZp6KSFuKz2tybxVL",
+  "size": 9526843,
+  "released": "2026-11-24T08:43:44Z",
   "notes": [
-    "#357 ƏDV Əlavə 1: ödəniş dövrə görə, qırıq haşiyəli düymələr, «LK», yüklənmə göstəricisi"
+    "#358 Boş vəziyyət: «… hələ yüklənməyib» + «Portaldan yüklə» (bütün bölmələr)"
   ],
-  "notes_signature": "FR0WEwzvQiQAcuvID+AsEGeW949OISEVl/EfUy21trT8vMcMCl/xHsbw93jPw+M1ZjOaQtgZEQxE6WB1135RB88glXGFcMB/5NVgQpzbP7/loP7HTEDURN8cp+WpkVDef4PhDiVunwEfTLF2VaOqVFvRbORMTt5JhhnjTXrxIqBugkYcgYf0nN0NqEraqH1cYSmesxJmiQ1FKa7rTmnr5lXwCFmesJeNoumV34QIlaCnVIGNblndxclcwLQBfVP+ILLD6r02glQ1FDXN1Cyh/eM9g8lbR181B2IJoRKvrf03bK1/XtAwXkEESd5z3a4gJCcePPQsQxy29aM+95mlIpcluX0vrat/pBO2gf2FNtdsGPS78ZgDkiLHvbtZKMAtLDZWsj4JyP+WINoWcRNCRmAIyo8Ezul9LpPkH9qDqZgcJNCt9Lun08kr9ul/h0IUZSRfxZTBwPHNHrcF3K3PbPj6Ah64QqJT11OJtz99uyAEd5PPcBvTCnmkFCDimXRg"
+  "notes_signature": "e9FZLVEitpgKFzDWzz32kFGvtBFJqPTIyIiMcphkrEP4RxwM70XYJFJ7XmavZAVPjXPuvI3EwJJJ1EMejybFAgEq2YQ5JKWGbH+Qhx8mdHYhM0NsSOO5NaqrOPyP2vOH90XYT4hfTKQN9/4VsbDcay6WCin8hRW1PaUhIIaFJGotH+rXv4kEks+XZrlZkpSeie0BbIy9y9A22E9IsKdyr5ig88Z47H3z3RD6ILs38ZutG72CECJ8b+TAvM9pk2Q7CGP3QF6+RVwS+9YR7kWqx33UO2otkiRNzSGJc02IxQ0pr4dNio/5HhYGJqGIBDImu9pWpMWsyZojBy8MLMyytP1+Bhnqq6iDxSoPWyh3AnzZP9a1/kbg6eJm2DFa08Kx4ZlMNG1aQrgUX/LKOu9L6Tg1r6wqKvRxToBL2zSnjgTSaBtxGsRKAojNGTmpXtHHqLU06uVupr/wA+3XVnIEBcFsEhwtq6hwfd+xggI0283OUPj7VFsE45G4/CuSxGAk"
 }
