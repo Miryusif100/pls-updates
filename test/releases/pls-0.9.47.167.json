@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.167",
+  "file": "test/releases/pls-0.9.47.167.zip",
+  "sha256": "4e20ad471e7f11afb0bac0b41dc1858e256d59db50d6ca031e676f6d15a181df",
+  "signature": "vWcAqkNojgUyEUkh1a1qJcDaxClhu/U7RcS1mg4CU5lwy1/ahWGJHvTxfZ2Y4F8S/n4fcJNQYWUZyx47EwRw5Tt/veNSJKn2j+i/wLe7x9lTOfDlkG1hcb8SO5Pb9jWYZDQ4SLRcvqW/0Njl/fJSV+dqAlDIIOaYu6boFuwij27mxkQeeZIjVSHPU8gAumNhPxGUO0ej8kP6uwHpf4pOfhrjuEP8w1gxFbQ3JQmuY/XcMQLa+Ro5UaqTtEbJkiPk1L1fZj2bNJh3BJ8s4iHDOyF5PJKhnd0g4gC2i4hQoPgtE4iNqUNejzvy+Bk7k14vwfUeLwr7nLz8gaLoYXBylsTlYh8APZA4HOazxka9EnSumJOrhnS4oirj6pGccVQ2m0fSEi1qz70eXJPmXudJlY4hWRbIs7JUQCI+VoItXCbqXQSyk8ZKUtJci23YBzAWguBTut/ObFUf39hW6WTQ3BNsWExmpTC2AgT8uvtaA2IvayxfWuldAZmQV2bZzwcH",
+  "size": 9527995,
+  "released": "2026-11-24T14:06:33Z",
+  "notes": [
+    "#365 Bəyannamələr: növ tabları əvvəlki görünüşə qaytarıldı"
+  ],
+  "notes_signature": "U295qsTyucFcroXeoCO7s7yj+TWBxPi6KMugMAx+LXFEa1sq4CoGPE04XVE1+NRIIrhg2L6Sxg3MsvOpz9s0cfvG8oQMcgC8FXZRD2j381a/T4qb9oeJRg4hnBPLYlSSxov4gpjJ4SxP1dp283VEElyRpSrDw/NG1J1OOr7AS7q0ozW7dU2U01EqfIVttjnwC/wQ55v5dq+8M9PJXz61OKBeIfosNc4Bxt1npTkGROulaLOhorcpR7WgBkoZ5lEpiIKnjVwm+vXNgpHuW90iCWN+vubcXpnwJ0+/+PmcZJQz13qpky7Qc1mXpnrJzOwaOO3ihGeIG8aKsVlQzT8KWobc7RbxKHhJSAWzMg1dZRPB6g2VWaaQ+y6Zpo0PaUvxlf0DbTcaBND4+Nt7wFPB0Kb1DIVmiuqLshUhIpdy3NoY/x6tMnvSg8N49jMDMYtMiNyk9ICVTlobYl9r12PpyB3mIF4VQ6lqh5GSxHmSV46V7dtKBdiPSaIn8v5SgGLm"
+}
