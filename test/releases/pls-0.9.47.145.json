@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.145",
+  "file": "test/releases/pls-0.9.47.145.zip",
+  "sha256": "c57a7b17aa57ed716a6ba4e2f9477d8b44bb6a0a8bb1afb29f98110e273d2520",
+  "signature": "KXJQmy5mdP2UqP0ZrHfNp6uY+RAPtoOurN4Yfp0hciA3njPmrFjH9PZsdErCd9BmP6CW5ZnZLSHEm7eLW3/CPw9qll1HEMG5gKrAsF7Dbn4bCwiSaGNegyk4A2KCacRHmfTlEloZ8oxXQ7sueIvufoKl3BPDiLbBYn0rDW5+Yr0Eg4wEpn3n90BxKE89WEFYto8A12Jhk89D/bXBuSGTh6rNmpmV8IHvg0UFbS/JpW5Rd0JCQGRGCS++lWOMRajfh7tcPrWCBt4LCvFQptW2RltczJYb+SAYwSru4NlVS/twrxfp4iNiY9+saTbb9vj17geqjKKtUsVkGxeol4ZLpPNmpl24vtT2XxeHF0BZbj64Dy3qDUC199KMFn7J+JWf9yhQo74dH4zDEamdCE3R2zItBr9ngHN2Uf1Vw7Ik0TtdrIT3/FMg19vyQBRbT9z6mwVqzTEcSOMZ01XjA+ELa/gLKCbWIa8mjxXwH/cpxyrPbmGP2puSKNpriYTZqU44",
+  "size": 9514677,
+  "released": "2026-11-24T05:38:46Z",
+  "notes": [
+    "#343 Siyahılar: sütunlar arası bərabər boşluq, məbləğ başlığı rəqəmlə eyni hizada"
+  ],
+  "notes_signature": "z3F4Q4davVj4eUuc0ComlsFUOpqJ94Iwkl3Vm7RXu7Lxp9B9g7WqRpgLbkkLhOf3C3TvGw4boR/dBJkW9F7V7xaJ36fGKlRCe45bg2dg/ZEVR40233KPrIZTXZr3FpXzt09LCOPR9ei4c+wrS30nkfAx/VLGdekxRom/bOutdVNTaLfhAG/zOMAvrrY2GNdndzwlvtv3slHs9ygICn1fQypWojp81w3IX/1LKl46nudw1Y7/w/E6D0sGXgLFd+g/oruUIdPwH1bpKpNUT810c+8qeFseddreSFAEjLzIN6jKI9MxDpVEYWqQxDMOHRlk85svdcRhS0fiDnaCVthe66HvLIvghdJd6wSe4UgCnFg62mzxrrSfr/Sp6MspYlZeRbPB/PK/GUhROq24xuTKHVSo5FNqYKTYf2hnAD4J9VQDdtMmAlF92wZewiOvrcR153rkWwqod1dDZ4tDZvZekcfb1n7nDIIBIuyIyhKNuSBBUW0+nxdi3gkzOZ6EkaQy"
+}
