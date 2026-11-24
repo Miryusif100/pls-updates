@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.168",
+  "file": "test/releases/pls-0.9.47.168.zip",
+  "sha256": "920a9af82c6bcf5d1ec9ddc235384c391cbec304bbd0d814468d46409a4bbf31",
+  "signature": "dr5euquYWaIhNvRJqroE2AcjOgg5T03WHjHD86ws3e0vS1LZe/ssElT5tQkFWyVEKDHhKSazQCX55l5p1G1+c1HCyCCHFIPs+S5PWg1G+L1kY6dYFlD/sjRtTcARDIcSQYpIzRBGHHywk3gaWGgDKxgdZDlTCHPK9xpTo6UjCJeaDG5mP8mUOQ6qR78M5GEO1PgoKZhtTTZ+CYoSUWA6MOSv48fxxm+xOxYUtertkoaI8CauyW+w0a6HejDhsJGjhBwg4qyOk/3s8D98i3It05oHiWMVUFcBx8vLxxYzMqjafBfu7RJJLVTVcr19TtndvLn9DGIvip7JX/gmogDBOZWZUB1UB6JM9ikSc22AthuaQg+drgBP0TLgs0guHAYDacmgh66hu/Wa0twMnoI2Pwu2Nww0gnc5K4xry5YK4MRSB6NZlzOUbH3Tq1l93fSEisf+Zoo8GbfkKkonlZi0x0hO5g3tPLPuX9MqlX9q3+ldCc32lJZGPucviF9bDGX5",
+  "size": 9528168,
+  "released": "2026-11-24T14:12:58Z",
+  "notes": [
+    "#366 Bəyannamələr (ƏDV): siyahı və bəyannamə eyni anda açılır, versiya siyahısı düzəlişi"
+  ],
+  "notes_signature": "bjQq+re11lRggMbrcO2DbQSoo6MQNC7Mx0PzPQ/7wByq/MeTiZBPj+1jFyVHXM2YNs1aBxooYMWfOQ1QA37RwMGOOWQSgAgFXiOAXUe4C9UAOoqUPVT1U8R1IwJZPmfIh/EmORJRvaMTJ+ZglPNbT911fWAsh1fdgz0BOrq60rGBL/zzTR9ZjDh+7Bpq+cUvjljwhi3H/nOwfOkVWKMcYHGt/9kYtQNJFqVxXOpLoRO2RZMWZmMyb0tNcyxtU3GoQVzpcELFvaV9X6Fc6k1sepCb+0w1KpSEyk3AaEQdxPic8IbL6B54OYRhxdPxV4nOt5F2RVdkKpjl1QUeg28JSh07SK7CCl7CJE8wucmDxZbjIXtTw9aDaUsc5FqbuSaUNsS4COjIle6G7hVHFay3EoQpJ6I7x/quOGJ6HIL9saEpluGXO7qUf1As7ffr5N9XhvPHyqBocZo49+FMPRrbbiwY28vX/t8SP+f8pkXyAiybt+H5n1xFvNzr/tRtyQY0"
+}
