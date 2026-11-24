@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.157",
-  "file": "test/releases/pls-0.9.47.157.zip",
-  "sha256": "c30cd46ad9f19404d158600508f3f842097e9d0547101dbc17dc0a55790ae6aa",
-  "signature": "i7s5ybCDLqdJAC7CvHKrmMLSP3IDUkG4T70VNo1Sx92lG4CnKXPbiiFTuAyFXnW6M2fOD5xIBW5DTsE1VK03SPAKCtWhy+3T5agRM7rRw0PD7Azf9TdXhx8rGqQFKNKWBdjSyjopYWsoRnxWxKdZ3tUiPLMhZaZlhEbegGoz4AUxGM0uEEb9qbA6gij7B9BuVCURu8VhtOc855Vw3DIY7oUAeIV63AYZOne7B8G/IHqYJ7nATJdR8eI0s5wssJCmLc4AYlgvP+rUUS0BpP4xiHvrd6ZKy3vTWqMn/KkRekjvp0LgEf9QaFJCljy0DrU6fdO3fZUE80fuIrMU86OSOlgLKSH0Pp73iBSRvdZW5WRyvn016PlKk/zJxJHg4BT9I2s9yTUz6gLN+R6iJecAeMT3uFSHACFTxg9e+FAtMgZVQhjcjFQT2etbP2ObSK7CgSOmNY8lxs+rVhGF4uNcsrSuBP3tjFRsF9M6zGkAdmuuQJoOjL94ts2I/uv/lBXZ",
-  "size": 9509222,
-  "released": "2026-11-24T07:35:48Z",
+  "version": "0.9.47.158",
+  "file": "test/releases/pls-0.9.47.158.zip",
+  "sha256": "d7896c1a3cf4d7bf6fb2d3f948fa69840789de0316dd289273f7122e7885be05",
+  "signature": "xD9nPlM/do82hEyU0vb/2KrJCeXnR46iN5aq2l1xSf7UsL9c7zhRmtTZXWDbdzoqX1tpkxheN2cI5YRIPiPZFvCBqHMapD0eLUhQ1VzWeMmMwpCPHGnpqgjapxaLrMjo9gdhl4Yo2tVxX4zlQa40hXU7T3mrfG1vPfm1a6P7VGv8DCSYbS2Q9Opfl0+Zcv/4SYLkg0dHlNIVYgvjFsp3g/69CS/fxWcSo3c+DG2adf90IgxrFLtNDC3WaVYrRr4bcRNXj85HWxvepfpjTP+hk+9thZnuaIRG0kFdgiB2LhrPs7yQs2+GhhsKXsvoyNdRkMnducPV8H+Wp9kam5q3k+revy/Ff5w2TTZqo0D16ZVpY/Kn7fgN91jZKQPDE9XfGqrXsq+vwZZATnW20i8uO/LbzMtKtdQ/8GzoyvknaBBsUP/6gOrYWB6DNvnb7zVIsIfeV9G/Tr8OPOkVi/oOyZYXSczO2jxEmyfTkTNXBmP6A29mIk+xkALhu0et2BQ9",
+  "size": 9523204,
+  "released": "2026-11-24T08:13:11Z",
   "notes": [
-    "#355 Radar alətləri (22–24.11): 29 skill, 2 MCP, security-guidance; mwg v1.0.2, ui-ux-pro-max #587"
+    "#356 Vergi › İcmal: yeni dizayn v5 və ortaq «Go» bölmə keçidi"
   ],
-  "notes_signature": "DahyoXIVdDKSuOafDefpPz/NAy5L1XtvQlWKwouW3x1QZ4r4IiPQW1yNHegE1F9XTTJniBAh+gSFrygx4/tH8h8FZyktyy7BFHB9gQieJd52U6siraSnGCVnIZ+uRNoQ/tOHIjyovm3CgdL7N80GCWUp5MCKMalZr7efe622Toeg0nhHprWziqq9MAjJkczQ3lyBkptRPQm7kU9RiyTVDKqr+TA7OgO9olQ4OnStb7T6eEHG29Z5n69cE8ftmZiJeMKZ3ynBcHQ3iM2HONNcuNPxTz1Js5/u3/7cDNT7I+lm6/97Z0zZ7KQoAH+uoicCkC4JtHJ5yzF/buurS8shFKZUEB5QZoKMAamL46Ztna6TC2MTTfGkvt3hz0EBxRNyq2oNCGkrbgVVAbJrHvyPcwZ4RmWId5k2lFZtWdVZgoSD2K3au4FHHOocQTg+GaLf4gqaIXBL/y6h/uYiM/p5PveDURzDFbJogj/Ckt4fBpB5d+poLiSuYwvaGm7dBacg"
+  "notes_signature": "SWtv7d0k0njnlt9BlG7+PYiejaPDUBclW8SQgHI4k7xdCY7ODYUGQseRKe/G5+YM5ahDDTL2eIlaj5OJndqbZn1EMJrqiygsijRPUweQgteDY9oxyz+P8fERPoQ1a1qGQGNHHiTkxp2LuIRXTnUkOh2A2SH/zROWWEt8Hx9glKY5/RlFSvcuaGlbY8ggNkAeILHmrt2PCVpOD/mKKwzHR/mLYo1KSHFHW5KkpYe/Z09uysti8zhZYBukHPrtGpt6N0B5h9Kx/MVLZokec92M6OEh4tC2foZ4OriNL/e21rjaS/LeKCvUirXdKdm8d19xEhEj0WDtzNSPYjrOku5fRizBk0T6lT/mJIPzTiDgrxiCno0rhi0vsbFsQg33n/V1QGkD2rM8i3HGWcec/ejLVUB66+bRtCHEn/+JAm0rzTGVOQgvzP+0i5fiyqqFGRQyzmpUzpwDoGjT2EhxyFtQs+ytDE1LWc5+JgpfvEftcIbZ5HBJgrCQ0jDVN6hwnK7m"
 }

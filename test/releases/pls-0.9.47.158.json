@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.158",
+  "file": "test/releases/pls-0.9.47.158.zip",
+  "sha256": "d7896c1a3cf4d7bf6fb2d3f948fa69840789de0316dd289273f7122e7885be05",
+  "signature": "xD9nPlM/do82hEyU0vb/2KrJCeXnR46iN5aq2l1xSf7UsL9c7zhRmtTZXWDbdzoqX1tpkxheN2cI5YRIPiPZFvCBqHMapD0eLUhQ1VzWeMmMwpCPHGnpqgjapxaLrMjo9gdhl4Yo2tVxX4zlQa40hXU7T3mrfG1vPfm1a6P7VGv8DCSYbS2Q9Opfl0+Zcv/4SYLkg0dHlNIVYgvjFsp3g/69CS/fxWcSo3c+DG2adf90IgxrFLtNDC3WaVYrRr4bcRNXj85HWxvepfpjTP+hk+9thZnuaIRG0kFdgiB2LhrPs7yQs2+GhhsKXsvoyNdRkMnducPV8H+Wp9kam5q3k+revy/Ff5w2TTZqo0D16ZVpY/Kn7fgN91jZKQPDE9XfGqrXsq+vwZZATnW20i8uO/LbzMtKtdQ/8GzoyvknaBBsUP/6gOrYWB6DNvnb7zVIsIfeV9G/Tr8OPOkVi/oOyZYXSczO2jxEmyfTkTNXBmP6A29mIk+xkALhu0et2BQ9",
+  "size": 9523204,
+  "released": "2026-11-24T08:13:11Z",
+  "notes": [
+    "#356 Vergi › İcmal: yeni dizayn v5 və ortaq «Go» bölmə keçidi"
+  ],
+  "notes_signature": "SWtv7d0k0njnlt9BlG7+PYiejaPDUBclW8SQgHI4k7xdCY7ODYUGQseRKe/G5+YM5ahDDTL2eIlaj5OJndqbZn1EMJrqiygsijRPUweQgteDY9oxyz+P8fERPoQ1a1qGQGNHHiTkxp2LuIRXTnUkOh2A2SH/zROWWEt8Hx9glKY5/RlFSvcuaGlbY8ggNkAeILHmrt2PCVpOD/mKKwzHR/mLYo1KSHFHW5KkpYe/Z09uysti8zhZYBukHPrtGpt6N0B5h9Kx/MVLZokec92M6OEh4tC2foZ4OriNL/e21rjaS/LeKCvUirXdKdm8d19xEhEj0WDtzNSPYjrOku5fRizBk0T6lT/mJIPzTiDgrxiCno0rhi0vsbFsQg33n/V1QGkD2rM8i3HGWcec/ejLVUB66+bRtCHEn/+JAm0rzTGVOQgvzP+0i5fiyqqFGRQyzmpUzpwDoGjT2EhxyFtQs+ytDE1LWc5+JgpfvEftcIbZ5HBJgrCQ0jDVN6hwnK7m"
+}
