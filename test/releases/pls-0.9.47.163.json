@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.163",
+  "file": "test/releases/pls-0.9.47.163.zip",
+  "sha256": "3d5dbccc4eb24d0b2de3017a9193652b7455b9185bfb12c828cfd37a70b9c02d",
+  "signature": "Ky7ASoUfQmdK2bPbYja9aO/NTb9zIOp+Z13Ts2gqyVGgQjvsEMxKhjveXatf+lm7nR7QcHVjQNcz3RHSryqsnfflvcaLS7ydpd8+fn5lfQjHTVMC23u6+KP9WmbGWqOBNFomNmYLEMzASxMh6QSWd6MkI/lIo22KEAhSkeBM6Nh50w/zP6xneKJEVFFhac02CyambowxOB159s+Fg1jd8YbV5Dk9HTx3FvAMRtTpSwRMBec7TSZPulQM1dDf65lxh4dP3X4OqcU1+JZoRVoIYZzQ83WBhAlB0ys2F7Xs3hd2yGkr3I63eAvq+a9QBuLFxVHVqIBZpJJsU6rhOzTFMGsCmDrb2k45FSikHamvctFDn/uOAU1M01RckJ9DS+h/iVkjIeSKMP9p5jGeSzshSZ4R9d9SYfqBJBiqcxJZ0A1Fc2lHo2X/hVSBIBYKOUd2f178oj1jvewcUpv2DYpMDAyUHYeoqjt/2pgvdY8noCQES8maBDwVyc+GX6iQ171g",
+  "size": 9528199,
+  "released": "2026-11-24T11:01:04Z",
+  "notes": [
+    "#361 Bəyannamələr: tablarda rəsmi adlar, boş vəziyyət ortada"
+  ],
+  "notes_signature": "cNuzUgggJZqWaV/rSrelAq9b22kIZWYfRIF2jbJmLk1+H1pLRQBiThOQ2hJrYRrhpQxF5swbyl6+uc0Fk0rLn3+208siVIat08w3pUx9EEyyT127o/rUi0gIsAecvY40ADtK9rOnSEuz4MTDBO6Wk+YhoFnZoRDp1qbDGAItTwK0aRQij+HJgNsXHHxoGTTCG6ElBgZrqKJRwsn62AC25GfQs9TJ/1xjyBgmRBKfn3NVQJ5NG/aY8rSiJ3dDvvN2BdxJIoowl3FIpZ74tAbNEZGLlnnMFf75Xd34/ArT0HCj+sQCTN/QfT3yILuA8i+aBedtwCpv/PaiA3ED3ZZkcRy3xJ8IiK414hBRONYEdrfU4lVd7zJZ+dOEJpJezfBzCT/InyirqBCIYe3CTqHPueZGdBiML3nAlWWIzehua7GpJF9uUeSnjlyE0BmQmbeurKnrqR0gmFl3pDbziDZiMOMTVqcSw0lm6zzd8sMnlp34W+IHWBRf/HguZApUl7Cu"
+}
