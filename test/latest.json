@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.147",
-  "file": "test/releases/pls-0.9.47.147.zip",
-  "sha256": "6e407b18b8a57482e7b5df388cbd085bfeaa86f5f4251abb862963f6cc0f4005",
-  "signature": "u3QPrDpG/z9rF35QJ3hJVo4a+rT1lMdaC+wDLyOYDJHZJdYaKwFLd0pR0hnbI/oorjgTYkXrk98HHLf3qZWVEYJgbgDfCAxIcLdp9zNQFKpxx2nCqIA2qg6lGNgoM4eU9FWC3XwpzQ6E/+aaJA52B437+dz4pAOycD+9uVwL0u7SM8LLJqq0CmAZlEfVDRrd5IN9J6iQIUvbhoD15quTpYt+nj545pkbuyuYHlabxsFy0uKVaTPBg5vLJc7lJQ5TvupB+KpPB79Ou+wxlq6x5vmLrsftCez9eVT0C1ji3uhzSRGEmn8UfwDLvP0uQEnY6q+N9PxOWGa6pCYhyGrVJtteoLyeNd6oSX4FXIifm3NpbgH0Ds6NwxXD6ni5eA6NQ6rEfhlI8OFOfZzgPNhevGYpz77i+y8pgKSpSlW2O7zmIEgpDRad+HXm6QhUDYRENrtlDktSh/IZvrHy6ahRdCPOvSitMmWvUtdQFwXobChkjV3gFEyqYbkgVavES4aU",
-  "size": 9518042,
-  "released": "2026-11-24T05:57:58Z",
+  "version": "0.9.47.148",
+  "file": "test/releases/pls-0.9.47.148.zip",
+  "sha256": "448aa4e7f867a73a865db49e47ff46a63e2d3d24ada6dabdfa5836ed4ff14a3c",
+  "signature": "OUXPXwXNfK7TSVSHH9z6kRpQa7yNRug8xrB35wj5p7Q/xfZS6+naUOvrHQqWUUkQDjTPDWtTVCYRnzKLTUux+nvS1BNVjd2hKpxdKHYPHcd28hmETFocyhLlYWR7E9NpVrfa37kZUS+YgsWJb1m/i6+WtlHbroygpTCBjwrpSDBXawbBXtP7G37g3BjJvgPjfNFUT6JEe6c/Aj9E6iJRUuyURNjhmUq/Hq9RbyXv9/gA1H7U8kS3Mq1orG1AouCW3nFmTx8KiVmsSGip0EX/KKmAE2lCMpOcLSIljgwgFQ1hF4gBxkQJUcNoAD05lXMJv0veIO/X1wWdjqrhoZ1NhuvJo0etl+QMjxsFtnth7qWcuVSUbdsFvVU9h7R4tX+G2sSienFElPNb5TEtWtB8NsR6hhJbglfKqgzxq2BTwqBnOlliaEzTCg9MAxI2ms4Rh5NBiC0Cvv3EJ2KSr2NJTSSe3I3Ut08I51u8mk84+/RVjTIKTiQjpTJeE+XBF5LF",
+  "size": 9518045,
+  "released": "2026-11-24T05:59:45Z",
   "notes": [
-    "#344 Vergi › Məlumat: təsisçilər OCR ilə, sənədlər və rəhbər nişanı düzəlişləri"
+    "#346 İR › İcmal: yeni dizayn standart səhifədir"
   ],
-  "notes_signature": "lRwrZ75zKi5b+x3yyzWPnA0+gFJS/4tAOLlXBMlFzHqZnhIptGrHXK/Lr9Cm1UWJQlUq2/IZim/bpymhVE3Ce7LAzdUUS5fW+8Kt92lYkcpQqZt1CYlbHE9SYbljf0OIgiaQX4g5hvUJloMv/9Ub8hMN1LFyZHeZIj5fIIETm6fuFF6eTJMJ1vU4yqhiS4S+goAE7g/KXyGrQcYxIIVCs5UU+hxgtytDSc8BGF0fMIY8hR9Z2nFQiCLjw8eWytXqiPIwRBG2SrHPXBRuL/IkjgeK7NhMJMJWCOqlIuqQLaAAvVRo72+LPV6cUSagzi3TFIVMbWUqoQGCmEzuDyQ6BXkVhghNMDqbBl+8UxxiTuojYAyEfuDIVtOIVMvgu/OzhVJIEm1OWQJeMjPGkgBOUb+mg61WnsOZsGSt0zSM3Mtc9/JSurvabkLJ9+jTHtfGtvNgEZOsbdGi/h7Kcbxc/tujAB1hzponNVdqcV3Qy7KeUmaT47d4oWyoBqFh91xG"
+  "notes_signature": "E4gS9PuzokNZ2q0GTYAUfp3MqU3/LPBzO1Vlr/AF3XKwVm1KmkoCFgma4lN0Rx+Gjt6qF8t+XWq5pBIMuM/i7h8+Yj7uJ3Og8BMFko4nTG4rgVpyDucY+FwTzDJcGmu6jEUAgj/2zx1KeVOJ05RoKWsIYQw83JHJowlh/WQSeIE/JlSenoerBs9IhI7VNGzQ/9kIWYwULVpmuzemgwdz+h0g8PoA3HN7yGRMNDoJNp8U7ZF6CRiZR9p5GzD1pkVPUapcdoLKR2A7OW6uHOBiz6qO+dYTTSKd7Ls+tcxK4AVT1m3JndcGm/dj9RLeMkOfrVmvjcW8fcWE73iX6VRAKWQ4Z4+uqq8HVG/rg0f8xEakd32f+iHc7oT3fDHjLm3TPsQVPhrOZKtWO7jR7GCdGshSATSI3idI4rZV6dYSzoZ1nZ28nWLwFR/B14Nwz2HBkh4IsWzcmi1hyVkY85TAQq9GVrtEhTx/WliT64xns2XkU3fYYRMI7yFTG5JrY5Om"
 }
