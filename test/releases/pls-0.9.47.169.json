@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.169",
+  "file": "test/releases/pls-0.9.47.169.zip",
+  "sha256": "4fd5917b42b3deda0071c95558559b6ca5bc69ce531e30877e182fdb578b8679",
+  "signature": "y14rSr9MGu62csRIUWDBNOuLe/9gt/EOsyLw7BA4WgoyCz5p3MT1ap9EKSKllgBNh4ZXsNPaesNn/D/i6qdGYGaN40h/lfh/sN1NM9nXKVvh9jttYNgcSIKYShlYCJMIqZKvjyXkN1k+AnqC5woSW9zoWL07e5pU9texnsOW4RzQ0uY0kdwzQNkmdvM3c96tczwSKzeWH/er21UjApPHVvg5yYp/AFtG/NbF+f6j5WXE7EGks0bBcIR6oFx6Mlaw6DJ3AJuvAFfvqMPp8VToO8SZsX/u1HjFGTj/Mdj2DXp+zxvroRjj3tMiBeQuqYLkIDD1oJH++6NrvoAoGNQIuEJO/PiQvO1ygXtWqy5fa0HTWnwshLnjWLXsRu+CAjYpGr+s+ecwer2afngcwjeZiYmPLErSdtpBBPZ3uk1NuzwQL4ixFZeuZ6ZCU4gmJLLteyLB4LJBN+8arz6ntr0kd4dkZFOD90TMsHmpjZ8sLseSh1l8ZbfcmhcIfNK4Yx6g",
+  "size": 9529659,
+  "released": "2026-11-24T14:22:36Z",
+  "notes": [
+    "#367 Vergi İcmal: sürüşmə, halqa, statuslar/Büdcə ölçüsü; qaimə nişanları və göndərilənlər"
+  ],
+  "notes_signature": "p9tk35Ibu+HLxWhikuiQppWxzTlwnBOpUOH+VC3vlLT05DwL5ZnbFmsxqOG0R9A5NkR96BJnlsUux5vn/AB0D7d8RRaxRrdlnUvDk5vqsIchI8RD2+Iiab/QNsA+iT6V5iI3Y2JDJpMGminf3Aqn6tjD0qoINBSCsm6JmeIpxINdFFlyjsjeJSlml214Njx4yLizl7XUnzQlCu7tX+sGRoN9zKmnwrzxg1REdJ559kTTkkwja1wIqixrhNGslYF+kGSQkXyQAsi6J3EJwLfC6lw2tasYV/d9UUiZlZ/vm4Oaq7RzRajsqNTvWyfUhGCu45i22+zZzO6t/OAm7pDcwLQBlzcW4m+eGJbiGHh4QJy1THVOxqG3xH5zIO2ee6ece4ManD4OuhWYYcC0YiOeCfFKuhvAL75GUXIKJ75zArcFDeH3DfSftrCF2ozkrWCpYNrrDb3UtHmnwLdxAn+Aru0zTLnfBcFyfvyDxP+S2ANJhSc1WseiwSF5YE0iSGOX"
+}
