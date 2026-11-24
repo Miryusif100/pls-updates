@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.162",
+  "file": "test/releases/pls-0.9.47.162.zip",
+  "sha256": "76c829eec201d920efe22ad90b99879ca226746b9e6ebc79021ad4b0839f85dc",
+  "signature": "1x2mwpp3FK+fdsKIWXZgSR589ARpdM0/JNyHwEJavh981sgSjV6lnET4N01fptzLojuS+ZCJvZ6CvKzFIifTE6FouCi5ZyEvHEOJeIYu2luhEdihwIL04h944xmHH+bsMKyy4B51K1g0rowaEht2oGgY2Ehtm9eJQyIkDixHCYWbgWGe8u0Jjh7zX0CaCHN2ZBem/V82fjCb0lIXauqoKHMe05HXmY6IIBMV4mHScHOaxa5Vx2oa/1YxHRz8ed4hY5fU3m5A6Vd11c6I7KmzOYjhq2N4bqLY2n1CQQP7cSXGpMT1DLx+lL1OntKXKfvMOXKIvzD1PN2ykvy5dPiX+S75hRYtrlhzbCIfsd04KAIUm43gPaToXyFoD0jDay0nFfK7dcIGxBA0TCn+oOeHV+GB+bksIXAKujlrBlp0K54s30VJvWwOVDcmfyO9BTMh4+hMjfkp6LuDjlKpBUd+9S/RPfMTO/ZQMv2ymWAjN20JK3gp+nyTieGEG3IKGnv/",
+  "size": 9527857,
+  "released": "2026-11-24T09:10:25Z",
+  "notes": [
+    "#360 ƏDV Əlavə 1 (4): siyahıda ad, «Ödənilmiş ƏDV» + «Əvəzləşən ƏDV», sütun sırası, portalda birbaşa Əlavə 1"
+  ],
+  "notes_signature": "cqfP/0Y4SVr1XTLMIUnFSw4cIK89ekyPF1wJUEQiNiz3X6sLovbbfIc3hlc0p41mNCAHRPg+7OHGYK37GLHX/y6Sys6mogcv+ngVntNprsf4VF/0lBpjFfvyV4Sz/OzuHPwxRWLaQUQE7R27PzoQms9EB0pZS9kRw5aGGhjmoztmMvYVYJyrWxzT0rMeGpIMz6SaQWwGeXsAOnIq9Yr9QqNb7Wq+lwe1Gsf8XsDhpUdV06vTrWzE0DP4OxqDLmuWuqUdoUsA1Ag0MvgbXqrcypR6PbcHMfDVVtAdSRkplV6zxrcjzusyqVld+PxiWC/egsc+A/41w3KK6dbpBtg8jGUw6PvwMW8Gi6SQJ2/0IKa4ooVco00QUZ1lh2E8gF9y1eJb/obt1uqw0jW/70afKKpkuZmvMED3TkcInyulMVIsYIzcTCZrKaO4uNibb35tdgp+12k+6q3c8Fvc9SnmILAdBk9uSAKJOiwjfYD+hXGJsb//36Hjd93S5Mavcsix"
+}

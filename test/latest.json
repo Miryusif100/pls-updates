@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.161",
-  "file": "test/releases/pls-0.9.47.161.zip",
-  "sha256": "aa510fcc906335ca737b5ffa405b02719f14798250c094f3024b15945e7780b5",
-  "signature": "q9kZpXpmBZU2bS0YDmFcUg/3PdVCEPw/KKBFnnP8g9gh6sTfhuaajlhNZtxuNfyZtXbYdgzMHkOxPLDaHSeexIHpLJew3ldglpZleol5WnlRVzPsJYKgegTE8BUbyHvAhgPu7CxTgmyo+aUdDQGfWCZWhFEqXCm7OrMd57Zl0FaWhWouOvmnW5u/LX4BCIWzpPngE5MEVRvag+zTukV6q0RPNcFCRzFep1nMi0ttfXlwMGijd/amk/F4AdY4VfKVgRqE476xUWIFuszYw0Fa8uHYZM7AYLmY7U5Wy9Fbf+ngABPrkMdJoBK403zAlZUI7zBuvKE8OUB8xIRBwJXrHHz+dq35679dCFRs8OpQS+MP3erslOvgAzxbnAjSQ9zBs2C1636ev0oAsOzjl1aTJGYFQXJVo8ULUne4y4rX6KFqsVkm+KTelfcb2y8fTGWoNDEMvt6WNUH8EdLwnZ0sbXSMoFyi/77H4u2Nur8inX2cxUSkXkjAPqRD+OfNvvIM",
-  "size": 9526838,
-  "released": "2026-11-24T08:58:28Z",
+  "version": "0.9.47.162",
+  "file": "test/releases/pls-0.9.47.162.zip",
+  "sha256": "76c829eec201d920efe22ad90b99879ca226746b9e6ebc79021ad4b0839f85dc",
+  "signature": "1x2mwpp3FK+fdsKIWXZgSR589ARpdM0/JNyHwEJavh981sgSjV6lnET4N01fptzLojuS+ZCJvZ6CvKzFIifTE6FouCi5ZyEvHEOJeIYu2luhEdihwIL04h944xmHH+bsMKyy4B51K1g0rowaEht2oGgY2Ehtm9eJQyIkDixHCYWbgWGe8u0Jjh7zX0CaCHN2ZBem/V82fjCb0lIXauqoKHMe05HXmY6IIBMV4mHScHOaxa5Vx2oa/1YxHRz8ed4hY5fU3m5A6Vd11c6I7KmzOYjhq2N4bqLY2n1CQQP7cSXGpMT1DLx+lL1OntKXKfvMOXKIvzD1PN2ykvy5dPiX+S75hRYtrlhzbCIfsd04KAIUm43gPaToXyFoD0jDay0nFfK7dcIGxBA0TCn+oOeHV+GB+bksIXAKujlrBlp0K54s30VJvWwOVDcmfyO9BTMh4+hMjfkp6LuDjlKpBUd+9S/RPfMTO/ZQMv2ymWAjN20JK3gp+nyTieGEG3IKGnv/",
+  "size": 9527857,
+  "released": "2026-11-24T09:10:25Z",
   "notes": [
-    "#359 İR: üst zolaq 7 qrup, Vergi kimi açılır"
+    "#360 ƏDV Əlavə 1 (4): siyahıda ad, «Ödənilmiş ƏDV» + «Əvəzləşən ƏDV», sütun sırası, portalda birbaşa Əlavə 1"
   ],
-  "notes_signature": "HkK3HKTsqdlAlMDfgc/ZyhWJ/3cNVhdQf3aiVOJVAjJHIZDh2hmSCtd1ZAljN2kilBplohfesue2BCjUQwoSiD6Kgu5Vhm0/P8NkEfoC9kCdxFgsx2AEU+AM1Fbko7EEqH58qgiFMynqgHozscKyNV6CAttxa2IftgoKRPC6plAUK4JSII5Wdo7x/Wv4+2bmZiuuk3LVPjhraobUx+TjKeKhAqzlCzmHrQqS53zaBa+d3VmC4eR9/5NssXUd7jRDleu4gfQp2sw3/HL2aiu8MdaFuRVrKP02eiTohywWKyr2GbTPxQqxBDSXFihOgY2Zpvi+fb/JJCtuhbnLlV13vTNZ9eoTdVrWdSRdAsh8alWqFOE/LG3qiUBFt3rWpovAQr9YRKuPshbMdTX7+pntzq2YUy4m1zVSV3TdOXr7CXBaVO5B+lL/P41hsDh+C4EMTcUW+xbH0nc+erQcltkTiXIKrLK2uSPhCM2NW8MkCAE0SvE2B/Rm3GSm1szc+ZG/"
+  "notes_signature": "cqfP/0Y4SVr1XTLMIUnFSw4cIK89ekyPF1wJUEQiNiz3X6sLovbbfIc3hlc0p41mNCAHRPg+7OHGYK37GLHX/y6Sys6mogcv+ngVntNprsf4VF/0lBpjFfvyV4Sz/OzuHPwxRWLaQUQE7R27PzoQms9EB0pZS9kRw5aGGhjmoztmMvYVYJyrWxzT0rMeGpIMz6SaQWwGeXsAOnIq9Yr9QqNb7Wq+lwe1Gsf8XsDhpUdV06vTrWzE0DP4OxqDLmuWuqUdoUsA1Ag0MvgbXqrcypR6PbcHMfDVVtAdSRkplV6zxrcjzusyqVld+PxiWC/egsc+A/41w3KK6dbpBtg8jGUw6PvwMW8Gi6SQJ2/0IKa4ooVco00QUZ1lh2E8gF9y1eJb/obt1uqw0jW/70afKKpkuZmvMED3TkcInyulMVIsYIzcTCZrKaO4uNibb35tdgp+12k+6q3c8Fvc9SnmILAdBk9uSAKJOiwjfYD+hXGJsb//36Hjd93S5Mavcsix"
 }
