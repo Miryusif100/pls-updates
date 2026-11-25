@@ -1,12 +1,13 @@
 {
-  "version": "0.9.47.173",
-  "file": "test/releases/pls-0.9.47.173.zip",
-  "sha256": "0a6e97a3c7fedd2e1c9b808e29e325ea764fe79a259981ae406f4d8651dc771a",
-  "signature": "igeOqsJUy97Z6noHFH77TGsCpl/A9C5DPwqJU5D29Hi0sqOZNhMKFUx4mUgs0eeDVitHYR2Z3dKzOzc2J6oM+3UbzaLdFyZHvqmUa8B2qVO1vYaIjOp+xYOzCH+93l3UqYdb6aJJMLg3Sltx7hJRQDYbPu9DjlDTK9dBFSPY6H3zXagsXjoDh11e9lKdvUNyw6edbbiqz7wlgVuYXXRuyZgn7llnzLiBFpXDW5mAInxJ+wd+/dTqM0+wDZnIyAwizcn1Ejr5FxRcdHiLqLVyki2cfm/5j1v9lCyAS1Ns+NZC59OOxTGZfT73zHne6tdRiljdUHixI2NWqrVi7tjb1ryogI2bcCfGhDH2pFCXNp1k3GeFH885oks2jJXaTY/e0NsOq6Ohcn6guHDP7XsR1eMBlH0AzyYVvfjSI7zbnRC8nNM5/CC6j4T4zwX9r/8gNcoPqD0kaQ+u+F2GQqhwuILt3vqI4Bqwjfq2q/PMM/0P4SoapV44qsFItS4nc7Zp",
-  "size": 9539868,
-  "released": "2026-11-25T05:20:15Z",
+  "version": "0.9.47.174",
+  "file": "test/releases/pls-0.9.47.174.zip",
+  "sha256": "31db5384fb81eef9ec80eddf9c0c4dbc1b88f91682a93f9762a6da90d65e68b4",
+  "signature": "vR5D4vF9K08+dMIvKdbB4rpe47tVJuYSQ+3AUbPKcopR1O2qi1CzLLvvpVCA1fP8+03s8bpq0KkspgxpTAo1HNU57nachMRtORthD+isHx86Xr00BYyqiPLOIOcpVV9aJtZMUH3yEdVU4BAa30uEBultcFc/BBJkC1CRakpzmjlz2klgy2rkPB82zWfDGvIvjRl70KM1PC0qpltl24DU/NueagJnYJhO1rhStja55CljTcynexfgoImfpnTvK7trQouUThYsf9SeEF0PZqZ25s/OXaJ2B3rKZELYs7jFm+VRZCMQ7EGVrRBJVk1gwmZwVC1r/QhXyXK8EahybhTG3klfXi8rDpYXty7xnDV/h+7olfzr+Z4JFcZdad8UmoW4LizqO6MxA2EsLbnLi3p0ENIYsbdhCbZmdnwSmz+UmZiXd1/3Fz5VllanJzBBKWz3KVw0v2a2OmTttCFFI9Qpcc1OdADQHpCrytaeiZk2W0CDrqtRB/nvzUdGayCtsyQF",
+  "size": 9540429,
+  "released": "2026-11-25T13:05:27Z",
   "notes": [
-    "#370 Bəyannamələr: növ tabları seçimdən asılı olmayaraq yerində qalır"
+    "#372 Radar 25.11: gridlines, claude-security, plugin-scanner, shrink-anything",
+    "#373 Vergi › İcmal: Bəyannamələr tabları, dövr (il + rüb), qaimə statistikası ƏDV/yekun"
   ],
-  "notes_signature": "qfCkEKxdJDh5tLxtHX/hBl2/MxIn09ByFGIXkNtIUi7ww5O2ad/MEulKcFREGoXLfkfb1o+gcp6IRaf1GUiBeZ0XYuMQJxq+a+J2n4nHO/uhMMNfuOf7z1pUlU7gxLnwe4HHPB1J+aO+1AhyIOkgbLwrT+kraIaQ2rBEMMTWwNfw3oM0GRxvbtBqsOPLXYIiw53Dnq8Tr/s0GbLdHHqbzXYLcjF4NPdAI+b/6gtMo2135+sKVIiFIHpAfHV6LhVb4kHJX0sU0Znbx/vcZvjgOBbEO/J8DJrFCUIDkpYs01A7jMr5tL/H3EfFULq4yo4uWjmIkIqXWzLsRjuUGdUEyzcHSNQ5fUq7cf1HwcYK2ImHCfGvn238INfXIJBA6MNXbCgIMrMS80Z2fhA43zK2n9O4l3rZihfY6Hk1cZ4l/CUuvClFkccF5oPfwizyE8tE7R30WpHratxjYRh8AyjQeU+fWCz5aZd9THamThs/viyx/0d03l4JeFx6CzIRIfdF"
+  "notes_signature": "I13LuUOQ7mzft11Nw/xdAEcjpN5KYUwD3xjI+gI9zZVPpdMnTRZ2pMVLy5aBUHqNUABFg7fE90+9cCnjULajcfepQY/t80OxDzN3Ij8eOLwtvguvIJOEcmUSXa0GiWvyOXCljt4zqcX4CeNJSqS9iLCfvBavacD1P0gdBFITGxyIshICg3TI9c97yeMovGNvqheWfZkKm/TE7vEJM593zYQrAVa6mrWurkjA269lEgHDqXA79xpC/hdwd06yUBGEgfY/aUVEkfCF1ryYn7y6MISZ8Pu/YaEDqhK/9GBIZpMrCAYrWe8p8+10i7Ai9m9P2BdY0qlYeOhlqe3ud/NFjo30bd/OtB7NFsgshdRL66vy374XnRL+C9ISvOFVX4TumzUppJsU2Fi586mCTLjqCJpK9kIelcfiKTm+nuR6TGRP2A1aHzt2JCGGfr8u8iUa5sX0gLzyYrBil501QlGJzNhrMaVDD9i0lRaX93gIdgpTgSio/ktveGR4p/j47LPO"
 }
