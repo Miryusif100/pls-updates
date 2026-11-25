@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.175",
+  "file": "test/releases/pls-0.9.47.175.zip",
+  "sha256": "c0535d099ea800d7581eef87046d7d9ac6e347d5f599012880626dc13d403364",
+  "signature": "MeMcAAkqYH4hV1b5FJJ+KAJLtR5KIHaB7OxpsZNKwCtSOJHnTSgQQhFLdg29GRNG27EKxb437Z1cW2LQDvfZgVEJg+tpO/ffplfiUkwzFQIjOKUVUiSTrdF30OmkSsz8TE74u6LiVwtRdkrg+NSNi4LOMVRdnJlRiv9Qpz5sQwcZkwC/KFNO/fjENgSw7QDKfcYey9Bpd81LyKGTzEhoOGmJ3ZClXEsuN1XSf/+gRjp8pxk8zd4dD3bo0AUsgCypnvNnvZUxg+rHk/8yrDPVoTvPNKRwZgMwEU1VKotO/nlGqJZSjOrBBrwFLB9SMJOYmAYiw+nt01Sx+FVwyMQkEpwqDbQ6J6peNmyYGOr5lar0IzMhtTqGjNReqx0AAPHa7HXL3PypWLjU373cf6COITjybKTUAKwZW6UQd3J71xZ3rFGW6rJcWzoszvcdK+lloCeL7fT4GyifZEz0rrJ2vbOExXeTq/qjTQHjE7n/9zfaQlDmYx2qmSBFiEKq+nwA",
+  "size": 9550995,
+  "released": "2026-11-25T13:29:53Z",
+  "notes": [
+    "#374 İR › Məlumat yeni dizayn — PR1 (qabıq və 5 bölmə)"
+  ],
+  "notes_signature": "rCo7Z9q+TCKvy1Q7G2xiGGrR2lvS7HE9air5jIqsSpx6sovPyV/aUBVUG8IMVNWIJs3wji6XwweUObU+CnMn81odPPDidTAslKMOnDIMmHv2F+EnnrUdNApZ8VR5sc9WLvyaAMqUvo75QOWPl/WYlch7Bndg3p7OW7bq0Er9oTUxjTjngIKCE5TaBJBqbFHJjqYu7GMiRsorKsdfAF3x4of9qlmfmY2ak2v1QnRGzAYcvjVjR4FLymJaj20tHo9onZn7NTfgPUbfVDI8FDs2v7mRmLNjKenUOpELa/kDFBEHjbDbTTf7OExO43K6AuP9BYKoyDIR9a/G1PNCh9ZmKd9xsJbK23BUPrVZYXD2a3vTcm58VVuE1O66RyfWUgq9P9bxpWgPkUAHtlYwEVgqSDkjjhckVZvmXZddJ+vdpxi6qx2NrVxHPQYxkK+feXgLQCsnLi2lpHtMprp70d7ZesrM/VOrBtEtbA95hekh9U9+kK/U6+VCxgoeYZ8m2W9c"
+}
