@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.196",
-  "file": "test/releases/pls-0.9.47.196.zip",
-  "sha256": "758dd242df87151b25e39fb5c959257d3094db4da8659943e34bbbdc865d978e",
-  "signature": "F/Hqxr2EqrV9q6HAycKfAlRyd6R2G2Xsujtld7J0gHmYYajXi/VTEJG/Mw5h6p3au0FXwtzstr5C5sTkR/ulMBn2w0uXMpXustIQadhsvYSWrys81WW6X7tIYHL0QjItHyFrgwegnY6hpwCdJUDNNwHCd/gvooti8zUNmmyg1A6FhHB8Kz0qBzcSWl6TmRLecH4Tiz0DlN8yw/5LkdEuQrh4xACM26lRYZEl4EM60sjkiPewkAhRIeErCT9EZkGZbAsBunjiyiOBa9KmfMt6TRgYClSSRyU9ZZ/a4TuBn/Wyk1pLMh2028eMcmnZBXXdDCLkNVZWk9KmrJ/LSxwYqxeljElV/q7ufbCrp8qqL7q//vw+0/xT40ruRqg8n64qWsn5Sxj5u/4vMA9VTtLEDIha/h8Q6CHAx/A9ZjcLQk4zA08HbXcW5TZe/JpLt3W8gnar4bkVq1BSIFfyRV0cBnKXOUVOcMRNo4kcAGrxzQsKIIDuN8ZAouJis1KT2OJL",
-  "size": 9636749,
-  "released": "2026-11-26T12:24:06Z",
+  "version": "0.9.47.197",
+  "file": "test/releases/pls-0.9.47.197.zip",
+  "sha256": "35b61597d2f123bb32a2c213d80030752e70cafc4c58817485351e7f0b0096ec",
+  "signature": "M6Bv5o4eRl7NkKa1c4VoCdMU6fnX67IT4W1O7ILf0IM03thVnjrNixcya/XqgIi1JuvoIf+nb/2aRPlS4Q5Xw6kgbNHeK6ZCN664ZB2/37zS4/4v/S674F+L2tF38HC/7p2Um4XQkc+i8si4OrEQo7itLHUO+Y9s5mIcb2rlrRGzwD1wYO6W27cpY4Xkuh9JOdCbpAYiu5QLC+15Q6moU4qRh3APqS7iviW7YdNZd0TGcakAr1bzh6r1jOmP8vTtkNL92UUFrX24VaVRrms7hauXZZdBQDg3j+QDR+LqMQ+UXeKAdimqPSPFs54msKup0UPzDaQZSAztBGURla/L1Whd/8SD9MHdqKtqNyXM8dYzzkmVPUsrC1etSShX5mTbbG9wnS4pKYnhVdflaWRamA5k9HlfJTqBtZkPFh4Ov0bNqoCuR69wMGVP/BwWDZ+2h7xcbMmDygYoNgfSNj1NVSru5r6dMAGaWMnvEnpgX6DZURxxUxhh7PO0E/33mSkb",
+  "size": 9636906,
+  "released": "2026-11-26T12:57:23Z",
   "notes": [
-    "#396 İR › Kvota: bir panel (İşçi sayı · Kvota yerləri · Vəziyyət)"
+    "#397 İR › Məlumat: birbaşa «Portalda aç» düyməsi, boş bölmələr «0» ilə"
   ],
-  "notes_signature": "GUYQc67GnPp6mykELXGl0gkTdyqw4U2n5FwzRoe/XTkq3bQqobIJYyKrC5eVnAyhvVVQ8Vh+C+7OVfMwEXN7POGyGWTQkszKHwVU3DhO/jTamP8cwEgRFV/yW3gg56rlPH7GOdtUx6CrhxC+Sm/RLLjyh6IWHni3FFa/nzaqAXk18atcHeYw6Gw9IQXqP8wtRBXPhQH+/O7QWUX+wiuUfWpkMOsrvz4yGVfbFlE//LvzHesSOji0V06E683eBBHBypAD/zPCEwin45GIwV5WVLPfde+/eH48hHrK/GSV/HCldsqhOCC7Opk2+MV/ED4aK9nrcIyGhes68eF1mzTguuJ1a6+ayZuva0AJ4r9mw0eyBhfcCR2IZHfr8lKNhcZ3VPLDjDKQlogtvvKRcPRzOb3IlVTlpvsE69Ym48O4lG/39ld6i5DjFbuPthGz5iL/8K82u6XjBv+8PScrW+TsmgRcT1WCaFER8xgqxcgWEYvgMqfEWNyLCGtc0Az5GVIs"
+  "notes_signature": "E7PElP9eR3MC2Vqnm0EVA41XBITW2oCTXWRRkOK/PMaZK65aTlq8tN3HPnR2yHtkAaUHSK/I3NjucK6RCpQkMA5THZMUQMNVDNYqgcUZwKTJeT8ufdlyjia9aS/62LlaEpt1RLEfQojGEAZKt1u6eIM3Rww5GoPdgM6OzbbZjETBLHcw52qFYHT9Cdd7Vf4Xlt1eE6DbfGmdsw/vj71ETwnyRIvutm0k1RzDYKBMvp8vh7qftPSyF/PxjHbWPjZuUDVlKo180Z/Z8fckJ9Y3CALOaLbyuNiAN/FO3JnoxV7VofN3gE3sf5TKCuHFpfx5aYpv+P/t0iboLFY/9j6R428enbbqqKetX5vomJztKTzCGaushaXTAuYYsUv5LNd6SuXu0Y9ImtcElzP9c4NMtynn6t2S3NyYbMmo7Pce9n/6g5Drxy0sLrDUc8hVCDkwK6wEnPHHnwNrK/hZhVddwGMdXJ3tL6wIRRrbgfFq7A08mkqb2wvhQKladgo0bEnI"
 }
