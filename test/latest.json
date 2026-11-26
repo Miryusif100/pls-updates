@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.177",
-  "file": "test/releases/pls-0.9.47.177.zip",
-  "sha256": "06d677a9882c06047b77c92879eb9cbf38a8629e6c584725aa308e7f1d5207cd",
-  "signature": "R3JEwnsMT0cZzS5yamZWY8aTF9dviOec7ZiXJlt9yLBH6BqtBkz1sK2NmGd29m1CXDLNK0pM62JGGGHK8peGJhg3eq22cSoVkG91+H59vbEdmyuwT/b82/rt02ypKkG16/vk9W5ksUbfVzTBgJ8fwHWtoSuvXHWlD+foucH/V4ceLI6+UatT1EXK5eBJS7rrkSK1LYXYg702IBbaq5Dlc28suP0KhsdA4tHSKDZVntY6+oJx1tcxmqdMHmgIc4WAGOOChrwo10QsATnRi5bEYTh7HTCWtCwIm42EJZinca2IOtGTk/JSnIvi6TqRo6126poO0xLjLmHwgpu2y0hjYHrMF6Kiga2Hds5f2S6TboKd+SDO3mWVq+3/RUBjMYUzYjx16j7G87igA/nkfJ/RpeQrB3FcF8kHdS6L1Pf9cz1RjN43utbsNEmFu8+P+pgdaCQKGmZq3xoY9afITo44Tif/dQ7lxACOUJc9KzqQce7Q4ury9FtzLzydnV4iUrCS",
-  "size": 9557626,
-  "released": "2026-11-25T14:40:18Z",
+  "version": "0.9.47.178",
+  "file": "test/releases/pls-0.9.47.178.zip",
+  "sha256": "2004f65507b865f742146aa26b655dd3bc857ba3936852fc675e484acf459af0",
+  "signature": "LZ8Qz7XyHGlueUcamgplwOhJQmju3KcIdVk1sjsus3EUi/4ptP0iWocSnxkVWna2dhKT4E6EiVsj/H1ss3cHDsGLE4kICJNGkUE1Wb5uA+8q3zYxW9EOeOnsne1Rfje3S7Luzixh5+YZpR95dRYetS6aNuXM+4NQumtWUWZbj1OnBGkKMgvSYUB7kgZPTD+0nEd89lcUtptORtWwCsle+IdnSbQxpWbkU59izkxW13U77KCtILE3h0P3d99KDnM4HrS1c2oKkr+9tx+poYSFVmgMeaqfmgxMVghp7BtKajbpkUvZwtWpW8JHtROEZIGD8f3OYa/Cjvd8mX5qJI+NW2oluqt9b2kMBN+R3leyi5HNK4jT+6TtYyPgzCzc23UQ4AuPBZIvtNrFthvdu9C9XwNbskd/ybPErrLfIZ5T2mfzatbpmN5xR4PnkpZ6YSy410Z4ddCqHthaRWhOPX+n2dQuIEOcwdp1Vy36SV2nUK2HkVqsrrrM7PIbNRZWC7Cm",
+  "size": 9565427,
+  "released": "2026-11-26T05:10:14Z",
   "notes": [
-    "#376 İR › Məlumat yeni dizayn — PR2 (Səlahiyyətlər, Kvota, İstehsalat hadisələri)"
+    "#377 İR › Məlumat yeni dizayn — PR3 («İşəgötürən haqqında məlumat» pəncərəsi)"
   ],
-  "notes_signature": "n6CDCUA5EQ5SFHUxST0FG4JZ0M02Vvj7WefaDGtoIG7Ev6eYQEPasdtyZLtpod77ziJpYTQcdqMZ9THcotATR3nA3GgpxWlNjdKAURgb1+rETztGRwX7g/+BsoCUAkRkZoZ7pzWxIENCBAhYftwLs1nok0X6Z07AmZPrUFIB9pz059p4belfckblNKCrIo9mwYJ50vUPDzdsTwXdasTTVcXRuHdWCEO4RklfpWFcaZRq69AJIvPEpEvkKZxKC9mLy95ZrcXvpx1OlEhwheD8ugi/eK00goyajBxbIeDgOLbpQLpbl8hG2wA17YSE1bCO9Gl9/lrLuqMOoflS6GKAZgyJ3vxyNVCHixpeOhGjd5OJfnA/JMpeLdQ41OjL/o5bash+pqKfDWFCnVswWdNdM2aNTzc1Opee7BF1z6fo9HDO/1u9x/h8jbQw0VUcmHIQLU0RfYnNx+6JGOVPztAPDgk1m0Mtdf3A80okDaEsCIUpT6QPTCH5EkLOR3eHKvjD"
+  "notes_signature": "WPBVmeMLTxFPOsMjbzZPjvg+0fdVqBHVn5k1aKPtz1mQZzGJId3MroS3iiPRnla40/nUgy5A8HKHPoAdqH0KSw7KBDfU5SaIyCSEOp8XcUOej/ly5spb4nhgZTVypZlHIr2zvyg6Nr8LYy1YDGe2SEXY2pFb17fTBTfSbroFOJnyF9x3S39y0lqmLO2Aa6oe+UFYBK0IwUTRpz1gktmA2NZzTXzIVF0Okh/BMXtKhIa2DiSbuifO4BIj2V96b+41gZe+sh01wQ8P0eHW3CjDCEtYFRLj1uX9JpVp/6NCT1cte+V4qtO76GvX6c9H9iAaOgNp66nv0lxp0Wswrd8twmzSN9RYLme+mIOW4L/fyzSgeKHAixr/lT76Syw4tMud1qBQT153LmReUk4/QMgEMHchCwClziX0utKrkFOWWaPFw8MVys0/Qg9BbSk1UlJ5SuYXC0Qs9yttZHgtFnWgs6DdsBfl43ierkQQNo7vIbqoPTDNYGdHUqbTmd8xHBAl"
 }
