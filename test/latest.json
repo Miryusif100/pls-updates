@@ -1,12 +1,13 @@
 {
-  "version": "0.9.47.178",
-  "file": "test/releases/pls-0.9.47.178.zip",
-  "sha256": "2004f65507b865f742146aa26b655dd3bc857ba3936852fc675e484acf459af0",
-  "signature": "LZ8Qz7XyHGlueUcamgplwOhJQmju3KcIdVk1sjsus3EUi/4ptP0iWocSnxkVWna2dhKT4E6EiVsj/H1ss3cHDsGLE4kICJNGkUE1Wb5uA+8q3zYxW9EOeOnsne1Rfje3S7Luzixh5+YZpR95dRYetS6aNuXM+4NQumtWUWZbj1OnBGkKMgvSYUB7kgZPTD+0nEd89lcUtptORtWwCsle+IdnSbQxpWbkU59izkxW13U77KCtILE3h0P3d99KDnM4HrS1c2oKkr+9tx+poYSFVmgMeaqfmgxMVghp7BtKajbpkUvZwtWpW8JHtROEZIGD8f3OYa/Cjvd8mX5qJI+NW2oluqt9b2kMBN+R3leyi5HNK4jT+6TtYyPgzCzc23UQ4AuPBZIvtNrFthvdu9C9XwNbskd/ybPErrLfIZ5T2mfzatbpmN5xR4PnkpZ6YSy410Z4ddCqHthaRWhOPX+n2dQuIEOcwdp1Vy36SV2nUK2HkVqsrrrM7PIbNRZWC7Cm",
-  "size": 9565427,
-  "released": "2026-11-26T05:10:14Z",
+  "version": "0.9.47.179",
+  "file": "test/releases/pls-0.9.47.179.zip",
+  "sha256": "3e0734074681117cae9c6dd8cea08640c035eb48067156cc2641842599cc3daa",
+  "signature": "uLrPyhPyE1FGzrfmbnbgik5N06EF7LzeNXF9Ud5MoIyVXQYNvWQUHQ2/MMKCRTaxGCf3ZfkHDzjYi0t3dQqVTec2wGAxXA9kKdSOusyRdg1k25+bu07h6cISt2VgSnus5nTVATdMip41FoTPDUSmYGM3xyC+q1umVEljkby9GAb9XcuUxu6KinxzByp1MlCzQDIM5BHRa7l5D8pp8CLPbSjutNUxUrCEKJiaGjoGbOwcui/lzJDZJACPkR6WjAjDqkCx8y89z8c+vDQBN/Yv+2wcboIUnByUu/iw3fn8uf+vSLQ9XZF0b1MnKPyMuNY9I5howJYhGXPpTxb9SH9sOCxxgcHRgi7/zLPmmVl7WYe3SpOUQXzCaW98bccdX0FiQYziY/5WOU3RzBXpr+HZFS9cBPDVv1Qe5tWJzO+EjoyBHdd8hDrbhBSSEiCpNudyUr8ApgBAwbjryTW2brWrv9NyFRp35eDBI48OV4DUtH368unX+50ChGTEMP7y9+vA",
+  "size": 9566348,
+  "released": "2026-11-26T07:53:14Z",
   "notes": [
-    "#377 İR › Məlumat yeni dizayn — PR3 («İşəgötürən haqqında məlumat» pəncərəsi)"
+    "#378 Radar 26.11: dembrandt UX, ratchet, nonhuman skilləri + lodestar (söndürülmüş)",
+    "#379 İR › Məlumat: düzülüş nizamı (Rəhbər | Təsisçilər, əsas fəaliyyət üstdə, rol AZ)"
   ],
-  "notes_signature": "WPBVmeMLTxFPOsMjbzZPjvg+0fdVqBHVn5k1aKPtz1mQZzGJId3MroS3iiPRnla40/nUgy5A8HKHPoAdqH0KSw7KBDfU5SaIyCSEOp8XcUOej/ly5spb4nhgZTVypZlHIr2zvyg6Nr8LYy1YDGe2SEXY2pFb17fTBTfSbroFOJnyF9x3S39y0lqmLO2Aa6oe+UFYBK0IwUTRpz1gktmA2NZzTXzIVF0Okh/BMXtKhIa2DiSbuifO4BIj2V96b+41gZe+sh01wQ8P0eHW3CjDCEtYFRLj1uX9JpVp/6NCT1cte+V4qtO76GvX6c9H9iAaOgNp66nv0lxp0Wswrd8twmzSN9RYLme+mIOW4L/fyzSgeKHAixr/lT76Syw4tMud1qBQT153LmReUk4/QMgEMHchCwClziX0utKrkFOWWaPFw8MVys0/Qg9BbSk1UlJ5SuYXC0Qs9yttZHgtFnWgs6DdsBfl43ierkQQNo7vIbqoPTDNYGdHUqbTmd8xHBAl"
+  "notes_signature": "VzIdyhlJVNayltaISgSOe+Ise6zTHw4A4NmnPuaHGrbRvncLB/Itb4Dub/KSpKBqXQ/0tjoR8IrQz882nWzZa36scFmmYduUA/u2S1K2qrPIgijCqQ4LM/me95QKbro3GR6M4X+cYNhnJ3pRfi8btA/6EKEDiy0GrobNoev/PIi1Yd0lnauDFLF0Z4YZjitGLwrr8kfWFs09q7fLFS4dLJlnFXhfx1NnOlpkCvZnGNQr4CxLDn5DXvBfHyy59U1IRYhRTGJDnduDoZ1CWiFpZPpWW4Hf0JDDpgHaDDSXZbFiYuBSCHnYqeYGvL0ZuZmp++pb/1UxSEUiPnC5jF/i+ekmaNsvTSI9GzWPawaPJLEyDhjjGiuT3REiMx1J++Vvm143Y0361+E7j8NEdZnXwRCS1nMkcH/9aSAusqr2cCAJ6qbAwkYuLAeMA6mDu406qTSYr5FjasqPVt3v8pmNopjmapKdKFg7WGTbPXT0wLkNdU5P4136JssDwc4Y7P/I"
 }
