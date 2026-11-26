@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.200",
+  "file": "test/releases/pls-0.9.47.200.zip",
+  "sha256": "a706c9b1896faa5e81ac0017bbfd5d8985a52c5713a4e59b36521a4a31dabd44",
+  "signature": "nPCbJZntvGFO293yrx3JabxkEcljE9XI4VC+mZMWF2vfu6Q6gj6LTEC40aDPO5ATEfLRW/8fJUIOJbHyjFV5k9uWKYUkNR9xFc6XV1k+gYTtg/rvbSfY0Cm69YZKk28KartQudY65m+fjYza+SeLyKNQs5fFwR1Owydnp4AKVqdfELgziWYGQz7l6/F1gQ68BjFw4/FFgjfbTJrDOBVCPEeCeGLnrbcAN+VC4RfihthGf4imtqujY/izA6GpAeh2XTp7abQk1P5PtdfTyPYkwFt+BLrng9pBUr4DdloXOINkW8KJ/kY+TvDG6FvJzabg1SP9+QRwvVdgzHWY2tXFcjyspGGkU1a+wX5ScVCJ2cwpeV2cAR/GWBWyWp6UISr58iWCy56juXHE36Mi1fqp3aOAw8RV2cOyGeGzGNbmnkKSOLqflHoXOr/jCUlmf5i2egCpIaXEKiTPS+S5vJpr8KoGpLbS1na3uHxJ86zfLJo1XXcu8dtuLxzleN/XHs+T",
+  "size": 9652423,
+  "released": "2026-11-26T13:27:08Z",
+  "notes": [
+    "#400 ƏDV DH › İcmal: dövr, qrafik, borc, əməliyyatlar, qəbz"
+  ],
+  "notes_signature": "Qev7qj0Jl3pvF0ZoRECORRVNK33KOfzbkYiEkAtiB62RuILIBVtfn9KbtAl3SZCRi9bV92KVLT9DtXtTWAZ0JZricdaaktJkph+BY81dT9pt9y22UIwDndELVTOVCKOpeDSScZn+rwdX0d1HcYWdpnbpfa9ylFqkhgIKBccFRU6iUn774wIjbeZA/AuMWXEv9yDpB30wbspuN2K8rMsslNzyLHu0rZ+y/XMi7SIFO0CC/uYkv6nxF9mOCvXKJa9sphBqt3W7Gn8UJZ/Q5wxG2metGPlFb3IFOv6KJWO+xI8/KknedJXLCnV3FqtSRQ0Hd79AzZrRc8RJGFLg+Xk4uMNCXo8sBYtzwIC7aoTCKnWEXZu5Kg6CKMbSMTMi81z1iHu6WQpvWkMaYCKICl1SJHKOKR8BoB5PuKtTe6SMBVA7dFzTpHPuVRTgKoAQtBtTUGycsWmnDSRw6DSOOKg/4T48DJbLa7WktGLztAtbfypJwYU1s1wdEu8u+6Wi4ZKt"
+}

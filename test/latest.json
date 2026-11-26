@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.199",
-  "file": "test/releases/pls-0.9.47.199.zip",
-  "sha256": "c01570531ce5b0328e90d38e4ba23edb3dcde0e816579521d8f03338f9b5a565",
-  "signature": "vqZnZrxyKU/bjBEgo1RgWIgOphtZQ1FrrEE+2iXGBEKLIskvdC2r2/X8tY96ZGRXJaxrxpH0R9rhqydCjbZip2CfYdFz0wd/WhdErCpZ8lFJ7vSDAbAifCvzfJ+gUPJuM2HWboZHK0mkm+Q70VIXxF4vwgsQTFlPYynzp0yoCi5Zswfh0mYIt7YWKBo8okCW9nt0KKFstmteoiEZebkvtirKXIrNvYkrKCtJYq6ctUE5VI1bj4WHykOo1WurafeYN5HtfE04rSXdufeVEsBFqjnQWuwCsqXjKd4GkQfh4ttLfRBpbEmNVebxj8Qw1Ra7Qg2Gs5vTVXMYGdlIKofox3vmW59pMXCmsQ1Bn/Z4nGiQt+bWRV1ht9WbQ48St31fVSACMSI9BBPzChvBV413Z2ONWoE2uwWiWLJCuAdSHK7ft7o2/RYhp6iVY9/HqRXh4LnJSJRyS+Yrbx+kxA4ydYEhMkbaL+MIeL405yrZ4Xdmr4TSiIBvQoh3gyQ86v2s",
-  "size": 9638951,
-  "released": "2026-11-26T13:22:11Z",
+  "version": "0.9.47.200",
+  "file": "test/releases/pls-0.9.47.200.zip",
+  "sha256": "a706c9b1896faa5e81ac0017bbfd5d8985a52c5713a4e59b36521a4a31dabd44",
+  "signature": "nPCbJZntvGFO293yrx3JabxkEcljE9XI4VC+mZMWF2vfu6Q6gj6LTEC40aDPO5ATEfLRW/8fJUIOJbHyjFV5k9uWKYUkNR9xFc6XV1k+gYTtg/rvbSfY0Cm69YZKk28KartQudY65m+fjYza+SeLyKNQs5fFwR1Owydnp4AKVqdfELgziWYGQz7l6/F1gQ68BjFw4/FFgjfbTJrDOBVCPEeCeGLnrbcAN+VC4RfihthGf4imtqujY/izA6GpAeh2XTp7abQk1P5PtdfTyPYkwFt+BLrng9pBUr4DdloXOINkW8KJ/kY+TvDG6FvJzabg1SP9+QRwvVdgzHWY2tXFcjyspGGkU1a+wX5ScVCJ2cwpeV2cAR/GWBWyWp6UISr58iWCy56juXHE36Mi1fqp3aOAw8RV2cOyGeGzGNbmnkKSOLqflHoXOr/jCUlmf5i2egCpIaXEKiTPS+S5vJpr8KoGpLbS1na3uHxJ86zfLJo1XXcu8dtuLxzleN/XHs+T",
+  "size": 9652423,
+  "released": "2026-11-26T13:27:08Z",
   "notes": [
-    "#399 İR › Kvota: «Kvota tətbiq olunmur» vəziyyəti yenidən"
+    "#400 ƏDV DH › İcmal: dövr, qrafik, borc, əməliyyatlar, qəbz"
   ],
-  "notes_signature": "1SoCMxoMkLGaw4b5t4jNFaX6p+OqBueV7X7NtCzHrp/vNiT2H1nZH+08+FBMehG1gp4dbRQpfVzyIt7jFtfSErdQphsxEk1M/gVQXMv/FJL6ie+wRooE0mHq/rAA68mW4KuDUeEH4Ujvl8RbOf7tPxyYNZ9xfPwz4RLNqM60G03rIfN5cLNOMxuug+ZW1JwdWfQeqcr/QsIatoOqGkZeBFV7R0sBd6EWO1UR9W0ArT3MQ+AjAuRDsFVGDXHa/jhpodZAagk08lTAz24iZg4Ym2N8V3p5abbXQVD49zyMYBDBFrKkIIeZ2TQTI9obJp7kwR9iBFkdfbry+Fas/Jn0J+zuUE+jHJ4XutxayBKKsxE4itb8cxChOgsqv5UUDRlkMVokH7M2wYEfPkKAUf13Y38mBGT5dPfTP7MoiqujvNdQygFDAxGHDnO06aHnWaperYHm+o8yPxFpVklD69oN465UlQf4p965vHZ84DGfxJ3yXgWUzKFK28PsxikEIPCt"
+  "notes_signature": "Qev7qj0Jl3pvF0ZoRECORRVNK33KOfzbkYiEkAtiB62RuILIBVtfn9KbtAl3SZCRi9bV92KVLT9DtXtTWAZ0JZricdaaktJkph+BY81dT9pt9y22UIwDndELVTOVCKOpeDSScZn+rwdX0d1HcYWdpnbpfa9ylFqkhgIKBccFRU6iUn774wIjbeZA/AuMWXEv9yDpB30wbspuN2K8rMsslNzyLHu0rZ+y/XMi7SIFO0CC/uYkv6nxF9mOCvXKJa9sphBqt3W7Gn8UJZ/Q5wxG2metGPlFb3IFOv6KJWO+xI8/KknedJXLCnV3FqtSRQ0Hd79AzZrRc8RJGFLg+Xk4uMNCXo8sBYtzwIC7aoTCKnWEXZu5Kg6CKMbSMTMi81z1iHu6WQpvWkMaYCKICl1SJHKOKR8BoB5PuKtTe6SMBVA7dFzTpHPuVRTgKoAQtBtTUGycsWmnDSRw6DSOOKg/4T48DJbLa7WktGLztAtbfypJwYU1s1wdEu8u+6Wi4ZKt"
 }
