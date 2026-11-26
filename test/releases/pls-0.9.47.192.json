@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.192",
+  "file": "test/releases/pls-0.9.47.192.zip",
+  "sha256": "6c3f4e0a5e4a9306bd9cfbd78d65c0a4b514aacc7c8020516a5b41da1b7e8be3",
+  "signature": "lzhLL+Ml6mjwBP5Eqbw8mKKbK16MHx3j7+mOOfpaM07cjBz/nIMFUxKqAP6Mr7mgB9HAC+ggjHMt2X2+qCLm011ebu0ojNTGroFV5s+nwVntSqJHKHtuzV8XYDI7eDUEnk+Vn4XiahAna7z9aSm2sudJoBapoiaeAy4XNrvAdDWp+4VNCS2LuZ76dk3IlMCPzhaeSFR0gXhJb2G2QYYp8aj7MD39JucbvoCvHRCsPW83KCXgD359L0Ci38VMPF3/uXyfp5hZANoi09SD9lY5W1YQNUAjElO5Rp0trIOLL2y7OtrMRKlrsZX8wtDAH4DJGYoiYdgnHWVGka6NdH5YVFfXoVNrOqGjaB0wXviiDRK3Q22C0sIv9duEvS5rA2mrKXcn3EfHLlqOi8H743+sSjGOjV+VNmW/C9mcSJWQvxFZcP5foPIPAOI//k8CkXV/s7G+a1B9Oad4sDMHCQwD+8y7EU8YT1fgg5PxIM0CkYuzMuqwV0wTPElOpOj+YRDC",
+  "size": 9634620,
+  "released": "2026-11-26T11:48:23Z",
+  "notes": [
+    "#392 İR › Məlumat: real ƏMAS düzəlişləri (fəaliyyət kodu, chairman, qurum növü, bank)"
+  ],
+  "notes_signature": "zEhI99iSPivazOwG1p6E8gbcHB7oZPIaldGyHvnqyp4bH2tEPzUYtppfh/fiqtKedeKDG4DXiJVVX4i1caQAkAmrrxHZfEBMhZKy8uj4veQl5ecahyq1bqdBWkLlclunQIGgwMggq2xzzGkWNFVqlDxsGMSsFEJwRuu5aKD6vd3dlxBTIIQVCKNt0r0hauj6nBzT+Y7ZK/nwYqfO/3oDKjGHFnqyeWsnp+8tKnYLxAVlOb7HrdFp+gDmouismIH9Ln3I6t5hPm1KTBd+1MFMgcYaA2o4MfLK+cyjF6KFrIa8Ukr9zCKAeAKMHH1jdH8f6N4FGToB5DBHUHycmhQIVDjEqgUrCCKmlE8c8DXQeGRmddbZVcVBktgs0VzeiaSHUFxV5yEPMbcjRVV8FeQHdh6n5yVwoPICO4uK9Rja7U6zaL3q2uTF73Ul52dJ6bAl79sXoKyRrDhTG4Lc9amkTpNdJ1dj4hCU/A1VycseAnYEUNUIh0YnUVg7rVDfn6Ge"
+}
