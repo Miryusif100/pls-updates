@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.182",
+  "file": "test/releases/pls-0.9.47.182.zip",
+  "sha256": "20c11ac37d64294ec94b6210e1ba327053e47dd8ee382bbc310726127df1752b",
+  "signature": "D6GHJYHTsGSwpaiRiAAeMm3mZyehCpGpZhV45I6kHyqr2AFq/mOeL3sT/5JJAFUTIdRD5emjDA4h2BYzcAwN1YX8ClZ32g/To5rMajqMKkxOhxKRKOzwRcmaOnugZ29wdXkuHugjCNeRmJGLBAS4X7Q9ZxWrxIzs1z6OVosxzmHJnx5OgKH7+h/RGeExohYqCdW+7/lIKS0aU22OWQRPreMATP+uZFdzr+hPcO7+6FemM3h38/gMAZOcR5bOJQmN5jxjAAnMQL5Ny+YY1MV6rmqkL3YCxEdBIMaC6xgvmL/TBdXmKcIRP94BGZi3c2akwZyPNNqU85XZUcCv67lmdPufc9jCTVwoztp6W+79BNwNY2XnMSyIFY/uIHl9JPfdjNKjgfqp36CVb6qQ9eLrT19appGICsP88wjnL70DYHVH5Z3vjdktCqwBRdKyW2Qj1aBF2lkVG12/HbL/Cf7W+ilQZslxJdUr748w9sOrqyhqkeVpK9C7iz0SY+Q+Y8TW",
+  "size": 9606607,
+  "released": "2026-11-26T09:18:22Z",
+  "notes": [
+    "#382 Kontragentlər yeni dizayn (1): siyahı — sütun qrupları, göy filterlər, «Dövriyyə» filteri"
+  ],
+  "notes_signature": "sFdEp+YHtHQrxQ67zVeqX71k/nd/WrjSdNwAG9Xm9CGJABZpFhuz7HdTpEOcXuIJMs+ayGzZ5FbKKuAPzNfyRiXk3ZHfruAeEo8cdfX9YJabn82oHCJ+VCvaVeZw2oPmPNOUjHBARHGHshaK+K34C3BK8gNbBF+w2ePitwBXf1UbGNDaOmKXPCWLvHVdpwCB7pXJew5oXpXBF2PMWnL2v8YwOA3lt/5153+Ed0l9VCMIF1Iw1eFPczP9euabKHCNpcdKscIH4EZAScx6tiehUjRlPDTkzaBvduaK6RmbUIHmvGeHXXzF1FQhU5UcxuEKMXBari7dNW+0bHcKAVXIDpwbO0BLY5p2IH37Ea/e3JAdW2VH6LC3GOahe68KQ60GEJ1XXiXsiFfwkkOUjFAcAYPw+wUGfxh5+SmctuvsYA4R59JwRJRfHEyztaqK4luuLL6Df7fhXNUjy5IrOehu6HF0wpSBTB2WEkCIO7WM7/8jp90Upk0uWP3xnPQffzZY"
+}
