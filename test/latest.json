@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.187",
-  "file": "test/releases/pls-0.9.47.187.zip",
-  "sha256": "825091b8bdad733d265e66810792b3e9b18f7da566dbd95180ca180868dd2379",
-  "signature": "utIGkdufDuyVfdnVCOzmGEy1IfyVJad+kg00fL/eqEzPZrPVLrnewBCZYWj3dRUhlP4GZX/MPFwEaWI4MqzzXJfMC+vpT5PWij38H6A0MKBHFQ1++wIuPUcTOuV/99+S5iiztW64L8nwM0cRrQam5e0iTsdDZJwfZGz8qQNeZmcTnHvZiUalT3HIuDFdI2o2qg45uKwuukgwbl3m8d2aF1WidjWrV8+7RigZV1hQa03A1qpBiAds9+fKHq65dFSPPSeUY8gXFKkvPJaABCbIVIew9u8U3GFweGb5lOu8wPvoZzMDN/o8iRdW50Gg8VPxkcVYGMeP4X0QsE3AktJUx4hm9h+LG9lU6o5tX+wwzFVANqFKMtb67PVxp7fI5vaaJZX99s5ew60XTaqFgkgLnUinq4I5ESh0df7ZMyzMmbJA5FIIts7yp7bOnh77mFrUZsg+7T28xMoP5oo2NjPnHwE6hsq+OCl+J1399dNGB0MHbXgR06F4+RnHC3kqpNSA",
-  "size": 9618601,
-  "released": "2026-11-26T10:08:10Z",
+  "version": "0.9.47.188",
+  "file": "test/releases/pls-0.9.47.188.zip",
+  "sha256": "0b71b9d1396913499ee8cf6e089ac6f8ce9571e21ad5c557259522d715f22a6c",
+  "signature": "nPSErlzcEGTujMTmfpRm31tPHFAIBHMv3duJLaliM0gDJLT5gvAuHYIomTcxZP18laBZL5iqs3WLJnX8TO4iFZfZ2ZGKL+EJ5xlZMuqyOrbkYRhzHLZ5njSH8CWY9v7FhO3bV6V01W6kjM8nyWrf7k2VG/UihlCy4yiWwu/a06xibkPNgun3HAJG1ev2Vpe5XKz/yjpls+kBSVapNrXY7Az99PEDNsYWOVqGgcW9MWxJEE2vDadABCvhnx3qRwANYxcprWn6chJD8Dp/MB/Ec57q0EpUxoSt7EoO/tU5Ccx0s42i3AHfiLASjq6EBw89WL18ziDRuGB83kqhZ+KrKJO47rAUmJn5xNypUiq6P9GUb7V2cAZU3C1koxR9UIxAQYr9KL8V3ixWJPkwuvkqIjek25x/9eIBdXrv6CN6Acns37dH3SDvK9xQLEvwvMQgeEPlhmFnzGzhP+5TNuG3HmSVw5irZoUYAC2llN9skALvZ0SXt4gOdYf4P1kMGYuH",
+  "size": 9621184,
+  "released": "2026-11-26T10:26:11Z",
   "notes": [
-    "#387 Kontragent kartı: sol menyu, göstərici kartları, «Aylar üzrə» qrafik (2)"
+    "#388 Kontragent kartı: Rekvizitlər və Borc və pozuntular (maket v14 «C», 2b)"
   ],
-  "notes_signature": "Ww5jXPv14xphHWN27XeowPsD/mu6vbmxDTGYnnAZKvaeudnwZZJaGw3e0hl+hHc664llZv82KgLN7ln/kafRPO7WBIsmrgSpsRvKbXFS1D6Nqu/n9dYIe9/Ak6bMrGh37PmKJeeCIXIgQbZv2zUZjt2U5zvU8HP7qF1a0uDh0S81mXVLPVD0T2Ks5dFdEtEvbzwkpNfnxSOfs/2K0vCk8nkR540vxd78V/KXOIp6Th3+6StZEawoisxZHt4KGKOLPfHQ3dqKShBHCwyHIOXdqTVYAHwORxbJjdUp9RyTzPOk0CyqlM18+kD5asmc1d8tnAFklC58smQwUTnWsjGFM2ebuc0WM3S34Y9mm9MO/FKbOHUaC4dlYoNS8xGQFrmIQ4yVdEXPobSU+kLyhy0kXPfi9vcc3R3l2C3k4ALTplnQ41dVZfAhSXcEKu0I0l+wXxOHI4J0nOV1Kdln69CSNRjXPzOf8mMbHgSxPjmNXQqbMFhABBKNaC07VJy6miBY"
+  "notes_signature": "ELG8jcWSUp+BW2/QdSmMCDgWrVfJqpVpBoGkqCleM/BxIZEzEqxhNwovF4JvKCSckjGvIHeOwFnXpefCt/MzaEzAvk5JFiCMtzPjZjUxcYn8/WeGz7pptr32acZCStk9wPL8oAQDCLScTCvEiVzPSyCb2vF2oklB4CQqMtH6tO1k3nbAr4S1B9moD1NUi1/kQnQIX406yNXD7Sd8eJfDrVjhGy2gMBoi4NYA23PQjKX5bzObAkBP7SOUfKPvitfIBbgBvyaquDmo0nBVHIFqlgnTkOXmrWdh+0BeMVXSXQoyTh9OzyN4SGtJsjtMwJIMkxLvQpfHRdMID7QCtziKe0+hQ/N8iIzeJYFRjgkCjv7jQTPe/eI1wgXkv7hGed3Qt17XgU0oTK8fCKgP9tGvlejs63qCUSNA/0lHn8VPrAP+MHobT2lHEkzDbLxwfYBqMabgVZFAqHuBaa7HzUuY8G0Z4VhqPym22DNGAVJrl4hNdcVMzvZscBdbhBghh+Yi"
 }
