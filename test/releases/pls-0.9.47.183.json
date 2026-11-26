@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.183",
+  "file": "test/releases/pls-0.9.47.183.zip",
+  "sha256": "c062b5be0b721ccac7fb993e5cfa30997155750f8286581354fda4342401202a",
+  "signature": "Q2nptwG6x+jSBjFLAOYe3PVq4znHrAsBWfGHDPcohWDEJy7HVpC5fJ6ortwJzFrg1KVf42ZwR9ZbtWKRAuaceBQCcqGVS3gZwsrUgNLNvYvdJBIhE5NM2Yx4xSv9EJtwswMdjYioM1RsFF+5DR2/85wuIfQuWN2CrTkIV4nFiVkqYbOtdgOqEge3AhEOE8+3qaSxwhbQYXj1a6N5pN9uaDe+nYvzfpOfTZjVdt390kss8AqI4E6QIeqgUyELJP9lpY8fTqc+1dLVNKjgWhxs48MRtNMu2hRQzUgpwa1qHXM9eYCHvx/1307y8v2Gq09eRfiDPAOtBuoiBzI6/as6Ciz4OJeIbNdyjZFgpRKHpkbznbbaQzE+4aPAl5B9YsICafa7hDDGhFLKsOjgt5VDDVUVhiQs6BXS0UZJOFwTg1Ob/mPMeXjHjk1vlDM46F21smb3HC3oyCeToVIzLU1YxDae3glse7CzxGB7QWH5o0rNSEdEOxbPqA2cI0HS1+wf",
+  "size": 9611669,
+  "released": "2026-11-26T09:23:14Z",
+  "notes": [
+    "#383 ƏDV əvəzləşmə PR3: Təhlil (il və ay görünüşü)"
+  ],
+  "notes_signature": "WXNMkncF/jdzkeO/9Jtqq64tHIF4f7NGMAEo11ofFD6+pXTxfKEYKT1Y0HFZc5FxUQYpD16rqF6sNym+oy2sYkOYeR0KdPxqnnwWIZCmsDxz6g7+K2d4zf1inSAx/klnlXzTHUJ/vLouemFOTWmAY2wEQ7KkexmQdxumrVOMWGieRrSfEShcR6/39KXfyj5/JgHJsNDtLcpwgmGLyKkQQaHjyBVarSUU89bdmL04812OaKAlJEOqeh9+GhCcAx0p70LRzGxJGzZpe4mXd870y5nNUSkGbHy5X1LSc0ckEGGiyObFzwoI6bGIS3Cn32s74tdjzC5YypPBXkVVpvFejW19rZ+jNOuMx0goqCFtjGOdWRfaH0Bm2l5m79mhr2tutsuvrCvnXt9+oaK/YUPMKqQwfOS9Js/cc40a3Lt/yZKPaaVy4OYt765EhAaUndavyCwfzfid/nNGVyGMpwk7PujwvPRVNylzpJsivUrL8beBjJduLSbwmXPBKkFtTrtL"
+}
