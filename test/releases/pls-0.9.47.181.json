@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.181",
+  "file": "test/releases/pls-0.9.47.181.zip",
+  "sha256": "a481e11a55e752a55a1c8eceda1d99f799f53524184e6ce1911e13f6d001a0f4",
+  "signature": "zv4gP40xhvHVwChtREmSo6CV1P8ErsOzWXF6XVAkrJOFsnqGXs+p3bAaAgpmco2np2hFvjZQGISUHfWyiV2v4tk283OGkWNeQnLK+BqH3X01s8jy3ecEModI5zpE4quRuUYQF3m4zMyKI1htXWKXXpaJ9FUnWaQEDjgKEIEsuoBXdEOk+KrobmRU9cs8MBHmxjiNrkwDGbToytTrhDX/xaHqY+4MQXQ1lc/oe8LNhJswLtThm0ffQLaGMJAk/Cj1FX2Qm9KkC0emk2AlE3yeb+4RNfq8ArVi5KC00jcXoAi/YjDP9KZJLJOH9UonJZF4nMDa4Ps2O/e/sC0Inl0BxqP1PfCKeuWND6GV1v3P2Vsiu4jLWUOnmu4+0NJ6nq5fTTyzsJQTvnbazqX/OkYGDJsNlMcAuXSu2Q/P7dw4MusQCFU1oJYAgnoTogEM4KlTd7GN83SBKBepCS/aKBMOqTLN6X98LBVCNcSFL7tH0S+Mc60XhiWqAp1WCqhKIOPm",
+  "size": 9603004,
+  "released": "2026-11-26T09:00:18Z",
+  "notes": [
+    "#381 ƏDV əvəzləşmə: pəncərələr və «Bəyannamədə aç» (PR2)"
+  ],
+  "notes_signature": "BDOPN3kvKszvXMzNR+IcIiCAQlI2xpWMlUwFhrigI5mgjLiQ2xrqJ6YhVkhhfNq8jmVHPLv1FBjO6NrVVjEtEKkQv/uxwEKfk1p+TB1/jEbuj+EJC2E/A2OKM7QIR9xZdno/HAhX3oaxKc4FdHukreN/d7vapRGhQtdyUs7T/pbj143vNmRKCj2idSRWDY0cy98OK2B4fAoo2fu2YFl1WtDoAXye+CldHquQmmBeOEygAeLLGx8QC5Z2LB2Vs6jNEPcn7dO4mCrLrEwNydZ6od2vjF3Hfgw+3SebSQ+RAi604SCOYIHKJStr9QAuBUvGufTkreGmYNWRf7XfEkqEb4IZ5LuCg9+bOKMfuqVyIvDXMIQzhOB3uQc6K9hjSzSBwqs8DomGPQW+bHs3DyicVDsPfK10e2NTbrE1JjpDwg314ByvKoOiQ0JddLFQMhBr6FJyOCHAzudHH152zZCS370HuPzVak1Oo7lQSHXQmdYoYH7/zaoEioCPjFLRmVoO"
+}
