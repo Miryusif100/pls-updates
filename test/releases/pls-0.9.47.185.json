@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.185",
+  "file": "test/releases/pls-0.9.47.185.zip",
+  "sha256": "ca8575069dd1d18f3213f43c9291935244d3471f4b0de10fa4c6fea5de370822",
+  "signature": "JSKuh4CKohhQ8MJBCPFa/sAa7EgCLNrGkjhN5KIxHuNMia0FX5xaXsMa0yWRfgE6neV477kI/D3GD6rG7bPcmG8V+9nCPTbXHZwuYzAtPwXKYPcPT1L050zl5dDzOT5gwPypMuBSQ3rcxBpZhV+1yPlP5Jr1Felkct6G8Gys1XuSvf5KJAqsnz3pTWYk2QaQG2Uw8ZXrPxgyopKlF+k0hesOhEMtkQluT2/t+u77uHMWP0o3NrfHl+makJfzps5UlHY1LFzYGYqosoAg9IwnugQnIMiQ5+nh8Tp22h7bVpx36YB0avOA+lRYbU3CH/UftHT/x19deShxgt3dKkUx0iAiPn2wrfNMWYffV+05zuIIktJs6I6liYft4lYcu87r5+w2OiUVQc4aijgYaDQKEpXFI/5hsrNrV/EV0cSpmNf5KOCv26WpJ+NqfkLESrgc9Ngi4/A/FIidt5NJuDSlX9IuV+WbYChPY1d9lw5oAMiNjIxj6Ja4YOS+EhI6cbsa",
+  "size": 9615052,
+  "released": "2026-11-26T09:38:15Z",
+  "notes": [
+    "#386 Kontragentlər: Excel/PDF faylının görünüşü (1b)"
+  ],
+  "notes_signature": "rwRymZVfL/Ljah3+RM8Bf03vfV2LFtXN9hbRcVkR0uBgOFi1WiyHtaCcbBk/n1pn8FafWPBAFkLwOnHR9lHbdsSnSY/Y3U5ap5b6vkBg/mmXurGpBF5p0NlUuCcthxtEAg7+BpB7jMTgwPrwC3hVOC0gFHEydF1KzYIHDxBQikH3d2vrcluRl1+DK6Of+nfpNErAFMGYFoH+xjVhONvS9/uV2hq2OT8YZgaSkPm64ltMp6XIWZLYfDqAtvIKVrTYi9xTE6vGd3Jrh4Jtft7qaHEG37U4lx0mQU56dnMVZv9SnXgdGex7zbQ8Wq01o9uN8ratJtFJbGyxmpT5GEUaNrjNRzP/10W7JNATinUw/kgKVza/gGp82NPyVuOxQzf+RvU2nUiPIYaELWzZLeS2z9gfFUi+cJOVW80fnWZIztPeHTsx4cIo1SbvTvQ/SYzmSfkM49/1IhdMibfLnjqMgCrPv4CE2fVBcj6QFV7UXNsOYY4fSvqGch9PgCS1AVzp"
+}
