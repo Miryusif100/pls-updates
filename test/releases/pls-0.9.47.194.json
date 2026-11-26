@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.194",
+  "file": "test/releases/pls-0.9.47.194.zip",
+  "sha256": "05da8701e2e4415a0e4c2e3ed5c225c58af895bb91e1f0d244bad64c81287a6e",
+  "signature": "mZZhl7dwO66qdoxRgxMA5lrCqDVj+e92g+TpEk4/YxrudpTIAQcJ68Bk6vC77l9jj3uKCMYv2qv1in667ecodlP+P7mqxCLn0HtYwlYOjlFTQWPoBrji8GYEJS0NgKvUi+TscsKEekp89v3nmrCQw3NBOwFP1MxdS32vQiRc6GdGAu+MdHwBjp6QFIchRWLqYjHPHFVzkhKAJ8ACnwzwI7N4wS3xbWqor81ljbXuFCOev7A1ByGsfVO+SIRGmxRSK8tcjA3vzQyQFjty/4qGeYhgfZpCJ5bXDC+QB/h3n7qL7zdTjpTO1zSe9/VGlhgl4D74JjZq4o5Ki1zZM7Kq5zO4PDpfKHun9QOfhykfPDeOHSIB5Iq0Mvh3rpagUZTnpcgxWsVPstxUmA/lcKgYLuRpDnl9WfjLJHphkdi2rdVLQp7r3RA2Okoa765VRWHRAd3w6UJ8azADinhJHTu/FW6dj/9Ss/H1VEpsMuZyDc2oN4UxljkZ/NjYV8A4LXlF",
+  "size": 9634847,
+  "released": "2026-11-26T12:08:06Z",
+  "notes": [
+    "#394 İR › Məlumat: bank sütunları ayrı, öz VÖEN qeydi götürüldü"
+  ],
+  "notes_signature": "D8yaGD6/AH/7SkWaHgwO3wQk0VzRhJPQM0Fsb5fyLgVlE+Wyz9TfBcvzmLQGG+S+enQON02QSb4HF5d+ABVryUW8AKm8u8jnEHaTJwC/WM0bhFqRbSwYdq9GVcQSaO30GVDLI2uxRjezy8W/c4lMBNZZyhPz23vJcxQWULafJ5qphEmXxk+sb+id7yxHoF1Ap4zE7dP+FERrAo4j2Aj29eDEqzXPy2w2hhTEe0lDbgHE1eXdYy0xhaq6nzepTF8GawhyMdQ4yi0n7imtUvcDL4oOXFyDsRnySdIUA/PlS3DmktwyM1dV9lJcsqT6I77eFaLzV9EN2o5bH/mQ7SFfsAIb/ggw2u4iTDtYxieazpjP029ML4H9SrQvU9g4vxqzrzxMdz1waWJoP6MHqX2QGxH9sP+C2vejD+lrrNquQLGVMCYWMuul+P607ZgBzm3IW5U3P77XBUCz9SrurHcK6SxokSKLdPWvK9TY6weOtj96DGOWHCGTTErBTdTAWSA7"
+}
