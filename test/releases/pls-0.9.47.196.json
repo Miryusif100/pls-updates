@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.196",
+  "file": "test/releases/pls-0.9.47.196.zip",
+  "sha256": "758dd242df87151b25e39fb5c959257d3094db4da8659943e34bbbdc865d978e",
+  "signature": "F/Hqxr2EqrV9q6HAycKfAlRyd6R2G2Xsujtld7J0gHmYYajXi/VTEJG/Mw5h6p3au0FXwtzstr5C5sTkR/ulMBn2w0uXMpXustIQadhsvYSWrys81WW6X7tIYHL0QjItHyFrgwegnY6hpwCdJUDNNwHCd/gvooti8zUNmmyg1A6FhHB8Kz0qBzcSWl6TmRLecH4Tiz0DlN8yw/5LkdEuQrh4xACM26lRYZEl4EM60sjkiPewkAhRIeErCT9EZkGZbAsBunjiyiOBa9KmfMt6TRgYClSSRyU9ZZ/a4TuBn/Wyk1pLMh2028eMcmnZBXXdDCLkNVZWk9KmrJ/LSxwYqxeljElV/q7ufbCrp8qqL7q//vw+0/xT40ruRqg8n64qWsn5Sxj5u/4vMA9VTtLEDIha/h8Q6CHAx/A9ZjcLQk4zA08HbXcW5TZe/JpLt3W8gnar4bkVq1BSIFfyRV0cBnKXOUVOcMRNo4kcAGrxzQsKIIDuN8ZAouJis1KT2OJL",
+  "size": 9636749,
+  "released": "2026-11-26T12:24:06Z",
+  "notes": [
+    "#396 İR › Kvota: bir panel (İşçi sayı · Kvota yerləri · Vəziyyət)"
+  ],
+  "notes_signature": "GUYQc67GnPp6mykELXGl0gkTdyqw4U2n5FwzRoe/XTkq3bQqobIJYyKrC5eVnAyhvVVQ8Vh+C+7OVfMwEXN7POGyGWTQkszKHwVU3DhO/jTamP8cwEgRFV/yW3gg56rlPH7GOdtUx6CrhxC+Sm/RLLjyh6IWHni3FFa/nzaqAXk18atcHeYw6Gw9IQXqP8wtRBXPhQH+/O7QWUX+wiuUfWpkMOsrvz4yGVfbFlE//LvzHesSOji0V06E683eBBHBypAD/zPCEwin45GIwV5WVLPfde+/eH48hHrK/GSV/HCldsqhOCC7Opk2+MV/ED4aK9nrcIyGhes68eF1mzTguuJ1a6+ayZuva0AJ4r9mw0eyBhfcCR2IZHfr8lKNhcZ3VPLDjDKQlogtvvKRcPRzOb3IlVTlpvsE69Ym48O4lG/39ld6i5DjFbuPthGz5iL/8K82u6XjBv+8PScrW+TsmgRcT1WCaFER8xgqxcgWEYvgMqfEWNyLCGtc0Az5GVIs"
+}
