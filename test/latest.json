@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.215",
-  "file": "test/releases/pls-0.9.47.215.zip",
-  "sha256": "13eaa9203b4d2371e7f9c067810826d1617e0df1e76f111c53d6f940d18c6c71",
-  "signature": "vuETqiTewGZyRvqzjdO5aEsuDvLay4yChs584S/2LiIaOQ1N7vLRq7qgQBI93hberf2gHxWKhxc9A8aX2bXNgF3MK0EuZp/aN67HBK1C8rFTcmxgroaOxPR/PXdO2wtcJpzU76RTlIPJ1nDhFKzIGyCvMqnu3gcPDVXsnwCbpsKiwddwkUZiVJX0u8Afdpl4qDemnWPXkEAlX1Be/naVLU/uxi5vRuy4+Ook/hrpoBUNJx5Dl+w1QJndwIBtAaQD3fMhBPn3T4bRNxoJ9sEUNPUI0hZuovf3Y0Q0xPNNeja5Vr7UKhtnZ4ipaWIrS8ILD3FQNDjqD5j4GJ2q86BvwH/ROmbjtOsNkpW6EVQi1NmSNA1pbQ9xraBkDnaykmtNRExGvPawc9qf9YbLu1SRAjhsJX7ohsWnbwnLmB4YAcTva068P7ZWiVsBBm3joaqvqps/0gza2yRzIsIPmW7/hXV9ef7bmSpJyu0BPIzG2VZiWD9jh53Iv1H7ewouTtfj",
-  "size": 9662725,
-  "released": "2026-11-27T08:07:45Z",
+  "version": "0.9.47.216",
+  "file": "test/releases/pls-0.9.47.216.zip",
+  "sha256": "ba71d2667d6dcc7127e655115957f13e209cd3bb6f27b0fb31b8ebba9bc34114",
+  "signature": "yhmVuTpHJ3TNZVJpQwFL2Ph3McYqz9IHbqgjeanHCD6ixFUZnPE4LLMPGNOXdTQi9jo6moRXEbgE2LVo2lFteNmTlc1gX648TxPBa5Te80sHDhJInolugvlSr2E0Dw2fknpuGQedEE9sqrCW4Ddvsg+l8y1lrDu0b1BePg2Tnkgn0TNh2+lFMKcgBPJUGhhltYM1/mN/uVbvsRv3HBw0zc84AzE8DVMtcxZfapREuXkZo/MnXEoxzc0JPnPU298E0IHD6l/D6EzHTlvMQp0ex+rUJJvrXz8aOczxKm00nFaTfG3gjGn4XZkgYzfw1IAonFm4TPKlgysa2MTwwEoq+C0b2G2lkP9AfZqbcz/2ttuuVUhGlDsCuV7L6MzbylfCxB8NvEqE5ujlnYMSoyN/IGjCQof1kFwT9aQtzm5afyGkSYcP107nXFsWwchyuQNZLPW+KtshxOOtbKFk3S1EVtF8L4zUiWODPk6ykMZMt8QKWj8AclpSMRH9KLjpPYwZ",
+  "size": 9663636,
+  "released": "2026-11-27T08:23:19Z",
   "notes": [
-    "#429 E1: fon prosesinin xətaları jurnala və serverə (softCatch)"
+    "#430 S1 + E3: sxem barmaq izi və ASAN fon vəziyyətinin saxlanması"
   ],
-  "notes_signature": "S28Pjf/fE00BncTGnOpS+qKoWuGdOnbLsm0n1z3+feXYGSJuZJni1WBmEmE4rv3RNAwn4Rqkmu+/1Kn7dHovA52G/vpbccwJa61gLYCjgPg1p1sMgh5kW0I3QPiZg+ZrEDUDc1z1uMSz9BGiwZk9QnnYAQk5Q5zcPjp3xJARGM/mUaTR2858tG9GnUTKefhqg5FSEXbNCHO80EInXJwtq8l+ppLav4iEFjP0cBH03tQiETS1btyTtoVOeieSn+O2HXllESCwofBe2Gbmkvec4L5SJ+vNCMLyJEHdhOMSWHan6EY8l7tq/fgX/yKCM8Uk6vCgbc2A9bkGUXTJYRyk2onWkpVK665skePK4+XrVEy6jgwYcDzNqZEVSXwGC5wU84fsltotlsdERQ2YFA63MfN6zj8PIdhxGQy6yl+DmnKeBLD2Tn3v6WgA5/pPBLPT+qt4JcwySo9D/rg0Zjn/EHHzoD7l77X4Xxgrr5ivq1/hhMxy1NOgNMtg1frssLmE"
+  "notes_signature": "RGbPVxEb8hL461/EPZYUgDpslkfwfzYlsXA0Gq/5zPVNGNs/76OyyfmbBCMn1IStmfhXSJXQ0LLxNZru4OundE3lo2+x2X87n0aZdWkle3t8q2bCDOlIqfQInSzjhG5dEQc4o26+N9/P6JfwX1baoHOpIxRngYdWvHqkrNYhWXcVJoDe3FF+gNTlZ5L0+EIAk5lF7KHm7VAou397qgT45EllAWPYNcnP9pfTHWzlBP/1U+ju3vC7rWBttdDS6u6grTa+BA7yJpo1ZtwJ5n5KMqW5rwm4rrU5+s7Vy1dHTC/K24oX5b7p4X1ovnLW8EOg/WhgnpFCx2nhK17aoYPYUScQkQ+692w2GnXEWBA/RMyPjI8aZ+kjXE2pcVI8THNFlo3gZwpPfW+3O9I71n4T+H7LgABBqqQl3I6TyJZYSUSnfbMqPjUe9s00o2NfHf9PlSLkYdhBTzDn2GURXwEdlns+R1Gqf3e7nGEZogVZLH8Ng66IR8k8IjW/fmy2AmXS"
 }
