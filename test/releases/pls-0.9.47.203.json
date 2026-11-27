@@ -1,0 +1,14 @@
+{
+  "version": "0.9.47.203",
+  "file": "test/releases/pls-0.9.47.203.zip",
+  "sha256": "057c09444f9d21dc7631188b98ad4d46a946e484f1a20c143d06eacd3c32016d",
+  "signature": "GRmRpqZBfSTYdqYL83zXTp98GeolXgTTgvMkpEfkB8UpJper0tNsQKSMGTBO4YEOaceRQ3P6xG6mDpt2oWjkPlCfluYFbpnOOa9ajBGGXwwCNbL9zJiLVaWgMELpf3cR4qFPemoSsfOypvJOPJqTv5I8AYAhYfBoCkV45HiF0W/4VID1u/skV8Ioz7A1J3gnvKTNZL9lCFtYGgcUxtI8c1sle6dWLD/vQBd4MwP55wTBFUUC/B5zvhLStX2AplVa345AeCoM+mwaD6DsxEKItItQLEfsDnOup3uP/lX5BwkmRKptrlmk4aTrXx20T07ykCuSoijoelShf8MNxgnU1Vts6eedV6r/+hbmBiZ6JMuWU6CC+HA22RAyY+jgA7rerrxMrDyXUMtsHTDtIRQYvmIXJE22cM2vLzwbqOsUhvSNbnWdVWuICgmU6woP2r44z/1XqOJLF2EDOgaxSYg1aZV6ijE+xyjnsSVVZGobWgFezFA26bBjmkXBtGn45XuD",
+  "size": 9655263,
+  "released": "2026-11-27T05:37:38Z",
+  "notes": [
+    "#408 Mərhələ 4: bərpa sınağı, ƏMAS məxfilik çərçivəsi, qanun izləyicisi, dizayn sistemi",
+    "#401 CI: Windows testləri hər işin öz qovluğunda (paralel runner toqquşması)",
+    "#407 Xəta jurnalı serverdə (interfeys xətaları, şəxsi məlumatsız)"
+  ],
+  "notes_signature": "xb51D5QLMTFDKp+W3H3Swgc0NwHNh1x8cpJo+4QJaSutYcVO/q01mOxTJw0wsyuJOe1PToq8fmdpAujiel1+8Mn7G5Dr6lbSpbAjph7po75/hlzfKFPELYt2V+tR1+ftxXGnykHCyw86T1pMoU4sEQgrOu26AiksBsN9Rmuw2V+xq+8waQCFmQ7yELKF8mnfbggxXldycslSop/C2I8HDoSB8ckePaii43tj950lAxdPr+g+dmBP2W0vumxc91vXWe7ZEPZ3U+CoBM957aFpgJTD8lDm+xA+V76tjLEHhyAANd366U/M61JANSrfQjw+wYgs0niD64eEmTJWCMG4pQbGCkMO4QEfoLA0UcZaaVGy46eOjOe00MDt4DnapFyANRVFb+Bxd/zowUbsJFmByoijRG30zDwFXYsDRdztZQbo6EWv4CQyKMjdfKvo5X7xlcAntB7T/P36VCc3nn3J0PFnOGHsztk91i8KDtui/j0jPgYKC60jpXaRRIB2xr5N"
+}
