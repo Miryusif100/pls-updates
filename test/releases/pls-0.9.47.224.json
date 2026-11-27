@@ -1,0 +1,13 @@
+{
+  "version": "0.9.47.224",
+  "file": "test/releases/pls-0.9.47.224.zip",
+  "sha256": "2eea1291ccf10614c3320def9a5a37eb34b33ce15216dbb4447785974ced6827",
+  "signature": "HwT3GqcURU18nI6wLj4OJwdnc8X9KZT3gl4QWW0mNP5IdTmgFvpFFcC2uIu7kPWwJtZh6whcRz4IzHoBy5W3Prt0UQEx3TmSsx+nKNjTBmZP4jFbl7qdgszsP1v2BIsfJsxN+ayrSC8sy4DrTYI0d81Oxe2piHYoGe3V6yTM2k7mCDn1EGkitWryuuXjxb2U4Dl29QYpsyUU7PAYJPxIHx1pvdKbMLpun1WQdMqtWOFiiZZyhctQ/cwnj+2tlSZ5TUzQwnsRE0HWhbZ3G96ePuOdyeDlDAkvStXL9n/JpIdYheLMpgpSnoDlhh/WtIz/G8LfgFkmS9Tc230S+Gi2Wq1jgmoLUaGd7S2iVpSuLpCp34lLkR0UTPgplpBgVKW3o3+Tx6/rgoJdd7/vyyYp+R/2VJXuh10afZ5RW0tvm08HN0fUxo+3RLOB9Pzi/a1c9fbxO2hWza0GAHeM3Wx5Q7rTiF4Py5a3mKdKogBremUtLxffM41ccL3ywhcYkYG6",
+  "size": 9627026,
+  "released": "2026-11-27T10:51:41Z",
+  "notes": [
+    "#438 Portal gözətçisi ƏMAS/e-Sosial + ƏDV 308/903, MİOM yoxlaması",
+    "#439 Təcili: üst menyu bütün modullarda pozulmuşdu — Nəzarət sinfi «nz» → «anz»"
+  ],
+  "notes_signature": "pEjohKvPxM5mAsK3Wm0a58OyGi3Hrm7s1Aol/YKppH2QN61pirLEzNoW6XOUk6w40TrJHreMvJNHmBsLWNo4IgClBJ37a0S5eL/0lgHboWlSEKmYWZO5cLH1ItSs2BE0Y6myGyNH3ZEuJlryOBH/wysisma3hX+FqoTmuBAJtZCr8Fbgkm8kmjEYMQRDXR4enGYQx1tm/XcepLQsvNeKSv6EpxOvdzC/bBwfHTWhshoDbimxIKC2KIBGEVwJx+5kTJ3aQ/TnJlGPdPQbi2bKupdffKMUMi5PvqB6gJYDE8gYI3wW/q/YgXMe/cfIaoPGaj2KfgKAVtJXnks4GCTGNpGScZ30afVlD00LJGjYAY/9VtgvT1FE3uOq/csryx7HCgBuCUSKw2666DNfAH44O55BIBQOPcN/jPiGDS9xGtHbNI3q8whjCWzYXdICBRgvklIWq4P5FuX3ZK3HEoe6YQklQZGbl33sBgelPcOUNKcRL9ml0EBQcTqa0cIx+/lr"
+}
