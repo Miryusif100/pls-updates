@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.214",
-  "file": "test/releases/pls-0.9.47.214.zip",
-  "sha256": "d0d1f9d20b12f5f89d2b939f4de9618b91f0684f696d6804dc54383c84536734",
-  "signature": "FJtk4QoCWM9O7ZPFE73R37jNQJZdNo4vU3skGgmCGehdzSc4tiiD3RkwvaBwnejtQCftI1IaCDFFfh9OpBaEbug/ZRTQ2Tq97ox9XNMYs5mBTQSPkIaQ9A7koatwlrr7hvz+rpKNHwf0l/fIv5SiLxb9NORyz8fpSAYtq4+tjsM7z36S4GD2g0B0bN1MvxUUzGjA4kxWMKaOS8nEuTsTg/QZIyELA/ijOnsSFJYlML/oFMtgkSJbtbLsA+0qcaaFkl2MrizsHtS1vxsUJqlB7PB/4YbDC6JvxZ/IOHXra8dmZTcBQIhGh+muh51h+Vm2v446EU+krTVYTgnkbAtnrtAurvDdC7GqvCM09PiDqbM/O1B/wzkaDYAuhQOsUjclbMoBRDcTWoXyXPVSApgKo5lbn81kK9Jz+k8CXfpde+k/3PDJLyzJRdkYaCM4Bw8DFnIJN28wUDIa15GXRc088TPhJpL8wSgqvdzLmHvFSB/Rk9RcZDcPZQhlvR/0aGjT",
-  "size": 9661679,
-  "released": "2026-11-27T08:03:12Z",
+  "version": "0.9.47.215",
+  "file": "test/releases/pls-0.9.47.215.zip",
+  "sha256": "13eaa9203b4d2371e7f9c067810826d1617e0df1e76f111c53d6f940d18c6c71",
+  "signature": "vuETqiTewGZyRvqzjdO5aEsuDvLay4yChs584S/2LiIaOQ1N7vLRq7qgQBI93hberf2gHxWKhxc9A8aX2bXNgF3MK0EuZp/aN67HBK1C8rFTcmxgroaOxPR/PXdO2wtcJpzU76RTlIPJ1nDhFKzIGyCvMqnu3gcPDVXsnwCbpsKiwddwkUZiVJX0u8Afdpl4qDemnWPXkEAlX1Be/naVLU/uxi5vRuy4+Ook/hrpoBUNJx5Dl+w1QJndwIBtAaQD3fMhBPn3T4bRNxoJ9sEUNPUI0hZuovf3Y0Q0xPNNeja5Vr7UKhtnZ4ipaWIrS8ILD3FQNDjqD5j4GJ2q86BvwH/ROmbjtOsNkpW6EVQi1NmSNA1pbQ9xraBkDnaykmtNRExGvPawc9qf9YbLu1SRAjhsJX7ohsWnbwnLmB4YAcTva068P7ZWiVsBBm3joaqvqps/0gza2yRzIsIPmW7/hXV9ef7bmSpJyu0BPIzG2VZiWD9jh53Iv1H7ewouTtfj",
+  "size": 9662725,
+  "released": "2026-11-27T08:07:45Z",
   "notes": [
-    "#428 E4: oxlint (yalnız yeni tapıntı bloklanır) və ruff — CI linteri"
+    "#429 E1: fon prosesinin xətaları jurnala və serverə (softCatch)"
   ],
-  "notes_signature": "I/r/cH1DZTts9NEARoIJJOZSddaCZxjWwxN5Cg4XpR9+wloA8bO6NcNUNqNHUC7lVYd4ixWaCNwpgzl/NTycPn/EUzWpYOHUsHlEEYrWcOq6kzZjIkArBYtoEXONA+/LyothQR2xIBEV6uiP01FEf3PpfB3rotgezPn5g+q/0s+1nDN6PbAqreozFRqJCghTPjf2K6qpbVwsEcpgwBMVHpiIA1gnsNQoTiAKyXgx0z+P0tNEZFvKtKvQ/PtbnYBmqo8a6SKNyCJQ2cNcKl2yh9QvS8ac4kb61Nm+GIKYr7gJvQwBI3M6vARvAjgpPucUgzsRWh5P/K6/CLZSfLx+FZBbQCIlzb3GVfWgh8F63TTYJP98qpQeWvOGKQJcjHwcCz4rbz8JVGvs2UDWH7YMasDwS97rwIyaczo/s5fyQeeR5rngfefgRraCVt4gRTckLqgrpcatLx8cuxrHk80V6fMOo86y/1HIrfMuC7Nl+Tp4iQBoMbQTMknVmR6gbEQn"
+  "notes_signature": "S28Pjf/fE00BncTGnOpS+qKoWuGdOnbLsm0n1z3+feXYGSJuZJni1WBmEmE4rv3RNAwn4Rqkmu+/1Kn7dHovA52G/vpbccwJa61gLYCjgPg1p1sMgh5kW0I3QPiZg+ZrEDUDc1z1uMSz9BGiwZk9QnnYAQk5Q5zcPjp3xJARGM/mUaTR2858tG9GnUTKefhqg5FSEXbNCHO80EInXJwtq8l+ppLav4iEFjP0cBH03tQiETS1btyTtoVOeieSn+O2HXllESCwofBe2Gbmkvec4L5SJ+vNCMLyJEHdhOMSWHan6EY8l7tq/fgX/yKCM8Uk6vCgbc2A9bkGUXTJYRyk2onWkpVK665skePK4+XrVEy6jgwYcDzNqZEVSXwGC5wU84fsltotlsdERQ2YFA63MfN6zj8PIdhxGQy6yl+DmnKeBLD2Tn3v6WgA5/pPBLPT+qt4JcwySo9D/rg0Zjn/EHHzoD7l77X4Xxgrr5ivq1/hhMxy1NOgNMtg1frssLmE"
 }
