@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.217",
+  "file": "test/releases/pls-0.9.47.217.zip",
+  "sha256": "2a122fe4dcae2c60b1f0b1792f8964d223d8b3e64398f15d571dcc93e1dba5bb",
+  "signature": "LGkRT2KA48X3NUFaaFIAHzvAJ5SdO7So9MjtKiq3X3WzI0XntbetKL4uiqA/4ixQGg+uZ8M+IB01qIfcaY8gmxd4UawxfmltdVl0WOsmghgJiUmbwgFPd4Tybidjg8dbes67CIEx112LCXdgSTdLQHYaNsEvN5Pn+QIssTdbRYqaRDuw6Hhl0dQUN3k5yTWO6KgH8mtWeA6IfBmBi3GxQ6g/qh1LqJVeBMLgkWTzqYFLmDPIY8shfMJIeQ5vfsqLAW2Bnd8Q5skiCxCgUPZWJtm49M++H5GzMZVcsqbNOwSHvGl3W9gXakTfjGV8K0R1YsflNzEHvk/hKDsK+Exc/EuR3lWYJbFvRXkjoXPCSq9mqNf648X31kNH8JSbdULo8W9H4ul71KejjKJBbevl+wKpPW4yDtV7f+XiQ4dDzRA/7FFCjqdOyiubniGegAjRxV9CAiVPqRZdns8JK6JcQPThK+3/moSteDFgz5MJ2GYKbXaGYw5cd28QL/j2RRdf",
+  "size": 9664378,
+  "released": "2026-11-27T08:45:07Z",
+  "notes": [
+    "#431 S4 + E6 + E8 + E10: mərhələli yayım, tip həddi, əhatə hesabatı, ölü kodun silinməsi"
+  ],
+  "notes_signature": "ol6ce4rPkI1bCr/8Jr/TKnXbXliuIqnLgt9D5Sf+Tth1p03tl46yGLZczU0XE53rFZRA5aqEBBpKZEj5CiJ8D6vib5XblLAYpT2WSA/+F9Kg4ReoWtcbRL6bDRlnwn8rI5+/UmVkRKRfm18IN9lcuxlx1uM47zINa18uKJou0JFDyjB2YXygCliVBSOF7VKsSuAeInZQZGzzEiGWyS5iRwC2NpaLpqy/OeriuIDSbWNzVO5GBtW8xtwmaR0fcO6u0lW8OpsgF0T/++1JQLruz07gdF4n4gPY5S/YH5OQse5QKLxL88CK6QKHoCg640T+H+vF2MrB6DYDMPJcZL5UBxs7h25t+BrvAhqZCbfb+QFEvA5BzbEP1wdb6XKEiJrhEufOzUNg5Djr8XmaNRjcG36sq71MNUHacuaTSb1qhWRNH0QVuH4QXkgGFpL1gK8laPnLwsdF37dyH75bzGrMWaPboXR1hvdo9aCxc7cEh4C4MEpFPDZloBIfxAKkr1+w"
+}
