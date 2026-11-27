@@ -1,15 +1,14 @@
 {
-  "version": "0.9.47.209",
-  "file": "test/releases/pls-0.9.47.209.zip",
-  "sha256": "a3f3d35eca84a4e340d94b5c50a3990b8aa7fc080008a57bafa26c799e3597fb",
-  "signature": "AeySnFdMGnoZycYRDxrefYQPwmlcz1JxlV2aU3zZ/ipoPPY5/4agDJHrAl0/8jy5SKwSBU8eYeqb7hAYv8tzQB1OG9l9XzKz1+9vUZPp3TqaL83NDQ+C8u/VKbBXg2XM99zXLXOfiPftoWjW4AH+4n1Z4TwSgmJt22DW7gO10t94/wVOJsqkEPBw796L1yhRxoVX/kMRqGoy2AKqwi4Rw/AQp7ZXcp0D0ORGhDeGPRP92qqUZBz6+HZh7TUxB2epybxFzU1mdU74+qF/29nz9QgSSzuZGXNaiONbgdJTuCU1AMZOZUDSoC+Lx710y2wki1Of9OwYKdiIS0k6N79K8r5bUZjMwuHvYNm9/76BqXyiGgOElhtb8c/vE0X/DPX0aeM7puV6SIZEIUq8eEWYIx+Ishjg1x5d6NuKgsDskmxyCqH6iO6uLvY+xywC5IrU1Gx9HnSppIQeg0VEqvwcFeWtnNSXh4VSLKX1oDv8S50SupfMZvFPJWoYZXOXNzQa",
-  "size": 9662520,
-  "released": "2026-11-27T07:25:42Z",
+  "version": "0.9.47.210",
+  "file": "test/releases/pls-0.9.47.210.zip",
+  "sha256": "7a3669cc1ccd56f13210d33da142948909027836a6de71a69e3b845d52a10153",
+  "signature": "Ng6ioejS8pesKxXA/ergeQ73/9xzgif5T7KNwq6mQYenY8T01mWVurNxFnuFHYP3jXE46MIQUdsgZD1qhCSTDyUSwOTYtTK/Er5xTNR41MB//t0Eh0xosvehcTQVFHj+Q3Yh3rtLk4sulfzFzGIVU/c8WPdiH+SSdbuBOFbB0WPJnf68uYZGQiuW4URqi21FgK6pMyY3A5j++jM00RPpSGBJEaK+ln+As0VFWbZEKnqKBKC8oZ9CqhQ+X4vpDO3NIwFeFP62w76lW0YMrVUvwP+hj8J5Nt4NxWek8yz9BcQ2wG1Re077bL/YyzLtU5zIHb6mmaEFdieUU+/HapTBUIZslDmdVYDqdQqpSFAiPUWKOeCukpEt4AVEsrAxpaiGx4ngM2ni0Y/d0zIZ2iIs8GIaYloGKcNR0XJgb+LC+mgbuTVHSa5W4pWc5b1EyhmBzoS9NG3Fsy2fqbgs/s6e0sWFPxWWx0r4y0bcdRQiAIUamzpijEHwupSrlXF05pI0",
+  "size": 9663162,
+  "released": "2026-11-27T07:46:34Z",
   "notes": [
-    "#418 ƏDV əvəzləşmə modeli üçün vahid testlər (audit K4)",
-    "#419 docs/00 yalnız son 2 həftə: köhnə bəndlər arxivə, nizam xəbərdarlığı (audit P1)",
-    "#420 Avto-birləşdirmə: ləğv edilmiş köməkçi yoxlama birləşməni dayandırmasın",
-    "#421 ƏDV DH › Hərəkət: Bu il, toplu seçim/yükləmə, yapışqan sütunlar, imzalı sənəd"
+    "#422 Audit K4 + S3: hesablama modullarına vahid testlər, ehtiyat nəzarəti",
+    "#423 Ehtiyat işi yenidən bulud runner-ində (audit K2 + S3)",
+    "#424 U1: cədvəl sətirləri klaviatura ilə (Enter/Space, ↑/↓)"
   ],
-  "notes_signature": "m589+Za5Pn9DTYJJ2W1IgjvFbmmdq5bs5s6Fp5pSi768aFLOgZ19TLyN3qMfOjfbIyv62VSFwVeToUr6Nm61Yl1caAY5tJ+x/G9uxwSg3GZ+3MP/CEZqYIA6QYlmOduLNfz6GTcCZ8uFFutkHyAlelDDjZ8kb6XXjKGF3lcsZHM5+LJN+yZLhJpKWXAehS9eomDPX0wa9tCf8iV5ywQbXcOuOXrbsv1RaHy+9QQbp21AYZmxqKdKQqRzv42Q56oNgUVEq7Zs/WLvskU0r/OBeuuqvWodZHuQWOPrE5a4sd2eMdGXbs8ffQMibIdYAhigwPCHRomFIwzLG88ndMM294vzooe2Ho/m89zdJLo6i5TNYWkC2J9ppGzpcuiI38n5M7TyYxzdMHLR0AKrzXL3KChJJC8c/pEsLAEHeJvmzrGfAuej4EgJa3IYGcML+AFkcGCrVGstELyg5ZwoPt0z4Wb63UaJ5Sca9LSVsDUq3f7bRyPy19xj32GgLoSGk/41"
+  "notes_signature": "GAAehHB7gizoYJPdW+6/7o0WxEpxKKxAsOYFkkqN8o3dkHhss5RZjPRT215AvqrYTbpz0+OM85sGkGCaq+/6uxnmRqJKZ/VauwMLeWK2koSDdHYdfQ+puWOD6nXE2Tymv4c/e5kYXZQdY2zGUIRk4c3kurmaual5LdaQaRB0d1lTr6D9kI0YRdGt19xgt0N5SkqqNr66fR42Y26QPHyGlLZG0oalJ+oDj3JSCK28Cg4pucyCEYU2gp5eDb2DqxjWjbjFjxNpphFhjP/35mlH7LC11nRP0755dU07EV9qEe3E0wSAEV4eQ/ziEQyE55nMaUAtzu0dlHyXOKlEtxMEAk3RV6TX/IljayS28NZXEEx5M6QGqfHc0YUYWL4lfD9d+DlyquY5Ht15z1YUzBg6HsXwSxe291CwW+5W1PdJ02Y1+8RI63zlY03HNjx5uHLSW7Gt2lhgX942iMtiJrzLf21yUO9pk++aa8dbEnRWK/0ndC9aMsf3vNWWom1Dw9KP"
 }
