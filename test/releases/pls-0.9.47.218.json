@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.218",
+  "file": "test/releases/pls-0.9.47.218.zip",
+  "sha256": "e5c0cc55f85735fc2d3f03857b7e58cc8aaf99e7b9d2556ad2542d07520cee8e",
+  "signature": "MuEI3IXmdzRfSDJOrquQFAeXUZ8pMkYXRYtL4gaJLtQA5XB+JyoMAVcbPw4xBNcW914kfiiyG6U5U9VnFJlRy84q61AMwu8IQHP7vi+T06HbdHAqWK2//B9SyTXoxo14gsro53FLSlHK1pJcriTlopFO3OxeCkKamlyWzPa9BI759ZTlL0LJqYe2cO/4I4RRl6WI18+XM3w1dbgGlnkjTn0qQFT4L3HDYRzcsOhGX5J1T2fPpBP3k5C5pLF0+38+TRwtdSbOWeBimoRnArb/Ef9BOyncxELGYsusSVrCfp3FTdDGL8h5EJNGqD0qcsnJC+sYJjSbs9v2aS2FUpc3vL19i8dnk4o3FiNPAFK/WjeO+/Kgd7zJBQxFZPXsUAUUvLNRYfNfVIBxsTTrEyPKJOhtjaGxXQcfCxQTJOAR1aFkqZXTGORjaPxKfv2DnHCGXTynDYAJr6XOC7pMTgUh7bsONlpAIhMhXtZkmvILJDxjiC6td5ZY2D1hVmy4gL7x",
+  "size": 9664378,
+  "released": "2026-11-27T08:50:06Z",
+  "notes": [
+    "#432 E11: portal paneli İdarə panelinin kodundan ayrıldı"
+  ],
+  "notes_signature": "woZ6xuwvWtDOsb0MdgbAyxcuLd/vA5hO9xi+UX236OrxTmgq8FNWEosqS+MM3LMVh2TdDc+jzH/n5NFeUtoAKtMzuOInqdnRKDB8S0Lpu6biwcsCVV5w+BiedN5SGTsEjYxsTMUvhGKuN1DOPb8Ej0678dNnlrG6kob3pnawqyjbjgIKgGxOQ9qzn67a+6PgQ6GUlA43TDQB49Q6/x9ThZwSCrKGzNh5mTVyPhoFPYBLyBi/QPwmahiGJ0Om+02oGpbheiufrxySiBwsJPkBmZrbaA+5tTEkYy6aybbbsYX1nDQfeTfcyYq9sU8qOzmdlxblbgHL499+ERPI9EghroM7c8vI8ihxJ6KgnovcZT2P2xa1Fbs6ZEjKHPNQZlvhUT/MR6LbVBOBnaifSNTEGZxNop2zt1k7D6CzaKzVLvuU++aRuRkWcEYOjIa0gdxZNdX0M8+y/5DbJeYm3m9HEO9nKig4DYEUtU5yOKb78PA5ylUdyd5TZ4RBdiY3KgY1"
+}
