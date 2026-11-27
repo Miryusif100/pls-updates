@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.220",
+  "file": "test/releases/pls-0.9.47.220.zip",
+  "sha256": "673470687c9b80d8143da9f77b7d8cde6c37105dc118e3856d6bee5ccc1d8372",
+  "signature": "qb4M3CMjQmfHUYXKWxMRnBJD6fCZRsyINg5yfvQJe/EqWRtGPdBnI4vSuPGWzhtPB7LWkrCLh3ITCyOyHy3DKMl5qAUA+ST/cS/+60OfP5bKWGUJgYHE8bLXx8wTVGgiWB/Y0PQFSjuydZhXOIf+PA5qdJHEjTSHf4vFyZffnVYtE+JRVHSxbkyOsUqf41dTPeVryxPn6qZceN2MgE95hdOHmTE7oG3ah6uO8TvXTdMhSx+eeBzA/Ulu7oXTLH5wMW5gjW1umaxwl1cT2QhHrJcRY4B2dh5lnX16AtaV1Pe8HxIJBHnXXIHdBxBHpuubWgaiRbYWL+oeme9M0JAbJOfQQWvZB6yidk8U5zNH2dx6XG/wmBRcAyhFinqT6CTzuK4G+N0eZu3nGVkCy+kZcLTiC1PZ79w0fWF3ao5e+2W4cjL6uGmxKRpmddnAnqPRzIDONp/TCYyb1n/2EtDpuGGWzNgk7iYLmoC4hP8AcH8zfIaaXxTHgkKdrop0YtF1",
+  "size": 9611179,
+  "released": "2026-11-27T08:59:59Z",
+  "notes": [
+    "#434 E5: komponentlər arası mesajların tipli xəritəsi (1-ci mərhələ)"
+  ],
+  "notes_signature": "KnUBRdByv/BvtSq0Fe/i8zBM+hVUHffYE/qbci/2j0LFAcOvWoKr0G5G37+YxHL8tElHYA4qhWjkFkJWr2hWdZiv9sA/IsYAZS9oSRzESiiC0h/woGV57v849tz1VGyJmePUfQ0BiKuGMheRSEaUsv1wMkFnR/YKryodoVsWxU8CFDfaWSUXpr12nC9uCCqremNVJgw+XdcdFfee6Ce+nuf+ern+RPK+o4T1f4SWMu6wo1aLSeYuqnrKBxj+4+t5j33cZfD/mRW+iferwEp9vH1E219eYpvLsLAW+Z15iRkvcZ4Db6LqY973Ve68v/oHG1VP7kRcsTXR1TpIXnmXXRnz7oH2LC9/y6HbhdIJvqI1xICwkd2fSAzsghyW2C23zW1gkajSJoCdpEx0N0gHHpF1hrFpFarVKwG2dEDTZIiCQGev6jDZX4Xjm6Ho7ijlMaHAXnWfF1scRcF3KgUKIBfT1fj/AGHgfADwu86tAph21uaAwsxNAeC+Wmx+4hgs"
+}
