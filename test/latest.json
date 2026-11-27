@@ -1,12 +1,15 @@
 {
-  "version": "0.9.47.208",
-  "file": "test/releases/pls-0.9.47.208.zip",
-  "sha256": "ef5c48d70cacd5c4696a744eb3b0999ec8c49e0288ec5a03fcc8c5e8599a3ed1",
-  "signature": "r5sTIIMTHUsAM7q4kF05AelUD6yFhjKnPOmnAKGOurwGrbsmo9/xzv2iQ3PosfI9qCDq83kNkzlaBNFJjwoseCRHXWDa0qFY8wGwGpmq+dk3vmGDiBptkuSr/Ya+WFfZ5dknwrizIys/tap+p52rV78b4wcYv1bCz/pkoUGUreub4xH/2wmfVxgyry4o/41qrEL1B/ulhSIEZoZL4wLSbiQlO5nf/SiGmUltbyQaNWXmaQD8IKsCxPhnnvxMOBfdMA26GsxIPCvPept2LQJqUK+9wXyg+eny7WK5vh1XclisrHcRaR7HBxg9AWu7zL+Q2CE+L4Qpk6g+GLznA2MeyNtskbkrTH8c0G3guriLLeKIBr5DzFzw45IQ7PDjTo6i1zLRE0KHr6yOvjGdGC01Z+5Y3L2aX52VXACwXEUHHpWB11sI3qJI/VNGZk5Vihp0BtXp2zUKDMPttnTVkivNQ6xEB8g8p2Hj87nr0/DxUzgZqYVvut98NWEcn5vIkg/+",
-  "size": 9661168,
-  "released": "2026-11-27T07:00:39Z",
+  "version": "0.9.47.209",
+  "file": "test/releases/pls-0.9.47.209.zip",
+  "sha256": "a3f3d35eca84a4e340d94b5c50a3990b8aa7fc080008a57bafa26c799e3597fb",
+  "signature": "AeySnFdMGnoZycYRDxrefYQPwmlcz1JxlV2aU3zZ/ipoPPY5/4agDJHrAl0/8jy5SKwSBU8eYeqb7hAYv8tzQB1OG9l9XzKz1+9vUZPp3TqaL83NDQ+C8u/VKbBXg2XM99zXLXOfiPftoWjW4AH+4n1Z4TwSgmJt22DW7gO10t94/wVOJsqkEPBw796L1yhRxoVX/kMRqGoy2AKqwi4Rw/AQp7ZXcp0D0ORGhDeGPRP92qqUZBz6+HZh7TUxB2epybxFzU1mdU74+qF/29nz9QgSSzuZGXNaiONbgdJTuCU1AMZOZUDSoC+Lx710y2wki1Of9OwYKdiIS0k6N79K8r5bUZjMwuHvYNm9/76BqXyiGgOElhtb8c/vE0X/DPX0aeM7puV6SIZEIUq8eEWYIx+Ishjg1x5d6NuKgsDskmxyCqH6iO6uLvY+xywC5IrU1Gx9HnSppIQeg0VEqvwcFeWtnNSXh4VSLKX1oDv8S50SupfMZvFPJWoYZXOXNzQa",
+  "size": 9662520,
+  "released": "2026-11-27T07:25:42Z",
   "notes": [
-    "#417 Yuvarlaqlaşdırma tək mənbədən: 45 yerli r2 → lib/ortaq/format (audit K3)"
+    "#418 ƏDV əvəzləşmə modeli üçün vahid testlər (audit K4)",
+    "#419 docs/00 yalnız son 2 həftə: köhnə bəndlər arxivə, nizam xəbərdarlığı (audit P1)",
+    "#420 Avto-birləşdirmə: ləğv edilmiş köməkçi yoxlama birləşməni dayandırmasın",
+    "#421 ƏDV DH › Hərəkət: Bu il, toplu seçim/yükləmə, yapışqan sütunlar, imzalı sənəd"
   ],
-  "notes_signature": "qQHUtsrOY346AQ0k8QLCjkI65aKeJlefq2pacZ++RQgDpzY4vVSe0/kJ0OUlJ45rt0KRIp4C3+45kZugkGBwkDLgR6JPpG9YqwNID2ztLbu4or4dFpTOCjV43rY1CyXlrFI9uZde8mbwAkWPPlbM5+ucAjCgVWyenj1EEEB1ZF8x8gE6KgBknX1/7/Qbct3vBpyz5j3NafrcAIPJXkl5ybIZ4pDhJYSXAM4Z6VNwVtkzn0SWtgf4g0mbifLoESJViUeafNciZ04/atjt3IugSevv++RLp1OR2WyJwigWOy/m/MII7n/tg2V8G1++b44lP/zn7xirW6uUooFoyBTnJZgXIbEa/Va1l05kNaEgFcGlRcFcmwxOwDdhK0EShOH0Qh6fAe1a2THTweSLladQdwXVgcpZjVob4Aw5Fm1PqMJiIoZ69xAdUzMsPwIvGYsCgK0bcoMqgOb+Q6ePixNR7xizSO1KpfkAKIDOHyVqSYdtGjMrv0XuvYmxXuldWZw9"
+  "notes_signature": "m589+Za5Pn9DTYJJ2W1IgjvFbmmdq5bs5s6Fp5pSi768aFLOgZ19TLyN3qMfOjfbIyv62VSFwVeToUr6Nm61Yl1caAY5tJ+x/G9uxwSg3GZ+3MP/CEZqYIA6QYlmOduLNfz6GTcCZ8uFFutkHyAlelDDjZ8kb6XXjKGF3lcsZHM5+LJN+yZLhJpKWXAehS9eomDPX0wa9tCf8iV5ywQbXcOuOXrbsv1RaHy+9QQbp21AYZmxqKdKQqRzv42Q56oNgUVEq7Zs/WLvskU0r/OBeuuqvWodZHuQWOPrE5a4sd2eMdGXbs8ffQMibIdYAhigwPCHRomFIwzLG88ndMM294vzooe2Ho/m89zdJLo6i5TNYWkC2J9ppGzpcuiI38n5M7TyYxzdMHLR0AKrzXL3KChJJC8c/pEsLAEHeJvmzrGfAuej4EgJa3IYGcML+AFkcGCrVGstELyg5ZwoPt0z4Wb63UaJ5Sca9LSVsDUq3f7bRyPy19xj32GgLoSGk/41"
 }
