@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.222",
+  "file": "test/releases/pls-0.9.47.222.zip",
+  "sha256": "25fdb9e7c09efa7ee77232211886a60ee118f4690f3108336007abe38cf8ce91",
+  "signature": "vcGGkp/LNXxPBPopThD6eYde5qxj5ZHGKxaMItwx3rr0RDWdqgeXpSmBe8M3mHpUrFzISJCFzoLuQmsx+iVi3mLb6TLmO/R+Tvik5r7Ltwk/Azb0Qw1ietF+CUXQay0SB/QLWnIm3GRV90cHs6etpjm7prS51sAiEye438wTBeHlvsRgDIpdYukoOQsvJO7TMiLhXfC8kxcUNIV8WjP2QUuRsHmKd8F9pTSOUMO2FbO2xVVHu/YxDyRBH884i7k6tQQQk4Sq+SL5g/sc6MExe3GRwPUrPgUkxV2YRh0VYnt6ugM/37lRB7kdZuk6LJ/30aVXL/mZoHv5ZGlG2rkcREGWfK3bWteqJamv6Gs0oZX7tReRtRwG/L2yYqACjUONJqf10mpBB1JHOg9otnu79klzQCfDQVIvVeppS8onUUUGpBGrqF24BxIObBcDJMKJwW7ZV2n4x2VecvU3oXHwhsJWZZfiTNmq43yN6GKgqPOfi18V+PFrhK8KzjqCVzSQ",
+  "size": 9620153,
+  "released": "2026-11-27T09:37:18Z",
+  "notes": [
+    "#436 Administrator › Nəzarət: portal quruluşu, hesablama fərqləri və proqram xətaları bir bölmədə (1-ci mərhələ)"
+  ],
+  "notes_signature": "EUlAQk+APHGl4eZ2yRB8bAaY+qWMPVfdB5uRov0gFTNmcvLyHKdLkAKGeVXXsAeU9RM/5apo37KHktnmsqDAECxk/FuyxssHwMl4/v+viebnkKOCmDk+6nAz/lb4GAUVE6LtRVnHMTVqwCYFytXdX0tVoknZ0auKS9QJ/ZvLkUpH/K03ebm9NEn/CfS+qJRXjrhPM+sjL2fDKYFjO979KZEUoieeIjisqlHRbnI9SgOd95gDpYVQKFqj835K4gMa7aeewEjyUji0NA5qno92XDuMNRp7Cjrs3dexgR0sW1NGZ07mEiTBPCx74xplKAZYCCkPTk/o0Df6kvOKYtH+wqhdXtYmFbMK1MehhFWmodUDmSxj4L6Sihq50EBv6f608pJNW2JR4lLnax752HoAz0reqLD8bFzsLPu9L1fKha+aiMK+lZpf+fSITgELojBxN+LlzuU5smGFnJBz1MzV0rffvLKtlpfhuh/QwWnXTh9GoaZVOcSoJKr68CzVBAcH"
+}
