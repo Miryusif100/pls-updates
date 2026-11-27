@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.213",
-  "file": "test/releases/pls-0.9.47.213.zip",
-  "sha256": "1908b3d75c1ce535672554dc0e7c9939589d22160bd17a17f43e42991466904b",
-  "signature": "LRNWbmJep5a/NceSh2pNbumGWDniaapjVLvnWlgoH9RI39yyHQSgW1PwNJ800sN6t3/9cc/CoQUDPF+HOGx075fA+/DiLrfVtjWbJlBXqVOh65J9U2+CcsavcVtl+DYVvHOjHeMBbxQmBEydF0/rnnibY322R4NLKJGwpgCzB590MHEI7PQEM/upMC6sOUU3kzrFvR57Ljd7glDqb7HFlkiNAU3p7Tl1UGNIukQGnpqgiuXBE+oDo7dU4rLYqa/DezOk/N7SNV2RJZBJKjaboXJaL7pJAXOOTthxl0xJTUucIOnLMV7oxY/qfSiB/bVaZDenUylccRAAKtESjeYu2lFSIgael/ZYYP+C1F9KRXlrVYc/cdyCX0vlPNXCerrfV5dVRyrHYqSEhJGJTU01PL4vgP6u0rvKFVgdIfj1sRO2f8ApmYgWc/QsSI9bIYXdEz2F5bsp+sncwIKQbEhuV47tLTOXd4/0xusnquDkVI94YfUfPcqdycJ5SKbK2eyM",
+  "version": "0.9.47.214",
+  "file": "test/releases/pls-0.9.47.214.zip",
+  "sha256": "d0d1f9d20b12f5f89d2b939f4de9618b91f0684f696d6804dc54383c84536734",
+  "signature": "FJtk4QoCWM9O7ZPFE73R37jNQJZdNo4vU3skGgmCGehdzSc4tiiD3RkwvaBwnejtQCftI1IaCDFFfh9OpBaEbug/ZRTQ2Tq97ox9XNMYs5mBTQSPkIaQ9A7koatwlrr7hvz+rpKNHwf0l/fIv5SiLxb9NORyz8fpSAYtq4+tjsM7z36S4GD2g0B0bN1MvxUUzGjA4kxWMKaOS8nEuTsTg/QZIyELA/ijOnsSFJYlML/oFMtgkSJbtbLsA+0qcaaFkl2MrizsHtS1vxsUJqlB7PB/4YbDC6JvxZ/IOHXra8dmZTcBQIhGh+muh51h+Vm2v446EU+krTVYTgnkbAtnrtAurvDdC7GqvCM09PiDqbM/O1B/wzkaDYAuhQOsUjclbMoBRDcTWoXyXPVSApgKo5lbn81kK9Jz+k8CXfpde+k/3PDJLyzJRdkYaCM4Bw8DFnIJN28wUDIa15GXRc088TPhJpL8wSgqvdzLmHvFSB/Rk9RcZDcPZQhlvR/0aGjT",
   "size": 9661679,
-  "released": "2026-11-27T07:58:40Z",
+  "released": "2026-11-27T08:03:12Z",
   "notes": [
-    "#427 Audit E2, E7, K5, K6, S2: təkrar cəhd, vaxt həddi, yaddaş açarları, körpü limiti, «Diqqət» sürəti"
+    "#428 E4: oxlint (yalnız yeni tapıntı bloklanır) və ruff — CI linteri"
   ],
-  "notes_signature": "g1gPIidej8R4XseO+rTX+onq/VA0m5VFuq5CB2Qzrfx9VXRhHWDayTYSFlPiyqH88RJJRogFzwyBkeOdO8X1w86pY4BrJy0pG+2zpXIXIX512eSw1xNrLWIs2bPjwD/Sc7Tg5TZ2RD3gAX9UZCdYjQE9QffHbkvXsDqe4PUzOgOtCI5Vx6okQu6vQfD01tRfcvoKNZ5v+t9MCFGpVn38twVXA8GkxPHwwP65ecPYswa3gZ+IkZpoaSF82XvdJm2JkeXF+lw5DaNEdL4E4uwjT5WkaLDqNMmymT5boplkj3O+3jeQBrWVWSY6uIkGYLwy7+korhfGfo4JtD+4Dq1VSWkD7nRdjlqBKXcSapYsVcMd8Y/8+vjJD4NmWAKaL0LIoW25EBUfLtD5klV6ZWc/SrWiDup6e3Fd0S0pEqj2QW6tKXi/Jy/aN6TyKEN6LAMIH2AYmTHxtZdb8bztcGk6jBecEk8cPTnqMNO6p6z8GwhA9GFWeZN0RwRAUR7jl2Kx"
+  "notes_signature": "I/r/cH1DZTts9NEARoIJJOZSddaCZxjWwxN5Cg4XpR9+wloA8bO6NcNUNqNHUC7lVYd4ixWaCNwpgzl/NTycPn/EUzWpYOHUsHlEEYrWcOq6kzZjIkArBYtoEXONA+/LyothQR2xIBEV6uiP01FEf3PpfB3rotgezPn5g+q/0s+1nDN6PbAqreozFRqJCghTPjf2K6qpbVwsEcpgwBMVHpiIA1gnsNQoTiAKyXgx0z+P0tNEZFvKtKvQ/PtbnYBmqo8a6SKNyCJQ2cNcKl2yh9QvS8ac4kb61Nm+GIKYr7gJvQwBI3M6vARvAjgpPucUgzsRWh5P/K6/CLZSfLx+FZBbQCIlzb3GVfWgh8F63TTYJP98qpQeWvOGKQJcjHwcCz4rbz8JVGvs2UDWH7YMasDwS97rwIyaczo/s5fyQeeR5rngfefgRraCVt4gRTckLqgrpcatLx8cuxrHk80V6fMOo86y/1HIrfMuC7Nl+Tp4iQBoMbQTMknVmR6gbEQn"
 }
