@@ -1,12 +1,12 @@
 {
-  "version": "0.9.47.212",
-  "file": "test/releases/pls-0.9.47.212.zip",
-  "sha256": "42c68559398ea6b777102657d191643a12d93b0aa8a21408e9d140ff57c6dc89",
-  "signature": "RjXtjWCJO49tLn/95znbOrAh0QxdEa0BhNW2pWEq0JAyOUKFblYoR/7KKoIqBw64iRR8/MpQftwzq+wR7B3q8odvz55cx3IPODuKu0ryNqcKK5bMIkZFIKOmH82g9PGWFLvTA7gs5JqZ6mksU8X0S24Tqyu/8oHpKHcd8kW0QuN6n37Igp4BLlVTqBAMWKteCIZDFXMpbN1FkqEuFKS+y7lItMsO69O2DlZZbucU5xfzU57s56SLtVdS8rvkBRH0k3SWXSBRE2bCPMk6Y4Q8DhKM5ZRjsSsf6LyhZOPe4cz/RPApfNgLX9HjmlbM7hk1KAv4r5+m8pqKDrVsALialIipXeQlDmq+tdXL56fx7y55Ip9UpnCZszehNYyRD0yajAJxk5H0+Y9oZ9DRku+cgD9YUNke35NWmQ9dey90Q4R15T+1z2ZY0yMMgIA0jJahv/hAfuhIKZHD9PbCFmWathrxbauQ3hoXWaS4dmS2fDNEMr8eaXE9hVbAgxyNV6tt",
-  "size": 9660957,
-  "released": "2026-11-27T07:52:10Z",
+  "version": "0.9.47.213",
+  "file": "test/releases/pls-0.9.47.213.zip",
+  "sha256": "1908b3d75c1ce535672554dc0e7c9939589d22160bd17a17f43e42991466904b",
+  "signature": "LRNWbmJep5a/NceSh2pNbumGWDniaapjVLvnWlgoH9RI39yyHQSgW1PwNJ800sN6t3/9cc/CoQUDPF+HOGx075fA+/DiLrfVtjWbJlBXqVOh65J9U2+CcsavcVtl+DYVvHOjHeMBbxQmBEydF0/rnnibY322R4NLKJGwpgCzB590MHEI7PQEM/upMC6sOUU3kzrFvR57Ljd7glDqb7HFlkiNAU3p7Tl1UGNIukQGnpqgiuXBE+oDo7dU4rLYqa/DezOk/N7SNV2RJZBJKjaboXJaL7pJAXOOTthxl0xJTUucIOnLMV7oxY/qfSiB/bVaZDenUylccRAAKtESjeYu2lFSIgael/ZYYP+C1F9KRXlrVYc/cdyCX0vlPNXCerrfV5dVRyrHYqSEhJGJTU01PL4vgP6u0rvKFVgdIfj1sRO2f8ApmYgWc/QsSI9bIYXdEz2F5bsp+sncwIKQbEhuV47tLTOXd4/0xusnquDkVI94YfUfPcqdycJ5SKbK2eyM",
+  "size": 9661679,
+  "released": "2026-11-27T07:58:40Z",
   "notes": [
-    "#426 ƏDV DH › Hərəkət: səhifə üzrə seçim, 500 sətir, fayl adları; Rəsmi çıxarış yalnız e-taxes faylı"
+    "#427 Audit E2, E7, K5, K6, S2: təkrar cəhd, vaxt həddi, yaddaş açarları, körpü limiti, «Diqqət» sürəti"
   ],
-  "notes_signature": "xEsipQR+2w4uIoePJYnS7+ro0xP2c3L4TXrWaiaLXnrRJ2aBMs6MXiCpbOBxD/5OZj1BHzpUWCK5usp4uU/pGfuY0/kymWr5LHsMZrgqYjTBJhYTUIYXJ740weDyHPg93zFyS/aQn3pQRiLCQ01S2w4zk//BCBJFKwJdhBGYvyEK2ntj+vTAOLf4jYESwX3NUVW0bFuZ73L8pd3RBQZVRtMgwPFg1E7UHkCJB3CfG0KYJa/POOXRFlfq4pIBXpWziWBTOkBY3oFX/87UJXODlNsAPihktIC/AOxuDMJPiVP6DSfXH2z5lGiZxNClUH887maIJmnbpwLxvhrMEpxsR5uIpv4r+9B/sZ4n7H42BKthsrBME1m9SkKPqglqBaUim5LKRmCP0Cx7wWatEAeaLq6n268q0IRfTEY5jkJUI8PhBhlnFk83ul/XE9VWbZ3lIGyfnlkG4s7xXW97pJEMlmFGhWJFJrc0MK0xNBsiHCQWBoe+rl/d1TLaAgBmH0Ai"
+  "notes_signature": "g1gPIidej8R4XseO+rTX+onq/VA0m5VFuq5CB2Qzrfx9VXRhHWDayTYSFlPiyqH88RJJRogFzwyBkeOdO8X1w86pY4BrJy0pG+2zpXIXIX512eSw1xNrLWIs2bPjwD/Sc7Tg5TZ2RD3gAX9UZCdYjQE9QffHbkvXsDqe4PUzOgOtCI5Vx6okQu6vQfD01tRfcvoKNZ5v+t9MCFGpVn38twVXA8GkxPHwwP65ecPYswa3gZ+IkZpoaSF82XvdJm2JkeXF+lw5DaNEdL4E4uwjT5WkaLDqNMmymT5boplkj3O+3jeQBrWVWSY6uIkGYLwy7+korhfGfo4JtD+4Dq1VSWkD7nRdjlqBKXcSapYsVcMd8Y/8+vjJD4NmWAKaL0LIoW25EBUfLtD5klV6ZWc/SrWiDup6e3Fd0S0pEqj2QW6tKXi/Jy/aN6TyKEN6LAMIH2AYmTHxtZdb8bztcGk6jBecEk8cPTnqMNO6p6z8GwhA9GFWeZN0RwRAUR7jl2Kx"
 }
