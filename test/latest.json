@@ -1,14 +1,13 @@
 {
-  "version": "0.9.47.203",
-  "file": "test/releases/pls-0.9.47.203.zip",
-  "sha256": "057c09444f9d21dc7631188b98ad4d46a946e484f1a20c143d06eacd3c32016d",
-  "signature": "GRmRpqZBfSTYdqYL83zXTp98GeolXgTTgvMkpEfkB8UpJper0tNsQKSMGTBO4YEOaceRQ3P6xG6mDpt2oWjkPlCfluYFbpnOOa9ajBGGXwwCNbL9zJiLVaWgMELpf3cR4qFPemoSsfOypvJOPJqTv5I8AYAhYfBoCkV45HiF0W/4VID1u/skV8Ioz7A1J3gnvKTNZL9lCFtYGgcUxtI8c1sle6dWLD/vQBd4MwP55wTBFUUC/B5zvhLStX2AplVa345AeCoM+mwaD6DsxEKItItQLEfsDnOup3uP/lX5BwkmRKptrlmk4aTrXx20T07ykCuSoijoelShf8MNxgnU1Vts6eedV6r/+hbmBiZ6JMuWU6CC+HA22RAyY+jgA7rerrxMrDyXUMtsHTDtIRQYvmIXJE22cM2vLzwbqOsUhvSNbnWdVWuICgmU6woP2r44z/1XqOJLF2EDOgaxSYg1aZV6ijE+xyjnsSVVZGobWgFezFA26bBjmkXBtGn45XuD",
+  "version": "0.9.47.204",
+  "file": "test/releases/pls-0.9.47.204.zip",
+  "sha256": "f4a28f9f13a24f7d902b495f6a342413289d49b2450426ebb02f851e1297bfce",
+  "signature": "i7tTiJYQx0P7zzIuSA8VsId+kuiYRkz6gWblCcyIj6CJFmleNG2hPCeeN1pLGxRmVNlGtCILUUuVZpzcCLVk4ObhveKCbzzQgAH5LdoJlWxcdV9baWaez0byHu+m/2gI6MPD0CxjSSm/jiO6T/3EvrejHr0aVrzlapn2tHRTnZLS+H7S9UbPjaoR3ViVT+JHEAfss37z+xGwMqT+FpPI5pn4613+PaFcomsB8O7Gh49QYfxP6+DMAwoZZrQJeEh/x75UEH/BiYKuc9jj10UVexJRaU3xzcDqE0f+l+dPYLm5cEmfhuJYMxaacQZ29iVd/fgoSESSvZZLC1IVRPtesaZAF+5tqJ19N4n4tJesTKVQ+RI0oNIeIpVKd7qV4T2lURUNb4I53vLXixU6wTMVY0gfzbdUkcZGTGWPM3wfTaMykbZrSJQfUURnQHO4qJG7y9ZWHYTuc7r+wpf0U5KlEc08nBRN/TuQPkP5YW6La8v0fHE7Lntmf/lP8MPf5d7E",
   "size": 9655263,
-  "released": "2026-11-27T05:37:38Z",
+  "released": "2026-11-27T05:39:20Z",
   "notes": [
-    "#408 Mərhələ 4: bərpa sınağı, ƏMAS məxfilik çərçivəsi, qanun izləyicisi, dizayn sistemi",
-    "#401 CI: Windows testləri hər işin öz qovluğunda (paralel runner toqquşması)",
-    "#407 Xəta jurnalı serverdə (interfeys xətaları, şəxsi məlumatsız)"
+    "#405 Vizual müqayisə testi (əvvəl ↔ sonra, «vizual» etiketi)",
+    "#406 PR-a ikinci kod rəyi (Claude, «rey» etiketi)"
   ],
-  "notes_signature": "xb51D5QLMTFDKp+W3H3Swgc0NwHNh1x8cpJo+4QJaSutYcVO/q01mOxTJw0wsyuJOe1PToq8fmdpAujiel1+8Mn7G5Dr6lbSpbAjph7po75/hlzfKFPELYt2V+tR1+ftxXGnykHCyw86T1pMoU4sEQgrOu26AiksBsN9Rmuw2V+xq+8waQCFmQ7yELKF8mnfbggxXldycslSop/C2I8HDoSB8ckePaii43tj950lAxdPr+g+dmBP2W0vumxc91vXWe7ZEPZ3U+CoBM957aFpgJTD8lDm+xA+V76tjLEHhyAANd366U/M61JANSrfQjw+wYgs0niD64eEmTJWCMG4pQbGCkMO4QEfoLA0UcZaaVGy46eOjOe00MDt4DnapFyANRVFb+Bxd/zowUbsJFmByoijRG30zDwFXYsDRdztZQbo6EWv4CQyKMjdfKvo5X7xlcAntB7T/P36VCc3nn3J0PFnOGHsztk91i8KDtui/j0jPgYKC60jpXaRRIB2xr5N"
+  "notes_signature": "sOIIF3oBOl6/Jvhib/EDGgMn21Ms/NfcHS+XOreSLhCNmOOtb587JgoRwrlnzBSnjbUoeTvDebFGNHIs7v9hYg/GG6IWq3U66xg+rbo3XPCY0r4ZWFDIdpEbpx++bmMkwqzmhEQ9Jvb3bA798XFY4y7xZaSTnK3zMX1FRaqeXJm1YjoIVW3l03E6MB3foVR2jdT6oPcT/Y5bDKd6fFykrf3y+EkQj61NK/iV/ORh3qiu6D6E1okvfr+Nc5CpvNMIzH+beLvyUK6mU5TH5fA3NhF2Ind28hDISNJqDJJi9o2/RQuj8zt+G6i97uW8PBoGDvrAopngzvf/VCU2RQ2ompMMk6FJUOivgly+ob2BK8378R+F9Oq//srpWqfdcxF4/Y4BLm6QO0YXB8O1L0k1kix8vr3xD+guu8kuBuqvt7RvOWylhThZA4aitSfOCPI7cGxgjbnhayaNYMrgL1/5lT0xsJxd2r8cLYNKtruoI3QjcAMe0xe/w0YaTpmnj4Cz"
 }

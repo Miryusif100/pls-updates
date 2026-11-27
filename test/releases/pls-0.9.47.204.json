@@ -1,0 +1,13 @@
+{
+  "version": "0.9.47.204",
+  "file": "test/releases/pls-0.9.47.204.zip",
+  "sha256": "f4a28f9f13a24f7d902b495f6a342413289d49b2450426ebb02f851e1297bfce",
+  "signature": "i7tTiJYQx0P7zzIuSA8VsId+kuiYRkz6gWblCcyIj6CJFmleNG2hPCeeN1pLGxRmVNlGtCILUUuVZpzcCLVk4ObhveKCbzzQgAH5LdoJlWxcdV9baWaez0byHu+m/2gI6MPD0CxjSSm/jiO6T/3EvrejHr0aVrzlapn2tHRTnZLS+H7S9UbPjaoR3ViVT+JHEAfss37z+xGwMqT+FpPI5pn4613+PaFcomsB8O7Gh49QYfxP6+DMAwoZZrQJeEh/x75UEH/BiYKuc9jj10UVexJRaU3xzcDqE0f+l+dPYLm5cEmfhuJYMxaacQZ29iVd/fgoSESSvZZLC1IVRPtesaZAF+5tqJ19N4n4tJesTKVQ+RI0oNIeIpVKd7qV4T2lURUNb4I53vLXixU6wTMVY0gfzbdUkcZGTGWPM3wfTaMykbZrSJQfUURnQHO4qJG7y9ZWHYTuc7r+wpf0U5KlEc08nBRN/TuQPkP5YW6La8v0fHE7Lntmf/lP8MPf5d7E",
+  "size": 9655263,
+  "released": "2026-11-27T05:39:20Z",
+  "notes": [
+    "#405 Vizual müqayisə testi (əvvəl ↔ sonra, «vizual» etiketi)",
+    "#406 PR-a ikinci kod rəyi (Claude, «rey» etiketi)"
+  ],
+  "notes_signature": "sOIIF3oBOl6/Jvhib/EDGgMn21Ms/NfcHS+XOreSLhCNmOOtb587JgoRwrlnzBSnjbUoeTvDebFGNHIs7v9hYg/GG6IWq3U66xg+rbo3XPCY0r4ZWFDIdpEbpx++bmMkwqzmhEQ9Jvb3bA798XFY4y7xZaSTnK3zMX1FRaqeXJm1YjoIVW3l03E6MB3foVR2jdT6oPcT/Y5bDKd6fFykrf3y+EkQj61NK/iV/ORh3qiu6D6E1okvfr+Nc5CpvNMIzH+beLvyUK6mU5TH5fA3NhF2Ind28hDISNJqDJJi9o2/RQuj8zt+G6i97uW8PBoGDvrAopngzvf/VCU2RQ2ompMMk6FJUOivgly+ob2BK8378R+F9Oq//srpWqfdcxF4/Y4BLm6QO0YXB8O1L0k1kix8vr3xD+guu8kuBuqvt7RvOWylhThZA4aitSfOCPI7cGxgjbnhayaNYMrgL1/5lT0xsJxd2r8cLYNKtruoI3QjcAMe0xe/w0YaTpmnj4Cz"
+}
