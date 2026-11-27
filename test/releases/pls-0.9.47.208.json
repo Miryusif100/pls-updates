@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.208",
+  "file": "test/releases/pls-0.9.47.208.zip",
+  "sha256": "ef5c48d70cacd5c4696a744eb3b0999ec8c49e0288ec5a03fcc8c5e8599a3ed1",
+  "signature": "r5sTIIMTHUsAM7q4kF05AelUD6yFhjKnPOmnAKGOurwGrbsmo9/xzv2iQ3PosfI9qCDq83kNkzlaBNFJjwoseCRHXWDa0qFY8wGwGpmq+dk3vmGDiBptkuSr/Ya+WFfZ5dknwrizIys/tap+p52rV78b4wcYv1bCz/pkoUGUreub4xH/2wmfVxgyry4o/41qrEL1B/ulhSIEZoZL4wLSbiQlO5nf/SiGmUltbyQaNWXmaQD8IKsCxPhnnvxMOBfdMA26GsxIPCvPept2LQJqUK+9wXyg+eny7WK5vh1XclisrHcRaR7HBxg9AWu7zL+Q2CE+L4Qpk6g+GLznA2MeyNtskbkrTH8c0G3guriLLeKIBr5DzFzw45IQ7PDjTo6i1zLRE0KHr6yOvjGdGC01Z+5Y3L2aX52VXACwXEUHHpWB11sI3qJI/VNGZk5Vihp0BtXp2zUKDMPttnTVkivNQ6xEB8g8p2Hj87nr0/DxUzgZqYVvut98NWEcn5vIkg/+",
+  "size": 9661168,
+  "released": "2026-11-27T07:00:39Z",
+  "notes": [
+    "#417 Yuvarlaqlaşdırma tək mənbədən: 45 yerli r2 → lib/ortaq/format (audit K3)"
+  ],
+  "notes_signature": "qQHUtsrOY346AQ0k8QLCjkI65aKeJlefq2pacZ++RQgDpzY4vVSe0/kJ0OUlJ45rt0KRIp4C3+45kZugkGBwkDLgR6JPpG9YqwNID2ztLbu4or4dFpTOCjV43rY1CyXlrFI9uZde8mbwAkWPPlbM5+ucAjCgVWyenj1EEEB1ZF8x8gE6KgBknX1/7/Qbct3vBpyz5j3NafrcAIPJXkl5ybIZ4pDhJYSXAM4Z6VNwVtkzn0SWtgf4g0mbifLoESJViUeafNciZ04/atjt3IugSevv++RLp1OR2WyJwigWOy/m/MII7n/tg2V8G1++b44lP/zn7xirW6uUooFoyBTnJZgXIbEa/Va1l05kNaEgFcGlRcFcmwxOwDdhK0EShOH0Qh6fAe1a2THTweSLladQdwXVgcpZjVob4Aw5Fm1PqMJiIoZ69xAdUzMsPwIvGYsCgK0bcoMqgOb+Q6ePixNR7xizSO1KpfkAKIDOHyVqSYdtGjMrv0XuvYmxXuldWZw9"
+}
