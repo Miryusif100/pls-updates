@@ -1,0 +1,12 @@
+{
+  "version": "0.9.47.211",
+  "file": "test/releases/pls-0.9.47.211.zip",
+  "sha256": "711ba8ac8f37b0ff005c4e658244ce67e3ab27f86c8ee26de20a14b16b08e61d",
+  "signature": "VBQPNhOTZd9GebGV+s+pAtjwPe7QjeLdsx8aJZENJfhMIKA/oPwjf/CDFqzhDJFDbwpJXdYzx2w0yiC0vhO7WIzJyMu4riBg08t6gNYTz2hYXIuDQOrErALvW8ajWDjkyCuQ/VlB+wXcQvF6up7Xpq9iYpp9TLFNv/6575TJKSqj5rUAj3nqjF1niE8BL/ZaHKgtrzO9kQojxVW93yQJs4QnChIeuM19xaLCoZLnFiDYJ1mydkIuezUrs51/KchniGF316eHFPXrN80z1vP/KQOwfAgRL7d5Zvo5MW62UXnPWQHisuqR0ElWw5qlDSW4FZIu06sWkkpGnc9BWDmgaGOGzEpFw3Jv2zDlfPjfJ8IJ/k2aCsIkJDvueu4H0IC9Sutu5l5ksomRzuGOmF1ib2OT7QNKrx0Kl+KLWYjYTshtwk11wYgBLPe809SdMmSdXlJ4rgnkcr2FGYVI0V02XjkRx5CeWsk5RR7VpTHAoGGNW2kDQ+bZmyb0v7uaxv1o",
+  "size": 9663384,
+  "released": "2026-11-27T07:48:26Z",
+  "notes": [
+    "#425 ƏDV DH › İcmal: sürətli açılış və tam yükləmə ekranı"
+  ],
+  "notes_signature": "adgWnJPj+MMlijuUMAlPCsJ1Zpq1Q/t8uesjdHkWblkcnUmvBYemFt2xyoohKoVQ/IFVXzJgBjHiWpjeB+qEJDyODZcG8YR+IS2aOV1H9BwmzaOXqjW6FmSVtiMfd0vDvVL//r9/4WVtDeQPrfGw/8EKlsI+yy0++2CR2or5vtUC2Iw+igg2K/N7EGgbhkzb/uyB4+nGq6mhz7XEgegBkZv9aA/ffDTyCwQ5T8i/gNLcgYDYd5kAQsrvSIP3rMohzyja0yw6jR6b9G1O7BDQwONw+jXR4lC/L/9NKdGGA5Vqgz+DhYGUMoW8K2d98GTLhLHir6hghG4Tr6nds2LxIZgtpI03L969nJc99i4VG5M6/bstiYQcN6n7mv6n4EsH8dxEYl5t/wEdeH7AuREJOL8QK/Kkbrxdf0Ky6owP+BtrlGA8hqB5p28SpGtnviMClt4DVZZju6OWQH3oL9ISaW6wYz93IQvkKGdGm6amdRzC4+DdT1/LmE04ct5SpFfn"
+}
