@@ -1,12 +1,14 @@
 {
-  "version": "0.9.47.206",
-  "file": "test/releases/pls-0.9.47.206.zip",
-  "sha256": "60283e146a311f8aede7da4b42b2e489c4f228c79229f6a9b1babee43a073e52",
-  "signature": "J61uj8b93FucHu9RT5W/mEUnIEwE6o4ESGg8fnPrQQIoGj9XQUO90GgN6BEaElR4ji7r8GVaDj604rrsmyTVVqkgKjvgadvAvDqnvCRcgNLfthJ5oR4vbaIoS3fb4z3YtJvQA1+7JzdFpSdyuUIrsuQTw1YLmTpYZzVhbRacEi231/jR6ddmmvmU2NKrjNzyhnCAARPu6WSXDsRWqV28HkWcuDCO9B7aFe2aw48CWpWbe840N9z7Hxuzei0lGiOB3Q3AQI72pbaf+7GdOUF0ADDq4yrcU4HecEXCgxpLMl3bLcp3AlrAk1P0dGKI/gHk8OVmYOO88qI1QJUFFYCnQGjyiiKnHW7UnHyCZ6mAeOqI912Sz1Yh/KB3X1YmVO1PgG3DS86QI1vN0EcYwJ1Mjln3KPBFQKjkNJAMA3/B4NG34L8+gXSt+oXI9ZBVUVJXz/qMLw4SsB10aNewMENkcSQdaYW8w6zSsi4pLYV5qNoIYu5p/2PkAxPtXKkl8jMK",
-  "size": 9660881,
-  "released": "2026-11-27T06:42:05Z",
+  "version": "0.9.47.207",
+  "file": "test/releases/pls-0.9.47.207.zip",
+  "sha256": "c6da3682ea83ce5392035d543a89f24d59c1a1427937f07c8378fe806db83bc0",
+  "signature": "RBBa9iauK76s/a9AAAa9Slr6Tj19RBUunWiWodULLlZ+C2FwCnHBiTkBdhZU0Dx98+CR8KrdnPva39xkNsIp7fITfcqZGS1DFjx6BP7A3Seo8nm2PCqTWqBu42wJjzCCDl9Q1hEpsQOM7t6drIvoWQBJpqB6FRu6s/WNUyALC1upNOcUDKj3E0YdjlNFo4OCHqMhYOgRslI5nyNaLs9nZmhC/BqGdph+hRImKp/0OZWyBcKmWECNxjF2JJ3apnnvsVeQf13/0v/V4nauXks1a2Q7NqP9gosGHcgOT5mh5l7cpgB7Z3Cp9RhYMfYcKT0unI9c8Owk2otpdXLNIAWDP9VZJ+jIubUq/vFIyMDRsblxczLVBIb4O0Exgc5D4FUlPBXxy0zNZjZx8iUYt65Mzs/ZZnYhnh56K2LFlL1jMTn0QWcnHc5pkGcbziI5+5fvtCjVyaFS5H1Ktuxj+jLg5RXIH+XpaEN28SebaCWmDViRKXf4W8ZL71Ij/G1DG+ta",
+  "size": 9661604,
+  "released": "2026-11-27T06:52:49Z",
   "notes": [
-    "#413 Hesablama yoxlayıcısı: Sadələşdirilmiş, Mənfəət, Gəlir vergisi düsturları + qaimə səhifələməsinin itkisi"
+    "#414 ƏDV DH › Rəsmi çıxarış: portalın rəsmi faylına uyğunlaşdırma + «e-taxes rəsmi faylı»",
+    "#415 CI: yoxlanmamış birləşməni dayandır, ehtiyat işini izolyasiya et, Q-168 xəbərdarlığı (audit K1, K2, P2)",
+    "#416 Qərarlar: ikinci Q-178 → Q-202, nizam təkrar nömrəni tutur (audit P3)"
   ],
-  "notes_signature": "CF2GLxNGpbzNe+oroXtL9EpZC2U6VXQBa0k8hVdpezV13ZnLQRAVerM9spH3ossgWeCwzf6t/Nml4TyUpYBG5CTnD5gNIbhMQVmQQ3Xln0N/5h+X9SLAQJFMrBDFymHWRr/EEcbSC5jq3p02dWglpiXUfBgEup/kyixkvQ2H0WSxQGxNnGsUo9XVUuBQWx8BVw6IshI+xiVtjJQmnqCy00szMqFsH5Wpya2vjl37SId7BqXbgUFgTBytPgAP6KhwRYmkSmutFN4N2fDsryK+bARQLo4nGe7fylwbVGX8VK8v8ywRAws+XOeUivc0EcxRcYAKKdvghS3L47SI6B8qttM3ysmA0EIUAoipLYpQM3r9+f++Y0WgwVvv5kum5kAvpzrnqjBBoq4kR4SKiVsa1EvzN2MiZ9kZRo3hF99NIzkpuzi2DkdzQy9fOhL1QuN9CqF388tfLCDPly7yHpczCIlQ+glTDT36KrMU7jxRvFv7jQpZoyI/nXZazD/C7SEY"
+  "notes_signature": "Q2xLlZogQsjeqVT0PJ+7VtxCGDGE8Nhw+5ooKDPGkBpuTUm8n8i7sb9sQ4ujZNyDMnXF5ml6m3naFXYuhNeoInvYlfylLP5uhZhjeFtotkUF9vo/fe9HhSfWZGzl64mcx3fBXOMqEk03i8Yx1Go0IKlYGBASuSMBKCrNU0MygOx+XE85ZjGMWChHUfYD+s6LJ5cBGoeektsldgJBymXyZG3ZzRuUq3IrgDFQZqOofGstjBOzQSRIvScUhG0Wu88IrmaWd3SafIrJ6bz/O11JE+XII1WvEhYb8GhSkUi1agl+TQE1wftRuDLLsa+zHQeB8yWxxigVhTwDAMQ7PXGe4CJ/qDHMrdFmqnSZeR+6EtRzIkjvAO000DE5bA93rL65YT0twkBQ1qFrO0Y2J7PL3mBUALU4FmiDI3sTW52gUa/T8r86CheWzzCqkccfjwFM9xOGxmPcnI6hdX0Xtkm4V3bz9zbJJWJHGRij4HSts6bsuSNqzpWT388KTLqHJCz1"
 }
